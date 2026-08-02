@@ -1,7 +1,175 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-02T20:57:54.344Z",
+  "generatedAt": "2026-08-02T22:57:46.500Z",
   "items": [
+    {
+      "id": "f569f1ee57c53aff672ac5ff1901d4bd86c79747",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI poster wins Ohio State Fair contest",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+      "publishedAt": "2026-08-02T22:43:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a28f02ef9d6a3484afd3d8012230e11d021724b9",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Negative social ties as risks for faster aging, inflammation, and multimorbidity",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933095",
+      "publishedAt": "2026-08-02T22:43:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6e22cff5b1d2f02fb992392c683061a5c1160f22",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d",
+      "publishedAt": "2026-08-02T22:36:31.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ccd6bb63cf709a1b835809cc98e0214f9499ad2f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Reviewing the Arch User Repository with AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://cretezy.com/2026/aur-ai-security",
+      "publishedAt": "2026-08-02T22:35:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cf70ae5c1afd5e983c86d0fafac88f87f7968b2c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "30% of certificate credentials reported on LinkedIn are now AI-related",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it",
+      "publishedAt": "2026-08-02T22:33:44.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ea2c04c70bbe955b2b6ad43698e05527adfef7c5",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "NASA Lessons Learned System",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://llis.nasa.gov",
+      "publishedAt": "2026-08-02T22:18:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cee81a1b7f388f48927e1fdd866dc0897dbd5fc8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Tlbic: Expanded appendix on AI dialogue, plus a note on shared human wisdom",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link",
+      "publishedAt": "2026-08-02T21:54:50.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "5c35b41d5f2ccc175730c193493dcc02ecf2574b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "What Is the Smallest (AI) Platform That Could Possibly Work?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://buildtounderstand.org/explorations/what-is-the-smallest-ai-platform-that-could-possibly-work",
+      "publishedAt": "2026-08-02T21:53:55.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "0e15b7d82fdce5cac6d7a26a48d37ee76b54d2c6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Alfa. Killing AI hallucinations with resonance",
+      "zhTitle": null,
+      "summary": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understanding between artificial intelligence and a human.",
+      "zhSummary": null,
+      "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
+      "publishedAt": "2026-08-02T21:51:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "351c0346c9b5ed1e17fa327c67c6e524fa9d0187",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How much AI can a maintainer get away with using without losing their humanity?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.jvt.me/posts/2026/08/02/ai-maintainer",
+      "publishedAt": "2026-08-02T21:47:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d2b1fb854a517cfa6c2111c436e5f8ec394f909c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.11971.com",
+      "publishedAt": "2026-08-02T21:30:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6b540a4aab4527fe70220922064c0a1899cc3c40",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google Removes New Earth AI Tool a Day After Users Create Fake Disasters",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters",
+      "publishedAt": "2026-08-02T21:17:56.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "e61b66d54994bc1811f1b97d84c9cc55d58bdf93",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Should You Use AI for a Task?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://elezea.com/2026/08/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide",
+      "publishedAt": "2026-08-02T21:16:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e1f30f1e47bf8116587155c27b0a4a56eb6ff030",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Design by Contract and effects are essential for LLM-generated code",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms",
+      "publishedAt": "2026-08-02T21:05:18.000Z",
+      "category": "其他"
+    },
     {
       "id": "d3dbdca28ee06a2be98cf520682059c631d247a2",
       "sourceId": "techcrunch-ai",
@@ -78,7 +246,7 @@
       "id": "4cb3a21c9196ad8f3f82f626933c34a72a9ee478",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
-      "title": "Let the Machines In",
+      "title": "Let the machines in",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
@@ -219,66 +387,6 @@
       "category": "其他"
     },
     {
-      "id": "1cebbed75c4891ee6dede70295938bee17b39530",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI and the iPod Test",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
-      "publishedAt": "2026-08-02T18:13:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d2149089b131c173fa3026b8d5f3e9d54e27b3b1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
-      "zhTitle": null,
-      "summary": "Hi HN, I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines. It is aimed at students asking two questions: Where does my degree fit into this landscape? Should I specialise now or stay broad? I would appreciate feedback on what is wrong, overstated, or missing. More importantly, based on your own experience, what would you t",
-      "zhSummary": null,
-      "url": "https://ai-five-layer-map.pages.dev",
-      "publishedAt": "2026-08-02T18:12:52.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "0ceca2c5e48e59ee9807322877665bd41966d6df",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I pointed my agent security tool at myself and four of the bugs were mine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://agentmetry.ai/blog/dogfooding-found-five-bugs",
-      "publishedAt": "2026-08-02T18:10:22.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "82b93d23b26ae9c900d08cb04ae8298ec6594d61",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: EvoChess – start with 8 pawns, evolve your army",
-      "zhTitle": null,
-      "summary": "This chess variant&#x27;s theme is evolution. One morning in early 2016 I woke up with an idea: what if chess were built around promotion? Eventually, this resulted in the following game: It plays like chess, but you start with only pawns and a king. Pawns can be promoted to bishops or knights, while those minor pieces can be promoted to rooks. Their promotion rights accumulate (every three pawn m",
-      "zhSummary": null,
-      "url": "https://penkovsky.github.io/evochess",
-      "publishedAt": "2026-08-02T18:06:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1510c1f9f302175816617b2d8cf60b9bc43899e5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog",
-      "publishedAt": "2026-08-02T18:00:27.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c6390e512ab633ae0f5d131b163b2c6eced7c72d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -288,18 +396,6 @@
       "zhSummary": null,
       "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
       "publishedAt": "2026-08-02T18:00:10.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b97d0d77858f80d6e530cfeca7289cf62c5681be",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
-      "publishedAt": "2026-08-02T17:54:04.000Z",
       "category": "其他"
     },
     {
@@ -315,66 +411,6 @@
       "category": "模型发布"
     },
     {
-      "id": "a81ee12a7610220f1234db3abccb57b5df58ccb9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-Powered Container Standardization",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/capital-one-tech/introducing-ai-powered-container-standardization-2f9314cde883",
-      "publishedAt": "2026-08-02T17:42:49.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b2e5c2c5f094911bd71d8573160b2df1113ddba5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Mexico became a surprise cornerstone of America's AI boom",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173",
-      "publishedAt": "2026-08-02T17:39:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "af3923043a1614917b4f8df3ab5182ecaf674e3f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI is getting better at writing. Humans must get better at editing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://economist.com/leaders/2026/07/30/ai-is-getting-better-at-writing-humans-must-get-better-at-editing",
-      "publishedAt": "2026-08-02T17:34:10.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f1a8faad8aabf81c7384f24f2a14e8a06584ea2b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A stricter TypeScript for a world where AI writes most of the code",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/chitalian/Typescript-Ultra-Strict",
-      "publishedAt": "2026-08-02T17:30:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "30673553e941867a8c9dd7f3683ce7a0ec2ca8af",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Everyone is so annoying about AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://cailinpitt.com/blog/2026/8/01/everyone-is-so-annoying-about-ai",
-      "publishedAt": "2026-08-02T17:27:21.000Z",
-      "category": "其他"
-    },
-    {
       "id": "2259c2ebb4f5c9e791618a24c4f6007dc6637f9d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -384,18 +420,6 @@
       "zhSummary": null,
       "url": "https://atomadic.tech",
       "publishedAt": "2026-08-02T17:25:08.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a233437787bf7beb3c2d00c061827955a61cc511",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI learns language from skewed sources. It could change how humans speak/think",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech",
-      "publishedAt": "2026-08-02T17:14:50.000Z",
       "category": "其他"
     },
     {
@@ -409,18 +433,6 @@
       "url": "https://github.com/AdityaSBisht/finance-mcp",
       "publishedAt": "2026-08-02T17:03:45.000Z",
       "category": "其他"
-    },
-    {
-      "id": "375853ef6d746ae8b691d75e920a2d19796e83d3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Feedback wanted: Reflex – A low-cost retrieval API for recurring documents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aivax.net/blog/reflex-retrieval-built-for-recurring-documents",
-      "publishedAt": "2026-08-02T17:03:34.000Z",
-      "category": "工具"
     },
     {
       "id": "c2c7e7e507b89d07cea784317277be0ba9cde768",
@@ -639,30 +651,6 @@
       "category": "其他"
     },
     {
-      "id": "50170814f3c9f5f9a91da9b5b4be17694c53aaf3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: CaLLMar – play a text-based adventure game in an LLM chat",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/lascauje/callmar",
-      "publishedAt": "2026-08-02T10:45:02.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ea85cc147afad2f1f95b7338ba3b7fc1491144d3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
-      "zhTitle": null,
-      "summary": "That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient tools like IBM DOORS but they require buying seat licences and they don&#x27;t have any support for LLMs. I see that requirement management is a mess most of time, people are going back and forth between tools and Excel and Word. Customer couldn&#x27;t track r",
-      "zhSummary": null,
-      "url": "https://github.com/bbayer/DocuMan",
-      "publishedAt": "2026-08-02T10:38:26.000Z",
-      "category": "工具"
-    },
-    {
       "id": "8ae9b0deac811c93941916c560d3e8f90140b59d",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -672,30 +660,6 @@
       "zhSummary": null,
       "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
       "publishedAt": "2026-08-02T10:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bcd40fc2f014f12071618b1e0830db5d07a2e069",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Running a 35B LLM at 128K Context, Full Speed, on €870 of Used Hardware",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/ai-advances/running-a-35b-llm-at-128k-context-full-speed-on-870-of-used-hardware-no-cloud-required-c4f7629810b8",
-      "publishedAt": "2026-08-02T08:27:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "50716b9d922d111036688362dbd1fdfaa388d9da",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: TamedTable, AI ETL in Natural Language",
-      "zhTitle": null,
-      "summary": "Hi HN, TamedTable is an LLM harness for data ETL. And yes, it was developed using AI, meaning you can take the entire specification and recreate it to your desires: https:&#x2F;&#x2F;github.com&#x2F;ZSvedic&#x2F;TamedTable",
-      "zhSummary": null,
-      "url": "https://www.tamedtable.com",
-      "publishedAt": "2026-08-02T07:51:37.000Z",
       "category": "其他"
     },
     {
@@ -3601,6 +3565,42 @@
       "url": "https://huggingface.co/blog/lerobot-release-v060",
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "category": "其他"
+    },
+    {
+      "id": "088a18b234ed800d8a355a36f932d5a7b5ce4478",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "PRX Part 4: Our Data Strategy",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "publishedAt": "2026-07-06T15:30:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c57690ad336e7f8b9a8e0ddbb49d59685fa98303",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "🤗 Kernels: Major Updates",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "abd37bf2f2f7c34c5c24a231c369456c550554fb",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "The latest AI news we announced in June 2026",
+      "zhTitle": null,
+      "summary": "Here are Google’s latest AI updates from June 2026.",
+      "zhSummary": null,
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+      "publishedAt": "2026-07-01T18:15:00.000Z",
+      "category": "产品"
     }
   ]
 }
