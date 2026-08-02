@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-02T15:15:38.548Z",
+  "generatedAt": "2026-08-02T15:19:34.681Z",
   "items": [
+    {
+      "id": "5f31c417cd980a97c0d4d23c4802c9b502e29eb7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Impending, Inescapable Deluge of A.I",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html",
+      "publishedAt": "2026-08-02T15:18:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "106e53be4f890cef0a6e9ca17d14b217d22e494a",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: A fixed harness for comparing LLM agent memory systems",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/AML-memory/agent-memory-leaderboard",
+      "publishedAt": "2026-08-02T15:18:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "be8f5c4a1a76a5ea47190d8cf319f7ea4fd36c69",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report",
+      "publishedAt": "2026-08-02T15:16:22.000Z",
+      "category": "研究"
+    },
     {
       "id": "e38f0214e865925ddd6c96cd8b43616784b2a722",
       "sourceId": "hn-llm",
@@ -412,26 +448,14 @@
     },
     {
       "id": "8008930bf2c2ffcb07edded84b1175c37656b403",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "LLM Counter-Defaults",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://counterdefaults.aixdesign.co",
       "publishedAt": "2026-08-02T10:49:23.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b732c957c09fa72cc12d6c115f765cd4b1fdbbd7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Damned if you do and damned if you don't: Can NOT using AI amount to negligence?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.judiciary.uk/speech-by-the-master-of-the-rolls-to-the-professional-negligence-bar-association",
-      "publishedAt": "2026-08-02T10:48:46.000Z",
       "category": "其他"
     },
     {
@@ -697,18 +721,6 @@
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
       "publishedAt": "2026-08-01T20:26:04.000Z",
       "category": "政策"
-    },
-    {
-      "id": "a8dc12588770856d3431bd0f36f11cb4e63183ae",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Open OneNote Viewer in Rust",
-      "zhTitle": null,
-      "summary": "For more than 15 years, I accumulated hundreds upon hundreds of notes in OneNote. I loved the application and still consider it one of the best and most distinctive note-taking tools available. Its free-form canvas supports a way of organizing information that Markdown-based tools simply cannot reproduce. The problem was that using OneNote became increasingly inconvenient for me. Microsoft never r",
-      "zhSummary": null,
-      "url": "https://github.com/emsi/OneNoteViewer",
-      "publishedAt": "2026-08-01T19:57:33.000Z",
-      "category": "工具"
     },
     {
       "id": "faffeeac24fbeb6cb9ea2dd7ca813105cb86f467",
@@ -3588,18 +3600,6 @@
       "zhSummary": null,
       "url": "https://huggingface.co/blog/revamped-kernels",
       "publishedAt": "2026-07-06T00:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "abd37bf2f2f7c34c5c24a231c369456c550554fb",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "The latest AI news we announced in June 2026",
-      "zhTitle": null,
-      "summary": "Here are Google’s latest AI updates from June 2026.",
-      "zhSummary": null,
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
-      "publishedAt": "2026-07-01T18:15:00.000Z",
       "category": "产品"
     }
   ]
