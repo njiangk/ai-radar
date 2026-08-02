@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-02T17:01:58.442Z",
+  "generatedAt": "2026-08-02T17:12:40.822Z",
   "items": [
+    {
+      "id": "179de1a7f0d3fc81a91c809632577ad001b98875",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Yahoo Finance rate-limits you harder if you spoof a browser User-Agent",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/AdityaSBisht/finance-mcp",
+      "publishedAt": "2026-08-02T17:03:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "375853ef6d746ae8b691d75e920a2d19796e83d3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Feedback wanted: Reflex – A low-cost retrieval API for recurring documents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aivax.net/blog/reflex-retrieval-built-for-recurring-documents",
+      "publishedAt": "2026-08-02T17:03:34.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "c2c7e7e507b89d07cea784317277be0ba9cde768",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "How fast is C++26's std:hive?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive",
+      "publishedAt": "2026-08-02T17:03:06.000Z",
+      "category": "其他"
+    },
     {
       "id": "8f51a03d31511efe872286d03269093121f2aad7",
       "sourceId": "hn-llm",
@@ -399,18 +435,6 @@
       "category": "其他"
     },
     {
-      "id": "29a2560de35ca02c40f92ebd4cd3c971d1b69e34",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google Just Ruined One of Its Most Important Tools",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145",
-      "publishedAt": "2026-08-02T13:53:48.000Z",
-      "category": "工具"
-    },
-    {
       "id": "c0e0d55e1958e401acb62752524becbc29ca9f4d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -660,30 +684,6 @@
       "zhSummary": null,
       "url": "https://isaacsu.com/2026/08/dont-credit-the-llm",
       "publishedAt": "2026-08-02T04:07:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a2a864ba12173f8b408c1edb515fc06843528d7e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2607.27951",
-      "publishedAt": "2026-08-02T04:07:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c23d5984c9a767cd10f8212a90535d4e4f6870c4",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Futurism says Meta has \"almost nothing\" to show for AI. The numbers say",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise",
-      "publishedAt": "2026-08-02T03:55:08.000Z",
       "category": "其他"
     },
     {
