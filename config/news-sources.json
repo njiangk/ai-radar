@@ -1,0 +1,104 @@
+[
+  {
+    "id": "openai-news",
+    "name": "OpenAI",
+    "type": "rss",
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "id": "google-ai-blog",
+    "name": "Google AI Blog",
+    "type": "rss",
+    "url": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "id": "nvidia-ai",
+    "name": "NVIDIA AI",
+    "type": "rss",
+    "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+    "id": "huggingface-blog",
+    "name": "Hugging Face",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "id": "verge-ai",
+    "name": "The Verge AI",
+    "type": "rss",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+    "id": "ars-ai",
+    "name": "Ars Technica AI",
+    "type": "rss",
+    "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+    "id": "wired-ai",
+    "name": "WIRED AI",
+    "type": "rss",
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss"
+  },
+  {
+    "id": "techcrunch-ai",
+    "name": "TechCrunch AI",
+    "type": "rss",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+    "id": "venturebeat-ai",
+    "name": "VentureBeat AI",
+    "type": "rss",
+    "url": "https://venturebeat.com/category/ai/feed/"
+  },
+  {
+    "id": "mit-tr-ai",
+    "name": "MIT Tech Review",
+    "type": "rss",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+    "id": "scale-blog",
+    "name": "Scale AI",
+    "type": "rss",
+    "url": "https://scale.com/blog/rss.xml"
+  },
+  {
+    "id": "simonwillison",
+    "name": "Simon Willison",
+    "type": "rss",
+    "url": "https://simonwillison.net/atom/everything/"
+  },
+  {
+    "id": "arxiv-cs-ai",
+    "name": "arXiv cs.AI",
+    "type": "rss",
+    "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=25"
+  },
+  {
+    "id": "arxiv-cs-cl",
+    "name": "arXiv cs.CL",
+    "type": "rss",
+    "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=25"
+  },
+  {
+    "id": "arxiv-cs-lg",
+    "name": "arXiv cs.LG",
+    "type": "rss",
+    "url": "https://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=25"
+  },
+  {
+    "id": "hn-ai",
+    "name": "Hacker News AI",
+    "type": "algolia",
+    "url": "https://hn.algolia.com/api/v1/search_by_date?query=AI&tags=story&hitsPerPage=30"
+  },
+  {
+    "id": "hn-llm",
+    "name": "Hacker News LLM",
+    "type": "algolia",
+    "url": "https://hn.algolia.com/api/v1/search_by_date?query=LLM&tags=story&hitsPerPage=30"
+  }
+]
