@@ -3,7 +3,7 @@ import type { HistoryFile, ModelsFile, NewsFile } from '../types';
 async function loadJson<T>(path: string): Promise<T | null> {
   try {
     const response = await fetch(`${import.meta.env.BASE_URL}${path}`, {
-      cache: 'no-store',
+      cache: 'default',
     });
     if (!response.ok) {
       return null;
