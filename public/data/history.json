@@ -54760,8 +54760,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 51.1,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.7154,
-          "priceOutPer1M": 2.2484
+          "priceInPer1M": 0.6286,
+          "priceOutPer1M": 1.9756
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -57315,8 +57315,8 @@
           "id": "qwen/qwen3.6-27b",
           "benchmarkScore": 37.1,
           "livebenchAvg": 64.18,
-          "priceInPer1M": 0.3,
-          "priceOutPer1M": 2
+          "priceInPer1M": 0.289,
+          "priceOutPer1M": 2.4
         },
         {
           "id": "blueclaw/Qwen3.6-27B",

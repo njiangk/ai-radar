@@ -1,77 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T03:18:11.252Z",
+  "generatedAt": "2026-08-03T14:44:52.487Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI超级PAC资助AI新闻攻击批评者",
-      "reason": "OpenAI操控舆论，伦理争议爆发",
-      "heat": 90,
+      "title": "欧盟AI法案生效，欧洲300亿欧元建AI超级工厂",
+      "reason": "欧洲AI监管与投资双管齐下，影响全球",
+      "heat": 95,
       "newsIds": [
-        "245bd9037021101cc52e791948b47652efb70edc"
+        "0d0bd14cd24c02dae5aa1859b0259adddf8aacb4",
+        "d81766f52b5a409dd4b16414b1b17d5deca3daa7"
       ]
     },
     {
       "rank": 2,
-      "title": "Sam Altman与AI减速之争",
-      "reason": "Altman呼吁减速，行业方向待定",
-      "heat": 85,
+      "title": "诺奖得主警告：AI指挥官或引发末日战争",
+      "reason": "顶级科学家对AI军事化的严重预警",
+      "heat": 92,
       "newsIds": [
-        "d3dbdca28ee06a2be98cf520682059c631d247a2"
+        "c90d64e6677203e23e8fb2f3eda1ee0171e652cc"
       ]
     },
     {
       "rank": 3,
-      "title": "谷歌毁掉核心工具引众怒",
-      "reason": "谷歌重要工具被毁，用户范围广",
-      "heat": 80,
+      "title": "AI安全危机：OpenAI/HF被黑，代理记忆泄露，沙箱漏洞",
+      "reason": "AI领域安全事件频发，风险加剧",
+      "heat": 90,
       "newsIds": [
-        "29a2560de35ca02c40f92ebd4cd3c971d1b69e34"
+        "271d882754126957623e4da3583c2a0d68d3d6d4",
+        "87a1a8e201ca4a16a6ab36f1af57c1fdfde01000",
+        "777aa47965da2c16c0710c5e5fde360bc50b318e"
       ]
     },
     {
       "rank": 4,
-      "title": "Qwen3.8-Max崛起：编程协作新标杆",
-      "reason": "国产模型新标杆，性能获广泛关注",
-      "heat": 75,
+      "title": "AI正在取代客服岗位，就业冲击引担忧",
+      "reason": "AI大规模替代人工，就业市场受冲击",
+      "heat": 85,
       "newsIds": [
-        "f1afe25775a0b09360ff90c7e7b86f1d9c5a1e83"
+        "55e6f906439568a98ad71f2124c4813ab6baf706"
       ]
     },
     {
       "rank": 5,
-      "title": "AI狂热：从郁金香到代币",
-      "reason": "AI泡沫论再起，市场担忧炒作",
-      "heat": 70,
+      "title": "Anthropic布局AI实体商业：售货机、商店与咖啡馆",
+      "reason": "AI公司从虚拟走向实体，探索新商业模式",
+      "heat": 82,
       "newsIds": [
-        "caf37ae6194c57cad040559f77c38cf0494f4f1d"
+        "c0faacfc8dabc1f1022ac4449c4a9c4b07e285e6"
       ]
     },
     {
       "rank": 6,
-      "title": "YC公司获1350万美元融资优化Token",
-      "reason": "YC新锐获投，降低token消耗成焦点",
-      "heat": 65,
+      "title": "AI垃圾工厂：TikTok Shop推销FDA召回产品",
+      "reason": "AI滥用营销违规商品，监管漏洞暴露",
+      "heat": 78,
       "newsIds": [
-        "a701979726c6989be6ed666c44f1ac319374b6d4"
+        "35731b7e0470dc52789f8721318999e5b9518b50"
       ]
     },
     {
       "rank": 7,
-      "title": "AI海报赢得博览会比赛引争议",
-      "reason": "AI艺术获奖，公平性质疑升温",
-      "heat": 60,
+      "title": "AI骗子比人类更擅长建立信任，社交工程威胁升级",
+      "reason": "AI社交工程能力超越人类，安全再亮红灯",
+      "heat": 75,
       "newsIds": [
-        "f569f1ee57c53aff672ac5ff1901d4bd86c79747"
+        "8e5c683bfe6bade5833e94a660ca10e8d519761e"
       ]
     },
     {
       "rank": 8,
-      "title": "领英三成AI认证揭示职场风向",
-      "reason": "AI技能需求暴涨，就业市场转向",
-      "heat": 55,
+      "title": "简单Markdown wiki竟胜过AI代理记忆产品",
+      "reason": "轻量方案在基准测试中击败复杂AI系统",
+      "heat": 72,
       "newsIds": [
-        "cf70ae5c1afd5e983c86d0fafac88f87f7968b2c"
+        "056119e9d1a7f25b6c601b72fd1f08b675b9e656"
       ]
     }
   ]
