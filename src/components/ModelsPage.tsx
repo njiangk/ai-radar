@@ -564,6 +564,7 @@ export function ModelsPage() {
                     stroke="var(--accent)"
                     strokeWidth={2}
                     dot={false}
+                    activeDot={{ r: 5, fill: 'var(--accent)', stroke: 'var(--surface-3)', strokeWidth: 2 }}
                   />
                 </LineChart>
               </ResponsiveContainer>

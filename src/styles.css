@@ -1009,6 +1009,26 @@ a {
   color: var(--ink) !important;
 }
 
+/* 点击/悬停图表的白点与焦点白框：统一暗色化或隐藏 */
+.recharts-active-dot,
+.recharts-scatter-symbol:focus,
+.recharts-wrapper .recharts-surface:focus,
+.recharts-wrapper:focus,
+.recharts-wrapper *:focus {
+  outline: none !important;
+}
+
+.recharts-active-dot {
+  fill: var(--accent-2) !important;
+  stroke: var(--surface-3) !important;
+  stroke-width: 2px !important;
+}
+
+.chart-box:focus,
+.chart-box *:focus {
+  outline: none !important;
+}
+
 .history-list {
   display: flex;
   flex-direction: column;
