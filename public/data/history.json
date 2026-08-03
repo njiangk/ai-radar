@@ -54760,8 +54760,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 51.1,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 1.19,
-          "priceOutPer1M": 3.74
+          "priceInPer1M": 0.7154,
+          "priceOutPer1M": 2.2484
         },
         {
           "id": "zhipuai/glm-5.2",
