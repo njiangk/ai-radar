@@ -520,6 +520,9 @@ export function ModelsPage() {
                 <Tooltip content={<ScatterTooltip />} cursor={{ strokeDasharray: '3 3' }} />
                 <Scatter
                   data={scatterData}
+                  activeShape={
+                    <circle r={6} fill="var(--accent-2)" stroke="var(--surface-3)" strokeWidth={2} />
+                  }
                   onClick={(data) => {
                     const point = data as unknown as { id?: string };
                     if (point?.id) {
