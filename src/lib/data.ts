@@ -1,4 +1,4 @@
-import type { HistoryFile, ModelsFile, NewsFile } from '../types';
+import type { HistoryFile, HotFile, ModelsFile, NewsFile } from '../types';
 
 async function loadJson<T>(path: string): Promise<T | null> {
   try {
@@ -16,6 +16,10 @@ async function loadJson<T>(path: string): Promise<T | null> {
 
 export function loadNews(): Promise<NewsFile | null> {
   return loadJson<NewsFile>('data/news.json');
+}
+
+export function loadHot(): Promise<HotFile | null> {
+  return loadJson<HotFile>('data/hot.json');
 }
 
 export function loadModels(): Promise<ModelsFile | null> {

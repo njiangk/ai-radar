@@ -33,6 +33,20 @@ export interface NewsFile {
   items: NewsItem[];
 }
 
+export interface HotTopic {
+  rank: number;
+  title: string;
+  reason: string;
+  heat: number;
+  newsIds: string[];
+}
+
+export interface HotFile {
+  version: 1;
+  generatedAt: string;
+  items: HotTopic[];
+}
+
 export interface ModelEntry {
   id: string;
   name: string;

@@ -7,10 +7,11 @@ import {
   writeJson,
 } from './pipeline/io.js';
 import { fetchCompareData } from './pipeline/compare.js';
+import { generateHotTopics } from './pipeline/hot.js';
 import { fetchNews, stripHtml } from './pipeline/news.js';
 import { assertHistoryFile, assertModelsFile, assertNewsFile } from './pipeline/schema.js';
 import { translateItems } from './pipeline/translate.js';
-import type { HistoryFile, ModelsFile, NewsFile } from './pipeline/types.js';
+import type { HistoryFile, HotFile, ModelsFile, NewsFile } from './pipeline/types.js';
 
 async function buildNews(): Promise<NewsFile> {
   const { items } = await fetchNews();
@@ -64,15 +65,31 @@ async function buildHistory(models: ModelsFile, fresh: boolean): Promise<History
   return history;
 }
 
+async function buildHot(news: NewsFile): Promise<HotFile | null> {
+  const topics = await generateHotTopics(news.items);
+  if (!topics) {
+    return null;
+  }
+  const file: HotFile = {
+    version: 1,
+    generatedAt: nowIso(),
+    items: topics,
+  };
+  await writeJson(dataPath('hot.json'), file);
+  return file;
+}
+
 async function main(): Promise<void> {
   const news = await buildNews();
   const models = await buildModels();
   const history = await buildHistory(models.file, models.fresh);
+  const hot = await buildHot(news);
   assertNewsFile(news);
   assertModelsFile(models.file);
   assertHistoryFile(history);
   log(
-    `数据生成完成: 新闻 ${news.items.length} 条, 模型 ${models.file.items.length} 个, 历史快照 ${history.snapshots.length} 个`,
+    `数据生成完成: 新闻 ${news.items.length} 条, 模型 ${models.file.items.length} 个, 历史快照 ${history.snapshots.length} 个` +
+      (hot ? `, 热点 ${hot.items.length} 条` : ''),
   );
 }
 

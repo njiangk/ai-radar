@@ -11,9 +11,10 @@ import {
   Tags,
 } from 'lucide-react';
 import { formatTime, formatUpdated } from '../lib/format';
-import { loadNews } from '../lib/data';
+import { loadHot, loadNews } from '../lib/data';
 import { useLocalSet } from '../lib/useLocalSet';
-import type { NewsCategory, NewsFile, NewsItem } from '../types';
+import { HotBoard } from './HotBoard';
+import type { HotFile, HotTopic, NewsCategory, NewsFile, NewsItem } from '../types';
 
 type LanguageMode = 'zh' | 'dual' | 'en';
 
@@ -56,6 +57,8 @@ function displayText(item: NewsItem, language: LanguageMode) {
 
 export function NewsPage() {
   const [news, setNews] = useState<NewsFile | null>(null);
+  const [hot, setHot] = useState<HotFile | null>(null);
+  const [activeHot, setActiveHot] = useState<HotTopic | null>(null);
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState<string>('全部');
   const [source, setSource] = useState<string>('全部');
@@ -66,6 +69,7 @@ export function NewsPage() {
 
   useEffect(() => {
     loadNews().then(setNews);
+    loadHot().then(setHot);
   }, []);
 
   const sources = useMemo(() => {
@@ -79,6 +83,9 @@ export function NewsPage() {
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return (news?.items ?? []).filter((item) => {
+      if (activeHot && !activeHot.newsIds.includes(item.id)) {
+        return false;
+      }
       if (favoritesOnly && !favorites.has(item.id)) {
         return false;
       }
@@ -105,7 +112,7 @@ export function NewsPage() {
       }
       return true;
     });
-  }, [category, favorites, favoritesOnly, news, query, source]);
+  }, [activeHot, category, favorites, favoritesOnly, news, query, source]);
 
   const grouped = useMemo(() => {
     const map = new Map<string, NewsItem[]>();
@@ -201,6 +208,8 @@ export function NewsPage() {
           ))}
         </div>
       </section>
+
+      <HotBoard hot={hot} active={activeHot} onSelect={setActiveHot} />
 
       <div className="toolbar">
         <label className="search-box">
