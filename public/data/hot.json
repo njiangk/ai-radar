@@ -1,82 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T21:07:24.892Z",
+  "generatedAt": "2026-08-03T23:05:35.269Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI安全事件频发，责任归属引热议",
-      "reason": "OpenAI被黑引爆AI安全担忧",
+      "title": "AI无人机自主攻击乌克兰战场",
+      "reason": "AI军事化应用引发伦理争议",
       "heat": 95,
       "newsIds": [
-        "fbf38c510567cb8a2a8139bd05ad7cc794bbf9f5",
-        "daa4e8074d5cad8c422a2ce630e8e7b93bc1a85f",
-        "93419754cf5d695f814d38187e44d4c2349e3c97"
+        "8e54c2adda8e049abb2187d15664745d99112013"
       ]
     },
     {
       "rank": 2,
-      "title": "AI泡沫论再起：债务与硬件过热",
-      "reason": "AI债务与硬件过热，泡沫警报",
-      "heat": 90,
+      "title": "AI泡沫：隐性债务1.65万亿美元",
+      "reason": "经济风险引发投资担忧",
+      "heat": 88,
       "newsIds": [
-        "57e7595a7afaed67473b343c25bb527ad583a69e",
-        "2ab416aeda34ca20ba1374f4456c12ff6b953dc9",
-        "2540866162d85e3add824894a7b6dc8094224923"
+        "57e7595a7afaed67473b343c25bb527ad583a69e"
       ]
     },
     {
       "rank": 3,
-      "title": "欧盟AI透明度新规生效",
-      "reason": "欧盟强制AI内容透明，监管新规生效",
+      "title": "AI智能体失控与责任归属",
+      "reason": "模型自主行动引发安全法律问题",
       "heat": 85,
       "newsIds": [
-        "153c499b04198b0fefa6dd59ac79a83205923b71"
+        "6f123365e0c31423d222111e14fbbdb54a11f53a",
+        "daa4e8074d5cad8c422a2ce630e8e7b93bc1a85f",
+        "844a2e12acb8cccad72919979f00ec12c8c04f81"
       ]
     },
     {
       "rank": 4,
-      "title": "Qwen3.8 Max发布引关注",
-      "reason": "国产大模型Qwen3.8 Max发布",
+      "title": "中美AI差距缩小或消失",
+      "reason": "地缘科技竞争格局变化",
       "heat": 80,
-      "newsIds": [
-        "a1e320fafd85f129f386df7a3625627185d766d9"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "苹果Siri大升级却显平淡",
-      "reason": "苹果Siri升级，但AI时代平庸",
-      "heat": 78,
-      "newsIds": [
-        "6d2b08be4460228928c4d14b7e242aafaa9c8324"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI走进教育：监考失误与少年逆袭",
-      "reason": "AI监考事故与少年逆袭引热议",
-      "heat": 75,
-      "newsIds": [
-        "1bfc98e7d4380c058bb8722b0e5e46113c9691f1",
-        "be6681eac78e1e0b0a415c3d72caba66e277d4b4"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "美国AI领先优势正在消失",
-      "reason": "美国AI领先优势几乎消失",
-      "heat": 70,
       "newsIds": [
         "4a6f5c290e7480459a458e0d384451ca779a1197"
       ]
     },
     {
-      "rank": 8,
-      "title": "特朗普AI保护主义波及机器人",
-      "reason": "特朗普AI保护主义涉机器人领域",
+      "rank": 5,
+      "title": "AI生成音乐引发现实争议",
+      "reason": "热门歌曲涉AI制作引讨论",
+      "heat": 72,
+      "newsIds": [
+        "d21c8847550e4248977655d36b50d932f4ddab67"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI渗透招聘面试流程",
+      "reason": "求职者需应对AI评判",
+      "heat": 68,
+      "newsIds": [
+        "792c5b744aaa3d41f7e1a9d2b40b7fe8cb987e98",
+        "06a5abe82366641de3cc4528a1ceac624530ab00"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI内容检测与真实性证明",
+      "reason": "AIGC真假难辨需工具",
       "heat": 65,
       "newsIds": [
-        "9dfa8f07c07effac71550aaab1b727ee1cef1194"
+        "7c5a83acf53bc81d5c0b04940fe2ed15368c05aa",
+        "acaa345eb3dcff480c90a73a1d9c9baba2f6fa53"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "OpenAI网红营销惹争议",
+      "reason": "AI公司高调宣传遭批评",
+      "heat": 58,
+      "newsIds": [
+        "f30b130fca5ef327e44b02786eff5f78725382da"
       ]
     }
   ]
