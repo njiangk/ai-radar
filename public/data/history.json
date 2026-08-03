@@ -119022,6 +119022,13 @@
           "priceOutPer1M": 3
         },
         {
+          "id": "nano-gpt/qwen3.8-max",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 6
+        },
+        {
           "id": "nano-gpt/Qwen3.5-27B-Writer-Derestricted",
           "benchmarkScore": null,
           "livebenchAvg": null,

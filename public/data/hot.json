@@ -1,79 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T19:42:00.372Z",
+  "generatedAt": "2026-08-03T21:07:24.892Z",
   "items": [
     {
       "rank": 1,
-      "title": "苹果新版Siri终于上线",
-      "reason": "苹果AI助手重大更新引热议",
+      "title": "AI安全事件频发，责任归属引热议",
+      "reason": "OpenAI被黑引爆AI安全担忧",
+      "heat": 95,
+      "newsIds": [
+        "fbf38c510567cb8a2a8139bd05ad7cc794bbf9f5",
+        "daa4e8074d5cad8c422a2ce630e8e7b93bc1a85f",
+        "93419754cf5d695f814d38187e44d4c2349e3c97"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI泡沫论再起：债务与硬件过热",
+      "reason": "AI债务与硬件过热，泡沫警报",
       "heat": 90,
+      "newsIds": [
+        "57e7595a7afaed67473b343c25bb527ad583a69e",
+        "2ab416aeda34ca20ba1374f4456c12ff6b953dc9",
+        "2540866162d85e3add824894a7b6dc8094224923"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "欧盟AI透明度新规生效",
+      "reason": "欧盟强制AI内容透明，监管新规生效",
+      "heat": 85,
+      "newsIds": [
+        "153c499b04198b0fefa6dd59ac79a83205923b71"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Qwen3.8 Max发布引关注",
+      "reason": "国产大模型Qwen3.8 Max发布",
+      "heat": 80,
+      "newsIds": [
+        "a1e320fafd85f129f386df7a3625627185d766d9"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "苹果Siri大升级却显平淡",
+      "reason": "苹果Siri升级，但AI时代平庸",
+      "heat": 78,
       "newsIds": [
         "6d2b08be4460228928c4d14b7e242aafaa9c8324"
       ]
     },
     {
-      "rank": 2,
-      "title": "OpenAI网红旅行争议",
-      "reason": "品牌营销与AI争议碰撞",
-      "heat": 85,
-      "newsIds": [
-        "f30b130fca5ef327e44b02786eff5f78725382da"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "欧盟AI透明度规则生效",
-      "reason": "全球首部AI透明度法规落地",
-      "heat": 82,
-      "newsIds": [
-        "153c499b04198b0fefa6dd59ac79a83205923b71",
-        "4457b965006c7c72c4e43f4d4a8cae19de34fd34"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "白宫新AI监管框架",
-      "reason": "美国官方强化AI安全审查",
-      "heat": 80,
-      "newsIds": [
-        "bfb892f87276d9d63abb714b8881e3faaf123da1",
-        "0e56b7d13563ce84db8370d6ee3e3adf98e85a5f"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "特朗普AI保护主义波及机器人",
-      "reason": "关税政策影响人形机器人产业",
-      "heat": 78,
-      "newsIds": [
-        "9dfa8f07c07effac71550aaab1b727ee1cef1194"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "16岁少年用AI推翻教授观点",
-      "reason": "少年挑战权威引关注",
+      "title": "AI走进教育：监考失误与少年逆袭",
+      "reason": "AI监考事故与少年逆袭引热议",
       "heat": 75,
       "newsIds": [
+        "1bfc98e7d4380c058bb8722b0e5e46113c9691f1",
         "be6681eac78e1e0b0a415c3d72caba66e277d4b4"
       ]
     },
     {
       "rank": 7,
-      "title": "AI垃圾信息污染CVE漏洞库",
-      "reason": "虚假漏洞威胁网络安全",
-      "heat": 72,
+      "title": "美国AI领先优势正在消失",
+      "reason": "美国AI领先优势几乎消失",
+      "heat": 70,
       "newsIds": [
-        "27c4740f49181d9e40a97698d6cc7cab04ceeeb0"
+        "4a6f5c290e7480459a458e0d384451ca779a1197"
       ]
     },
     {
       "rank": 8,
-      "title": "DesignArena融资790万美元",
-      "reason": "AI审美评测受资本青睐",
-      "heat": 68,
+      "title": "特朗普AI保护主义波及机器人",
+      "reason": "特朗普AI保护主义涉机器人领域",
+      "heat": 65,
       "newsIds": [
-        "6005530a97f89d22db6c9c928ca780fa86217cc8"
+        "9dfa8f07c07effac71550aaab1b727ee1cef1194"
       ]
     }
   ]
