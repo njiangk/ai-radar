@@ -1,78 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T01:30:13.680Z",
+  "generatedAt": "2026-08-03T03:18:11.252Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI泡沫与减速论争",
-      "reason": "AI过热引减速与泡沫争议",
-      "heat": 92,
+      "title": "OpenAI超级PAC资助AI新闻攻击批评者",
+      "reason": "OpenAI操控舆论，伦理争议爆发",
+      "heat": 90,
       "newsIds": [
-        "d3dbdca28ee06a2be98cf520682059c631d247a2",
-        "caf37ae6194c57cad040559f77c38cf0494f4f1d"
+        "245bd9037021101cc52e791948b47652efb70edc"
       ]
     },
     {
       "rank": 2,
-      "title": "谷歌AI地球工具引发虚假灾难",
-      "reason": "AI地球工具致虚假灾难被下架",
-      "heat": 88,
+      "title": "Sam Altman与AI减速之争",
+      "reason": "Altman呼吁减速，行业方向待定",
+      "heat": 85,
       "newsIds": [
-        "6b540a4aab4527fe70220922064c0a1899cc3c40"
+        "d3dbdca28ee06a2be98cf520682059c631d247a2"
       ]
     },
     {
       "rank": 3,
-      "title": "欧盟AI法案正式生效",
-      "reason": "欧盟AI监管规则正式实施",
-      "heat": 86,
+      "title": "谷歌毁掉核心工具引众怒",
+      "reason": "谷歌重要工具被毁，用户范围广",
+      "heat": 80,
       "newsIds": [
-        "cfdd2789b4eab3ae49a41f4d0fb556721b7bbf7e"
+        "29a2560de35ca02c40f92ebd4cd3c971d1b69e34"
       ]
     },
     {
       "rank": 4,
-      "title": "Anthropic Claude包窃取密钥",
-      "reason": "Claude包被曝窃取密钥",
-      "heat": 84,
+      "title": "Qwen3.8-Max崛起：编程协作新标杆",
+      "reason": "国产模型新标杆，性能获广泛关注",
+      "heat": 75,
       "newsIds": [
-        "38631f2202075bc5259acf141a2ebd850e0a7d61"
+        "f1afe25775a0b09360ff90c7e7b86f1d9c5a1e83"
       ]
     },
     {
       "rank": 5,
-      "title": "AI编程是死胡同？",
-      "reason": "业界大佬断言AI编程死路",
-      "heat": 80,
+      "title": "AI狂热：从郁金香到代币",
+      "reason": "AI泡沫论再起，市场担忧炒作",
+      "heat": 70,
       "newsIds": [
-        "4cb2503f590d7ea7862f6272453a61ac108d0329"
+        "caf37ae6194c57cad040559f77c38cf0494f4f1d"
       ]
     },
     {
       "rank": 6,
-      "title": "苹果AI安全漏洞频发",
-      "reason": "苹果AI漏洞修复力不从心",
-      "heat": 78,
+      "title": "YC公司获1350万美元融资优化Token",
+      "reason": "YC新锐获投，降低token消耗成焦点",
+      "heat": 65,
       "newsIds": [
-        "ff3bf37caea495f3b3d5791adb44d3d71b794e04"
+        "a701979726c6989be6ed666c44f1ac319374b6d4"
       ]
     },
     {
       "rank": 7,
-      "title": "Fender CEO模拟AI言论引争议",
-      "reason": "Fender CEO荒谬AI言论引众怒",
-      "heat": 75,
+      "title": "AI海报赢得博览会比赛引争议",
+      "reason": "AI艺术获奖，公平性质疑升温",
+      "heat": 60,
       "newsIds": [
-        "59a85518969cac8c7ae12c5ae96c4cfa5bd37579"
+        "f569f1ee57c53aff672ac5ff1901d4bd86c79747"
       ]
     },
     {
       "rank": 8,
-      "title": "16岁少年开发AI代理",
-      "reason": "16岁少年打造AI代理",
-      "heat": 72,
+      "title": "领英三成AI认证揭示职场风向",
+      "reason": "AI技能需求暴涨，就业市场转向",
+      "heat": 55,
       "newsIds": [
-        "8ebe3689611a1625dcbc8b60ba01ab90fc9515e0"
+        "cf70ae5c1afd5e983c86d0fafac88f87f7968b2c"
       ]
     }
   ]
