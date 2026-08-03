@@ -1,80 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T14:44:52.487Z",
+  "generatedAt": "2026-08-03T19:42:00.372Z",
   "items": [
     {
       "rank": 1,
-      "title": "欧盟AI法案生效，欧洲300亿欧元建AI超级工厂",
-      "reason": "欧洲AI监管与投资双管齐下，影响全球",
-      "heat": 95,
+      "title": "苹果新版Siri终于上线",
+      "reason": "苹果AI助手重大更新引热议",
+      "heat": 90,
       "newsIds": [
-        "0d0bd14cd24c02dae5aa1859b0259adddf8aacb4",
-        "d81766f52b5a409dd4b16414b1b17d5deca3daa7"
+        "6d2b08be4460228928c4d14b7e242aafaa9c8324"
       ]
     },
     {
       "rank": 2,
-      "title": "诺奖得主警告：AI指挥官或引发末日战争",
-      "reason": "顶级科学家对AI军事化的严重预警",
-      "heat": 92,
+      "title": "OpenAI网红旅行争议",
+      "reason": "品牌营销与AI争议碰撞",
+      "heat": 85,
       "newsIds": [
-        "c90d64e6677203e23e8fb2f3eda1ee0171e652cc"
+        "f30b130fca5ef327e44b02786eff5f78725382da"
       ]
     },
     {
       "rank": 3,
-      "title": "AI安全危机：OpenAI/HF被黑，代理记忆泄露，沙箱漏洞",
-      "reason": "AI领域安全事件频发，风险加剧",
-      "heat": 90,
+      "title": "欧盟AI透明度规则生效",
+      "reason": "全球首部AI透明度法规落地",
+      "heat": 82,
       "newsIds": [
-        "271d882754126957623e4da3583c2a0d68d3d6d4",
-        "87a1a8e201ca4a16a6ab36f1af57c1fdfde01000",
-        "777aa47965da2c16c0710c5e5fde360bc50b318e"
+        "153c499b04198b0fefa6dd59ac79a83205923b71",
+        "4457b965006c7c72c4e43f4d4a8cae19de34fd34"
       ]
     },
     {
       "rank": 4,
-      "title": "AI正在取代客服岗位，就业冲击引担忧",
-      "reason": "AI大规模替代人工，就业市场受冲击",
-      "heat": 85,
+      "title": "白宫新AI监管框架",
+      "reason": "美国官方强化AI安全审查",
+      "heat": 80,
       "newsIds": [
-        "55e6f906439568a98ad71f2124c4813ab6baf706"
+        "bfb892f87276d9d63abb714b8881e3faaf123da1",
+        "0e56b7d13563ce84db8370d6ee3e3adf98e85a5f"
       ]
     },
     {
       "rank": 5,
-      "title": "Anthropic布局AI实体商业：售货机、商店与咖啡馆",
-      "reason": "AI公司从虚拟走向实体，探索新商业模式",
-      "heat": 82,
+      "title": "特朗普AI保护主义波及机器人",
+      "reason": "关税政策影响人形机器人产业",
+      "heat": 78,
       "newsIds": [
-        "c0faacfc8dabc1f1022ac4449c4a9c4b07e285e6"
+        "9dfa8f07c07effac71550aaab1b727ee1cef1194"
       ]
     },
     {
       "rank": 6,
-      "title": "AI垃圾工厂：TikTok Shop推销FDA召回产品",
-      "reason": "AI滥用营销违规商品，监管漏洞暴露",
-      "heat": 78,
+      "title": "16岁少年用AI推翻教授观点",
+      "reason": "少年挑战权威引关注",
+      "heat": 75,
       "newsIds": [
-        "35731b7e0470dc52789f8721318999e5b9518b50"
+        "be6681eac78e1e0b0a415c3d72caba66e277d4b4"
       ]
     },
     {
       "rank": 7,
-      "title": "AI骗子比人类更擅长建立信任，社交工程威胁升级",
-      "reason": "AI社交工程能力超越人类，安全再亮红灯",
-      "heat": 75,
+      "title": "AI垃圾信息污染CVE漏洞库",
+      "reason": "虚假漏洞威胁网络安全",
+      "heat": 72,
       "newsIds": [
-        "8e5c683bfe6bade5833e94a660ca10e8d519761e"
+        "27c4740f49181d9e40a97698d6cc7cab04ceeeb0"
       ]
     },
     {
       "rank": 8,
-      "title": "简单Markdown wiki竟胜过AI代理记忆产品",
-      "reason": "轻量方案在基准测试中击败复杂AI系统",
-      "heat": 72,
+      "title": "DesignArena融资790万美元",
+      "reason": "AI审美评测受资本青睐",
+      "heat": 68,
       "newsIds": [
-        "056119e9d1a7f25b6c601b72fd1f08b675b9e656"
+        "6005530a97f89d22db6c9c928ca780fa86217cc8"
       ]
     }
   ]

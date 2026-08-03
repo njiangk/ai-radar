@@ -110219,8 +110219,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.6146,
-          "priceOutPer1M": 1.9316
+          "priceInPer1M": 0.6286,
+          "priceOutPer1M": 1.9756
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -127422,6 +127422,13 @@
           "priceOutPer1M": 4.4
         },
         {
+          "id": "ambient/deepseek/deepseek-v4-flash-0731",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.14,
+          "priceOutPer1M": 0.28
+        },
+        {
           "id": "ambient/xiaomi/mimo-v2.5",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -140498,6 +140505,13 @@
           "priceOutPer1M": 2.294
         },
         {
+          "id": "merge-gateway/qwen/qwen3.8-max",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 6
+        },
+        {
           "id": "merge-gateway/qwen/qwen3-coder-flash",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -144947,7 +144961,7 @@
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.07,
-          "priceOutPer1M": 0.28
+          "priceOutPer1M": 0.27
         },
         {
           "id": "openrouter/qwen/qwen3.5-plus-02-15",
