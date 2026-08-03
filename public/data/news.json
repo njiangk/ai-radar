@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-02T22:57:46.500Z",
+  "generatedAt": "2026-08-03T01:00:22.074Z",
   "items": [
+    {
+      "id": "a701979726c6989be6ed666c44f1ac319374b6d4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A YC Startup That Wants to Kill Tokenmaxxing Just Raised $13.5M",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.businessinsider.com/weave-funding-tokenmaxxing-startup-y-combinator-ai-coding-spend-developers-2026-7",
+      "publishedAt": "2026-08-03T00:55:16.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "ca7fe4361c397b226ee37f2d9d6b2459890e18e6",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "How to Group and Organize Notebooks in NotebookLM (Collections)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nlmtools.com/blog/notebooklm-collections-guide",
+      "publishedAt": "2026-08-03T00:52:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4c0afeb3381e3a71f856cac6f58a539e57901839",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Crisis in Mathematics and the Prospect of AIcademia",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ryansimonelli.com/absolute-irony-blog/the-crisis-in-mathematics-and-the-prospect-of-aicademia",
+      "publishedAt": "2026-08-03T00:26:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1723bfd38ea01a625723a75c2f94791e3e6d4c72",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "An Integrative Appraisal Model of Epistemic Curiosity",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12894534",
+      "publishedAt": "2026-08-03T00:14:02.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "009e800679689d53d5d17292ee0ebb46eb3a1cbf",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: mlxsh A lightweight CLI to serve multiple local LLMs on Apple",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/ansnadeem/mlxsh",
+      "publishedAt": "2026-08-03T00:03:17.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "29c745b862aad71757b258bf8083b2a73f605e72",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Connes' Rigidity Theorem: Disproof of Open AI's Counterexample and Proof",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://philarchive.org/rec/NIEWTC",
+      "publishedAt": "2026-08-02T23:56:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "50dd1dd36f9308d96b7dd82a8dcedf1e0fc4b3c6",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Atomadic- Zero-LLM Sub-200us MCP Action Interlock (Storefront Restored)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://atomadic.tech/orchard.html",
+      "publishedAt": "2026-08-02T23:49:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b6d35c70689fec0af27f1edd9644d5446ce22804",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The diabolical world of convincing AI thirst traps",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
+      "publishedAt": "2026-08-02T23:24:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8ebe3689611a1625dcbc8b60ba01ab90fc9515e0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/spikonado/sprocket",
+      "publishedAt": "2026-08-02T23:04:53.000Z",
+      "category": "其他"
+    },
     {
       "id": "f569f1ee57c53aff672ac5ff1901d4bd86c79747",
       "sourceId": "hn-ai",
@@ -61,6 +169,18 @@
       "url": "https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it",
       "publishedAt": "2026-08-02T22:33:44.000Z",
       "category": "其他"
+    },
+    {
+      "id": "9af221d9f20290bc9baef877062a6487396b0c72",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "condense-json 1.0",
+      "zhTitle": null,
+      "summary": "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\": { \"bar\": { \"string\": \" This is a string with foxes in it \", \"nested\": { \"more\": [ \" Here is a string \", \" another wi",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+      "publishedAt": "2026-08-02T22:19:59.000Z",
+      "category": "产品"
     },
     {
       "id": "ea2c04c70bbe955b2b6ad43698e05527adfef7c5",
@@ -339,54 +459,6 @@
       "category": "其他"
     },
     {
-      "id": "b2e315ac481c7ddbf11a5c35f0ffd922554db49a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Is AI Progress Stalling? Or is it me?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arnoldkling.substack.com/p/is-ai-progress-stalling",
-      "publishedAt": "2026-08-02T18:58:17.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e0449a003f89cfd2eae8765e86602f5da3d814d8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-assisted analytics now 10x cheaper",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper",
-      "publishedAt": "2026-08-02T18:49:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e9ce96d433929678b6f62630840dbc0158ac514b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: [Target: Humanity] An experimental alternate reality game",
-      "zhTitle": null,
-      "summary": "Target: Humanity is an experimental alternate reality game that aims to use in-universe mythology to foster real-world coordination. It&#x27;s an early work-in-progress and I&#x27;m looking for feedback on its entry-point. Looking forward to hearing your thoughts!",
-      "zhSummary": null,
-      "url": "https://targethumanity.com",
-      "publishedAt": "2026-08-02T18:29:16.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c95dabad230a59ac65230fa31b4b57e593b730ac",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "An airport search, a wiped phone and a potential test of Fourth Amendment",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnn.com/2026/08/02/politics/airport-search-left-wing-activist-phone-code-fourth-amendment",
-      "publishedAt": "2026-08-02T18:24:55.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c6390e512ab633ae0f5d131b163b2c6eced7c72d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -432,18 +504,6 @@
       "zhSummary": null,
       "url": "https://github.com/AdityaSBisht/finance-mcp",
       "publishedAt": "2026-08-02T17:03:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c2c7e7e507b89d07cea784317277be0ba9cde768",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "How fast is C++26's std:hive?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive",
-      "publishedAt": "2026-08-02T17:03:06.000Z",
       "category": "其他"
     },
     {
@@ -543,18 +603,6 @@
       "category": "模型发布"
     },
     {
-      "id": "71afcada87edb7e061ef8662a9df468746ffc4b9",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Shitty Sleep",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemurintheattic.mataroa.blog/p/shitty-sleep",
-      "publishedAt": "2026-08-02T13:56:12.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c0e0d55e1958e401acb62752524becbc29ca9f4d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -564,18 +612,6 @@
       "zhSummary": null,
       "url": "https://www.alecvo.org/blog/types-with-ai",
       "publishedAt": "2026-08-02T13:52:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0b9891d1aa8de4b234e1fd170bd99b83894989d8",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLVM for OpenBSD/SPARC64",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://undeadly.org/cgi?action=article;sid=20260730130302",
-      "publishedAt": "2026-08-02T13:40:48.000Z",
       "category": "其他"
     },
     {
@@ -625,30 +661,6 @@
       "url": "https://github.com/Veloresearch/velocity-mta-proof",
       "publishedAt": "2026-08-02T12:17:09.000Z",
       "category": "研究"
-    },
-    {
-      "id": "4423410040aa5ed430e187bde420b26b041761ed",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Fuse – statically typed functional programming language",
-      "zhTitle": null,
-      "summary": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code. Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations. I’ve been developing the",
-      "zhSummary": null,
-      "url": "https://fuselang.org",
-      "publishedAt": "2026-08-02T11:23:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "8008930bf2c2ffcb07edded84b1175c37656b403",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLM Counter-Defaults",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://counterdefaults.aixdesign.co",
-      "publishedAt": "2026-08-02T10:49:23.000Z",
-      "category": "其他"
     },
     {
       "id": "8ae9b0deac811c93941916c560d3e8f90140b59d",
@@ -2761,18 +2773,6 @@
       "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
       "publishedAt": "2026-07-26T19:30:54.000Z",
       "category": "工具"
-    },
-    {
-      "id": "bb66b233b8a518bcf1b0eafb01bbbbe430ff997a",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "sqlite-utils 3.39.1",
-      "zhTitle": null,
-      "summary": "Release: sqlite-utils 3.39.1 I back-ported a fix for table.delete_where() that shipped in version 4. Tags: sqlite-utils",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything",
-      "publishedAt": "2026-07-26T04:38:46.000Z",
-      "category": "其他"
     },
     {
       "id": "440046e72d95a1e3b8f8ac5d74bdcea2a441c604",
