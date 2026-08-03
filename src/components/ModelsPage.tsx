@@ -91,6 +91,30 @@ function ScatterTooltip({
   );
 }
 
+function LineTooltip({
+  active,
+  payload,
+  label,
+}: {
+  active?: boolean;
+  payload?: Array<{ name?: string; value?: number | string }>;
+  label?: string;
+}) {
+  if (!active || !payload?.length) {
+    return null;
+  }
+  return (
+    <div className="chart-tooltip">
+      <strong>{label}</strong>
+      {payload.map((entry, index) => (
+        <span key={index}>
+          {entry.name ?? '值'}: {formatScore(Number(entry.value))}
+        </span>
+      ))}
+    </div>
+  );
+}
+
 export function ModelsPage() {
   const [modelsFile, setModelsFile] = useState<ModelsFile | null>(null);
   const [history, setHistory] = useState<HistoryFile | null>(null);
@@ -532,7 +556,7 @@ export function ModelsPage() {
                   <CartesianGrid strokeDasharray="3 3" stroke="var(--border)" />
                   <XAxis dataKey="date" stroke="var(--muted)" tick={{ fontSize: 12 }} />
                   <YAxis domain={[0, 100]} stroke="var(--muted)" tick={{ fontSize: 12 }} />
-                  <Tooltip />
+                  <Tooltip content={<LineTooltip />} cursor={{ strokeDasharray: '3 3' }} />
                   <Line
                     type="monotone"
                     dataKey="benchmarkScore"

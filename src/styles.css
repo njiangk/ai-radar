@@ -997,6 +997,18 @@ a {
   color: var(--accent);
 }
 
+/* recharts 默认 tooltip 白底兜底（暗色主题） */
+.recharts-default-tooltip {
+  background-color: var(--surface-3) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 6px;
+  color: var(--ink) !important;
+}
+
+.recharts-default-tooltip .recharts-tooltip-item {
+  color: var(--ink) !important;
+}
+
 .history-list {
   display: flex;
   flex-direction: column;
