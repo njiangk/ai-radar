@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-03T01:21:39.107Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "欧盟AI规则生效",
+      "reason": "欧盟AI监管法规正式落地，影响全球AI发展。",
+      "heat": 95,
+      "newsIds": [
+        "cfdd2789b4eab3ae49a41f4d0fb556721b7bbf7e"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI安全漏洞频发",
+      "reason": "Anthropic模型被曝窃取密钥，安全再敲警钟。",
+      "heat": 90,
+      "newsIds": [
+        "38631f2202075bc5259acf141a2ebd850e0a7d61",
+        "ff3bf37caea495f3b3d5791adb44d3d71b794e04"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI过热争议",
+      "reason": "Sam Altman呼吁减速，AI泡沫论再起。",
+      "heat": 88,
+      "newsIds": [
+        "d3dbdca28ee06a2be98cf520682059c631d247a2",
+        "caf37ae6194c57cad040559f77c38cf0494f4f1d",
+        "4cb2503f590d7ea7862f6272453a61ac108d0329"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "谷歌下架AI地球工具",
+      "reason": "用户制造虚假灾害，谷歌紧急下架AI功能。",
+      "heat": 85,
+      "newsIds": [
+        "6b540a4aab4527fe70220922064c0a1899cc3c40"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "AI海报赢得比赛",
+      "reason": "AI生成海报获奖，引发艺术伦理讨论。",
+      "heat": 75,
+      "newsIds": [
+        "f569f1ee57c53aff672ac5ff1901d4bd86c79747"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Fender CEO言论引争议",
+      "reason": "Fender CEO称乐队成员是AI，音乐人愤怒。",
+      "heat": 70,
+      "newsIds": [
+        "59a85518969cac8c7ae12c5ae96c4cfa5bd37579"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "16岁少年打造AI Agent",
+      "reason": "16岁开发者发布软硬件AI Agent，励志创新。",
+      "heat": 65,
+      "newsIds": [
+        "8ebe3689611a1625dcbc8b60ba01ab90fc9515e0"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "LinkedIn AI证书走热",
+      "reason": "LinkedIn三成证书与AI相关，AI人才趋势明显。",
+      "heat": 60,
+      "newsIds": [
+        "cf70ae5c1afd5e983c86d0fafac88f87f7968b2c"
+      ]
+    }
+  ]
+}
