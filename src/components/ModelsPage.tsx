@@ -508,6 +508,9 @@ export function ModelsPage() {
                   domain={[0.01, 'auto']}
                   name="输入价格"
                   tickFormatter={(value: number) => formatPrice(value)}
+                  tickCount={6}
+                  minTickGap={24}
+                  tickMargin={8}
                   stroke="var(--muted)"
                   tick={{ fontSize: 12 }}
                 />
