@@ -1,83 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T06:30:42.271Z",
+  "generatedAt": "2026-08-04T10:43:06.780Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI武装乌克兰无人机自主作战",
-      "reason": "AI用于军事引发重大伦理争议",
-      "heat": 95,
+      "title": "Bending Spoons 12.85亿美元收购Airtable",
+      "reason": "巨额收购引发行业关注",
+      "heat": 92,
       "newsIds": [
-        "8e54c2adda8e049abb2187d15664745d99112013"
+        "8aeffcb7b5e3ae5be5557fcd366d1ba45b752838",
+        "3cd26e4dccad7bdcce55ce10a4982bb52a92fd22",
+        "4e05f3d6979e143c8644a7c0dd71af313505bcbb",
+        "af53282737b6fa245530fa86f02e8db9eacdf9a1",
+        "4666d1d644bc79437754d9c02b08616e5319ac20"
       ]
     },
     {
       "rank": 2,
-      "title": "中国AI加速扩张挑战美国",
-      "reason": "中美AI竞争格局生变，地缘影响大",
-      "heat": 92,
+      "title": "Mistral开源模型迎来机遇",
+      "reason": "美国科技巨头动荡，开源模型受青睐",
+      "heat": 80,
       "newsIds": [
-        "5f286f3ccae923fdb7991ea52a724acd9ad07d5e",
-        "5247b6e2870ed5f17af5e67e6cda4c9802d59ad1"
+        "d67d61a48489d39e4cf9cde9f38babc73e085398"
       ]
     },
     {
       "rank": 3,
-      "title": "AI代理生态爆发式增长",
-      "reason": "行业报告显示代理数量激增，趋势明确",
-      "heat": 88,
+      "title": "Reddit能抵御AI SEO垃圾信息吗？",
+      "reason": "AI生成内容考验社区治理",
+      "heat": 75,
       "newsIds": [
-        "6acf7ce90821d4dbea04dcf79c40b5c1958bb0f7",
-        "19dc8e5c3f42261313688e4fbfd644028541f196"
+        "71649e07497cf1ff4bed6f99680e5576f58c8318"
       ]
     },
     {
       "rank": 4,
-      "title": "Palantir CEO抨击AI行业",
-      "reason": "行业大佬言论引发轩然大波",
-      "heat": 85,
+      "title": "数据中心如何打破美国政治",
+      "reason": "AI基础设施引发政治博弈",
+      "heat": 70,
       "newsIds": [
-        "0f03d6926d63ac54a085ea542625e1219a6bce50",
-        "6173c5c7f3943a5598d863afbc724c2584679e77"
+        "8ea9017a007a8ea804025c6aed95bd34ff4a2131"
       ]
     },
     {
       "rank": 5,
-      "title": "新型攻击威胁LLM零知识验证",
-      "reason": "发现安全漏洞，影响模型信任机制",
-      "heat": 82,
+      "title": "欧洲寻求摆脱美中技术依赖",
+      "reason": "科技主权成地缘焦点",
+      "heat": 65,
       "newsIds": [
-        "9389c77f29df603ec0345ab22e535d024fdbb4aa"
+        "ed62d210ed35967497e1e34c4ae7ac38352a281c"
       ]
     },
     {
       "rank": 6,
-      "title": "AI深度改变美国经济",
-      "reason": "AI热潮重塑经济结构，投资关注度高",
-      "heat": 80,
+      "title": "LinkedIn今年不重金投入AI硬件",
+      "reason": "巨头AI支出策略引关注",
+      "heat": 60,
       "newsIds": [
-        "980b0282aadd1d438daa3ed7d5e8e8c29c538fb8",
-        "52d926deb0ba4256db0c2852f3882fe8464197d8"
+        "08e69c4bd8e649cfcf93e29b34398856ad4cb37b"
       ]
     },
     {
       "rank": 7,
-      "title": "AI艺术引发传统领域争议",
-      "reason": "AI作品进入主流舞台遭遇嘘声",
-      "heat": 70,
+      "title": "AI攻克传奇数学难题",
+      "reason": "AI科学能力再次突破",
+      "heat": 55,
       "newsIds": [
-        "aa5470c6be7f398f0f5798772e2ee70f8005b036",
-        "d21c8847550e4248977655d36b50d932f4ddab67"
+        "fcd661a6629c704439f11d93f317638970d48146",
+        "726f1346fbe64822e9f238c62d59c2f384ed259e"
       ]
     },
     {
       "rank": 8,
-      "title": "LLM推理效率研究新进展",
-      "reason": "突破性研究提升模型推理能力",
-      "heat": 66,
+      "title": "好莱坞AI应用已成常态",
+      "reason": "AI深入影视制作引发讨论",
+      "heat": 50,
       "newsIds": [
-        "3b9cdd03dd6b517664a33ce7f3631e6efb48d190",
-        "01da4d4f5e975624bfc645daec0c6366b6813fd3"
+        "f167ed01b76ea930e25f95ee32a61b8259e3f54c"
       ]
     }
   ]
