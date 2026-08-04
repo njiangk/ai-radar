@@ -1,82 +1,84 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T10:43:06.780Z",
+  "generatedAt": "2026-08-04T17:52:46.166Z",
   "items": [
     {
       "rank": 1,
-      "title": "Bending Spoons 12.85亿美元收购Airtable",
-      "reason": "巨额收购引发行业关注",
-      "heat": 92,
+      "title": "Bending Spoons收购Airtable",
+      "reason": "23亿美元并购，办公软件格局生变",
+      "heat": 90,
       "newsIds": [
-        "8aeffcb7b5e3ae5be5557fcd366d1ba45b752838",
-        "3cd26e4dccad7bdcce55ce10a4982bb52a92fd22",
-        "4e05f3d6979e143c8644a7c0dd71af313505bcbb",
-        "af53282737b6fa245530fa86f02e8db9eacdf9a1",
-        "4666d1d644bc79437754d9c02b08616e5319ac20"
+        "f0d9e4558095f952b083afe00bbb9b8b453ffe19"
       ]
     },
     {
       "rank": 2,
-      "title": "Mistral开源模型迎来机遇",
-      "reason": "美国科技巨头动荡，开源模型受青睐",
-      "heat": 80,
+      "title": "AI投资过热警钟再响",
+      "reason": "巨头巨额押注引发泡沫担忧",
+      "heat": 85,
       "newsIds": [
-        "d67d61a48489d39e4cf9cde9f38babc73e085398"
+        "024c9e8fdbb7c020b9434d5c6c86b089052d6dfd",
+        "edb10edc54251510dfc1eaff2e5f810fd744809a"
       ]
     },
     {
       "rank": 3,
-      "title": "Reddit能抵御AI SEO垃圾信息吗？",
-      "reason": "AI生成内容考验社区治理",
-      "heat": 75,
+      "title": "AI编码代理：快与不靠谱并存",
+      "reason": "多个案例暴露AI编程幻觉与风险",
+      "heat": 80,
       "newsIds": [
-        "71649e07497cf1ff4bed6f99680e5576f58c8318"
+        "c6097a4ea17652608e5b92e2a3fe9e87c68c96b9",
+        "ef98d3bb96dce0396ade0752488a0e7e0e6705d7",
+        "4c97f31a7c052e6d8c11ec2e4d726085b1ac5199",
+        "b22b723db08d74a76219b365ae373c6244a8ec0e"
       ]
     },
     {
       "rank": 4,
-      "title": "数据中心如何打破美国政治",
-      "reason": "AI基础设施引发政治博弈",
-      "heat": 70,
+      "title": "对话式AI重塑信息检索",
+      "reason": "搜索形态变革，影响信息获取方式",
+      "heat": 75,
       "newsIds": [
-        "8ea9017a007a8ea804025c6aed95bd34ff4a2131"
+        "a1d4a6a6bc7f86b91a2a1e74ea37e34857fa0396",
+        "581b2c76c5fb35979d52090de7b721c8eb04be10"
       ]
     },
     {
       "rank": 5,
-      "title": "欧洲寻求摆脱美中技术依赖",
-      "reason": "科技主权成地缘焦点",
-      "heat": 65,
+      "title": "AI智能体的失败与反噬",
+      "reason": "数据揭示失败原因，LLM攻击实验室引警惕",
+      "heat": 82,
       "newsIds": [
-        "ed62d210ed35967497e1e34c4ae7ac38352a281c"
+        "966d7c371f17290655241b4a9981e0b8d5908b01",
+        "1944a5adefdd3895b5e1fca3ae97f508a8790d7e"
       ]
     },
     {
       "rank": 6,
-      "title": "LinkedIn今年不重金投入AI硬件",
-      "reason": "巨头AI支出策略引关注",
-      "heat": 60,
+      "title": "AI基准测试陷入平台期",
+      "reason": "基准饱和，模型能力评估遇瓶颈",
+      "heat": 70,
       "newsIds": [
-        "08e69c4bd8e649cfcf93e29b34398856ad4cb37b"
+        "e87390b3ad54d253e5c20417b4e29736abecc3b0",
+        "3e0986e8be62339206ed214e593600cc8b8f9b37"
       ]
     },
     {
       "rank": 7,
-      "title": "AI攻克传奇数学难题",
-      "reason": "AI科学能力再次突破",
-      "heat": 55,
+      "title": "Mistral发布多模态审核模型",
+      "reason": "30亿参数开放权重，填补开源审核空白",
+      "heat": 78,
       "newsIds": [
-        "fcd661a6629c704439f11d93f317638970d48146",
-        "726f1346fbe64822e9f238c62d59c2f384ed259e"
+        "6d7e980791db251571616c6813abb57ee6f2326e"
       ]
     },
     {
       "rank": 8,
-      "title": "好莱坞AI应用已成常态",
-      "reason": "AI深入影视制作引发讨论",
-      "heat": 50,
+      "title": "NVIDIA加入NSF AI中心计划",
+      "reason": "巨头联手政府，扩大AI教育研究",
+      "heat": 72,
       "newsIds": [
-        "f167ed01b76ea930e25f95ee32a61b8259e3f54c"
+        "31b4bc9f80b9ccc15a4b8dfeedbc1b76ae2a5f56"
       ]
     }
   ]
