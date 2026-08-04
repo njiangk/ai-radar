@@ -210720,6 +210720,20 @@
           "priceOutPer1M": 2.5
         },
         {
+          "id": "gemini/gemini-robotics-er-2-preview",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 10
+        },
+        {
+          "id": "gemini/gemini-robotics-er-1.6-preview",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1,
+          "priceOutPer1M": 5
+        },
+        {
           "id": "vertex_ai-language-models/gemini-2.5-computer-use-preview-10-2025",
           "benchmarkScore": null,
           "livebenchAvg": null,

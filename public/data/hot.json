@@ -1,81 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T21:15:53.340Z",
+  "generatedAt": "2026-08-04T23:07:40.286Z",
   "items": [
     {
       "rank": 1,
-      "title": "Bending Spoons收购Airtable",
-      "reason": "13亿美元收购知名SaaS，科技并购大事件",
+      "title": "AI股抛售引发市场恐慌",
+      "reason": "对冲基金巨亏，投资者担忧泡沫破裂",
       "heat": 95,
       "newsIds": [
-        "241d1223063e768b1a6c4a1706963f263307f72a",
-        "8aeffcb7b5e3ae5be5557fcd366d1ba45b752838"
+        "8f735871e272894b496d9c1ded7fcb6980c56a76",
+        "b3e28333e4a6cedd5db3774b170d049f5cae1740",
+        "eec9694db29c3e582a0e80a21863b76252577d95"
       ]
     },
     {
       "rank": 2,
-      "title": "SpaceX AI业务扩张",
-      "reason": "购特斯拉Megapack且AI收入激增，马斯克布局受关注",
-      "heat": 92,
+      "title": "Bending Spoons收购Airtable",
+      "reason": "13亿美元并购，云办公格局生变",
+      "heat": 90,
       "newsIds": [
-        "3377842032d05b34c68ecc334ece12deb1f305ca",
-        "ed45a6ea532204b9a61010c112dca93f48bc68dc"
+        "57cccf8af43f2d491b31ee0c7026b11fa66464e1",
+        "241d1223063e768b1a6c4a1706963f263307f72a"
       ]
     },
     {
       "rank": 3,
-      "title": "AMD数据中心收入翻番",
-      "reason": "AI算力需求推动财报亮眼，游戏业务萎缩",
-      "heat": 90,
+      "title": "德州暂停数据中心接入电网",
+      "reason": "AI需求激增，电网不堪重负",
+      "heat": 85,
       "newsIds": [
-        "4707f42c55fa5de9ecab73d1eab1490bf1fd15ce"
+        "3296c5ee5b6c7c6ff3c4274866f35069c4cbe9ed",
+        "8fad3a447869e492c13854553d913812687364d4"
       ]
     },
     {
       "rank": 4,
-      "title": "Anthropic与Volta达成100亿美元协议",
-      "reason": "AI巨头巨额云合作，行业格局再变动",
-      "heat": 88,
+      "title": "Anthropic与Volta签署100亿美元协议",
+      "reason": "巨额云合作，AI算力军备竞赛升级",
+      "heat": 80,
       "newsIds": [
         "cbd7ccd489772295108c7d731d0b21f5d4d70c17"
       ]
     },
     {
       "rank": 5,
-      "title": "德国法院裁定AI音乐版权违规",
-      "reason": "AI版权法律里程碑，影响行业规范",
-      "heat": 85,
+      "title": "Suno败诉侵权案",
+      "reason": "AI音乐版权首例败诉，影响行业",
+      "heat": 75,
       "newsIds": [
-        "cfa2a52b4ab052141dec60efe0c94ca782838c42"
+        "7d6e9012c34a5401a9086cc35fc4524d23249747"
       ]
     },
     {
       "rank": 6,
-      "title": "开放权重AI模型安全差距",
-      "reason": "GLM-5.2逼近前沿但缺乏安全措施引担忧",
-      "heat": 82,
+      "title": "白宫AI网络安全框架保密",
+      "reason": "政府与AI企业闭门，公众知情权受质疑",
+      "heat": 70,
+      "newsIds": [
+        "ff7f0d6fb49aeb45563e12a196bc0e72168f0ebf"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "开放权重模型安全差距",
+      "reason": "GLM-5.2能力逼近前沿但缺安全措施",
+      "heat": 65,
       "newsIds": [
         "167f98deda50e7bdfeb7571f29cd7aa34c06b092"
       ]
     },
     {
-      "rank": 7,
-      "title": "AI安全漏洞引发担忧",
-      "reason": "多起报告显示AI护栏易绕过、凭证泄露普遍",
-      "heat": 80,
-      "newsIds": [
-        "36947993be226e6fc9908f1cd3987bbd7e47f4ce",
-        "dc907616b384e6990dfafccef1d781dfb51de90b",
-        "40694f2ba1360f0795b4a294dafb91dc5f637ae7"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "德州暂停数据中心并网",
-      "reason": "AI需求超负荷，电网承压引发基础设施争议",
-      "heat": 78,
+      "title": "中国开源模型攻势",
+      "reason": "开源模型冲击，美企焦虑",
+      "heat": 60,
       "newsIds": [
-        "8fad3a447869e492c13854553d913812687364d4"
+        "af36fe24675e00ac65381c19bb2bdfcc4c11ea9f"
       ]
     }
   ]
