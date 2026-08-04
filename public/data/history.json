@@ -134583,6 +134583,13 @@
           "priceOutPer1M": 3.22
         },
         {
+          "id": "neuralwatt/kimi-k3",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 3,
+          "priceOutPer1M": 15
+        },
+        {
           "id": "neuralwatt/glm-5.2-flex",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -143686,8 +143693,8 @@
           "id": "alibaba-cn/qwen3.8-max",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.65,
-          "priceOutPer1M": 4.951
+          "priceInPer1M": 1.7774,
+          "priceOutPer1M": 5.3323
         },
         {
           "id": "alibaba-cn/deepseek-v3-2-exp",

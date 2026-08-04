@@ -1,7 +1,103 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T14:24:10.135Z",
+  "generatedAt": "2026-08-04T14:59:02.614Z",
   "items": [
+    {
+      "id": "cdbb3665f938b448d535a8bbff87acc0823e24ea",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Don't Scale Yet, Because of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://nloum.github.io/blog/dont-scale-yet-because-of-ai",
+      "publishedAt": "2026-08-04T14:52:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "353b65f5ecd33955bf9144c2c383322d1ae18d4e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Simple self-hosted LLM assistant with user-steered compounding context",
+      "zhTitle": null,
+      "summary": "I built a personal LLM assistant on Cloudflare Workers + Durable Objects. You specify a category and topic when starting a new conversation, so the backend maintains a summary for each category&#x2F;topic - building up as more conversations happen under the same one. There is no complicated RAG, embeddings, or agentic magic, but the category&#x2F;topic summaries system just works, and I&#x27;ve ge",
+      "zhSummary": null,
+      "url": "https://github.com/kol3x/pawmc",
+      "publishedAt": "2026-08-04T14:48:35.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "a7d45395756925ab14a9ee7be174158f06b487ff",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Vale-LLM-slop – prose linting for LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/Syntaf/vale-llm-slop",
+      "publishedAt": "2026-08-04T14:48:07.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4d6efab7fb6bfb1c0a8b0c64bdf9183bcc62357f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Security Vendor's AI Best Practices Labels Critical Elixir RCE Safe",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://paraxial.io/blog/ai-spam",
+      "publishedAt": "2026-08-04T14:45:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "dd47eecdc642d9ef83c4aa537c40bd9b1bf84a44",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
+      "publishedAt": "2026-08-04T14:38:41.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "7695105a2085b05c37aece0f3dbc5199140639f9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "LFM2.5-2.6B: Deploy Agents Everywhere",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.liquid.ai/blog/lfm2-5-2-6b",
+      "publishedAt": "2026-08-04T14:27:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4adddbedda5f55b5536b28b2a4c2a0c765beaa49",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Auto Router (Beta) – API Pricing and Providers – OpenRouter",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://openrouter.ai/openrouter/auto-beta",
+      "publishedAt": "2026-08-04T14:23:14.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "7319e7bc9e7efc657a122c4723fe4dae03e9c196",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal",
+      "publishedAt": "2026-08-04T14:19:54.000Z",
+      "category": "政策"
+    },
     {
       "id": "59636fb7eb8fef14f263229a57c6f91aa50d068e",
       "sourceId": "hn-ai",
@@ -351,30 +447,6 @@
       "category": "模型发布"
     },
     {
-      "id": "05bafa86175cb045b40ff852e0c50930c32b8ffe",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://app.tryloopers.com",
-      "publishedAt": "2026-08-04T13:10:52.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "60c5acf20bdde83fb92a336c05ddc033a5096fd4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Observability Turns Vibe Coding into AI Engineering",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering",
-      "publishedAt": "2026-08-04T13:06:09.000Z",
-      "category": "其他"
-    },
-    {
       "id": "83875c3da0b1e436a6a1452ecb7dcb056f93f5f2",
       "sourceId": "nvidia-ai",
       "sourceName": "NVIDIA AI",
@@ -424,62 +496,14 @@
     },
     {
       "id": "5eea8afd80bc2ac0ac54521021a43ec61ece511b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "We built an AI model router that cut LLM costs by 94%",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://swordhealth.com/research/reduce-enterprise-ai-costs",
       "publishedAt": "2026-08-04T12:53:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b0da3e5d6d70f52c98c1ab7068a8d22ea3131ccb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Auditability vs. Forced Determinism: Future of Agentic AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/@MirArshadTalpur/auditability-vs-forced-determinism-future-of-agentic-ai-fb243d339338",
-      "publishedAt": "2026-08-04T12:47:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "5d91ad8d4a594b67773827edde8952e704dacb79",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-Native Firms",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6905079",
-      "publishedAt": "2026-08-04T12:41:01.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "241d1223063e768b1a6c4a1706963f263307f72a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Bending Spoons to acquire Airtable for $1.285B",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable",
-      "publishedAt": "2026-08-04T12:40:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "07c240bcef81d9c9e56a7e72a281e4ee3c21b419",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI's talent wars have a loyalty problem",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic",
-      "publishedAt": "2026-08-04T12:33:21.000Z",
       "category": "其他"
     },
     {
@@ -747,30 +771,6 @@
       "category": "研究"
     },
     {
-      "id": "1d246e81857efddac5ae40771163c47c0cbd4c40",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLM memory doesn't only get written wrong, it goes wrong later",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://manazir.dev/work/anamnesis-forecasting-memory-corruption",
-      "publishedAt": "2026-08-04T05:30:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9389c77f29df603ec0345ab22e535d024fdbb4aa",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Hollow-LLM Attack: Ghost Weights That Fool Zero-Knowledge LLM Verification",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2607.28884",
-      "publishedAt": "2026-08-04T02:07:06.000Z",
-      "category": "研究"
-    },
-    {
       "id": "1ed1f6384a4fe3f009a1a57e0622f85ad5dde94f",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -908,7 +908,7 @@
       "sourceName": "MIT Tech Review",
       "title": "Trump’s AI protectionism has come for robotics",
       "zhTitle": null,
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
       "zhSummary": null,
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
       "publishedAt": "2026-08-03T18:43:30.000Z",
@@ -1633,6 +1633,18 @@
       "url": "https://arxiv.org/abs/2608.02352v1",
       "publishedAt": "2026-08-03T15:04:20.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "Inside our 353,000-person vibe coding course",
+      "zhTitle": null,
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "zhSummary": null,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "category": "其他"
     },
     {
       "id": "66c32de738d6b7af84f8620d3ac3ee6a0daf622a",
@@ -3589,18 +3601,6 @@
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "publishedAt": "2026-07-07T15:20:06.000Z",
       "category": "其他"
-    },
-    {
-      "id": "f7eb2a868aacbc6f7921959048830fe084f1211f",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "zhTitle": null,
-      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "zhSummary": null,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "publishedAt": "2026-07-07T08:54:00.000Z",
-      "category": "模型发布"
     }
   ]
 }
