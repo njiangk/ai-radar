@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T02:44:21.615Z",
+  "generatedAt": "2026-08-04T06:30:42.271Z",
   "items": [
     {
       "rank": 1,
-      "title": "乌克兰无人机AI自主追踪",
-      "reason": "AI赋能低成本武器，改变战场规则",
+      "title": "AI武装乌克兰无人机自主作战",
+      "reason": "AI用于军事引发重大伦理争议",
       "heat": 95,
       "newsIds": [
         "8e54c2adda8e049abb2187d15664745d99112013"
@@ -13,65 +13,71 @@
     },
     {
       "rank": 2,
-      "title": "Palantir CEO炮轰AI行业",
-      "reason": "巨头言论引发业界争议",
-      "heat": 90,
+      "title": "中国AI加速扩张挑战美国",
+      "reason": "中美AI竞争格局生变，地缘影响大",
+      "heat": 92,
       "newsIds": [
-        "0f03d6926d63ac54a085ea542625e1219a6bce50"
+        "5f286f3ccae923fdb7991ea52a724acd9ad07d5e",
+        "5247b6e2870ed5f17af5e67e6cda4c9802d59ad1"
       ]
     },
     {
       "rank": 3,
-      "title": "AI歌曲能否成为夏日神曲？",
-      "reason": "音乐AI版权与创意之争白热化",
-      "heat": 85,
+      "title": "AI代理生态爆发式增长",
+      "reason": "行业报告显示代理数量激增，趋势明确",
+      "heat": 88,
       "newsIds": [
-        "d21c8847550e4248977655d36b50d932f4ddab67"
+        "6acf7ce90821d4dbea04dcf79c40b5c1958bb0f7",
+        "19dc8e5c3f42261313688e4fbfd644028541f196"
       ]
     },
     {
       "rank": 4,
-      "title": "AI代理擅自动订单",
-      "reason": "自动化失控危及消费者权益",
-      "heat": 80,
+      "title": "Palantir CEO抨击AI行业",
+      "reason": "行业大佬言论引发轩然大波",
+      "heat": 85,
       "newsIds": [
-        "945cdde47de84b4bbcb9fdc6ef5089ca67271969"
+        "0f03d6926d63ac54a085ea542625e1219a6bce50",
+        "6173c5c7f3943a5598d863afbc724c2584679e77"
       ]
     },
     {
       "rank": 5,
-      "title": "Hollow-LLM攻击欺骗验证",
-      "reason": "新型LLM安全漏洞引发担忧",
-      "heat": 75,
+      "title": "新型攻击威胁LLM零知识验证",
+      "reason": "发现安全漏洞，影响模型信任机制",
+      "heat": 82,
       "newsIds": [
         "9389c77f29df603ec0345ab22e535d024fdbb4aa"
       ]
     },
     {
       "rank": 6,
-      "title": "AI正颠覆SaaS部署模式",
-      "reason": "BYOC将成企业服务新范式",
-      "heat": 70,
+      "title": "AI深度改变美国经济",
+      "reason": "AI热潮重塑经济结构，投资关注度高",
+      "heat": 80,
       "newsIds": [
-        "47ae8a7dff385b224e57059022aae5249a83f4eb"
+        "980b0282aadd1d438daa3ed7d5e8e8c29c538fb8",
+        "52d926deb0ba4256db0c2852f3882fe8464197d8"
       ]
     },
     {
       "rank": 7,
-      "title": "约会应用复刻《1984》",
-      "reason": "文学经典撞上现代科技创意",
-      "heat": 65,
+      "title": "AI艺术引发传统领域争议",
+      "reason": "AI作品进入主流舞台遭遇嘘声",
+      "heat": 70,
       "newsIds": [
-        "ee0174ba49c781d9458bd141b69d5074fc69e566"
+        "aa5470c6be7f398f0f5798772e2ee70f8005b036",
+        "d21c8847550e4248977655d36b50d932f4ddab67"
       ]
     },
     {
       "rank": 8,
-      "title": "别做AI的“肉代理”",
-      "reason": "盲目复制AI输出有职业风险",
-      "heat": 60,
+      "title": "LLM推理效率研究新进展",
+      "reason": "突破性研究提升模型推理能力",
+      "heat": 66,
       "newsIds": [
-        "1c5150c65d415e4b85699e35a293d578d53bcf56"
+        "3b9cdd03dd6b517664a33ce7f3631e6efb48d190",
+        "01da4d4f5e975624bfc645daec0c6366b6813fd3"
       ]
     }
   ]
