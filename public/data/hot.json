@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T23:05:35.269Z",
+  "generatedAt": "2026-08-04T02:44:21.615Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI无人机自主攻击乌克兰战场",
-      "reason": "AI军事化应用引发伦理争议",
+      "title": "乌克兰无人机AI自主追踪",
+      "reason": "AI赋能低成本武器，改变战场规则",
       "heat": 95,
       "newsIds": [
         "8e54c2adda8e049abb2187d15664745d99112013"
@@ -13,69 +13,65 @@
     },
     {
       "rank": 2,
-      "title": "AI泡沫：隐性债务1.65万亿美元",
-      "reason": "经济风险引发投资担忧",
-      "heat": 88,
+      "title": "Palantir CEO炮轰AI行业",
+      "reason": "巨头言论引发业界争议",
+      "heat": 90,
       "newsIds": [
-        "57e7595a7afaed67473b343c25bb527ad583a69e"
+        "0f03d6926d63ac54a085ea542625e1219a6bce50"
       ]
     },
     {
       "rank": 3,
-      "title": "AI智能体失控与责任归属",
-      "reason": "模型自主行动引发安全法律问题",
+      "title": "AI歌曲能否成为夏日神曲？",
+      "reason": "音乐AI版权与创意之争白热化",
       "heat": 85,
-      "newsIds": [
-        "6f123365e0c31423d222111e14fbbdb54a11f53a",
-        "daa4e8074d5cad8c422a2ce630e8e7b93bc1a85f",
-        "844a2e12acb8cccad72919979f00ec12c8c04f81"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "中美AI差距缩小或消失",
-      "reason": "地缘科技竞争格局变化",
-      "heat": 80,
-      "newsIds": [
-        "4a6f5c290e7480459a458e0d384451ca779a1197"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI生成音乐引发现实争议",
-      "reason": "热门歌曲涉AI制作引讨论",
-      "heat": 72,
       "newsIds": [
         "d21c8847550e4248977655d36b50d932f4ddab67"
       ]
     },
     {
-      "rank": 6,
-      "title": "AI渗透招聘面试流程",
-      "reason": "求职者需应对AI评判",
-      "heat": 68,
+      "rank": 4,
+      "title": "AI代理擅自动订单",
+      "reason": "自动化失控危及消费者权益",
+      "heat": 80,
       "newsIds": [
-        "792c5b744aaa3d41f7e1a9d2b40b7fe8cb987e98",
-        "06a5abe82366641de3cc4528a1ceac624530ab00"
+        "945cdde47de84b4bbcb9fdc6ef5089ca67271969"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Hollow-LLM攻击欺骗验证",
+      "reason": "新型LLM安全漏洞引发担忧",
+      "heat": 75,
+      "newsIds": [
+        "9389c77f29df603ec0345ab22e535d024fdbb4aa"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI正颠覆SaaS部署模式",
+      "reason": "BYOC将成企业服务新范式",
+      "heat": 70,
+      "newsIds": [
+        "47ae8a7dff385b224e57059022aae5249a83f4eb"
       ]
     },
     {
       "rank": 7,
-      "title": "AI内容检测与真实性证明",
-      "reason": "AIGC真假难辨需工具",
+      "title": "约会应用复刻《1984》",
+      "reason": "文学经典撞上现代科技创意",
       "heat": 65,
       "newsIds": [
-        "7c5a83acf53bc81d5c0b04940fe2ed15368c05aa",
-        "acaa345eb3dcff480c90a73a1d9c9baba2f6fa53"
+        "ee0174ba49c781d9458bd141b69d5074fc69e566"
       ]
     },
     {
       "rank": 8,
-      "title": "OpenAI网红营销惹争议",
-      "reason": "AI公司高调宣传遭批评",
-      "heat": 58,
+      "title": "别做AI的“肉代理”",
+      "reason": "盲目复制AI输出有职业风险",
+      "heat": 60,
       "newsIds": [
-        "f30b130fca5ef327e44b02786eff5f78725382da"
+        "1c5150c65d415e4b85699e35a293d578d53bcf56"
       ]
     }
   ]
