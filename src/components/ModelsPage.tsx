@@ -504,7 +504,8 @@ export function ModelsPage() {
                 <XAxis
                   dataKey="priceInPer1M"
                   type="number"
-                  domain={[0, 'auto']}
+                  scale="log"
+                  domain={[0.01, 'auto']}
                   name="输入价格"
                   tickFormatter={(value: number) => formatPrice(value)}
                   stroke="var(--muted)"
