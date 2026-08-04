@@ -1,84 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T17:52:46.166Z",
+  "generatedAt": "2026-08-04T19:41:32.697Z",
   "items": [
     {
       "rank": 1,
-      "title": "Bending Spoons收购Airtable",
-      "reason": "23亿美元并购，办公软件格局生变",
-      "heat": 90,
+      "title": "Bending Spoons 13亿美元收购Airtable",
+      "reason": "AI独角兽并购大案，引发行业关注",
+      "heat": 95,
       "newsIds": [
-        "f0d9e4558095f952b083afe00bbb9b8b453ffe19"
+        "8aeffcb7b5e3ae5be5557fcd366d1ba45b752838",
+        "5a35bcfaed1d76421e6e4a85704069bc85bcf3a3"
       ]
     },
     {
       "rank": 2,
-      "title": "AI投资过热警钟再响",
-      "reason": "巨头巨额押注引发泡沫担忧",
-      "heat": 85,
+      "title": "德国法院裁定AI音乐侵权",
+      "reason": "首例AI音乐版权判罚，影响深远",
+      "heat": 88,
       "newsIds": [
-        "024c9e8fdbb7c020b9434d5c6c86b089052d6dfd",
-        "edb10edc54251510dfc1eaff2e5f810fd744809a"
+        "cfa2a52b4ab052141dec60efe0c94ca782838c42"
       ]
     },
     {
       "rank": 3,
-      "title": "AI编码代理：快与不靠谱并存",
-      "reason": "多个案例暴露AI编程幻觉与风险",
-      "heat": 80,
+      "title": "英伟达牵头的安全AI联盟初显成效",
+      "reason": "开放联盟快速落地，防御AI代理",
+      "heat": 85,
       "newsIds": [
-        "c6097a4ea17652608e5b92e2a3fe9e87c68c96b9",
-        "ef98d3bb96dce0396ade0752488a0e7e0e6705d7",
-        "4c97f31a7c052e6d8c11ec2e4d726085b1ac5199",
-        "b22b723db08d74a76219b365ae373c6244a8ec0e"
+        "30e8185e86cb5876dbe1d9efc75bc5a14902ce76"
       ]
     },
     {
       "rank": 4,
-      "title": "对话式AI重塑信息检索",
-      "reason": "搜索形态变革，影响信息获取方式",
-      "heat": 75,
+      "title": "AI数据中心租赁负担压垮科技巨头",
+      "reason": "万亿美元租赁额，甲骨文濒临垃圾级",
+      "heat": 82,
       "newsIds": [
-        "a1d4a6a6bc7f86b91a2a1e74ea37e34857fa0396",
-        "581b2c76c5fb35979d52090de7b721c8eb04be10"
+        "c334ccc5a9f480c4ace3c5f3dbca426d95fad5f7",
+        "e5c8cf9b7db6be0a522407f37ee9e14cf5f3344d"
       ]
     },
     {
       "rank": 5,
-      "title": "AI智能体的失败与反噬",
-      "reason": "数据揭示失败原因，LLM攻击实验室引警惕",
-      "heat": 82,
+      "title": "AI改变软件工程：易构建难使用",
+      "reason": "AI降低门槛但加剧使用复杂度",
+      "heat": 78,
       "newsIds": [
-        "966d7c371f17290655241b4a9981e0b8d5908b01",
-        "1944a5adefdd3895b5e1fca3ae97f508a8790d7e"
+        "5edc1befd23b675abfed31670294082ccc41fc0a",
+        "0107d40512fa37171bbedef5963b647920071c8e"
       ]
     },
     {
       "rank": 6,
-      "title": "AI基准测试陷入平台期",
-      "reason": "基准饱和，模型能力评估遇瓶颈",
-      "heat": 70,
+      "title": "白宫决定不公开AI框架",
+      "reason": "政府AI策略转向隐秘，引发争议",
+      "heat": 75,
       "newsIds": [
-        "e87390b3ad54d253e5c20417b4e29736abecc3b0",
-        "3e0986e8be62339206ed214e593600cc8b8f9b37"
+        "ed82827b60b3dd2255bfe6f8730275e1c1d1e24c"
       ]
     },
     {
       "rank": 7,
-      "title": "Mistral发布多模态审核模型",
-      "reason": "30亿参数开放权重，填补开源审核空白",
-      "heat": 78,
+      "title": "马斯克：太空是AI部署的未来",
+      "reason": "AI算力成本，太空成候选地",
+      "heat": 72,
       "newsIds": [
-        "6d7e980791db251571616c6813abb57ee6f2326e"
+        "23056582644cdacee0f1c78678f49d3cd67893e8"
       ]
     },
     {
       "rank": 8,
-      "title": "NVIDIA加入NSF AI中心计划",
-      "reason": "巨头联手政府，扩大AI教育研究",
-      "heat": 72,
+      "title": "美军F-16实现AI实时自主拦截",
+      "reason": "军事AI实战化跨越里程碑",
+      "heat": 70,
       "newsIds": [
-        "31b4bc9f80b9ccc15a4b8dfeedbc1b76ae2a5f56"
+        "96db42369d272d90418acc3bf8fcd2869752a977"
       ]
     }
   ]
