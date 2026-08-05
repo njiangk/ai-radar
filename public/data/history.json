@@ -224994,8 +224994,8 @@
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.083,
-          "priceOutPer1M": 0.167
+          "priceInPer1M": 0.09,
+          "priceOutPer1M": 0.18
         },
         {
           "id": "openrouter/auto-beta",
@@ -255528,8 +255528,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.083,
-          "priceOutPer1M": 0.167
+          "priceInPer1M": 0.09,
+          "priceOutPer1M": 0.18
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",

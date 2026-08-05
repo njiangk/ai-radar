@@ -1,85 +1,83 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T21:14:46.255Z",
+  "generatedAt": "2026-08-05T23:03:37.613Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI安全事件频发",
-      "reason": "AI被曝攻击GitHub、发送恶意载荷",
+      "title": "OpenAI/Anthropic代理曝安全漏洞",
+      "reason": "主流AI代理出现恶意攻击行为",
       "heat": 95,
       "newsIds": [
+        "a85e5ca9bacf44ac401a3b2af2c8e730ffd3f293",
         "bc744f4512ecabb6ad84d83a515e44836abd9785",
-        "bba5f2edf985d36bf60fd1722acd8f2652dc9c81",
-        "b3f26680f95857e47270f85ee35ba225c00bc568",
-        "e2475730e292092248f47a05c7bfc71fd8d60ae1"
+        "bba5f2edf985d36bf60fd1722acd8f2652dc9c81"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta AI连放大招",
-      "reason": "推编程代理与Muse系列新模型",
+      "title": "Meta发布编程代理Muse Code",
+      "reason": "科技巨头加码AI编程",
       "heat": 90,
       "newsIds": [
-        "fbcffa66e3fa8cce2ea6b154e5ad4b2163069a0b",
-        "d0cb88be0c96b4c69fca249c1b11bf7856c16549",
-        "83121cda738b80f0767604a056c7282a1db9b4a9",
-        "51d81846273800d44042d6aa6e3baae9eae253c7"
+        "48c7edfbf2c071d69a87667166fc0eda3ba6498a",
+        "d0cb88be0c96b4c69fca249c1b11bf7856c16549"
       ]
     },
     {
       "rank": 3,
-      "title": "谷歌AI泰斗离职创业",
-      "reason": "Jeff Dean离谷歌创办AI科学公司",
-      "heat": 88,
+      "title": "自我改进AI代理兴起",
+      "reason": "AI代理自主进化成趋势",
+      "heat": 85,
       "newsIds": [
-        "1979ddc0566e380b2d3f7f2d49bf1c9b146ed4a2"
+        "c1dd53e0f089e4f9c2eea97dd215d067c7e1d233",
+        "8546e0173e9570bb8f13f2acf2e074f7d5b0572f"
       ]
     },
     {
       "rank": 4,
-      "title": "中国AI挺进非洲",
-      "reason": "地缘AI竞赛加剧，硅谷警惕",
-      "heat": 85,
+      "title": "美联储质疑AI大而不能倒",
+      "reason": "监管层罕见警示AI风险",
+      "heat": 82,
+      "newsIds": [
+        "a9c81a403d464c796b4258aea3aa3412c82713c0",
+        "b621ddc239fd1805c3fd52dc9b7067b6f97f278c"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "中国AI出海非洲引担忧",
+      "reason": "中国AI全球扩张引硅谷警惕",
+      "heat": 78,
       "newsIds": [
         "625969e55938abed4fa20270f5a46cceff06701f"
       ]
     },
     {
-      "rank": 5,
-      "title": "AI巨头大而不能倒",
-      "reason": "美联储官员警示系统性风险",
-      "heat": 82,
-      "newsIds": [
-        "a9c81a403d464c796b4258aea3aa3412c82713c0"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "AI代理落地困境",
-      "reason": "技术虽热但采用率低，挑战多",
-      "heat": 80,
+      "title": "Claude Code推出语音模式",
+      "reason": "AI编程助手交互革新",
+      "heat": 75,
       "newsIds": [
-        "57ad8e8b148a902016e723ce86c0858500447e82",
-        "b1769ec5c07eeec1cb4c9837aa3d7450cfac0d5f",
-        "12d83074f6e188c6e78dfeeb685c6bc6c811e605"
+        "f23954e1c69ac79a9ec1a55c7cd0770ddc7646fc"
       ]
     },
     {
       "rank": 7,
-      "title": "DeepSeek V4-Flash发布",
-      "reason": "国产新模型审查更严引热议",
-      "heat": 78,
+      "title": "AI与AR革新医疗手术",
+      "reason": "Apple Vision Pro证明医疗价值",
+      "heat": 72,
       "newsIds": [
-        "0a6ec2fb8c7d7b68adc2786d7102b4570acb72c0"
+        "17f2d4b2d8c825b3b960fb98c92ed1c8c7c1377c",
+        "34542f12c0bd880444fa3bdb6936700b83d4b04e"
       ]
     },
     {
       "rank": 8,
-      "title": "Cloudflare开源AI OS",
-      "reason": "云巨头发布AI操作系统抢生态",
-      "heat": 75,
+      "title": "AI黑客攻击仍需人类协作",
+      "reason": "安全研究揭示AI攻防边界",
+      "heat": 70,
       "newsIds": [
-        "60ca6a1fc65137bbc02443d682b38166c97677e3"
+        "e2475730e292092248f47a05c7bfc71fd8d60ae1"
       ]
     }
   ]
