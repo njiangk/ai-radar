@@ -1,80 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T06:31:38.366Z",
+  "generatedAt": "2026-08-05T10:39:14.621Z",
   "items": [
     {
       "rank": 1,
-      "title": "SpaceX AI 支出拖累业绩",
-      "reason": "AI投入过大拖累财报，内部人士欲抛售",
-      "heat": 85,
+      "title": "OpenAI/Anthropic 模型英国安全测试失控",
+      "reason": "AI安全重大隐患，引发监管担忧",
+      "heat": 95,
       "newsIds": [
-        "18a436e2cba415a3df715c3edeb1e41aadd7e208",
-        "51bbfd33fcaed93d552a5a27163d1b20943cf421"
+        "13479eb07c4eafbdfd2061bca5d88ef7f43c843f",
+        "6a3d5199ab208fd0f506a25189b01933b1fce03b"
       ]
     },
     {
       "rank": 2,
-      "title": "白宫 AI 政策引争议",
-      "reason": "监管方向摇摆，开放与安全难平衡",
-      "heat": 80,
+      "title": "特朗普AI测试计划被指模糊",
+      "reason": "美政府AI监管政策引争议",
+      "heat": 82,
       "newsIds": [
-        "1c087c81857967758f7210278597245277864bf1",
-        "ff7f0d6fb49aeb45563e12a196bc0e72168f0ebf"
+        "1dbe2cc7f0dc2da1cd81efe4a578379889a7d7d5"
       ]
     },
     {
       "rank": 3,
-      "title": "以色列操纵 ChatGPT 言论",
-      "reason": "金钱影响 AI 立场，政治干预引哗然",
+      "title": "AI数据中心扩张引发污染担忧",
+      "reason": "环境代价与AI发展冲突凸显",
       "heat": 78,
       "newsIds": [
-        "0911027f20632546fd6ece0f0ad613062cf66e76"
+        "5dce9fd1f7d64b7ba57e1c81f787fc8309110216"
       ]
     },
     {
       "rank": 4,
-      "title": "恶意 AI 代理攻击再起",
-      "reason": "AI 安全风险加剧，各大实验室示警",
+      "title": "AI生成故事质量超人类",
+      "reason": "AI创作能力再获实证",
       "heat": 75,
       "newsIds": [
-        "d0720c83fea31a83eae6d426dc3df240f4ce538a"
+        "e891a70d0213046bb8276d056da13b11799c3d6b"
       ]
     },
     {
       "rank": 5,
-      "title": "ChatGPT 主导国会 AI 支出",
-      "reason": "AI 在政府应用激增，ChatGPT 占八成",
-      "heat": 70,
+      "title": "SpaceX AI战略拖累Starlink",
+      "reason": "商业航天押注AI引关注",
+      "heat": 72,
       "newsIds": [
-        "6157c0f17bb7e98b40ca2fb044c24d2d7b43f94c"
+        "bcf216cefe042dc9592c355776ac4cae0ff207f6"
       ]
     },
     {
       "rank": 6,
-      "title": "好莱坞进入 AI 时代",
-      "reason": "影视行业加速 AI 化，内容生产变革",
-      "heat": 65,
+      "title": "中国AI赋能配送员头盔",
+      "reason": "AI落地物流场景成新风口",
+      "heat": 70,
       "newsIds": [
-        "d6a7e5e8be3d561fcd562aeed61c867166d7c197"
+        "fced55c683f04cdaef59d075eb28d3f89f4be13f"
       ]
     },
     {
       "rank": 7,
-      "title": "AI 人才争夺战升级",
-      "reason": "部署工程师成新宠，行业竞争白热化",
-      "heat": 60,
+      "title": "AI会议记录员渗透职场",
+      "reason": "AI工具普及改变会议方式",
+      "heat": 68,
       "newsIds": [
-        "e4b482ebef8952fdff0b156cc6ddc6e32c912646"
+        "ac8d0b26a7e5cc270fecad35d0731d7bc511927d"
       ]
     },
     {
       "rank": 8,
-      "title": "AI 冲击教育：学生依赖与教授绝望",
-      "reason": "AI 改变学习生态，师生两极反应",
-      "heat": 55,
+      "title": "AI模型发展或推高计算成本",
+      "reason": "智能升级背后的算力经济压力",
+      "heat": 65,
       "newsIds": [
-        "b233fbc04a1e27f5d61e603f94348ef2a879e431",
-        "4f1af06ebcd3b4d329db6e16d43d225f73a8ddf6"
+        "8eb370e2a9a32427454cf0e28e356e01c55ae858"
       ]
     }
   ]

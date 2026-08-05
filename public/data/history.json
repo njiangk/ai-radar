@@ -165601,8 +165601,8 @@
           "id": "vercel/deepseek/deepseek-v4-pro",
           "benchmarkScore": null,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.435,
-          "priceOutPer1M": 0.87
+          "priceInPer1M": 1.74,
+          "priceOutPer1M": 3.48
         },
         {
           "id": "alibaba-cn/deepseek-v4-pro",
@@ -167008,8 +167008,8 @@
           "id": "llmgateway/deepseek-v4-flash",
           "benchmarkScore": null,
           "livebenchAvg": 66.05,
-          "priceInPer1M": 0.076,
-          "priceOutPer1M": 0.153
+          "priceInPer1M": 0.14,
+          "priceOutPer1M": 0.28
         },
         {
           "id": "kenari/deepseek-v4-flash",
