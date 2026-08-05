@@ -180011,6 +180011,13 @@
           "priceOutPer1M": 0
         },
         {
+          "id": "opencode/longcat-2.0-free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
+        },
+        {
           "id": "opencode/qwen3.6-plus-free",
           "benchmarkScore": null,
           "livebenchAvg": null,

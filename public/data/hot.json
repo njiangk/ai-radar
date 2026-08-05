@@ -1,81 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T23:07:40.286Z",
+  "generatedAt": "2026-08-05T06:31:38.366Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI股抛售引发市场恐慌",
-      "reason": "对冲基金巨亏，投资者担忧泡沫破裂",
-      "heat": 95,
+      "title": "SpaceX AI 支出拖累业绩",
+      "reason": "AI投入过大拖累财报，内部人士欲抛售",
+      "heat": 85,
       "newsIds": [
-        "8f735871e272894b496d9c1ded7fcb6980c56a76",
-        "b3e28333e4a6cedd5db3774b170d049f5cae1740",
-        "eec9694db29c3e582a0e80a21863b76252577d95"
+        "18a436e2cba415a3df715c3edeb1e41aadd7e208",
+        "51bbfd33fcaed93d552a5a27163d1b20943cf421"
       ]
     },
     {
       "rank": 2,
-      "title": "Bending Spoons收购Airtable",
-      "reason": "13亿美元并购，云办公格局生变",
-      "heat": 90,
-      "newsIds": [
-        "57cccf8af43f2d491b31ee0c7026b11fa66464e1",
-        "241d1223063e768b1a6c4a1706963f263307f72a"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "德州暂停数据中心接入电网",
-      "reason": "AI需求激增，电网不堪重负",
-      "heat": 85,
-      "newsIds": [
-        "3296c5ee5b6c7c6ff3c4274866f35069c4cbe9ed",
-        "8fad3a447869e492c13854553d913812687364d4"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Anthropic与Volta签署100亿美元协议",
-      "reason": "巨额云合作，AI算力军备竞赛升级",
+      "title": "白宫 AI 政策引争议",
+      "reason": "监管方向摇摆，开放与安全难平衡",
       "heat": 80,
       "newsIds": [
-        "cbd7ccd489772295108c7d731d0b21f5d4d70c17"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Suno败诉侵权案",
-      "reason": "AI音乐版权首例败诉，影响行业",
-      "heat": 75,
-      "newsIds": [
-        "7d6e9012c34a5401a9086cc35fc4524d23249747"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "白宫AI网络安全框架保密",
-      "reason": "政府与AI企业闭门，公众知情权受质疑",
-      "heat": 70,
-      "newsIds": [
+        "1c087c81857967758f7210278597245277864bf1",
         "ff7f0d6fb49aeb45563e12a196bc0e72168f0ebf"
       ]
     },
     {
-      "rank": 7,
-      "title": "开放权重模型安全差距",
-      "reason": "GLM-5.2能力逼近前沿但缺安全措施",
+      "rank": 3,
+      "title": "以色列操纵 ChatGPT 言论",
+      "reason": "金钱影响 AI 立场，政治干预引哗然",
+      "heat": 78,
+      "newsIds": [
+        "0911027f20632546fd6ece0f0ad613062cf66e76"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "恶意 AI 代理攻击再起",
+      "reason": "AI 安全风险加剧，各大实验室示警",
+      "heat": 75,
+      "newsIds": [
+        "d0720c83fea31a83eae6d426dc3df240f4ce538a"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "ChatGPT 主导国会 AI 支出",
+      "reason": "AI 在政府应用激增，ChatGPT 占八成",
+      "heat": 70,
+      "newsIds": [
+        "6157c0f17bb7e98b40ca2fb044c24d2d7b43f94c"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "好莱坞进入 AI 时代",
+      "reason": "影视行业加速 AI 化，内容生产变革",
       "heat": 65,
       "newsIds": [
-        "167f98deda50e7bdfeb7571f29cd7aa34c06b092"
+        "d6a7e5e8be3d561fcd562aeed61c867166d7c197"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI 人才争夺战升级",
+      "reason": "部署工程师成新宠，行业竞争白热化",
+      "heat": 60,
+      "newsIds": [
+        "e4b482ebef8952fdff0b156cc6ddc6e32c912646"
       ]
     },
     {
       "rank": 8,
-      "title": "中国开源模型攻势",
-      "reason": "开源模型冲击，美企焦虑",
-      "heat": 60,
+      "title": "AI 冲击教育：学生依赖与教授绝望",
+      "reason": "AI 改变学习生态，师生两极反应",
+      "heat": 55,
       "newsIds": [
-        "af36fe24675e00ac65381c19bb2bdfcc4c11ea9f"
+        "b233fbc04a1e27f5d61e603f94348ef2a879e431",
+        "4f1af06ebcd3b4d329db6e16d43d225f73a8ddf6"
       ]
     }
   ]
