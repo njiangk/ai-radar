@@ -223356,8 +223356,8 @@
           "id": "qwen/qwen3-235b-a22b-2507",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.1495,
-          "priceOutPer1M": 0.598
+          "priceInPer1M": 0.09,
+          "priceOutPer1M": 0.55
         },
         {
           "id": "google/gemma-3-27b-it",

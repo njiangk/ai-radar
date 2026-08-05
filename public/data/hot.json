@@ -1,78 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T10:39:14.621Z",
+  "generatedAt": "2026-08-05T19:40:33.840Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI/Anthropic 模型英国安全测试失控",
-      "reason": "AI安全重大隐患，引发监管担忧",
+      "title": "Jeff Dean等顶尖AI研究员离开谷歌创业",
+      "reason": "顶级科学家离职创业，AI界震动",
       "heat": 95,
       "newsIds": [
-        "13479eb07c4eafbdfd2061bca5d88ef7f43c843f",
-        "6a3d5199ab208fd0f506a25189b01933b1fce03b"
+        "1979ddc0566e380b2d3f7f2d49bf1c9b146ed4a2"
       ]
     },
     {
       "rank": 2,
-      "title": "特朗普AI测试计划被指模糊",
-      "reason": "美政府AI监管政策引争议",
-      "heat": 82,
+      "title": "Meta推AI编码代理及Muse模型叫板业界",
+      "reason": "Meta入局AI编程，竞争白热化",
+      "heat": 90,
       "newsIds": [
-        "1dbe2cc7f0dc2da1cd81efe4a578379889a7d7d5"
+        "fbcffa66e3fa8cce2ea6b154e5ad4b2163069a0b",
+        "83121cda738b80f0767604a056c7282a1db9b4a9",
+        "51d81846273800d44042d6aa6e3baae9eae253c7"
       ]
     },
     {
       "rank": 3,
-      "title": "AI数据中心扩张引发污染担忧",
-      "reason": "环境代价与AI发展冲突凸显",
-      "heat": 78,
+      "title": "DeepSeek新模型审查差异引热议",
+      "reason": "新模型审查变化，用户关注",
+      "heat": 85,
       "newsIds": [
-        "5dce9fd1f7d64b7ba57e1c81f787fc8309110216"
+        "0a6ec2fb8c7d7b68adc2786d7102b4570acb72c0"
       ]
     },
     {
       "rank": 4,
-      "title": "AI生成故事质量超人类",
-      "reason": "AI创作能力再获实证",
-      "heat": 75,
+      "title": "微软AI收入依赖OpenAI遭披露",
+      "reason": "微软AI业绩真相曝光",
+      "heat": 82,
       "newsIds": [
-        "e891a70d0213046bb8276d056da13b11799c3d6b"
+        "3f81829f0cf52ce4a5073252427d06589e7639bd"
       ]
     },
     {
       "rank": 5,
-      "title": "SpaceX AI战略拖累Starlink",
-      "reason": "商业航天押注AI引关注",
-      "heat": 72,
+      "title": "法院裁定AI代理须遵守黑客法",
+      "reason": "AI责任法律边界首次明确",
+      "heat": 80,
       "newsIds": [
-        "bcf216cefe042dc9592c355776ac4cae0ff207f6"
+        "9e741a0d2efb982ec5d2448d31775f2655851ae6"
       ]
     },
     {
       "rank": 6,
-      "title": "中国AI赋能配送员头盔",
-      "reason": "AI落地物流场景成新风口",
-      "heat": 70,
+      "title": "研究警告AI蠕虫病毒将成威胁",
+      "reason": "AI安全新风险引发担忧",
+      "heat": 78,
       "newsIds": [
-        "fced55c683f04cdaef59d075eb28d3f89f4be13f"
+        "5af4d3eb9722916735e5b77759e1fc6a46819ce3"
       ]
     },
     {
       "rank": 7,
-      "title": "AI会议记录员渗透职场",
-      "reason": "AI工具普及改变会议方式",
-      "heat": 68,
+      "title": "Cloudflare开源AI操作系统",
+      "reason": "云巨头入局AI原生OS",
+      "heat": 75,
       "newsIds": [
-        "ac8d0b26a7e5cc270fecad35d0731d7bc511927d"
+        "60ca6a1fc65137bbc02443d682b38166c97677e3"
       ]
     },
     {
       "rank": 8,
-      "title": "AI模型发展或推高计算成本",
-      "reason": "智能升级背后的算力经济压力",
-      "heat": 65,
+      "title": "AI代理为何难以广泛采用",
+      "reason": "AI代理落地问题引业界反思",
+      "heat": 70,
       "newsIds": [
-        "8eb370e2a9a32427454cf0e28e356e01c55ae858"
+        "b1769ec5c07eeec1cb4c9837aa3d7450cfac0d5f",
+        "57ad8e8b148a902016e723ce86c0858500447e82"
       ]
     }
   ]
