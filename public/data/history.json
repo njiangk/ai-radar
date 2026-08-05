@@ -224984,11 +224984,18 @@
           "priceOutPer1M": 600
         },
         {
+          "id": "meta/muse-spark-1.2",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1.25,
+          "priceOutPer1M": 4.25
+        },
+        {
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
-          "priceOutPer1M": 0.18
+          "priceInPer1M": 0.083,
+          "priceOutPer1M": 0.167
         },
         {
           "id": "openrouter/auto-beta",
@@ -238606,6 +238613,20 @@
           "priceOutPer1M": 5
         },
         {
+          "id": "pioneer/gpt-5.6-sol",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 5,
+          "priceOutPer1M": 30
+        },
+        {
+          "id": "pioneer/gemini-3.5-flash-lite",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.3,
+          "priceOutPer1M": 2.5
+        },
+        {
           "id": "pioneer/claude-opus-4-6",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -238613,11 +238634,25 @@
           "priceOutPer1M": 25
         },
         {
+          "id": "pioneer/claude-fable-5",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 11,
+          "priceOutPer1M": 55
+        },
+        {
           "id": "pioneer/gemini-3.1-pro",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 2,
           "priceOutPer1M": 12
+        },
+        {
+          "id": "pioneer/claude-3-7-sonnet-latest",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 3,
+          "priceOutPer1M": 15
         },
         {
           "id": "pioneer/claude-opus-4-8",
@@ -238662,6 +238697,13 @@
           "priceOutPer1M": 15
         },
         {
+          "id": "pioneer/mistral-large-3",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 1.5
+        },
+        {
           "id": "pioneer/gpt-5.4",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -238676,11 +238718,32 @@
           "priceOutPer1M": 1.25
         },
         {
+          "id": "pioneer/gemini-3.6-flash",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1.5,
+          "priceOutPer1M": 7.5
+        },
+        {
           "id": "pioneer/gpt-5.4-mini",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.75,
           "priceOutPer1M": 4.5
+        },
+        {
+          "id": "pioneer/gemini-3.1-flash-lite",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.25,
+          "priceOutPer1M": 1.5
+        },
+        {
+          "id": "pioneer/gpt-5.6-luna",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1,
+          "priceOutPer1M": 6
         },
         {
           "id": "pioneer/gpt-5.3-codex",
@@ -238695,6 +238758,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.25,
           "priceOutPer1M": 2
+        },
+        {
+          "id": "pioneer/grok-4.5",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 6
         },
         {
           "id": "pioneer/qwen3.6-flash",
@@ -238725,11 +238795,25 @@
           "priceOutPer1M": 25
         },
         {
+          "id": "pioneer/gpt-5.6-terra",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2.5,
+          "priceOutPer1M": 15
+        },
+        {
           "id": "pioneer/claude-opus-4-5",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 5,
           "priceOutPer1M": 25
+        },
+        {
+          "id": "pioneer/claude-sonnet-5",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 10
         },
         {
           "id": "pioneer/qwen3.6-max-preview",
@@ -238739,11 +238823,25 @@
           "priceOutPer1M": 6.24
         },
         {
+          "id": "pioneer/devstral-2",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.4,
+          "priceOutPer1M": 2
+        },
+        {
           "id": "pioneer/gpt-4.1",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 2,
           "priceOutPer1M": 8
+        },
+        {
+          "id": "pioneer/claude-opus-5",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 5,
+          "priceOutPer1M": 25
         },
         {
           "id": "pioneer/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
@@ -238879,6 +238977,20 @@
           "priceOutPer1M": 0.6
         },
         {
+          "id": "pioneer/mistralai/Codestral-22B-v0.1",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.3,
+          "priceOutPer1M": 0.9
+        },
+        {
+          "id": "pioneer/mistralai/Magistral-Small-2506",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 1.5
+        },
+        {
           "id": "pioneer/mistralai/Mistral-7B-Instruct-v0.3",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -238886,11 +238998,39 @@
           "priceOutPer1M": 0.2
         },
         {
+          "id": "pioneer/mistralai/Ministral-8B-Instruct-2410",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.15,
+          "priceOutPer1M": 0.15
+        },
+        {
+          "id": "pioneer/mistralai/Pixtral-12B-2409",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.15,
+          "priceOutPer1M": 0.15
+        },
+        {
+          "id": "pioneer/meta/muse-spark-1.1",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1.25,
+          "priceOutPer1M": 4.25
+        },
+        {
           "id": "pioneer/Qwen/Qwen3.5-9B",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.3,
           "priceOutPer1M": 0.3
+        },
+        {
+          "id": "pioneer/Qwen/Qwen3-235B-A22B-Instruct-2507",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1.2,
+          "priceOutPer1M": 1.2
         },
         {
           "id": "pioneer/Qwen/Qwen3-8B",
@@ -238912,6 +239052,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.14,
           "priceOutPer1M": 1
+        },
+        {
+          "id": "pioneer/Qwen/Qwen2.5-Coder-0.5B",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.1,
+          "priceOutPer1M": 0.1
         },
         {
           "id": "pioneer/Qwen/Qwen3-32B",
@@ -238956,11 +239103,39 @@
           "priceOutPer1M": 1.2
         },
         {
+          "id": "pioneer/poolside/laguna-s-2.1",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.1,
+          "priceOutPer1M": 0.2
+        },
+        {
+          "id": "pioneer/deepseek-ai/DeepSeek-V3",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.27,
+          "priceOutPer1M": 1.12
+        },
+        {
+          "id": "pioneer/deepseek-ai/DeepSeek-V3.1",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.56,
+          "priceOutPer1M": 1.68
+        },
+        {
           "id": "pioneer/moonshotai/Kimi-K2.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.95,
           "priceOutPer1M": 4
+        },
+        {
+          "id": "pioneer/moonshotai/Kimi-K3",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 3,
+          "priceOutPer1M": 15
         },
         {
           "id": "pioneer/openai/gpt-oss-20b",
@@ -238996,6 +239171,20 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.1,
           "priceOutPer1M": 0.201
+        },
+        {
+          "id": "pioneer/meta-llama/Llama-3.2-1B",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.1,
+          "priceOutPer1M": 0.1
+        },
+        {
+          "id": "pioneer/meta-llama/Llama-3.2-3B",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.1,
+          "priceOutPer1M": 0.1
         },
         {
           "id": "pioneer/meta-llama/Llama-3.2-3B-Instruct",
@@ -255339,8 +255528,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
-          "priceOutPer1M": 0.18
+          "priceInPer1M": 0.083,
+          "priceOutPer1M": 0.167
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",
@@ -255584,8 +255773,8 @@
           "id": "openrouter/qwen/qwen3-235b-a22b-2507",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.1495,
-          "priceOutPer1M": 0.598
+          "priceInPer1M": 0.09,
+          "priceOutPer1M": 0.55
         },
         {
           "id": "openrouter/qwen/qwen3.6-flash",
@@ -255932,6 +256121,13 @@
         },
         {
           "id": "openrouter/meta/muse-spark-1.1",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1.25,
+          "priceOutPer1M": 4.25
+        },
+        {
+          "id": "openrouter/meta/muse-spark-1.2",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 1.25,
@@ -258360,13 +258556,6 @@
           "priceOutPer1M": 25
         },
         {
-          "id": "anthropic/claude-opus-4-1",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 15,
-          "priceOutPer1M": 75
-        },
-        {
           "id": "anthropic/claude-sonnet-4-5",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -258407,13 +258596,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 5,
           "priceOutPer1M": 25
-        },
-        {
-          "id": "anthropic/claude-opus-4-1-20250805",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 15,
-          "priceOutPer1M": 75
         },
         {
           "id": "cloudflare-ai-gateway/workers-ai/@cf/aisingapore/gemma-sea-lion-v4-27b-it",
@@ -264455,6 +264637,20 @@
           "livebenchAvg": null,
           "priceInPer1M": 3,
           "priceOutPer1M": 15
+        },
+        {
+          "id": "anthropic/claude-opus-4-1",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 15,
+          "priceOutPer1M": 75
+        },
+        {
+          "id": "anthropic/claude-opus-4-1-20250805",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 15,
+          "priceOutPer1M": 75
         },
         {
           "id": "anthropic/claude-opus-4-20250514",

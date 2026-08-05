@@ -1,80 +1,85 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T19:40:33.840Z",
+  "generatedAt": "2026-08-05T21:14:46.255Z",
   "items": [
     {
       "rank": 1,
-      "title": "Jeff Dean等顶尖AI研究员离开谷歌创业",
-      "reason": "顶级科学家离职创业，AI界震动",
+      "title": "AI安全事件频发",
+      "reason": "AI被曝攻击GitHub、发送恶意载荷",
       "heat": 95,
       "newsIds": [
-        "1979ddc0566e380b2d3f7f2d49bf1c9b146ed4a2"
+        "bc744f4512ecabb6ad84d83a515e44836abd9785",
+        "bba5f2edf985d36bf60fd1722acd8f2652dc9c81",
+        "b3f26680f95857e47270f85ee35ba225c00bc568",
+        "e2475730e292092248f47a05c7bfc71fd8d60ae1"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta推AI编码代理及Muse模型叫板业界",
-      "reason": "Meta入局AI编程，竞争白热化",
+      "title": "Meta AI连放大招",
+      "reason": "推编程代理与Muse系列新模型",
       "heat": 90,
       "newsIds": [
         "fbcffa66e3fa8cce2ea6b154e5ad4b2163069a0b",
+        "d0cb88be0c96b4c69fca249c1b11bf7856c16549",
         "83121cda738b80f0767604a056c7282a1db9b4a9",
         "51d81846273800d44042d6aa6e3baae9eae253c7"
       ]
     },
     {
       "rank": 3,
-      "title": "DeepSeek新模型审查差异引热议",
-      "reason": "新模型审查变化，用户关注",
+      "title": "谷歌AI泰斗离职创业",
+      "reason": "Jeff Dean离谷歌创办AI科学公司",
+      "heat": 88,
+      "newsIds": [
+        "1979ddc0566e380b2d3f7f2d49bf1c9b146ed4a2"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "中国AI挺进非洲",
+      "reason": "地缘AI竞赛加剧，硅谷警惕",
       "heat": 85,
+      "newsIds": [
+        "625969e55938abed4fa20270f5a46cceff06701f"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "AI巨头大而不能倒",
+      "reason": "美联储官员警示系统性风险",
+      "heat": 82,
+      "newsIds": [
+        "a9c81a403d464c796b4258aea3aa3412c82713c0"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI代理落地困境",
+      "reason": "技术虽热但采用率低，挑战多",
+      "heat": 80,
+      "newsIds": [
+        "57ad8e8b148a902016e723ce86c0858500447e82",
+        "b1769ec5c07eeec1cb4c9837aa3d7450cfac0d5f",
+        "12d83074f6e188c6e78dfeeb685c6bc6c811e605"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "DeepSeek V4-Flash发布",
+      "reason": "国产新模型审查更严引热议",
+      "heat": 78,
       "newsIds": [
         "0a6ec2fb8c7d7b68adc2786d7102b4570acb72c0"
       ]
     },
     {
-      "rank": 4,
-      "title": "微软AI收入依赖OpenAI遭披露",
-      "reason": "微软AI业绩真相曝光",
-      "heat": 82,
-      "newsIds": [
-        "3f81829f0cf52ce4a5073252427d06589e7639bd"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "法院裁定AI代理须遵守黑客法",
-      "reason": "AI责任法律边界首次明确",
-      "heat": 80,
-      "newsIds": [
-        "9e741a0d2efb982ec5d2448d31775f2655851ae6"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "研究警告AI蠕虫病毒将成威胁",
-      "reason": "AI安全新风险引发担忧",
-      "heat": 78,
-      "newsIds": [
-        "5af4d3eb9722916735e5b77759e1fc6a46819ce3"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Cloudflare开源AI操作系统",
-      "reason": "云巨头入局AI原生OS",
+      "rank": 8,
+      "title": "Cloudflare开源AI OS",
+      "reason": "云巨头发布AI操作系统抢生态",
       "heat": 75,
       "newsIds": [
         "60ca6a1fc65137bbc02443d682b38166c97677e3"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "AI代理为何难以广泛采用",
-      "reason": "AI代理落地问题引业界反思",
-      "heat": 70,
-      "newsIds": [
-        "b1769ec5c07eeec1cb4c9837aa3d7450cfac0d5f",
-        "57ad8e8b148a902016e723ce86c0858500447e82"
       ]
     }
   ]
