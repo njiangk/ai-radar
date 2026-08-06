@@ -1,85 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T06:35:00.710Z",
+  "generatedAt": "2026-08-06T10:43:06.825Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI代理测试入侵外部公司，安全风险引热议",
-      "reason": "多家AI代理测试中入侵外部公司",
+      "title": "OpenAI应诉苹果商业秘密诉讼",
+      "reason": "两大巨头法律战，行业瞩目",
       "heat": 95,
       "newsIds": [
-        "0f6de3ae7bd1ee2d7f30c0f0612ef2b55ad2638a",
-        "d6b7f07f3d3a3f3ca109d97dad241271d7022888",
-        "7c06bda1a57176cb0eb6cf83209f0eecea23e754",
-        "e81df3bbf113290cf242137b73e06ae3baacc5d9",
-        "daa4e8074d5cad8c422a2ce630e8e7b93bc1a85f",
-        "85a5227beea0bd00db54bde67f925812874747dd",
-        "06ef03b135e6ab346fb99daa75e192b1dd74257f",
-        "fcc747ef3a59a3b2ec2e093fdb5cbc4def8e5f9e"
+        "cbf9137373ac8c122316acaaf13378ef1e11182e"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta发布Muse Code与Spark 1.2",
-      "reason": "Meta推出编码代理，性能提升",
-      "heat": 88,
+      "title": "AI音乐生成器Suno败诉",
+      "reason": "AI版权争议再添判例",
+      "heat": 90,
       "newsIds": [
-        "e725e2e85d3bad0ba7391b67d706bd66027ac9b9",
-        "63074cc99dd1fc137d70e9cc0c72840d92dda10c"
+        "7d6e9012c34a5401a9086cc35fc4524d23249747"
       ]
     },
     {
       "rank": 3,
-      "title": "谷歌Genie 3生成交互世界",
-      "reason": "AI生成可玩3D世界，技术突破",
-      "heat": 82,
+      "title": "德国机场遭无人机袭击威胁",
+      "reason": "机场安保面临新威胁",
+      "heat": 85,
       "newsIds": [
-        "8f8aaaabef333c7aefcae68c16d629fb75d7cf75"
+        "ff8d9838d746cb648f1460b5bf00382e6891a487"
       ]
     },
     {
       "rank": 4,
-      "title": "DeepSeek计划大幅涨价",
-      "reason": "国产AI服务调价引关注",
-      "heat": 78,
+      "title": "DeepSeek大幅涨价，低成本优势引质疑",
+      "reason": "AI价格战格局生变",
+      "heat": 85,
       "newsIds": [
-        "1d3fb510837123c187015dfc3ebaff0312977563"
+        "2325f3ef463885c3c2c238d985960e9e6ad715d5"
       ]
     },
     {
       "rank": 5,
-      "title": "特朗普AI愿景污染引担忧",
-      "reason": "AI扩张或加剧空气污染",
-      "heat": 70,
+      "title": "谷歌AI领导层迁往加州对抗Anthropic/OpenAI",
+      "reason": "AI人才争夺加剧",
+      "heat": 80,
       "newsIds": [
-        "5dce9fd1f7d64b7ba57e1c81f787fc8309110216"
+        "2ce85928750142e85b679ff8ed7086c034aff570"
       ]
     },
     {
       "rank": 6,
-      "title": "Shopify AI驱动股价大涨",
-      "reason": "AI推动业绩，股价大涨",
-      "heat": 65,
+      "title": "OpenAI披露Hugging Face安全事件详情",
+      "reason": "AI供应链安全引关注",
+      "heat": 80,
       "newsIds": [
-        "d3d47a8065ff1354e0df0277f0fdc176f555562b"
+        "30f9b852835fa0f790287a9d2bce756c1872914d"
       ]
     },
     {
       "rank": 7,
-      "title": "马斯克AI维基百科停更",
-      "reason": "Grokipedia上线三月无更新",
-      "heat": 60,
+      "title": "FAA调查海军陆战队一号与客机险撞",
+      "reason": "涉及总统专机安全，罕见",
+      "heat": 75,
       "newsIds": [
-        "a165a3bad285699522f3e91f1e4d70c9bd36424a"
+        "afd8c49e13a45ec60b3f6960867fe33fe56f89d9"
       ]
     },
     {
       "rank": 8,
-      "title": "AI使弦理论可检验",
-      "reason": "AI助力弦理论实验验证",
-      "heat": 55,
+      "title": "AI代理治理成焦点：谁来守护护栏？",
+      "reason": "代理AI安全责任待明确",
+      "heat": 70,
       "newsIds": [
-        "e05e6d5abc4fb3f14844450d90c2fffc9383bcb8"
+        "20d9b923d11099c20bf387a225dc6f1cf7098cff"
       ]
     }
   ]

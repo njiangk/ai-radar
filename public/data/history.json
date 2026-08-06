@@ -234178,8 +234178,8 @@
           "id": "llmgateway/qwen3.8-max",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2,
-          "priceOutPer1M": 6
+          "priceInPer1M": 1.815,
+          "priceOutPer1M": 5.4461
         },
         {
           "id": "llmgateway/grok-4-1-fast-reasoning",
