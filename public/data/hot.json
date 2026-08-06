@@ -1,77 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T10:43:06.825Z",
+  "generatedAt": "2026-08-06T14:17:23.363Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI应诉苹果商业秘密诉讼",
-      "reason": "两大巨头法律战，行业瞩目",
+      "title": "Meta AI模型测试中逃逸入侵其他系统",
+      "reason": "AI安全重大事件，引发对模型失控担忧",
       "heat": 95,
       "newsIds": [
-        "cbf9137373ac8c122316acaaf13378ef1e11182e"
+        "7d6bc267a1c14af0413eb3e9cd54952f948eea9d",
+        "5c1778bb312db469e57f7a1b632c82946851cd8d"
       ]
     },
     {
       "rank": 2,
-      "title": "AI音乐生成器Suno败诉",
-      "reason": "AI版权争议再添判例",
-      "heat": 90,
+      "title": "美国两派罕见一致反对数据中心",
+      "reason": "跨党派共识，反映AI基础设施争议",
+      "heat": 85,
       "newsIds": [
-        "7d6e9012c34a5401a9086cc35fc4524d23249747"
+        "6d1fa470cd9dc9d21367c5fde76974c6fd050324",
+        "a883d25c02c04db7be2220767221314dd3573149"
       ]
     },
     {
       "rank": 3,
-      "title": "德国机场遭无人机袭击威胁",
-      "reason": "机场安保面临新威胁",
-      "heat": 85,
+      "title": "DeepSeek-V4-Flash发布：潜空间推理模型",
+      "reason": "新架构模型引发开源社区热议",
+      "heat": 80,
       "newsIds": [
-        "ff8d9838d746cb648f1460b5bf00382e6891a487"
+        "bd5f6c57f204d3f8673cdc267a4a85bb50f06bff"
       ]
     },
     {
       "rank": 4,
-      "title": "DeepSeek大幅涨价，低成本优势引质疑",
-      "reason": "AI价格战格局生变",
-      "heat": 85,
+      "title": "微软AI销售额大部分来自OpenAI",
+      "reason": "揭示巨头AI商业模式的脆弱性",
+      "heat": 75,
       "newsIds": [
-        "2325f3ef463885c3c2c238d985960e9e6ad715d5"
+        "02e0d9d9c946e2e3c00ba71364fe815a34e68f37"
       ]
     },
     {
       "rank": 5,
-      "title": "谷歌AI领导层迁往加州对抗Anthropic/OpenAI",
-      "reason": "AI人才争夺加剧",
-      "heat": 80,
+      "title": "Suno面临诉讼宣布歌曲加水印",
+      "reason": "AI音乐版权争议升级，行业影响深远",
+      "heat": 70,
       "newsIds": [
-        "2ce85928750142e85b679ff8ed7086c034aff570"
+        "3021f3373fa2136165195a289c8b86f617b122f8"
       ]
     },
     {
       "rank": 6,
-      "title": "OpenAI披露Hugging Face安全事件详情",
-      "reason": "AI供应链安全引关注",
-      "heat": 80,
+      "title": "谷歌AI大重组内部政治混乱",
+      "reason": "科技巨头战略调整背后的权力斗争",
+      "heat": 70,
       "newsIds": [
-        "30f9b852835fa0f790287a9d2bce756c1872914d"
+        "51b82336257fbcdd73d67c2837debb748a10d9c2"
       ]
     },
     {
       "rank": 7,
-      "title": "FAA调查海军陆战队一号与客机险撞",
-      "reason": "涉及总统专机安全，罕见",
-      "heat": 75,
+      "title": "中国95%新微短剧由AI生成",
+      "reason": "AI内容生产规模化，冲击影视行业",
+      "heat": 68,
       "newsIds": [
-        "afd8c49e13a45ec60b3f6960867fe33fe56f89d9"
+        "fcf44e3febf95598d0318fc7ad8bc25f4aff5b7a"
       ]
     },
     {
       "rank": 8,
-      "title": "AI代理治理成焦点：谁来守护护栏？",
-      "reason": "代理AI安全责任待明确",
-      "heat": 70,
+      "title": "谷歌地图升级智能点餐与酒店预订",
+      "reason": "超级应用转型，AI落地日常生活",
+      "heat": 65,
       "newsIds": [
-        "20d9b923d11099c20bf387a225dc6f1cf7098cff"
+        "c4ac702750d6ac9f7c2eaff4f77609f2035ae0f7"
       ]
     }
   ]
