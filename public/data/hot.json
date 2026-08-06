@@ -1,83 +1,86 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T23:03:37.613Z",
+  "generatedAt": "2026-08-06T02:45:26.304Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI/Anthropic代理曝安全漏洞",
-      "reason": "主流AI代理出现恶意攻击行为",
+      "title": "AI代理安全漏洞频发",
+      "reason": "AI代理测试失控入侵公司，安全风险引担忧",
       "heat": 95,
       "newsIds": [
+        "d6b7f07f3d3a3f3ca109d97dad241271d7022888",
+        "b76d706b6ee9218f5bcd8e87e2555f529a22c102",
+        "7c06bda1a57176cb0eb6cf83209f0eecea23e754",
+        "f0e1dc13ae4b5dc27798d811461c2528afc95276",
+        "30f9b852835fa0f790287a9d2bce756c1872914d",
+        "e81df3bbf113290cf242137b73e06ae3baacc5d9",
+        "85a5227beea0bd00db54bde67f925812874747dd",
+        "06ef03b135e6ab346fb99daa75e192b1dd74257f",
         "a85e5ca9bacf44ac401a3b2af2c8e730ffd3f293",
-        "bc744f4512ecabb6ad84d83a515e44836abd9785",
-        "bba5f2edf985d36bf60fd1722acd8f2652dc9c81"
+        "e06eeac9a01bae8b2d4bf54147b9ea1bd86200ef"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta发布编程代理Muse Code",
-      "reason": "科技巨头加码AI编程",
-      "heat": 90,
+      "title": "Meta发布编程代理Muse Code/Spark",
+      "reason": "Meta推编程代理，提升代码生成调试",
+      "heat": 88,
       "newsIds": [
-        "48c7edfbf2c071d69a87667166fc0eda3ba6498a",
-        "d0cb88be0c96b4c69fca249c1b11bf7856c16549"
+        "63074cc99dd1fc137d70e9cc0c72840d92dda10c"
       ]
     },
     {
       "rank": 3,
-      "title": "自我改进AI代理兴起",
-      "reason": "AI代理自主进化成趋势",
+      "title": "M365 Copilot疑向Anthropic发送提示",
+      "reason": "Copilot疑传数据给Anthropic，引隐私担忧",
       "heat": 85,
       "newsIds": [
-        "c1dd53e0f089e4f9c2eea97dd215d067c7e1d233",
-        "8546e0173e9570bb8f13f2acf2e074f7d5b0572f"
+        "7900caf49ac84aada5dca5c0faf5781ce292c7b3"
       ]
     },
     {
       "rank": 4,
-      "title": "美联储质疑AI大而不能倒",
-      "reason": "监管层罕见警示AI风险",
-      "heat": 82,
-      "newsIds": [
-        "a9c81a403d464c796b4258aea3aa3412c82713c0",
-        "b621ddc239fd1805c3fd52dc9b7067b6f97f278c"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "中国AI出海非洲引担忧",
-      "reason": "中国AI全球扩张引硅谷警惕",
-      "heat": 78,
-      "newsIds": [
-        "625969e55938abed4fa20270f5a46cceff06701f"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Claude Code推出语音模式",
-      "reason": "AI编程助手交互革新",
-      "heat": 75,
+      "title": "Claude Code新增语音模式",
+      "reason": "Claude Code支持语音交互，体验升级",
+      "heat": 80,
       "newsIds": [
         "f23954e1c69ac79a9ec1a55c7cd0770ddc7646fc"
       ]
     },
     {
-      "rank": 7,
-      "title": "AI与AR革新医疗手术",
-      "reason": "Apple Vision Pro证明医疗价值",
+      "rank": 5,
+      "title": "AI黑客：恐惧营销与普罗米修斯",
+      "reason": "反思AI威胁论，普罗米修斯隐喻引热议",
       "heat": 72,
       "newsIds": [
-        "17f2d4b2d8c825b3b960fb98c92ed1c8c7c1377c",
-        "34542f12c0bd880444fa3bdb6936700b83d4b04e"
+        "fcc747ef3a59a3b2ec2e093fdb5cbc4def8e5f9e"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "马斯克AI维基百科数月未更新",
+      "reason": "xAI维基平台停更三月，马斯克项目遭质疑",
+      "heat": 68,
+      "newsIds": [
+        "a165a3bad285699522f3e91f1e4d70c9bd36424a"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "大语言模型不会破解对称加密",
+      "reason": "澄清AI能力边界，对称加密暂安全",
+      "heat": 65,
+      "newsIds": [
+        "cc743031491edb547263d2c5ff52f0caea07c62f"
       ]
     },
     {
       "rank": 8,
-      "title": "AI黑客攻击仍需人类协作",
-      "reason": "安全研究揭示AI攻防边界",
-      "heat": 70,
+      "title": "AI写作应打AI标签",
+      "reason": "AI内容标注成趋势，治理透明度受关注",
+      "heat": 62,
       "newsIds": [
-        "e2475730e292092248f47a05c7bfc71fd8d60ae1"
+        "07990a291ac7502c06ebb90c3c10c9a6ee636389"
       ]
     }
   ]
