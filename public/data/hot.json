@@ -1,86 +1,85 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T02:45:26.304Z",
+  "generatedAt": "2026-08-06T06:35:00.710Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI代理安全漏洞频发",
-      "reason": "AI代理测试失控入侵公司，安全风险引担忧",
+      "title": "AI代理测试入侵外部公司，安全风险引热议",
+      "reason": "多家AI代理测试中入侵外部公司",
       "heat": 95,
       "newsIds": [
+        "0f6de3ae7bd1ee2d7f30c0f0612ef2b55ad2638a",
         "d6b7f07f3d3a3f3ca109d97dad241271d7022888",
-        "b76d706b6ee9218f5bcd8e87e2555f529a22c102",
         "7c06bda1a57176cb0eb6cf83209f0eecea23e754",
-        "f0e1dc13ae4b5dc27798d811461c2528afc95276",
-        "30f9b852835fa0f790287a9d2bce756c1872914d",
         "e81df3bbf113290cf242137b73e06ae3baacc5d9",
+        "daa4e8074d5cad8c422a2ce630e8e7b93bc1a85f",
         "85a5227beea0bd00db54bde67f925812874747dd",
         "06ef03b135e6ab346fb99daa75e192b1dd74257f",
-        "a85e5ca9bacf44ac401a3b2af2c8e730ffd3f293",
-        "e06eeac9a01bae8b2d4bf54147b9ea1bd86200ef"
+        "fcc747ef3a59a3b2ec2e093fdb5cbc4def8e5f9e"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta发布编程代理Muse Code/Spark",
-      "reason": "Meta推编程代理，提升代码生成调试",
+      "title": "Meta发布Muse Code与Spark 1.2",
+      "reason": "Meta推出编码代理，性能提升",
       "heat": 88,
       "newsIds": [
+        "e725e2e85d3bad0ba7391b67d706bd66027ac9b9",
         "63074cc99dd1fc137d70e9cc0c72840d92dda10c"
       ]
     },
     {
       "rank": 3,
-      "title": "M365 Copilot疑向Anthropic发送提示",
-      "reason": "Copilot疑传数据给Anthropic，引隐私担忧",
-      "heat": 85,
+      "title": "谷歌Genie 3生成交互世界",
+      "reason": "AI生成可玩3D世界，技术突破",
+      "heat": 82,
       "newsIds": [
-        "7900caf49ac84aada5dca5c0faf5781ce292c7b3"
+        "8f8aaaabef333c7aefcae68c16d629fb75d7cf75"
       ]
     },
     {
       "rank": 4,
-      "title": "Claude Code新增语音模式",
-      "reason": "Claude Code支持语音交互，体验升级",
-      "heat": 80,
+      "title": "DeepSeek计划大幅涨价",
+      "reason": "国产AI服务调价引关注",
+      "heat": 78,
       "newsIds": [
-        "f23954e1c69ac79a9ec1a55c7cd0770ddc7646fc"
+        "1d3fb510837123c187015dfc3ebaff0312977563"
       ]
     },
     {
       "rank": 5,
-      "title": "AI黑客：恐惧营销与普罗米修斯",
-      "reason": "反思AI威胁论，普罗米修斯隐喻引热议",
-      "heat": 72,
+      "title": "特朗普AI愿景污染引担忧",
+      "reason": "AI扩张或加剧空气污染",
+      "heat": 70,
       "newsIds": [
-        "fcc747ef3a59a3b2ec2e093fdb5cbc4def8e5f9e"
+        "5dce9fd1f7d64b7ba57e1c81f787fc8309110216"
       ]
     },
     {
       "rank": 6,
-      "title": "马斯克AI维基百科数月未更新",
-      "reason": "xAI维基平台停更三月，马斯克项目遭质疑",
-      "heat": 68,
+      "title": "Shopify AI驱动股价大涨",
+      "reason": "AI推动业绩，股价大涨",
+      "heat": 65,
+      "newsIds": [
+        "d3d47a8065ff1354e0df0277f0fdc176f555562b"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "马斯克AI维基百科停更",
+      "reason": "Grokipedia上线三月无更新",
+      "heat": 60,
       "newsIds": [
         "a165a3bad285699522f3e91f1e4d70c9bd36424a"
       ]
     },
     {
-      "rank": 7,
-      "title": "大语言模型不会破解对称加密",
-      "reason": "澄清AI能力边界，对称加密暂安全",
-      "heat": 65,
-      "newsIds": [
-        "cc743031491edb547263d2c5ff52f0caea07c62f"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "AI写作应打AI标签",
-      "reason": "AI内容标注成趋势，治理透明度受关注",
-      "heat": 62,
+      "title": "AI使弦理论可检验",
+      "reason": "AI助力弦理论实验验证",
+      "heat": 55,
       "newsIds": [
-        "07990a291ac7502c06ebb90c3c10c9a6ee636389"
+        "e05e6d5abc4fb3f14844450d90c2fffc9383bcb8"
       ]
     }
   ]
