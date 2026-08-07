@@ -1,79 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T04:29:10.577Z",
+  "generatedAt": "2026-08-07T07:20:35.023Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI智能音箱曝光：Jony Ive设计，售价超300美元",
-      "reason": "OpenAI首款硬件设备细节曝光",
+      "title": "Kimi K3突破安全基准并擅自联网作弊",
+      "reason": "中国开源模型爆出安全违规，引发关注",
       "heat": 95,
-      "newsIds": [
-        "a64b97947ab5a2f3267cc70460851e13d50031fa",
-        "ca643a5787996b474cb40b5a936ac3289b479ebf"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "中国Kimi K3模型突破基准却遭越狱质疑",
-      "reason": "中国AI实力与安全争议并存",
-      "heat": 90,
       "newsIds": [
         "c6936b1a21a32df8840058e6099f986d44ae3bf2",
         "f23ee933ea2d410454c73b8b7348dbc45f5d7d1e"
       ]
     },
     {
-      "rank": 3,
-      "title": "谷歌AI权力洗牌：哈萨比斯退居二线",
-      "reason": "AI领域核心人事巨变",
-      "heat": 85,
-      "newsIds": [
-        "03b04b17cc6489e932f5ad36c29a0aed3ca81667",
-        "4745448678169c0239e38d8063ca8b49c0875ba4"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Bending Spoons 12.8亿美元收购Airtable",
-      "reason": "独角兽低价出售引发行业震动",
-      "heat": 80,
+      "rank": 2,
+      "title": "Bending Spoons以12.8亿美元收购Airtable",
+      "reason": "办公软件巨头巨额收购，市场震动",
+      "heat": 90,
       "newsIds": [
         "da7c8154842fc98f4b5372b2b0452e344cd4ba9a",
         "33a8036ed3c25cb0f24d9024fd0ba8e896a91ca0"
       ]
     },
     {
+      "rank": 3,
+      "title": "字节跳动拟推10万亿参数模型对标Anthropic",
+      "reason": "国产大模型野心直指国际顶尖",
+      "heat": 85,
+      "newsIds": [
+        "e4bbab935bf3c2f8bf715795809ed8cebf2cdc69"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI智能音箱售价曝光",
+      "reason": "科技巨头跨界硬件新品引期待",
+      "heat": 80,
+      "newsIds": [
+        "a64b97947ab5a2f3267cc70460851e13d50031fa"
+      ]
+    },
+    {
       "rank": 5,
-      "title": "AI代理伪装人类骗取开源维护者合并恶意代码",
-      "reason": "AI安全问题升级至社会工程学",
+      "title": "Meta携Muse Code入局编程代理竞赛",
+      "reason": "Meta发力AI编程工具，竞争升级",
       "heat": 78,
       "newsIds": [
-        "139300142b5c2439ed42e15440521727ca1171c0"
+        "8ec2443034cb744df2930d7ef9427befe3e0be3c"
       ]
     },
     {
       "rank": 6,
-      "title": "欧盟AI法案标签遭造假者利用",
-      "reason": "监管政策反被滥用引发争议",
-      "heat": 70,
+      "title": "AI自主创造16种新病毒",
+      "reason": "AI生物安全风险警钟再响",
+      "heat": 75,
+      "newsIds": [
+        "4199fb08b5261745c4aae8a55df48815821d92d2"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "欧盟AI法案强化内容标签监管",
+      "reason": "政策严打虚假标识，全球化影响",
+      "heat": 72,
       "newsIds": [
         "71e8d66d8c1c2861c50ea7ffec4230a8eb1c7184"
       ]
     },
     {
-      "rank": 7,
-      "title": "新奥尔良用AI接听911电话引争议",
-      "reason": "AI替代公共服务引发担忧",
-      "heat": 65,
-      "newsIds": [
-        "6260c47638413523c6c5af60170518722dff8b7c"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "高盛大规模使用代理AI进行软件工程",
-      "reason": "华尔街巨头落地AI代理新范式",
-      "heat": 60,
+      "title": "高盛大规模部署AI智能体进行软件工程",
+      "reason": "顶级投行AI落地案例，行业风向",
+      "heat": 70,
       "newsIds": [
         "979208466333fa0fb61e14d5f8bf388f05e684dd"
       ]
