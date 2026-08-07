@@ -1,79 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T14:17:23.363Z",
+  "generatedAt": "2026-08-07T00:05:42.349Z",
   "items": [
     {
       "rank": 1,
-      "title": "Meta AI模型测试中逃逸入侵其他系统",
-      "reason": "AI安全重大事件，引发对模型失控担忧",
+      "title": "谷歌重组AI领导层",
+      "reason": "谷歌AI权力交接引广泛关注",
       "heat": 95,
       "newsIds": [
-        "7d6bc267a1c14af0413eb3e9cd54952f948eea9d",
-        "5c1778bb312db469e57f7a1b632c82946851cd8d"
+        "03b04b17cc6489e932f5ad36c29a0aed3ca81667",
+        "4745448678169c0239e38d8063ca8b49c0875ba4",
+        "51b82336257fbcdd73d67c2837debb748a10d9c2",
+        "7f257a8b697451919210d96f8fc967a2a1684b95"
       ]
     },
     {
       "rank": 2,
-      "title": "美国两派罕见一致反对数据中心",
-      "reason": "跨党派共识，反映AI基础设施争议",
-      "heat": 85,
+      "title": "中国启动AI芯片曼哈顿计划",
+      "reason": "中美AI芯片竞争加剧",
+      "heat": 90,
       "newsIds": [
-        "6d1fa470cd9dc9d21367c5fde76974c6fd050324",
-        "a883d25c02c04db7be2220767221314dd3573149"
+        "9ea16df3b796818bd8cbcc376f00dd6c90b82699"
       ]
     },
     {
       "rank": 3,
-      "title": "DeepSeek-V4-Flash发布：潜空间推理模型",
-      "reason": "新架构模型引发开源社区热议",
+      "title": "OpenAI智能音箱售价曝光",
+      "reason": "OpenAI新硬件引发猜测",
       "heat": 80,
       "newsIds": [
-        "bd5f6c57f204d3f8673cdc267a4a85bb50f06bff"
+        "a64b97947ab5a2f3267cc70460851e13d50031fa"
       ]
     },
     {
       "rank": 4,
-      "title": "微软AI销售额大部分来自OpenAI",
-      "reason": "揭示巨头AI商业模式的脆弱性",
-      "heat": 75,
+      "title": "AMD收购Taalas强化AI推理",
+      "reason": "芯片巨头布局AI硬件",
+      "heat": 78,
       "newsIds": [
-        "02e0d9d9c946e2e3c00ba71364fe815a34e68f37"
+        "3ce14a7d84bafbba23d8a10696098e67c5f8f613",
+        "9a54045d74542bea959f17c6310e924ea77dd400"
       ]
     },
     {
       "rank": 5,
-      "title": "Suno面临诉讼宣布歌曲加水印",
-      "reason": "AI音乐版权争议升级，行业影响深远",
-      "heat": 70,
+      "title": "AI设计新病毒引担忧",
+      "reason": "生物安全风险警示",
+      "heat": 75,
       "newsIds": [
-        "3021f3373fa2136165195a289c8b86f617b122f8"
+        "aa2766bb1533bf970bacead7aad563f9934decd0",
+        "f91b2f334ecd013b00de1d8109021b57b7a14f31"
       ]
     },
     {
       "rank": 6,
-      "title": "谷歌AI大重组内部政治混乱",
-      "reason": "科技巨头战略调整背后的权力斗争",
+      "title": "特朗普再推限制出生公民权",
+      "reason": "政策争议持续发酵",
       "heat": 70,
       "newsIds": [
-        "51b82336257fbcdd73d67c2837debb748a10d9c2"
+        "6da2a586284bc0e9784e2cac33a7655e3f492954"
       ]
     },
     {
       "rank": 7,
-      "title": "中国95%新微短剧由AI生成",
-      "reason": "AI内容生产规模化，冲击影视行业",
-      "heat": 68,
+      "title": "AI代理标准达成一致",
+      "reason": "行业规范迈出重要一步",
+      "heat": 65,
       "newsIds": [
-        "fcf44e3febf95598d0318fc7ad8bc25f4aff5b7a"
+        "02d13f8075e3be2a9a363658f775de222aa8183e"
       ]
     },
     {
       "rank": 8,
-      "title": "谷歌地图升级智能点餐与酒店预订",
-      "reason": "超级应用转型，AI落地日常生活",
-      "heat": 65,
+      "title": "Anthropic自研硬件驱动Claude",
+      "reason": "AI巨头减少英伟达依赖",
+      "heat": 60,
       "newsIds": [
-        "c4ac702750d6ac9f7c2eaff4f77609f2035ae0f7"
+        "a838fd5d8dff0379bfbec554e40990dee0015b05"
       ]
     }
   ]
