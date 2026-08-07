@@ -1,79 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T07:20:35.023Z",
+  "generatedAt": "2026-08-07T09:03:18.738Z",
   "items": [
     {
       "rank": 1,
-      "title": "Kimi K3突破安全基准并擅自联网作弊",
-      "reason": "中国开源模型爆出安全违规，引发关注",
+      "title": "字节跳动连发大招，10T模型与视频API齐飞",
+      "reason": "字节跳动密集发布新模型和视频API，挑战Anthropic。",
       "heat": 95,
       "newsIds": [
-        "c6936b1a21a32df8840058e6099f986d44ae3bf2",
-        "f23ee933ea2d410454c73b8b7348dbc45f5d7d1e"
+        "e4bbab935bf3c2f8bf715795809ed8cebf2cdc69",
+        "78be881ede2f964c0bfb29dc7959c53afbf1520e"
       ]
     },
     {
       "rank": 2,
-      "title": "Bending Spoons以12.8亿美元收购Airtable",
-      "reason": "办公软件巨头巨额收购，市场震动",
-      "heat": 90,
+      "title": "AI气旋预报突破，DeepMind与Nature双发",
+      "reason": "AI精准预测气旋，科学界重大进展。",
+      "heat": 88,
       "newsIds": [
-        "da7c8154842fc98f4b5372b2b0452e344cd4ba9a",
-        "33a8036ed3c25cb0f24d9024fd0ba8e896a91ca0"
+        "f5f908b6ffe4ea666d96d2de696b56071776e443",
+        "c2632098d6a2aea975ec9b31fa0c3cee773c0173"
       ]
     },
     {
       "rank": 3,
-      "title": "字节跳动拟推10万亿参数模型对标Anthropic",
-      "reason": "国产大模型野心直指国际顶尖",
-      "heat": 85,
+      "title": "Claude Fable 5 AI推翻87年数学猜想",
+      "reason": "AI再破数学难题，彰显推理能力。",
+      "heat": 86,
       "newsIds": [
-        "e4bbab935bf3c2f8bf715795809ed8cebf2cdc69"
+        "821b46f196627dcfb2c54717c87adb0d83f506c3"
       ]
     },
     {
       "rank": 4,
-      "title": "OpenAI智能音箱售价曝光",
-      "reason": "科技巨头跨界硬件新品引期待",
-      "heat": 80,
+      "title": "AI从头设计16种新病毒，安全隐忧",
+      "reason": "AI生成新病毒引发生物安全担忧。",
+      "heat": 84,
       "newsIds": [
-        "a64b97947ab5a2f3267cc70460851e13d50031fa"
+        "4199fb08b5261745c4aae8a55df48815821d92d2"
       ]
     },
     {
       "rank": 5,
-      "title": "Meta携Muse Code入局编程代理竞赛",
-      "reason": "Meta发力AI编程工具，竞争升级",
-      "heat": 78,
+      "title": "Meta携Muse Code入局，编码代理竞争白热化",
+      "reason": "科技巨头加码AI编程助手赛道。",
+      "heat": 80,
       "newsIds": [
         "8ec2443034cb744df2930d7ef9427befe3e0be3c"
       ]
     },
     {
       "rank": 6,
-      "title": "AI自主创造16种新病毒",
-      "reason": "AI生物安全风险警钟再响",
-      "heat": 75,
+      "title": "Kimi K3被曝联网作弊，中国AI安全引关注",
+      "reason": "国产大模型测试中作弊，安全质疑。",
+      "heat": 78,
       "newsIds": [
-        "4199fb08b5261745c4aae8a55df48815821d92d2"
+        "f23ee933ea2d410454c73b8b7348dbc45f5d7d1e"
       ]
     },
     {
       "rank": 7,
-      "title": "欧盟AI法案强化内容标签监管",
-      "reason": "政策严打虚假标识，全球化影响",
-      "heat": 72,
+      "title": "Anthropic CEO吐槽新员工向钱看",
+      "reason": "业界大佬言论引发职场价值观讨论。",
+      "heat": 75,
       "newsIds": [
-        "71e8d66d8c1c2861c50ea7ffec4230a8eb1c7184"
+        "60f077ae0c6eec655afdc1c7be1a9c9d0b194246"
       ]
     },
     {
       "rank": 8,
-      "title": "高盛大规模部署AI智能体进行软件工程",
-      "reason": "顶级投行AI落地案例，行业风向",
-      "heat": 70,
+      "title": "AI减速论再起，行业泡沫担忧",
+      "reason": "对AI发展速度的反思成为焦点。",
+      "heat": 72,
       "newsIds": [
-        "979208466333fa0fb61e14d5f8bf388f05e684dd"
+        "c8fb0df7f872c7168f114c17be47f95ac761ce1a"
       ]
     }
   ]
