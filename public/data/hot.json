@@ -1,22 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T09:03:18.738Z",
+  "generatedAt": "2026-08-07T10:55:50.146Z",
   "items": [
     {
       "rank": 1,
-      "title": "字节跳动连发大招，10T模型与视频API齐飞",
-      "reason": "字节跳动密集发布新模型和视频API，挑战Anthropic。",
+      "title": "AI发现推翻87年数学猜想公式",
+      "reason": "AI重大科学突破，引发学界震动",
       "heat": 95,
       "newsIds": [
-        "e4bbab935bf3c2f8bf715795809ed8cebf2cdc69",
-        "78be881ede2f964c0bfb29dc7959c53afbf1520e"
+        "821b46f196627dcfb2c54717c87adb0d83f506c3"
       ]
     },
     {
       "rank": 2,
-      "title": "AI气旋预报突破，DeepMind与Nature双发",
-      "reason": "AI精准预测气旋，科学界重大进展。",
-      "heat": 88,
+      "title": "AI气旋预报实现突破",
+      "reason": "DeepMind与Nature双报道，天气预报革新",
+      "heat": 90,
       "newsIds": [
         "f5f908b6ffe4ea666d96d2de696b56071776e443",
         "c2632098d6a2aea975ec9b31fa0c3cee773c0173"
@@ -24,56 +23,57 @@
     },
     {
       "rank": 3,
-      "title": "Claude Fable 5 AI推翻87年数学猜想",
-      "reason": "AI再破数学难题，彰显推理能力。",
-      "heat": 86,
+      "title": "波音737现机身裂纹适航指令",
+      "reason": "涉及飞行安全，全球多架受影响",
+      "heat": 85,
       "newsIds": [
-        "821b46f196627dcfb2c54717c87adb0d83f506c3"
+        "8433a02f6fac6cbc32cc7779cd8d645086dbdf2a"
       ]
     },
     {
       "rank": 4,
-      "title": "AI从头设计16种新病毒，安全隐忧",
-      "reason": "AI生成新病毒引发生物安全担忧。",
-      "heat": 84,
+      "title": "Anthropic IPO员工股票计划引争议",
+      "reason": "AI独角兽上市前强制交易，员工不满",
+      "heat": 80,
       "newsIds": [
-        "4199fb08b5261745c4aae8a55df48815821d92d2"
+        "0cb295ca0feabe029fe2f940386b1da8c619e9b0"
       ]
     },
     {
       "rank": 5,
-      "title": "Meta携Muse Code入局，编码代理竞争白热化",
-      "reason": "科技巨头加码AI编程助手赛道。",
-      "heat": 80,
+      "title": "热门AI聊天机器人竟是真人",
+      "reason": "AI伪装成真人引发反思",
+      "heat": 75,
       "newsIds": [
-        "8ec2443034cb744df2930d7ef9427befe3e0be3c"
+        "b068249112b1cdcb0ab6b7f8efea924cb68ce5b5"
       ]
     },
     {
       "rank": 6,
-      "title": "Kimi K3被曝联网作弊，中国AI安全引关注",
-      "reason": "国产大模型测试中作弊，安全质疑。",
-      "heat": 78,
+      "title": "AI放缓即将到来",
+      "reason": "行业主流观点，对AI发展前景争论",
+      "heat": 70,
       "newsIds": [
-        "f23ee933ea2d410454c73b8b7348dbc45f5d7d1e"
+        "c8fb0df7f872c7168f114c17be47f95ac761ce1a"
       ]
     },
     {
       "rank": 7,
-      "title": "Anthropic CEO吐槽新员工向钱看",
-      "reason": "业界大佬言论引发职场价值观讨论。",
-      "heat": 75,
+      "title": "AI代理记忆工具兴起",
+      "reason": "多个开源项目解决AI记忆痛点",
+      "heat": 65,
       "newsIds": [
-        "60f077ae0c6eec655afdc1c7be1a9c9d0b194246"
+        "4be9735eb10ec6ec8425bcea8fa9eea2b2789d5b",
+        "ceeb9e591d73fb73d37f0db9ee5449c07478c87d"
       ]
     },
     {
       "rank": 8,
-      "title": "AI减速论再起，行业泡沫担忧",
-      "reason": "对AI发展速度的反思成为焦点。",
-      "heat": 72,
+      "title": "加拿大数据中心设备进口激增",
+      "reason": "AI基建需求旺盛，设备进口年增88%",
+      "heat": 60,
       "newsIds": [
-        "c8fb0df7f872c7168f114c17be47f95ac761ce1a"
+        "9d0306b72bb1a841e840f279e3074a65a5c3084e"
       ]
     }
   ]
