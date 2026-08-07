@@ -1,80 +1,86 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T13:09:57.255Z",
+  "generatedAt": "2026-08-07T14:56:08.117Z",
   "items": [
     {
       "rank": 1,
-      "title": "Meta因儿童安全案再被罚5.67亿美元",
-      "reason": "巨额罚款，涉及儿童安全，引发关注。",
+      "title": "AI冲击经济与就业",
+      "reason": "AI成本飙升引发裁员与失业忧虑",
       "heat": 95,
+      "newsIds": [
+        "fbf289dd3b99cba7ea8c0b6ae2b43732553be224",
+        "644ee0a04941b68470c026ddb7871971aaedf4d0"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "中国AI大模型加速追赶",
+      "reason": "字节/阿里/月之暗面密集发力",
+      "heat": 92,
+      "newsIds": [
+        "f6ae80fa97df8142bb47edf96df5f447d3df9cf2",
+        "ca14612c24de4f927c61d1691db436b7715a9387",
+        "3d34302ee848caecdae2647926dd206c6ac0ed2f"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI安全风险频发引发担忧",
+      "reason": "AI生成病毒、漏洞利用、危机失能",
+      "heat": 88,
+      "newsIds": [
+        "2f760b04259ac32f20c285c2e79152cb32e83be9",
+        "06bf676c1a83e4e967b2582a64512f40062896d6",
+        "e8fda4ae589a961393c81df6d14e7f0451236224"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI法律与儿童安全责任",
+      "reason": "Meta再遭巨额罚款强化平台监管",
+      "heat": 82,
       "newsIds": [
         "5076eb13f1953ad52b921db493cbf4f3e446da87"
       ]
     },
     {
-      "rank": 2,
-      "title": "Gemini被指泄露用户隐私文档",
-      "reason": "AI隐私泄露担忧，独立开发者爆料。",
-      "heat": 90,
-      "newsIds": [
-        "9837c310993f1ceea2626e0586717de1bc6b7310"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "AI安全与风险讨论升温",
-      "reason": "多篇探讨AI威胁与安全，话题持续。",
-      "heat": 85,
-      "newsIds": [
-        "bb074ee997f3b7c661ed7c53c94ae5d2bcb61a5f",
-        "ea217e660ff4133aaeda4cb69ffe654a8fbb58ed",
-        "85a9ae29f619710e26c5be2178c83aae2e0b2c97"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "热门AI聊天机器人其实是真人",
-      "reason": "WIRED曝光，引发对AI炒作反思。",
+      "rank": 5,
+      "title": "AI编程工具与算力硬件升级",
+      "reason": "本地AI编程与开发辅助成热点",
       "heat": 80,
       "newsIds": [
-        "b068249112b1cdcb0ab6b7f8efea924cb68ce5b5"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "软件公司纷纷转型AI求生",
-      "reason": "AI冲击下行业调整方向，引发讨论。",
-      "heat": 75,
-      "newsIds": [
-        "66117d39fcc5740ed4d05a31aa6f1fc9db7ad4a5"
+        "7e1b440ba47e73005a01f06ab580fe14afa705c0",
+        "dbb489a2f78e7df0b913a829faa8e64adb6a6639"
       ]
     },
     {
       "rank": 6,
-      "title": "AI成本问题成行业焦点",
-      "reason": "单位经济学与成本对比，企业关注降本。",
-      "heat": 70,
+      "title": "AI重塑企业软件与服务",
+      "reason": "Airbnb等加速AI功能落地",
+      "heat": 76,
       "newsIds": [
-        "fa06b542f707916a117c7cd8ef972046494a843c",
-        "658859dcacb3f970d48877b6cab80ab84ac585a3"
+        "35a4da0ba45005a3fb361f235f94aa46e4ee20eb",
+        "73bccdfae4933faed1824071753b90db74528075"
       ]
     },
     {
       "rank": 7,
-      "title": "视频转3D资产生成管线亮相",
-      "reason": "AI生成3D效率提升，工具创新。",
-      "heat": 65,
+      "title": "AI生成内容鉴别成难题",
+      "reason": "破折号等特征不可靠，误判频发",
+      "heat": 72,
       "newsIds": [
-        "a92dad6b4c63258a0cbe7c86826e8b23a08d738d"
+        "2d0615cfb92352e1793ab622f590b244ca8c50b2",
+        "5b1a6fc9546f0976fa9b050bc3e38e32074f13b8"
       ]
     },
     {
       "rank": 8,
-      "title": "AI在CAD基准测试超越GPT/Opus",
-      "reason": "BenchCAD新基准，AI能力再突破。",
-      "heat": 60,
+      "title": "AI引发伦理与心理健康争议",
+      "reason": "从孤独感到墓地数字化引反思",
+      "heat": 68,
       "newsIds": [
-        "df22787fdbf2eaa50aaa1b2855d903549fcb6ec4"
+        "51778bb289889ce56a7e9705178b041f01ab4f93",
+        "01674379eb80b647109be561f58635eb34fb82a7"
       ]
     }
   ]
