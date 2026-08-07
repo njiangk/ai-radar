@@ -1,79 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T10:55:50.146Z",
+  "generatedAt": "2026-08-07T13:09:57.255Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI发现推翻87年数学猜想公式",
-      "reason": "AI重大科学突破，引发学界震动",
+      "title": "Meta因儿童安全案再被罚5.67亿美元",
+      "reason": "巨额罚款，涉及儿童安全，引发关注。",
       "heat": 95,
       "newsIds": [
-        "821b46f196627dcfb2c54717c87adb0d83f506c3"
+        "5076eb13f1953ad52b921db493cbf4f3e446da87"
       ]
     },
     {
       "rank": 2,
-      "title": "AI气旋预报实现突破",
-      "reason": "DeepMind与Nature双报道，天气预报革新",
+      "title": "Gemini被指泄露用户隐私文档",
+      "reason": "AI隐私泄露担忧，独立开发者爆料。",
       "heat": 90,
       "newsIds": [
-        "f5f908b6ffe4ea666d96d2de696b56071776e443",
-        "c2632098d6a2aea975ec9b31fa0c3cee773c0173"
+        "9837c310993f1ceea2626e0586717de1bc6b7310"
       ]
     },
     {
       "rank": 3,
-      "title": "波音737现机身裂纹适航指令",
-      "reason": "涉及飞行安全，全球多架受影响",
+      "title": "AI安全与风险讨论升温",
+      "reason": "多篇探讨AI威胁与安全，话题持续。",
       "heat": 85,
       "newsIds": [
-        "8433a02f6fac6cbc32cc7779cd8d645086dbdf2a"
+        "bb074ee997f3b7c661ed7c53c94ae5d2bcb61a5f",
+        "ea217e660ff4133aaeda4cb69ffe654a8fbb58ed",
+        "85a9ae29f619710e26c5be2178c83aae2e0b2c97"
       ]
     },
     {
       "rank": 4,
-      "title": "Anthropic IPO员工股票计划引争议",
-      "reason": "AI独角兽上市前强制交易，员工不满",
+      "title": "热门AI聊天机器人其实是真人",
+      "reason": "WIRED曝光，引发对AI炒作反思。",
       "heat": 80,
-      "newsIds": [
-        "0cb295ca0feabe029fe2f940386b1da8c619e9b0"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "热门AI聊天机器人竟是真人",
-      "reason": "AI伪装成真人引发反思",
-      "heat": 75,
       "newsIds": [
         "b068249112b1cdcb0ab6b7f8efea924cb68ce5b5"
       ]
     },
     {
+      "rank": 5,
+      "title": "软件公司纷纷转型AI求生",
+      "reason": "AI冲击下行业调整方向，引发讨论。",
+      "heat": 75,
+      "newsIds": [
+        "66117d39fcc5740ed4d05a31aa6f1fc9db7ad4a5"
+      ]
+    },
+    {
       "rank": 6,
-      "title": "AI放缓即将到来",
-      "reason": "行业主流观点，对AI发展前景争论",
+      "title": "AI成本问题成行业焦点",
+      "reason": "单位经济学与成本对比，企业关注降本。",
       "heat": 70,
       "newsIds": [
-        "c8fb0df7f872c7168f114c17be47f95ac761ce1a"
+        "fa06b542f707916a117c7cd8ef972046494a843c",
+        "658859dcacb3f970d48877b6cab80ab84ac585a3"
       ]
     },
     {
       "rank": 7,
-      "title": "AI代理记忆工具兴起",
-      "reason": "多个开源项目解决AI记忆痛点",
+      "title": "视频转3D资产生成管线亮相",
+      "reason": "AI生成3D效率提升，工具创新。",
       "heat": 65,
       "newsIds": [
-        "4be9735eb10ec6ec8425bcea8fa9eea2b2789d5b",
-        "ceeb9e591d73fb73d37f0db9ee5449c07478c87d"
+        "a92dad6b4c63258a0cbe7c86826e8b23a08d738d"
       ]
     },
     {
       "rank": 8,
-      "title": "加拿大数据中心设备进口激增",
-      "reason": "AI基建需求旺盛，设备进口年增88%",
+      "title": "AI在CAD基准测试超越GPT/Opus",
+      "reason": "BenchCAD新基准，AI能力再突破。",
       "heat": 60,
       "newsIds": [
-        "9d0306b72bb1a841e840f279e3074a65a5c3084e"
+        "df22787fdbf2eaa50aaa1b2855d903549fcb6ec4"
       ]
     }
   ]
