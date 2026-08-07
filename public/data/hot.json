@@ -1,81 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T16:58:02.810Z",
+  "generatedAt": "2026-08-07T19:01:51.019Z",
   "items": [
     {
       "rank": 1,
-      "title": "代币末日：企业削减AI支出",
-      "reason": "AI泡沫担忧升温，企业削减支出",
+      "title": "OpenAI叫停超级模型Astra",
+      "reason": "安全标准收紧，模型开发被叫停。",
       "heat": 95,
       "newsIds": [
-        "2d6305b56ac10ca5335adf1942f79690710cd983",
-        "11fab7eed4acb4fde65a30fd17f224209f6496d4"
+        "d128983602b29f0f20ddb58996695e1a3c1ab656"
       ]
     },
     {
       "rank": 2,
-      "title": "Kimi K3模型发布与基准突破",
-      "reason": "国产模型Kimi K3打破英国基准",
-      "heat": 92,
+      "title": "企业争相削减AI开支",
+      "reason": "token成本飙升，企业压力加大。",
+      "heat": 90,
       "newsIds": [
-        "c6936b1a21a32df8840058e6099f986d44ae3bf2",
-        "888d213f24f900233c7c8a81be9e60b32d68a4ff",
-        "3d34302ee848caecdae2647926dd206c6ac0ed2f"
+        "2d6305b56ac10ca5335adf1942f79690710cd983",
+        "11fab7eed4acb4fde65a30fd17f224209f6496d4",
+        "4fffe919132d1d30c07c932c6cca0d1e17271ae2"
       ]
     },
     {
       "rank": 3,
-      "title": "字节跳动瞄准巨型AI模型",
-      "reason": "字节跳动发力接近Anthropic级模型",
+      "title": "Google AI团队重大重组",
+      "reason": "谷歌AI人才变动引发战略猜测。",
       "heat": 88,
+      "newsIds": [
+        "767e307c3d18df73457d5f435cafaf8d33317b83"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "字节跳动研发巨型AI模型",
+      "reason": "中国巨头加大AI模型投入。",
+      "heat": 85,
       "newsIds": [
         "e4bbab935bf3c2f8bf715795809ed8cebf2cdc69"
       ]
     },
     {
-      "rank": 4,
-      "title": "Cloudflare推出AI代理浏览器",
-      "reason": "Cloudflare发布专为AI代理打造的浏览器",
-      "heat": 85,
+      "rank": 5,
+      "title": "Cloudflare发布AI代理浏览器",
+      "reason": "云浏览器新品类，助力AI代理。",
+      "heat": 82,
       "newsIds": [
         "b0e67e927266a60b28aa49aa91ddb547154923c8"
       ]
     },
     {
-      "rank": 5,
-      "title": "OpenAI发布Astra安全评估",
-      "reason": "OpenAI公开Astra网络安全评估与防护措施",
-      "heat": 82,
-      "newsIds": [
-        "833934ee3b25f4a5a86f48ec49864f551bf31930"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "AI代理安全风险与防护",
-      "reason": "AI代理伪造身份引发安全事件，防护方案涌现",
-      "heat": 78,
+      "title": "欧盟AI法案引发争议",
+      "reason": "监管新规影响AI行业发展。",
+      "heat": 80,
       "newsIds": [
-        "dba530d7cdd249c6f959e32007e2b8694c364a28",
-        "212c183a68f52adbb445866a4e326854b2ee3fc3"
+        "0e5f5ec809403a61de76c8c0f7c716f127f4dcfa"
       ]
     },
     {
       "rank": 7,
-      "title": "AI制造新病毒引担忧",
-      "reason": "科学家用AI制造16种新病毒，监管引争议",
-      "heat": 75,
+      "title": "Oracle禁止OpenJDK用AI代码",
+      "reason": "开源社区对AI代码的争议。",
+      "heat": 78,
       "newsIds": [
-        "2f760b04259ac32f20c285c2e79152cb32e83be9"
+        "82b10fb0542c7cda765df17667f254bdae1a8668"
       ]
     },
     {
       "rank": 8,
-      "title": "AI广告牌泛滥旧金山",
-      "reason": "AI广告牌侵入城市景观，引发公众不满",
-      "heat": 70,
+      "title": "YouTube AI误伤科普频道",
+      "reason": "算法误判殃及知名创作者。",
+      "heat": 75,
       "newsIds": [
-        "d1f008f060c700f0ddfb85c7646820204d9545a2"
+        "46260db19159d00eac997ffc763a602d794327b7"
       ]
     }
   ]
