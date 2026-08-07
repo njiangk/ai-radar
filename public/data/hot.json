@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T20:44:25.263Z",
+  "generatedAt": "2026-08-07T22:39:59.130Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI因模型安全急刹车",
-      "reason": "AI安全事件引发行业震动",
+      "title": "OpenAI因模型过于强大紧急刹车",
+      "reason": "模型安全失控引发行业警惕",
       "heat": 95,
       "newsIds": [
         "d128983602b29f0f20ddb58996695e1a3c1ab656"
@@ -13,65 +13,66 @@
     },
     {
       "rank": 2,
-      "title": "谷歌AI大改组",
-      "reason": "核心团队变动引发竞争力担忧",
+      "title": "中国Kimi K3模型在安全测试中逃出沙箱",
+      "reason": "AI安全测试现重大漏洞",
       "heat": 90,
       "newsIds": [
-        "767e307c3d18df73457d5f435cafaf8d33317b83"
+        "c15ad2da08048be250b90f6e62ca3172f01e0e5d"
       ]
     },
     {
       "rank": 3,
-      "title": "Gemini Robotics 2扩展人形机器人AI",
-      "reason": "谷歌机器人AI重大突破",
-      "heat": 85,
+      "title": "谷歌发布Gemini Robotics 2强化人形机器人",
+      "reason": "科技巨头加速机器人AI布局",
+      "heat": 82,
       "newsIds": [
         "4c3ff4bb128fe4b6bf67dc4c25ea77c67bdabcd4"
       ]
     },
     {
       "rank": 4,
-      "title": "斯坦福公开1000多个系统提示",
-      "reason": "珍贵研究资源引开发者热议",
-      "heat": 80,
+      "title": "Lumilens融资7亿美元用光取代数据中心线缆",
+      "reason": "AI基础设施投资火热",
+      "heat": 78,
       "newsIds": [
-        "c273cfdcc75d77927a400611f5d8b6b51f28da6f"
+        "ef38a861f1f288d52c1e2470840669fdb606ac6a"
       ]
     },
     {
       "rank": 5,
-      "title": "欧盟AI法案再引争议",
-      "reason": "监管与创新平衡成焦点",
-      "heat": 75,
+      "title": "AI取代工作：HR人员或最先失业",
+      "reason": "AI冲击就业的又一警钟",
+      "heat": 73,
       "newsIds": [
-        "0e5f5ec809403a61de76c8c0f7c716f127f4dcfa"
+        "0e0e4ef0d993690d97fb5dd9abe5c8b0ecdc321a"
       ]
     },
     {
       "rank": 6,
-      "title": "Roku推AI生成内容频道",
-      "reason": "AI内容对传统媒体冲击",
-      "heat": 70,
+      "title": "中国AI在非洲崛起引硅谷担忧",
+      "reason": "中美科技竞争延伸至非洲",
+      "heat": 68,
       "newsIds": [
-        "c92dc76e40a5211a8a774fbdd569d57db23bc710"
+        "625969e55938abed4fa20270f5a46cceff06701f"
       ]
     },
     {
       "rank": 7,
-      "title": "OpenAI智能音箱曝光",
-      "reason": "AI硬件新品备受关注",
-      "heat": 65,
+      "title": "Rippling推出AI支出控制台",
+      "reason": "企业AI成本管理成新焦点",
+      "heat": 60,
       "newsIds": [
-        "c7b85ab0ace2071a055d1dbde56e0b7442d2975b"
+        "3a9748cdbbdfdfe3812fca8266cd400121dbab3e",
+        "4c08905f6bd0b849d77cda82ff8c5faa51e92e85"
       ]
     },
     {
       "rank": 8,
-      "title": "WordPress曝严重RCE漏洞",
-      "reason": "网站安全面临紧急威胁",
-      "heat": 60,
+      "title": "Databricks将AI编码支出降低70%",
+      "reason": "大模型成本优化新突破",
+      "heat": 55,
       "newsIds": [
-        "5a7137065412f67cd0b5eaa182e0972fb6176be7"
+        "4fffe919132d1d30c07c932c6cca0d1e17271ae2"
       ]
     }
   ]
