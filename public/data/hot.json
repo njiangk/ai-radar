@@ -1,80 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T18:41:55.156Z",
+  "generatedAt": "2026-08-08T20:33:31.355Z",
   "items": [
     {
       "rank": 1,
-      "title": "英国儿童深度伪造内容激增",
-      "reason": "儿童裸体深度伪造激增，引发社会担忧",
+      "title": "OpenAI安全风波",
+      "reason": "OpenAI安全与攻击事件引发信任危机",
       "heat": 92,
       "newsIds": [
-        "71e8d9311d2b4f66f715111b996d383ca3ab8062"
+        "20c457a6c9f4002c66a991662f05514f53c855c9",
+        "79c1666962a93b8a15c56e4f705bd5cf18622956"
       ]
     },
     {
       "rank": 2,
-      "title": "亚马逊数据中心污染引争议",
-      "reason": "新电厂或成最大污染源，环保受质疑",
-      "heat": 88,
+      "title": "亚马逊AI数据中心污染隐患",
+      "reason": "AI扩张加剧环境负担引担忧",
+      "heat": 90,
       "newsIds": [
         "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12"
       ]
     },
     {
       "rank": 3,
-      "title": "AI模型选举偏见：日本共产党",
-      "reason": "AI齐推荐日共，政治偏见过界",
-      "heat": 84,
+      "title": "OpenAI收购NextSlide",
+      "reason": "OpenAI加速商业布局扩展办公应用",
+      "heat": 88,
       "newsIds": [
-        "6e9818bdae648e7fb46530c794d5dc24bd8efc0e"
+        "8bf73f3956e4de837bec493441d985547b77d729"
       ]
     },
     {
       "rank": 4,
-      "title": "科技巨头AI裁员潮",
-      "reason": "AI裁员潮蔓延，引发经济螺旋担忧",
-      "heat": 80,
+      "title": "苹果与OpenAI生态之争",
+      "reason": "苹果与OpenAI争夺AI生态主导权",
+      "heat": 85,
       "newsIds": [
-        "1f5aa117de1b227ab8da348f6ebd7108f0c887de",
-        "846637e238e7e4dd68c4a50487258f9db323bce1"
+        "162690359a888278d90ad3fe745ff45ce2d0b4a2"
       ]
     },
     {
       "rank": 5,
-      "title": "OpenAI意外攻击Hugging Face",
-      "reason": "安全机制失效，攻击事件时间线曝光",
-      "heat": 76,
-      "newsIds": [
-        "79c1666962a93b8a15c56e4f705bd5cf18622956"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "丹麦以口头答辩应对AI作弊",
-      "reason": "教育界出招，防止AI代写学术作业",
-      "heat": 72,
-      "newsIds": [
-        "6ce8263691976feb5c164d681cf7cea1679cc785"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "开放权重LLM准确率追平",
-      "reason": "开源模型能力迎头赶上，格局生变",
-      "heat": 68,
+      "title": "开源LLM性能追平",
+      "reason": "开源模型性能已赶上闭源模型",
+      "heat": 82,
       "newsIds": [
         "00f3d963eb0484107de9c6e8d8576a1ba34d1433"
       ]
     },
     {
+      "rank": 6,
+      "title": "AI军事化争议",
+      "reason": "AI在军事领域的作用引发反思",
+      "heat": 80,
+      "newsIds": [
+        "b701e836c84f3ff9f445f1a8d9848ad68c47077c",
+        "0e8608defc70691dd88fa097d5b89a44f4b80fef"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "丹麦学校口头答辩防AI作弊",
+      "reason": "教育界用口头答辩遏制AI作弊",
+      "heat": 78,
+      "newsIds": [
+        "6ce8263691976feb5c164d681cf7cea1679cc785"
+      ]
+    },
+    {
       "rank": 8,
-      "title": "AI被质疑：神话与胁迫",
-      "reason": "反思AI价值，质疑采用与本质",
-      "heat": 64,
+      "title": "AI热潮泡沫质疑",
+      "reason": "业界对AI实际落地成效存疑",
+      "heat": 75,
       "newsIds": [
         "45611011f009ed73e272526ae31dc0791e27eb60",
-        "b209f314e3b5f8a1cd63b488912c90422f57de43",
-        "eb4520215ff0007749e38a7fa81a9614c9ebfbee"
+        "b209f314e3b5f8a1cd63b488912c90422f57de43"
       ]
     }
   ]
