@@ -1,74 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T08:46:32.446Z",
+  "generatedAt": "2026-08-08T10:37:12.756Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI替代人类工作",
-      "reason": "高管称AI替代工程师，引发就业焦虑",
-      "heat": 95,
+      "title": "OpenAI遭袭事件细节曝光",
+      "reason": "Black Hat曝OpenAI遭袭细节，安全影响深远",
+      "heat": 92,
+      "newsIds": [
+        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI替代人类工作争议再起",
+      "reason": "高管称AI替代人力，就业焦虑再起",
+      "heat": 88,
       "newsIds": [
         "508045ced5c05471d3715ce661f73357f44842fa",
         "7ab97ccaad5e88627cf8ed09ab40c856957023a0"
       ]
     },
     {
-      "rank": 2,
-      "title": "OpenAI安全事件",
-      "reason": "安全攻击时间线曝光，模型开发放缓",
-      "heat": 90,
-      "newsIds": [
-        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8",
-        "6b3fca58dabfb5728e4dd4824eb60a27dab5b128"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "内存成本与AI新技术",
-      "reason": "内存价格回2007年，新标准降低AI成本",
-      "heat": 85,
+      "title": "DeepMind突破飓风预测",
+      "reason": "AI精准预测飓风，科学突破引关注",
+      "heat": 80,
       "newsIds": [
-        "95af3069f60bba57b2a0686915c857ef6303a6f5",
-        "70bb11855e8ea534e933552d2c682679f26abc24",
-        "56ffd2bfae62a76fbeccfb9d07ab7fd2a0052a07",
-        "a03ad1e6b7565812626da9e15a8a3d4d63af9b3b"
+        "f5f908b6ffe4ea666d96d2de696b56071776e443"
       ]
     },
     {
       "rank": 4,
-      "title": "破解Echo Dot运行LLM",
-      "reason": "旧设备跑LLM，技术宅新玩法",
-      "heat": 80,
-      "newsIds": [
-        "412ad7860541a0e44f981f41cb6a5cb17e5459a7"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "对AI写作的反思",
-      "reason": "用户反感AI内容，追求原创性",
+      "title": "Grok Imagine图像2.0发布",
+      "reason": "xAI新图像模型发布，图片生成再升级",
       "heat": 75,
-      "newsIds": [
-        "96ea0a925abbd7efe0d02762b0dc484547dbba7b",
-        "de05a770ef9ee8ad1591ba91a4d4e679acceb2b5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Grok Imagine 2.0发布",
-      "reason": "xAI发布新图像模型Grok Imagine 2.0",
-      "heat": 70,
       "newsIds": [
         "53b313cc8d7139aefc26aa2b1f6a626e94becc4c"
       ]
     },
     {
+      "rank": 5,
+      "title": "独联体最大AI工厂启动",
+      "reason": "独联体最大AI算力工厂落地，基建加速",
+      "heat": 72,
+      "newsIds": [
+        "ca6d8281d6b4dc186cd6fc7e77ac9eaf059bf605"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI内存技术革新",
+      "reason": "内存技术提速降价，AI算力成本有望下降",
+      "heat": 68,
+      "newsIds": [
+        "56ffd2bfae62a76fbeccfb9d07ab7fd2a0052a07",
+        "a03ad1e6b7565812626da9e15a8a3d4d63af9b3b",
+        "95af3069f60bba57b2a0686915c857ef6303a6f5",
+        "70bb11855e8ea534e933552d2c682679f26abc24"
+      ]
+    },
+    {
       "rank": 7,
-      "title": "谷歌不需要LLM王冠",
-      "reason": "谷歌视角谈LLM竞争，引发讨论",
+      "title": "谷歌Gemini禁用指南",
+      "reason": "谷歌强制集成AI助手，用户隐私引担忧",
       "heat": 65,
       "newsIds": [
-        "c3e34a49489f247b052f0704640f39336d38e103"
+        "f029b1d94fdf8f10e1309b63134435b1bb000759"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI写作的反思与诚信",
+      "reason": "AI写作利弊之争，引发行业反思",
+      "heat": 60,
+      "newsIds": [
+        "96ea0a925abbd7efe0d02762b0dc484547dbba7b",
+        "3d3a2ca918986046bff20ba986215ff308f9891e"
       ]
     }
   ]
