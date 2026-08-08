@@ -1,82 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T16:38:07.314Z",
+  "generatedAt": "2026-08-08T18:41:55.156Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4-Flash发布",
-      "reason": "284B参数、百万上下文且免费，引发热议",
-      "heat": 95,
-      "newsIds": [
-        "68b826b184ff086b980c33e6cbf917b19e2e71fb"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "OpenAI攻击Hugging Face事件",
-      "reason": "OpenAI疑似意外攻击HF，安全争议爆发",
-      "heat": 90,
-      "newsIds": [
-        "79c1666962a93b8a15c56e4f705bd5cf18622956"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "英国儿童深度伪造激增",
-      "reason": "未成年人露骨伪造激增，社会安全引担忧",
-      "heat": 85,
+      "title": "英国儿童深度伪造内容激增",
+      "reason": "儿童裸体深度伪造激增，引发社会担忧",
+      "heat": 92,
       "newsIds": [
         "71e8d9311d2b4f66f715111b996d383ca3ab8062"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI设计病毒引安全担忧",
-      "reason": "科学家用AI造出首批病毒，生物安全警钟",
-      "heat": 85,
+      "rank": 2,
+      "title": "亚马逊数据中心污染引争议",
+      "reason": "新电厂或成最大污染源，环保受质疑",
+      "heat": 88,
       "newsIds": [
-        "75e0fe6a0af0a9091bf3fc6f67be8458733a98a4"
+        "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12"
       ]
     },
     {
-      "rank": 5,
-      "title": "中美AI竞争新态势",
-      "reason": "中国AI反击OpenAI攻击，美方优势仍在",
+      "rank": 3,
+      "title": "AI模型选举偏见：日本共产党",
+      "reason": "AI齐推荐日共，政治偏见过界",
+      "heat": 84,
+      "newsIds": [
+        "6e9818bdae648e7fb46530c794d5dc24bd8efc0e"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "科技巨头AI裁员潮",
+      "reason": "AI裁员潮蔓延，引发经济螺旋担忧",
       "heat": 80,
       "newsIds": [
-        "29a5c175ee7b622be5e5ffd58545f529dd5018a9",
-        "62fead1b1482afa53ca869b075f47ff9745acce3"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI裁员引发经济螺旋",
-      "reason": "AI替代就业或致经济恶性循环，引发讨论",
-      "heat": 75,
-      "newsIds": [
+        "1f5aa117de1b227ab8da348f6ebd7108f0c887de",
         "846637e238e7e4dd68c4a50487258f9db323bce1"
       ]
     },
     {
-      "rank": 7,
-      "title": "AI写作质量之争",
-      "reason": "AI故事评分超人类，写作价值再被质疑",
-      "heat": 70,
+      "rank": 5,
+      "title": "OpenAI意外攻击Hugging Face",
+      "reason": "安全机制失效，攻击事件时间线曝光",
+      "heat": 76,
       "newsIds": [
-        "eb4520215ff0007749e38a7fa81a9614c9ebfbee",
-        "e891a70d0213046bb8276d056da13b11799c3d6b",
-        "de05a770ef9ee8ad1591ba91a4d4e679acceb2b5"
+        "79c1666962a93b8a15c56e4f705bd5cf18622956"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "丹麦以口头答辩应对AI作弊",
+      "reason": "教育界出招，防止AI代写学术作业",
+      "heat": 72,
+      "newsIds": [
+        "6ce8263691976feb5c164d681cf7cea1679cc785"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "开放权重LLM准确率追平",
+      "reason": "开源模型能力迎头赶上，格局生变",
+      "heat": 68,
+      "newsIds": [
+        "00f3d963eb0484107de9c6e8d8576a1ba34d1433"
       ]
     },
     {
       "rank": 8,
-      "title": "AI理论之争：对齐、奇点与沙盒",
-      "reason": "AI对齐被指障眼法，奇点论再起引热议",
-      "heat": 65,
+      "title": "AI被质疑：神话与胁迫",
+      "reason": "反思AI价值，质疑采用与本质",
+      "heat": 64,
       "newsIds": [
-        "28a24cbd9470e72fe9b2f764677b731c4f0a9808",
-        "5c47d0831f987d6c2ecc1a9d5763920a3b941fe3",
-        "19af3835bedf16e5c3e337c529366a70eb8fcd2d"
+        "45611011f009ed73e272526ae31dc0791e27eb60",
+        "b209f314e3b5f8a1cd63b488912c90422f57de43",
+        "eb4520215ff0007749e38a7fa81a9614c9ebfbee"
       ]
     }
   ]

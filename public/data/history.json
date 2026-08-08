@@ -389593,8 +389593,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.2058,
-          "priceOutPer1M": 0.6468
+          "priceInPer1M": 0.182,
+          "priceOutPer1M": 0.572
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -390055,8 +390055,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.2058,
-          "priceOutPer1M": 0.6468
+          "priceInPer1M": 0.182,
+          "priceOutPer1M": 0.572
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -395200,7 +395200,7 @@
           "id": "moonshotai/kimi-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2.5,
+          "priceInPer1M": 2.8,
           "priceOutPer1M": 14
         },
         {
@@ -420498,7 +420498,7 @@
           "id": "kilo/~moonshotai/kimi-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2.5,
+          "priceInPer1M": 2.8,
           "priceOutPer1M": 14
         },
         {
@@ -427106,7 +427106,7 @@
           "id": "openrouter/~moonshotai/kimi-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2.5,
+          "priceInPer1M": 2.8,
           "priceOutPer1M": 14
         },
         {
