@@ -1,81 +1,74 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T05:00:50.613Z",
+  "generatedAt": "2026-08-08T08:46:32.446Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI安全风波",
-      "reason": "事关AI安全底线，引发行业关注",
+      "title": "AI替代人类工作",
+      "reason": "高管称AI替代工程师，引发就业焦虑",
       "heat": 95,
       "newsIds": [
-        "6b3fca58dabfb5728e4dd4824eb60a27dab5b128",
-        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
+        "508045ced5c05471d3715ce661f73357f44842fa",
+        "7ab97ccaad5e88627cf8ed09ab40c856957023a0"
       ]
     },
     {
       "rank": 2,
-      "title": "AI内存技术突破",
-      "reason": "AI推理成本高昂，硬件革新成焦点",
+      "title": "OpenAI安全事件",
+      "reason": "安全攻击时间线曝光，模型开发放缓",
       "heat": 90,
       "newsIds": [
+        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8",
+        "6b3fca58dabfb5728e4dd4824eb60a27dab5b128"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "内存成本与AI新技术",
+      "reason": "内存价格回2007年，新标准降低AI成本",
+      "heat": 85,
+      "newsIds": [
+        "95af3069f60bba57b2a0686915c857ef6303a6f5",
+        "70bb11855e8ea534e933552d2c682679f26abc24",
         "56ffd2bfae62a76fbeccfb9d07ab7fd2a0052a07",
         "a03ad1e6b7565812626da9e15a8a3d4d63af9b3b"
       ]
     },
     {
-      "rank": 3,
-      "title": "企业AI支出管控兴起",
-      "reason": "AI费用失控，企业亟需管理工具",
-      "heat": 85,
-      "newsIds": [
-        "3a9748cdbbdfdfe3812fca8266cd400121dbab3e",
-        "4c08905f6bd0b849d77cda82ff8c5faa51e92e85"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "AI融资热潮降温",
-      "reason": "免费资金终结，行业面临洗牌",
+      "title": "破解Echo Dot运行LLM",
+      "reason": "旧设备跑LLM，技术宅新玩法",
       "heat": 80,
-      "newsIds": [
-        "b568fa9ed9d0ab92d03f61d26ab03f2fd3c7a3e6"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI漏洞修复短板凸显",
-      "reason": "AI自主修复能力不足，安全隐忧",
-      "heat": 75,
-      "newsIds": [
-        "6b8f12e6dcf4c2a09b914fcb91b5b44b33dfa834"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "破解Echo Dot本地跑LLM",
-      "reason": "边缘设备运行大模型，玩法新颖",
-      "heat": 70,
       "newsIds": [
         "412ad7860541a0e44f981f41cb6a5cb17e5459a7"
       ]
     },
     {
-      "rank": 7,
-      "title": "光互连初创融资7亿",
-      "reason": "AI基建获资本青睐，前景广阔",
-      "heat": 68,
+      "rank": 5,
+      "title": "对AI写作的反思",
+      "reason": "用户反感AI内容，追求原创性",
+      "heat": 75,
       "newsIds": [
-        "ef38a861f1f288d52c1e2470840669fdb606ac6a"
+        "96ea0a925abbd7efe0d02762b0dc484547dbba7b",
+        "de05a770ef9ee8ad1591ba91a4d4e679acceb2b5"
       ]
     },
     {
-      "rank": 8,
-      "title": "AI代理浏览器工具涌现",
-      "reason": "AI代理操作浏览器，新赛道开启",
+      "rank": 6,
+      "title": "Grok Imagine 2.0发布",
+      "reason": "xAI发布新图像模型Grok Imagine 2.0",
+      "heat": 70,
+      "newsIds": [
+        "53b313cc8d7139aefc26aa2b1f6a626e94becc4c"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "谷歌不需要LLM王冠",
+      "reason": "谷歌视角谈LLM竞争，引发讨论",
       "heat": 65,
       "newsIds": [
-        "3f4d8cfdd4d2a54cbde54ed37e21c11f04896c03",
-        "04c4005359b369e085fe33d20cc74c5c9938a569"
+        "c3e34a49489f247b052f0704640f39336d38e103"
       ]
     }
   ]

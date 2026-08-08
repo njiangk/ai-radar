@@ -332846,8 +332846,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.28,
-          "priceOutPer1M": 0.88
+          "priceInPer1M": 0.252,
+          "priceOutPer1M": 0.792
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -333308,8 +333308,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.308,
-          "priceOutPer1M": 0.968
+          "priceInPer1M": 0.252,
+          "priceOutPer1M": 0.792
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
