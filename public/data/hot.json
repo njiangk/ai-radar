@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T14:35:11.863Z",
+  "generatedAt": "2026-08-08T16:38:07.314Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4-Flash发布：284B参数免费使用",
-      "reason": "重磅模型发布，免费开放，引发社区热议",
+      "title": "DeepSeek V4-Flash发布",
+      "reason": "284B参数、百万上下文且免费，引发热议",
       "heat": 95,
       "newsIds": [
         "68b826b184ff086b980c33e6cbf917b19e2e71fb"
@@ -13,67 +13,70 @@
     },
     {
       "rank": 2,
-      "title": "OpenAI攻击Hugging Face事件曝光",
-      "reason": "AI巨头攻击开源平台，安全事件引关注",
+      "title": "OpenAI攻击Hugging Face事件",
+      "reason": "OpenAI疑似意外攻击HF，安全争议爆发",
       "heat": 90,
       "newsIds": [
-        "79c1666962a93b8a15c56e4f705bd5cf18622956",
-        "29a5c175ee7b622be5e5ffd58545f529dd5018a9"
+        "79c1666962a93b8a15c56e4f705bd5cf18622956"
       ]
     },
     {
       "rank": 3,
-      "title": "DeepMind气象模型实现飓风预测突破",
-      "reason": "AI天气预报重大进展，科学界广泛关注",
+      "title": "英国儿童深度伪造激增",
+      "reason": "未成年人露骨伪造激增，社会安全引担忧",
       "heat": 85,
       "newsIds": [
-        "0dc29721eaf2cd7798a1208a0c1d8414e8533b90",
-        "f5f908b6ffe4ea666d96d2de696b56071776e443"
+        "71e8d9311d2b4f66f715111b996d383ca3ab8062"
       ]
     },
     {
       "rank": 4,
-      "title": "科学家制造首批AI设计病毒引发安全担忧",
-      "reason": "AI生成病毒风险巨大，安全问题紧迫",
-      "heat": 83,
+      "title": "AI设计病毒引安全担忧",
+      "reason": "科学家用AI造出首批病毒，生物安全警钟",
+      "heat": 85,
       "newsIds": [
         "75e0fe6a0af0a9091bf3fc6f67be8458733a98a4"
       ]
     },
     {
       "rank": 5,
-      "title": "字节跳动构建10T模型直面Anthropic",
-      "reason": "中国大模型竞赛白热化，行业格局生变",
+      "title": "中美AI竞争新态势",
+      "reason": "中国AI反击OpenAI攻击，美方优势仍在",
       "heat": 80,
       "newsIds": [
-        "b1fc011527ed7ee262b4f48d200659b7b840bbee"
+        "29a5c175ee7b622be5e5ffd58545f529dd5018a9",
+        "62fead1b1482afa53ca869b075f47ff9745acce3"
       ]
     },
     {
       "rank": 6,
-      "title": "我在亚马逊构建AI却被解雇了",
-      "reason": "当事人亲述大厂AI职场内幕，引发共鸣",
-      "heat": 78,
+      "title": "AI裁员引发经济螺旋",
+      "reason": "AI替代就业或致经济恶性循环，引发讨论",
+      "heat": 75,
       "newsIds": [
-        "55b897aa0bfb9b4fe2d93938f13bd76e15fde00e"
+        "846637e238e7e4dd68c4a50487258f9db323bce1"
       ]
     },
     {
       "rank": 7,
-      "title": "AI对年轻人思想与幸福的影响引争议",
-      "reason": "AI副作用引发社会反思，家长担忧",
-      "heat": 75,
+      "title": "AI写作质量之争",
+      "reason": "AI故事评分超人类，写作价值再被质疑",
+      "heat": 70,
       "newsIds": [
-        "ba093b877e2582b27f6dc8460d464c0ed779a578"
+        "eb4520215ff0007749e38a7fa81a9614c9ebfbee",
+        "e891a70d0213046bb8276d056da13b11799c3d6b",
+        "de05a770ef9ee8ad1591ba91a4d4e679acceb2b5"
       ]
     },
     {
       "rank": 8,
-      "title": "如何在Gmail和Docs中禁用Gemini",
-      "reason": "大量用户需求强烈，操作指南实用",
-      "heat": 72,
+      "title": "AI理论之争：对齐、奇点与沙盒",
+      "reason": "AI对齐被指障眼法，奇点论再起引热议",
+      "heat": 65,
       "newsIds": [
-        "f029b1d94fdf8f10e1309b63134435b1bb000759"
+        "28a24cbd9470e72fe9b2f764677b731c4f0a9808",
+        "5c47d0831f987d6c2ecc1a9d5763920a3b941fe3",
+        "19af3835bedf16e5c3e337c529366a70eb8fcd2d"
       ]
     }
   ]
