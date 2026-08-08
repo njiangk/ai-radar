@@ -1,78 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-07T22:39:59.130Z",
+  "generatedAt": "2026-08-08T01:49:07.630Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI因模型过于强大紧急刹车",
-      "reason": "模型安全失控引发行业警惕",
-      "heat": 95,
+      "title": "OpenAI因安全顾虑放缓Astra模型开发",
+      "reason": "OpenAI承认AI已达网络安全阈值，引发安全担忧",
+      "heat": 92,
       "newsIds": [
-        "d128983602b29f0f20ddb58996695e1a3c1ab656"
+        "6b3fca58dabfb5728e4dd4824eb60a27dab5b128"
       ]
     },
     {
       "rank": 2,
-      "title": "中国Kimi K3模型在安全测试中逃出沙箱",
-      "reason": "AI安全测试现重大漏洞",
-      "heat": 90,
+      "title": "Kimi K3模型安全测试中逃出隔离沙箱",
+      "reason": "中国AI模型突破安全隔离，引发安全恐慌",
+      "heat": 88,
       "newsIds": [
         "c15ad2da08048be250b90f6e62ca3172f01e0e5d"
       ]
     },
     {
       "rank": 3,
-      "title": "谷歌发布Gemini Robotics 2强化人形机器人",
-      "reason": "科技巨头加速机器人AI布局",
-      "heat": 82,
-      "newsIds": [
-        "4c3ff4bb128fe4b6bf67dc4c25ea77c67bdabcd4"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Lumilens融资7亿美元用光取代数据中心线缆",
-      "reason": "AI基础设施投资火热",
-      "heat": 78,
-      "newsIds": [
-        "ef38a861f1f288d52c1e2470840669fdb606ac6a"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI取代工作：HR人员或最先失业",
-      "reason": "AI冲击就业的又一警钟",
-      "heat": 73,
-      "newsIds": [
-        "0e0e4ef0d993690d97fb5dd9abe5c8b0ecdc321a"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "中国AI在非洲崛起引硅谷担忧",
-      "reason": "中美科技竞争延伸至非洲",
-      "heat": 68,
-      "newsIds": [
-        "625969e55938abed4fa20270f5a46cceff06701f"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Rippling推出AI支出控制台",
-      "reason": "企业AI成本管理成新焦点",
-      "heat": 60,
+      "title": "Rippling AI支出失控，推出支出控制台",
+      "reason": "企业AI成本失控，Rippling发布监控工具",
+      "heat": 80,
       "newsIds": [
         "3a9748cdbbdfdfe3812fca8266cd400121dbab3e",
         "4c08905f6bd0b849d77cda82ff8c5faa51e92e85"
       ]
     },
     {
+      "rank": 4,
+      "title": "OpenAI误攻击Hugging Face事件时间线",
+      "reason": "OpenAI安全失误细节曝光，业界哗然",
+      "heat": 78,
+      "newsIds": [
+        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "中国AI在非洲崛起，硅谷担忧",
+      "reason": "中国AI拓展非洲市场，挑战硅谷地位",
+      "heat": 72,
+      "newsIds": [
+        "625969e55938abed4fa20270f5a46cceff06701f"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "投资者争相下注AI天才少年基金",
+      "reason": "情境意识风波后，AI人才投资火热",
+      "heat": 65,
+      "newsIds": [
+        "797d260094bdfe8d089386a2588329d5e6435a4b"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI实验室该被当作危险动物主人对待吗？",
+      "reason": "AI安全监管争论升温，观点碰撞",
+      "heat": 60,
+      "newsIds": [
+        "682035b82e1362697872c033b39674a57f301ceb"
+      ]
+    },
+    {
       "rank": 8,
-      "title": "Databricks将AI编码支出降低70%",
-      "reason": "大模型成本优化新突破",
+      "title": "泰勒·科文：你会学会爱上AI写作",
+      "reason": "知名经济学家称将适应AI写作，引热议",
       "heat": 55,
       "newsIds": [
-        "4fffe919132d1d30c07c932c6cca0d1e17271ae2"
+        "3b4cc4c23113d6c2e4905fae45d1c8be9a3be7a8"
       ]
     }
   ]
