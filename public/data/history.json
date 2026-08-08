@@ -412714,8 +412714,8 @@
           "id": "venice/openai-gpt-56-luna-pro",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.25,
-          "priceOutPer1M": 7.5
+          "priceInPer1M": 0.2667,
+          "priceOutPer1M": 1.6
         },
         {
           "id": "venice/venice-uncensored-1-2",
@@ -412973,8 +412973,8 @@
           "id": "venice/openai-gpt-56-luna",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.25,
-          "priceOutPer1M": 7.5
+          "priceInPer1M": 0.2667,
+          "priceOutPer1M": 1.6
         },
         {
           "id": "venice/qwen3-5-35b-a3b",
