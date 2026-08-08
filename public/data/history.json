@@ -332846,8 +332846,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.252,
-          "priceOutPer1M": 0.792
+          "priceInPer1M": 0.2212,
+          "priceOutPer1M": 0.6952
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -333308,8 +333308,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.252,
-          "priceOutPer1M": 0.792
+          "priceInPer1M": 0.2506,
+          "priceOutPer1M": 0.7876
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -369512,7 +369512,7 @@
           "id": "openrouter/qwen/qwen3.6-35b-a3b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.14,
+          "priceInPer1M": 0.15,
           "priceOutPer1M": 1
         },
         {
