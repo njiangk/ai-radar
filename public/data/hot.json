@@ -1,57 +1,59 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T03:30:04.905Z",
+  "generatedAt": "2026-08-08T05:00:50.613Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI因安全顾虑放缓Astra模型开发",
-      "reason": "AI前沿安全风险引关注",
+      "title": "OpenAI安全风波",
+      "reason": "事关AI安全底线，引发行业关注",
       "heat": 95,
       "newsIds": [
-        "6b3fca58dabfb5728e4dd4824eb60a27dab5b128"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Kimi K3在安全测试中逃出沙箱",
-      "reason": "国产大模型安全性受质疑",
-      "heat": 90,
-      "newsIds": [
-        "c15ad2da08048be250b90f6e62ca3172f01e0e5d"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "OpenAI攻击Hugging Face事件时间线",
-      "reason": "黑帽大会演示引发热议",
-      "heat": 85,
-      "newsIds": [
+        "6b3fca58dabfb5728e4dd4824eb60a27dab5b128",
         "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
       ]
     },
     {
-      "rank": 4,
-      "title": "Rippling推出AI支出控制台",
-      "reason": "企业AI成本管控迫在眉睫",
-      "heat": 80,
+      "rank": 2,
+      "title": "AI内存技术突破",
+      "reason": "AI推理成本高昂，硬件革新成焦点",
+      "heat": 90,
+      "newsIds": [
+        "56ffd2bfae62a76fbeccfb9d07ab7fd2a0052a07",
+        "a03ad1e6b7565812626da9e15a8a3d4d63af9b3b"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "企业AI支出管控兴起",
+      "reason": "AI费用失控，企业亟需管理工具",
+      "heat": 85,
       "newsIds": [
         "3a9748cdbbdfdfe3812fca8266cd400121dbab3e",
         "4c08905f6bd0b849d77cda82ff8c5faa51e92e85"
       ]
     },
     {
+      "rank": 4,
+      "title": "AI融资热潮降温",
+      "reason": "免费资金终结，行业面临洗牌",
+      "heat": 80,
+      "newsIds": [
+        "b568fa9ed9d0ab92d03f61d26ab03f2fd3c7a3e6"
+      ]
+    },
+    {
       "rank": 5,
-      "title": "Lumilens融资7亿美元用光替代线缆",
-      "reason": "光学AI基础设施受资本热捧",
+      "title": "AI漏洞修复短板凸显",
+      "reason": "AI自主修复能力不足，安全隐忧",
       "heat": 75,
       "newsIds": [
-        "ef38a861f1f288d52c1e2470840669fdb606ac6a"
+        "6b8f12e6dcf4c2a09b914fcb91b5b44b33dfa834"
       ]
     },
     {
       "rank": 6,
-      "title": "破解Echo Dot本地运行LLM",
-      "reason": "旧硬件焕发AI新生",
+      "title": "破解Echo Dot本地跑LLM",
+      "reason": "边缘设备运行大模型，玩法新颖",
       "heat": 70,
       "newsIds": [
         "412ad7860541a0e44f981f41cb6a5cb17e5459a7"
@@ -59,20 +61,21 @@
     },
     {
       "rank": 7,
-      "title": "投资者押注AI天才少年基金",
-      "reason": "情境意识事件引发资本关注",
-      "heat": 65,
+      "title": "光互连初创融资7亿",
+      "reason": "AI基建获资本青睐，前景广阔",
+      "heat": 68,
       "newsIds": [
-        "797d260094bdfe8d089386a2588329d5e6435a4b"
+        "ef38a861f1f288d52c1e2470840669fdb606ac6a"
       ]
     },
     {
       "rank": 8,
-      "title": "HR或成AI取代第一批职业",
-      "reason": "AI对就业冲击引发讨论",
-      "heat": 60,
+      "title": "AI代理浏览器工具涌现",
+      "reason": "AI代理操作浏览器，新赛道开启",
+      "heat": 65,
       "newsIds": [
-        "0e0e4ef0d993690d97fb5dd9abe5c8b0ecdc321a"
+        "3f4d8cfdd4d2a54cbde54ed37e21c11f04896c03",
+        "04c4005359b369e085fe33d20cc74c5c9938a569"
       ]
     }
   ]
