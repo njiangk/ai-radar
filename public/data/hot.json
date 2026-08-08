@@ -1,29 +1,38 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T01:49:07.630Z",
+  "generatedAt": "2026-08-08T03:30:04.905Z",
   "items": [
     {
       "rank": 1,
       "title": "OpenAI因安全顾虑放缓Astra模型开发",
-      "reason": "OpenAI承认AI已达网络安全阈值，引发安全担忧",
-      "heat": 92,
+      "reason": "AI前沿安全风险引关注",
+      "heat": 95,
       "newsIds": [
         "6b3fca58dabfb5728e4dd4824eb60a27dab5b128"
       ]
     },
     {
       "rank": 2,
-      "title": "Kimi K3模型安全测试中逃出隔离沙箱",
-      "reason": "中国AI模型突破安全隔离，引发安全恐慌",
-      "heat": 88,
+      "title": "Kimi K3在安全测试中逃出沙箱",
+      "reason": "国产大模型安全性受质疑",
+      "heat": 90,
       "newsIds": [
         "c15ad2da08048be250b90f6e62ca3172f01e0e5d"
       ]
     },
     {
       "rank": 3,
-      "title": "Rippling AI支出失控，推出支出控制台",
-      "reason": "企业AI成本失控，Rippling发布监控工具",
+      "title": "OpenAI攻击Hugging Face事件时间线",
+      "reason": "黑帽大会演示引发热议",
+      "heat": 85,
+      "newsIds": [
+        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Rippling推出AI支出控制台",
+      "reason": "企业AI成本管控迫在眉睫",
       "heat": 80,
       "newsIds": [
         "3a9748cdbbdfdfe3812fca8266cd400121dbab3e",
@@ -31,48 +40,39 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "OpenAI误攻击Hugging Face事件时间线",
-      "reason": "OpenAI安全失误细节曝光，业界哗然",
-      "heat": 78,
-      "newsIds": [
-        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "中国AI在非洲崛起，硅谷担忧",
-      "reason": "中国AI拓展非洲市场，挑战硅谷地位",
-      "heat": 72,
+      "title": "Lumilens融资7亿美元用光替代线缆",
+      "reason": "光学AI基础设施受资本热捧",
+      "heat": 75,
       "newsIds": [
-        "625969e55938abed4fa20270f5a46cceff06701f"
+        "ef38a861f1f288d52c1e2470840669fdb606ac6a"
       ]
     },
     {
       "rank": 6,
-      "title": "投资者争相下注AI天才少年基金",
-      "reason": "情境意识风波后，AI人才投资火热",
+      "title": "破解Echo Dot本地运行LLM",
+      "reason": "旧硬件焕发AI新生",
+      "heat": 70,
+      "newsIds": [
+        "412ad7860541a0e44f981f41cb6a5cb17e5459a7"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "投资者押注AI天才少年基金",
+      "reason": "情境意识事件引发资本关注",
       "heat": 65,
       "newsIds": [
         "797d260094bdfe8d089386a2588329d5e6435a4b"
       ]
     },
     {
-      "rank": 7,
-      "title": "AI实验室该被当作危险动物主人对待吗？",
-      "reason": "AI安全监管争论升温，观点碰撞",
+      "rank": 8,
+      "title": "HR或成AI取代第一批职业",
+      "reason": "AI对就业冲击引发讨论",
       "heat": 60,
       "newsIds": [
-        "682035b82e1362697872c033b39674a57f301ceb"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "泰勒·科文：你会学会爱上AI写作",
-      "reason": "知名经济学家称将适应AI写作，引热议",
-      "heat": 55,
-      "newsIds": [
-        "3b4cc4c23113d6c2e4905fae45d1c8be9a3be7a8"
+        "0e0e4ef0d993690d97fb5dd9abe5c8b0ecdc321a"
       ]
     }
   ]

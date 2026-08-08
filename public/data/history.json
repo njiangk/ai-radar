@@ -332846,8 +332846,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.42,
-          "priceOutPer1M": 1.32
+          "priceInPer1M": 0.3892,
+          "priceOutPer1M": 1.2232
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -333051,6 +333051,13 @@
           "livebenchAvg": 73.38,
           "priceInPer1M": 1.4,
           "priceOutPer1M": 4.4
+        },
+        {
+          "id": "regolo-ai/glm5.2",
+          "benchmarkScore": null,
+          "livebenchAvg": 73.38,
+          "priceInPer1M": 2.31,
+          "priceOutPer1M": 6
         },
         {
           "id": "aiand/zai-org/glm-5.2",
@@ -333301,8 +333308,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.4466,
-          "priceOutPer1M": 1.4036
+          "priceInPer1M": 0.4046,
+          "priceOutPer1M": 1.2716
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -335522,6 +335529,13 @@
           "livebenchAvg": 64.18,
           "priceInPer1M": 0,
           "priceOutPer1M": 0
+        },
+        {
+          "id": "regolo-ai/qwen3.6-27b",
+          "benchmarkScore": null,
+          "livebenchAvg": 64.18,
+          "priceInPer1M": 0.58,
+          "priceOutPer1M": 2.42
         },
         {
           "id": "aiand/qwen/qwen3.6-27b",
@@ -348999,6 +349013,13 @@
           "priceOutPer1M": 30
         },
         {
+          "id": "salad-cloud/qwen3.6-35b-a3b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.09,
+          "priceOutPer1M": 0.6
+        },
+        {
           "id": "atomic-chat/Qwen3_5-9B-Q4_K_M",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -351911,11 +351932,32 @@
           "priceOutPer1M": 3.48
         },
         {
+          "id": "regolo-ai/gemma4-31b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.46,
+          "priceOutPer1M": 2.42
+        },
+        {
+          "id": "regolo-ai/brick-complexity-pro",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.12,
+          "priceOutPer1M": 0.46
+        },
+        {
           "id": "regolo-ai/qwen3.5-122b",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.9,
           "priceOutPer1M": 3.6
+        },
+        {
+          "id": "regolo-ai/apertus-70b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.46,
+          "priceOutPer1M": 2.42
         },
         {
           "id": "regolo-ai/gpt-oss-20b",
@@ -351932,18 +351974,18 @@
           "priceOutPer1M": 0.6
         },
         {
-          "id": "regolo-ai/mistral-small3.2",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 2.2
-        },
-        {
           "id": "regolo-ai/llama-3.3-70b-instruct",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.6,
           "priceOutPer1M": 2.7
+        },
+        {
+          "id": "regolo-ai/brick-v1-beta",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
         },
         {
           "id": "regolo-ai/qwen3-reranker-4b",
@@ -351960,11 +352002,11 @@
           "priceOutPer1M": 4.2
         },
         {
-          "id": "regolo-ai/minimax-m2.5",
+          "id": "regolo-ai/deepseek-ocr-2",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.8,
-          "priceOutPer1M": 3.5
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
         },
         {
           "id": "regolo-ai/mistral-small-4-119b",
@@ -351979,13 +352021,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.5,
           "priceOutPer1M": 2
-        },
-        {
-          "id": "regolo-ai/llama-3.1-8b-instruct",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0.05,
-          "priceOutPer1M": 0.25
         },
         {
           "id": "regolo-ai/qwen3-coder-next",
@@ -362666,8 +362701,8 @@
           "id": "kilo/google/gemma-4-31b-it",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
-          "priceOutPer1M": 0.34
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.35
         },
         {
           "id": "kilo/google/gemini-3.1-flash-image",
