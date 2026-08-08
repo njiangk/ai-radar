@@ -1,82 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T10:37:12.756Z",
+  "generatedAt": "2026-08-08T12:53:55.294Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI遭袭事件细节曝光",
-      "reason": "Black Hat曝OpenAI遭袭细节，安全影响深远",
-      "heat": 92,
+      "title": "中国AI模型拦截OpenAI攻击",
+      "reason": "中国AI防御能力引全球关注",
+      "heat": 95,
       "newsIds": [
-        "0aaa4cc9a36be3b53c3b60c44728353bf699ddd8"
+        "29a5c175ee7b622be5e5ffd58545f529dd5018a9"
       ]
     },
     {
       "rank": 2,
-      "title": "AI替代人类工作争议再起",
-      "reason": "高管称AI替代人力，就业焦虑再起",
-      "heat": 88,
+      "title": "AI设计病毒引发安全担忧",
+      "reason": "AI生物安全风险敲响警钟",
+      "heat": 93,
       "newsIds": [
-        "508045ced5c05471d3715ce661f73357f44842fa",
-        "7ab97ccaad5e88627cf8ed09ab40c856957023a0"
+        "75e0fe6a0af0a9091bf3fc6f67be8458733a98a4"
       ]
     },
     {
       "rank": 3,
-      "title": "DeepMind突破飓风预测",
-      "reason": "AI精准预测飓风，科学突破引关注",
-      "heat": 80,
+      "title": "DeepMind天气模型实现飓风预测突破",
+      "reason": "AI气象预测新里程碑",
+      "heat": 90,
       "newsIds": [
+        "0dc29721eaf2cd7798a1208a0c1d8414e8533b90",
         "f5f908b6ffe4ea666d96d2de696b56071776e443"
       ]
     },
     {
       "rank": 4,
-      "title": "Grok Imagine图像2.0发布",
-      "reason": "xAI新图像模型发布，图片生成再升级",
-      "heat": 75,
+      "title": "字节跳动研发10T参数模型对标Anthropic",
+      "reason": "国产大模型竞赛升级",
+      "heat": 88,
       "newsIds": [
-        "53b313cc8d7139aefc26aa2b1f6a626e94becc4c"
+        "b1fc011527ed7ee262b4f48d200659b7b840bbee"
       ]
     },
     {
       "rank": 5,
-      "title": "独联体最大AI工厂启动",
-      "reason": "独联体最大AI算力工厂落地，基建加速",
-      "heat": 72,
+      "title": "中国AI加速追赶但美国仍领先",
+      "reason": "中美AI实力对比引热议",
+      "heat": 85,
       "newsIds": [
-        "ca6d8281d6b4dc186cd6fc7e77ac9eaf059bf605"
+        "62fead1b1482afa53ca869b075f47ff9745acce3"
       ]
     },
     {
       "rank": 6,
-      "title": "AI内存技术革新",
-      "reason": "内存技术提速降价，AI算力成本有望下降",
-      "heat": 68,
-      "newsIds": [
-        "56ffd2bfae62a76fbeccfb9d07ab7fd2a0052a07",
-        "a03ad1e6b7565812626da9e15a8a3d4d63af9b3b",
-        "95af3069f60bba57b2a0686915c857ef6303a6f5",
-        "70bb11855e8ea534e933552d2c682679f26abc24"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "谷歌Gemini禁用指南",
-      "reason": "谷歌强制集成AI助手，用户隐私引担忧",
-      "heat": 65,
+      "title": "Gmail和Google Docs可禁用Gemini",
+      "reason": "用户对强制AI反感",
+      "heat": 82,
       "newsIds": [
         "f029b1d94fdf8f10e1309b63134435b1bb000759"
       ]
     },
     {
-      "rank": 8,
-      "title": "AI写作的反思与诚信",
-      "reason": "AI写作利弊之争，引发行业反思",
-      "heat": 60,
+      "rank": 7,
+      "title": "Meta CTO要求员工用AI提效",
+      "reason": "科技公司强制AI工作引争议",
+      "heat": 80,
       "newsIds": [
-        "96ea0a925abbd7efe0d02762b0dc484547dbba7b",
-        "3d3a2ca918986046bff20ba986215ff308f9891e"
+        "7ab97ccaad5e88627cf8ed09ab40c856957023a0"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI对年轻人思想幸福造成伤害",
+      "reason": "AI负面影响引发社会讨论",
+      "heat": 78,
+      "newsIds": [
+        "ba093b877e2582b27f6dc8460d464c0ed779a578"
       ]
     }
   ]

@@ -372445,8 +372445,8 @@
           "id": "deepinfra/moonshotai/Kimi-K3",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2.7,
-          "priceOutPer1M": 13.5
+          "priceInPer1M": 2.85,
+          "priceOutPer1M": 14.25
         },
         {
           "id": "deepinfra/openai/gpt-oss-20b",
