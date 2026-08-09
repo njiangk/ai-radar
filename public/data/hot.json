@@ -1,83 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T22:32:32.597Z",
+  "generatedAt": "2026-08-09T01:53:59.917Z",
   "items": [
     {
       "rank": 1,
-      "title": "亚马逊数据中心引发气候污染担忧",
-      "reason": "科技巨头数据中心或成最大污染源",
+      "title": "OpenAI收购NextSlide强化ChatGPT",
+      "reason": "OpenAI整合演示工具，扩展生态",
       "heat": 95,
+      "newsIds": [
+        "8bf73f3956e4de837bec493441d985547b77d729"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "亚马逊数据中心或成最大污染源",
+      "reason": "AI扩张与气候承诺冲突引热议",
+      "heat": 92,
       "newsIds": [
         "c36c8de8383e9077f3318adbc4dedb27dcadaba1",
         "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12"
       ]
     },
     {
-      "rank": 2,
-      "title": "OpenAI 收购与暂停模型引发热议",
-      "reason": "OpenAI 动作频频，安全与商业并行",
-      "heat": 90,
-      "newsIds": [
-        "8bf73f3956e4de837bec493441d985547b77d729",
-        "20c457a6c9f4002c66a991662f05514f53c855c9",
-        "162690359a888278d90ad3fe745ff45ce2d0b4a2"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "YouTube 误标 AI 内容引争议",
-      "reason": "平台误判伤害优质创作者",
-      "heat": 85,
+      "title": "Claude Code自动模式全面默认",
+      "reason": "Anthropic力推AI编程自动化",
+      "heat": 88,
       "newsIds": [
-        "4965655f15d9eb769b416d25c3152cfbc53af857",
-        "417c358b35f1c3e29befc9622eb85340ab191681"
+        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
       ]
     },
     {
       "rank": 4,
-      "title": "丹麦学校用口头答辩防 AI 作弊",
-      "reason": "教育界反击 AI 作弊新举措",
-      "heat": 80,
+      "title": "OpenAI暂停Astra开发保安全",
+      "reason": "模型安全风险引发项目叫停",
+      "heat": 85,
       "newsIds": [
-        "6ce8263691976feb5c164d681cf7cea1679cc785"
+        "20c457a6c9f4002c66a991662f05514f53c855c9"
       ]
     },
     {
       "rank": 5,
-      "title": "AI 采用热潮遭质疑",
-      "reason": "理性看待 AI 实际落地效果",
-      "heat": 70,
+      "title": "DeepMind联合创始人转任新角色",
+      "reason": "AI领袖动态牵动行业走向",
+      "heat": 82,
       "newsIds": [
-        "45611011f009ed73e272526ae31dc0791e27eb60",
-        "b209f314e3b5f8a1cd63b488912c90422f57de43",
-        "eb4520215ff0007749e38a7fa81a9614c9ebfbee"
+        "d7d4e8dbf102309f54c1ca5b57ec518185fa99a2"
       ]
     },
     {
       "rank": 6,
-      "title": "AI 解决二十五年老难题",
-      "reason": "经典难题被攻克振奋人心",
-      "heat": 65,
+      "title": "研究称AI在行为定义下具有意识",
+      "reason": "AI意识争议再起波澜",
+      "heat": 78,
       "newsIds": [
-        "4b8ee3087fd2f10f151d2c323809077e0d5a097d"
+        "2330eb12c9e23278f34d49f86c355e086c7e71bc"
       ]
     },
     {
       "rank": 7,
-      "title": "AI 音乐产业争议",
-      "reason": "AI 创作引发版权与收益讨论",
-      "heat": 60,
+      "title": "YouTube误标科普视频为AI垃圾",
+      "reason": "内容审核误判引发创作者不满",
+      "heat": 75,
       "newsIds": [
-        "a66e1c16bff9282304010d28e98b8c3c20c72d74"
+        "4965655f15d9eb769b416d25c3152cfbc53af857"
       ]
     },
     {
       "rank": 8,
-      "title": "影子 AI 成企业风险",
-      "reason": "企业需警惕未授权 AI 使用",
-      "heat": 55,
+      "title": "中国AI非洲扩张引硅谷担忧",
+      "reason": "中国AI出海加速威胁美国优势",
+      "heat": 72,
       "newsIds": [
-        "72b4cefebff30151c39e5f6d82537ec57bec91e5"
+        "625969e55938abed4fa20270f5a46cceff06701f"
       ]
     }
   ]
