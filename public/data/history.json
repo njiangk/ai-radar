@@ -426511,8 +426511,8 @@
           "id": "openrouter/qwen/qwen3.5-397b-a17b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 3.6
+          "priceInPer1M": 0.39,
+          "priceOutPer1M": 2.34
         },
         {
           "id": "openrouter/qwen/qwen-2.5-coder-32b-instruct",

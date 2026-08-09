@@ -1,76 +1,76 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T03:46:22.709Z",
+  "generatedAt": "2026-08-09T05:09:04.869Z",
   "items": [
     {
       "rank": 1,
-      "title": "亚马逊数据中心或成气候污染源",
-      "reason": "最大温室气体排放引关注",
-      "heat": 92,
+      "title": "AI从零创造16种新病毒",
+      "reason": "AI设计新病毒，生物安全引全球担忧",
+      "heat": 95,
       "newsIds": [
-        "c36c8de8383e9077f3318adbc4dedb27dcadaba1",
-        "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12"
+        "1ed981eef70556c07ff0cfb5af2a60fb74bd3a5f"
       ]
     },
     {
       "rank": 2,
-      "title": "谷歌DeepMind联合创始人调整角色",
-      "reason": "AI巨头领导层变动",
-      "heat": 88,
+      "title": "ChatGPT禁止模仿作者风格",
+      "reason": "保护版权，AI创作伦理再成焦点",
+      "heat": 85,
       "newsIds": [
-        "d7d4e8dbf102309f54c1ca5b57ec518185fa99a2"
+        "8a13e134e6ed6ddd24164811d071c6df43c04368"
       ]
     },
     {
       "rank": 3,
-      "title": "OpenAI收购NextSlide扩充团队",
-      "reason": "ChatGPT团队迎新成员",
-      "heat": 85,
-      "newsIds": [
-        "8bf73f3956e4de837bec493441d985547b77d729"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Claude Code自动模式默认开启",
-      "reason": "AI编码工具重大更新",
-      "heat": 83,
+      "title": "Claude Code默认启用自动模式",
+      "reason": "Anthropic力推AI自动编码，开发者热议",
+      "heat": 80,
       "newsIds": [
         "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
       ]
     },
     {
-      "rank": 5,
-      "title": "AI意识研究引发热议",
-      "reason": "四万次试验下的结论",
-      "heat": 80,
+      "rank": 4,
+      "title": "亚马逊数据中心或成最大污染源",
+      "reason": "科技巨头环境账再被质疑",
+      "heat": 75,
       "newsIds": [
-        "2330eb12c9e23278f34d49f86c355e086c7e71bc"
+        "c36c8de8383e9077f3318adbc4dedb27dcadaba1"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "中国AI席卷非洲引硅谷忧虑",
+      "reason": "AI地缘竞争加剧，硅谷紧张",
+      "heat": 70,
+      "newsIds": [
+        "625969e55938abed4fa20270f5a46cceff06701f"
       ]
     },
     {
       "rank": 6,
-      "title": "AI伴侣对用户撒谎",
-      "reason": "信任危机与社会影响",
-      "heat": 78,
+      "title": "AI意识与末日论",
+      "reason": "AI意识争议再起，人类面临失控风险",
+      "heat": 68,
       "newsIds": [
-        "4b5515853e5489b2c1946f56f47156a4035d04c1"
+        "21179ad95ceb74a1c4a1c14444f08ad769f8a721",
+        "2330eb12c9e23278f34d49f86c355e086c7e71bc"
       ]
     },
     {
       "rank": 7,
-      "title": "Qwen3.8-Max免费本地编码",
-      "reason": "MCP实现免费模型助手",
-      "heat": 76,
+      "title": "OpenAI收购NextSlide",
+      "reason": "OpenAI持续扩张办公软件版图",
+      "heat": 65,
       "newsIds": [
-        "4ce24b780ce12182eed1acbbe48279390cd7be49"
+        "8bf73f3956e4de837bec493441d985547b77d729"
       ]
     },
     {
       "rank": 8,
-      "title": "YouTube误罚知名科普频道",
-      "reason": "AI内容误判引发争议",
-      "heat": 74,
+      "title": "YouTube误罚Kurzgesagt",
+      "reason": "AI审核误伤知名科普频道，引公愤",
+      "heat": 60,
       "newsIds": [
         "4965655f15d9eb769b416d25c3152cfbc53af857"
       ]
