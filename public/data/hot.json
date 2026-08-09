@@ -1,78 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T05:09:04.869Z",
+  "generatedAt": "2026-08-09T07:01:38.853Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI从零创造16种新病毒",
-      "reason": "AI设计新病毒，生物安全引全球担忧",
+      "title": "苹果中国Mac用户接入阿里Qwen AI",
+      "reason": "苹果与阿里合作扩展AI服务，市场关注度高",
       "heat": 95,
+      "newsIds": [
+        "2512f50c29382f64c516d742c8ba225ecd0f7741",
+        "4ce24b780ce12182eed1acbbe48279390cd7be49"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "亚马逊数据中心或成美国最大气候污染源",
+      "reason": "科技巨头能源消耗引环保争议",
+      "heat": 90,
+      "newsIds": [
+        "c36c8de8383e9077f3318adbc4dedb27dcadaba1",
+        "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI在9万亿核苷酸训练后创造新病毒",
+      "reason": "AI合成生物引发安全讨论",
+      "heat": 88,
       "newsIds": [
         "1ed981eef70556c07ff0cfb5af2a60fb74bd3a5f"
       ]
     },
     {
-      "rank": 2,
-      "title": "ChatGPT禁止模仿作者风格",
-      "reason": "保护版权，AI创作伦理再成焦点",
-      "heat": 85,
-      "newsIds": [
-        "8a13e134e6ed6ddd24164811d071c6df43c04368"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Claude Code默认启用自动模式",
-      "reason": "Anthropic力推AI自动编码，开发者热议",
-      "heat": 80,
-      "newsIds": [
-        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "亚马逊数据中心或成最大污染源",
-      "reason": "科技巨头环境账再被质疑",
-      "heat": 75,
-      "newsIds": [
-        "c36c8de8383e9077f3318adbc4dedb27dcadaba1"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "中国AI席卷非洲引硅谷忧虑",
-      "reason": "AI地缘竞争加剧，硅谷紧张",
-      "heat": 70,
-      "newsIds": [
-        "625969e55938abed4fa20270f5a46cceff06701f"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI意识与末日论",
-      "reason": "AI意识争议再起，人类面临失控风险",
-      "heat": 68,
-      "newsIds": [
-        "21179ad95ceb74a1c4a1c14444f08ad769f8a721",
-        "2330eb12c9e23278f34d49f86c355e086c7e71bc"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "OpenAI收购NextSlide",
-      "reason": "OpenAI持续扩张办公软件版图",
-      "heat": 65,
+      "title": "OpenAI收购演示文稿初创公司NextSlide",
+      "reason": "OpenAI扩张产品线，加强ChatGPT生态",
+      "heat": 85,
       "newsIds": [
         "8bf73f3956e4de837bec493441d985547b77d729"
       ]
     },
     {
-      "rank": 8,
-      "title": "YouTube误罚Kurzgesagt",
-      "reason": "AI审核误伤知名科普频道，引公愤",
-      "heat": 60,
+      "rank": 5,
+      "title": "Claude Code自动模式全面默认开启",
+      "reason": "AI编程助手新默认设置影响开发者",
+      "heat": 82,
       "newsIds": [
-        "4965655f15d9eb769b416d25c3152cfbc53af857"
+        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "ChatGPT限制复制作者风格",
+      "reason": "版权保护新措施引发用户讨论",
+      "heat": 80,
+      "newsIds": [
+        "8a13e134e6ed6ddd24164811d071c6df43c04368"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "前OpenAI研究员1亿美元赌AI变450亿",
+      "reason": "AI投资暴富故事吸睛",
+      "heat": 78,
+      "newsIds": [
+        "2d2314e948520d3f34a41989f98539f44bd97299"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "谷歌DeepMind哈萨比斯调整AI角色",
+      "reason": "AI巨头高层变动引关注",
+      "heat": 75,
+      "newsIds": [
+        "d7d4e8dbf102309f54c1ca5b57ec518185fa99a2"
       ]
     }
   ]

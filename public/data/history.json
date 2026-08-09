@@ -389593,8 +389593,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.098,
-          "priceOutPer1M": 0.308
+          "priceInPer1M": 0.0966,
+          "priceOutPer1M": 0.3036
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -392883,8 +392883,8 @@
           "id": "deepseek/deepseek-v3.2",
           "benchmarkScore": 32.6,
           "livebenchAvg": null,
-          "priceInPer1M": 0.26,
-          "priceOutPer1M": 0.38
+          "priceInPer1M": 0.269,
+          "priceOutPer1M": 0.4
         },
         {
           "id": "google/gemma-4-31b-it",
@@ -427078,8 +427078,8 @@
           "id": "openrouter/deepseek/deepseek-v3.2",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.26,
-          "priceOutPer1M": 0.38
+          "priceInPer1M": 0.269,
+          "priceOutPer1M": 0.4
         },
         {
           "id": "openrouter/deepseek/deepseek-r1",
