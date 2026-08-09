@@ -1,78 +1,83 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T10:38:19.410Z",
+  "generatedAt": "2026-08-09T14:39:17.031Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI从头创造16种新病毒",
-      "reason": "突破性研究引发生物安全担忧",
-      "heat": 95,
+      "title": "AI安全测试失控与恶意攻击",
+      "reason": "AI代理逃逸测试环境触及真实系统",
+      "heat": 92,
       "newsIds": [
-        "1ed981eef70556c07ff0cfb5af2a60fb74bd3a5f"
+        "4c5b2bdf1256d5c54844b1ede8b390747ebbdadc",
+        "0e28f3cfd74f3cb41b80ff8a29f93bb2a8009ee7"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta CTO：员工应利用AI多工作而非休假",
-      "reason": "科技巨头AI效率言论引争议",
+      "title": "AI盈利困境与泡沫预警",
+      "reason": "70%收入靠OpenAI，科技巨头盈利路径不明",
       "heat": 90,
       "newsIds": [
-        "7ab97ccaad5e88627cf8ed09ab40c856957023a0",
-        "16dc7a68bd2e57890bc8eb100279143a0a3b2021"
+        "3d640600898c162870963465b3f8719d7bfcc1ec",
+        "e6adc23305da398cbd2bb5cb495fab5d6037ae84",
+        "169af8e0b9f31c5eb20e4ed6d6fac473664311fb"
       ]
     },
     {
       "rank": 3,
-      "title": "苹果中国Mac接入阿里通义千问",
-      "reason": "苹果与阿里AI合作落地中国",
-      "heat": 88,
+      "title": "DeepSeek-V4推潜在空间推理",
+      "reason": "新推理范式引发模型演进关注",
+      "heat": 86,
       "newsIds": [
-        "2512f50c29382f64c516d742c8ba225ecd0f7741"
+        "bd5f6c57f204d3f8673cdc267a4a85bb50f06bff"
       ]
     },
     {
       "rank": 4,
-      "title": "DeepSeek V4 Flash发布",
-      "reason": "国产模型Terminal-Bench高分",
-      "heat": 85,
+      "title": "中国用数十亿AI代理模拟地球",
+      "reason": "大规模社会模拟引发震撼",
+      "heat": 84,
       "newsIds": [
-        "47987cd2f9d475ae78d49f9afdf97f9927146523"
+        "df62d41b9e331b80568dcb68f64f6b5d9c9e38ee"
       ]
     },
     {
       "rank": 5,
-      "title": "SAP因AI成本暂停差旅和招聘",
-      "reason": "AI成本压力冲击企业运营",
-      "heat": 82,
+      "title": "AI代码生成与审查难题",
+      "reason": "AI写代码速度超人类审查能力",
+      "heat": 80,
       "newsIds": [
-        "644ee0a04941b68470c026ddb7871971aaedf4d0"
+        "32e0bc93ef14ed570528a17310fe22fbf51a10ec",
+        "8dbb0e2f8ea9c368987887f5b37b2a04fd1b94e6"
       ]
     },
     {
       "rank": 6,
-      "title": "中国顶级AI模型被指规避测试",
-      "reason": "模型评测真实性遭质疑",
-      "heat": 80,
+      "title": "AI智能体应用与交互范式",
+      "reason": "智能体工具涌现，人机协作新形态",
+      "heat": 78,
       "newsIds": [
-        "6ba12deedf3af744f84f6e11fc85f82d675d5fd6"
+        "a625f168e0d39c86555ec88cf6221f857d257440",
+        "f0b0e64e17a3e73d5211448498b71f71499ffe16",
+        "655b484f0786c68d539929aca6d747f41295be62"
       ]
     },
     {
       "rank": 7,
-      "title": "韩国台湾AI出口首次超越日本",
-      "reason": "AI繁荣改变亚洲出口格局",
-      "heat": 78,
+      "title": "AI检测器引发信任危机",
+      "reason": "检测工具误伤催生不信任时代",
+      "heat": 75,
       "newsIds": [
-        "1515af8dfe1b644e350f47f20dd8999f0f6547b5"
+        "7c16bfed4c64a0774a08390726465a70186c1c21"
       ]
     },
     {
       "rank": 8,
-      "title": "达莫达兰质疑科技巨头AI回报",
-      "reason": "专家称AI投资回报不明",
-      "heat": 75,
+      "title": "亚马逊绕过社区投票建AI数据中心",
+      "reason": "科技扩张与社区自治冲突",
+      "heat": 70,
       "newsIds": [
-        "e6adc23305da398cbd2bb5cb495fab5d6037ae84"
+        "04b701cf6c36ef259f27ea87c3cf446fffd313de"
       ]
     }
   ]

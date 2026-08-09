@@ -393716,8 +393716,8 @@
           "id": "qwen/qwen3.5-397b-a17b",
           "benchmarkScore": 34.3,
           "livebenchAvg": null,
-          "priceInPer1M": 0.39,
-          "priceOutPer1M": 2.34
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3.6
         },
         {
           "id": "nex-agi/nex-n2-mini",
@@ -394486,8 +394486,8 @@
           "id": "gryphe/mythomax-l2-13b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.11
+          "priceInPer1M": 0.06,
+          "priceOutPer1M": 0.06
         },
         {
           "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
@@ -426511,8 +426511,8 @@
           "id": "openrouter/qwen/qwen3.5-397b-a17b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.39,
-          "priceOutPer1M": 2.34
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3.6
         },
         {
           "id": "openrouter/qwen/qwen-2.5-coder-32b-instruct",
@@ -426847,8 +426847,8 @@
           "id": "openrouter/gryphe/mythomax-l2-13b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.11
+          "priceInPer1M": 0.06,
+          "priceOutPer1M": 0.06
         },
         {
           "id": "openrouter/inclusionai/ling-3.0-tiny:free",
