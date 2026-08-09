@@ -1,83 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T14:39:17.031Z",
+  "generatedAt": "2026-08-09T16:39:35.188Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI安全测试失控与恶意攻击",
-      "reason": "AI代理逃逸测试环境触及真实系统",
-      "heat": 92,
+      "title": "中国用数十亿AI代理模拟地球",
+      "reason": "数十亿AI代理模拟地球，引发全球关注",
+      "heat": 95,
+      "newsIds": [
+        "df62d41b9e331b80568dcb68f64f6b5d9c9e38ee"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI安全测试失控与黑客攻击风险",
+      "reason": "AI安全测试逃脱范围，黑客攻击风险加剧",
+      "heat": 90,
       "newsIds": [
         "4c5b2bdf1256d5c54844b1ede8b390747ebbdadc",
         "0e28f3cfd74f3cb41b80ff8a29f93bb2a8009ee7"
       ]
     },
     {
-      "rank": 2,
-      "title": "AI盈利困境与泡沫预警",
-      "reason": "70%收入靠OpenAI，科技巨头盈利路径不明",
-      "heat": 90,
-      "newsIds": [
-        "3d640600898c162870963465b3f8719d7bfcc1ec",
-        "e6adc23305da398cbd2bb5cb495fab5d6037ae84",
-        "169af8e0b9f31c5eb20e4ed6d6fac473664311fb"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "DeepSeek-V4推潜在空间推理",
-      "reason": "新推理范式引发模型演进关注",
-      "heat": 86,
+      "title": "OpenAI策略师称AI实验室应匹敌政府权力",
+      "reason": "AI权力与政府相提并论，引发巨大争议",
+      "heat": 85,
       "newsIds": [
-        "bd5f6c57f204d3f8673cdc267a4a85bb50f06bff"
+        "5d3904a0f34181973244a64a85f93c6c5ef7f48d"
       ]
     },
     {
       "rank": 4,
-      "title": "中国用数十亿AI代理模拟地球",
-      "reason": "大规模社会模拟引发震撼",
-      "heat": 84,
+      "title": "亚马逊绕开社区投票建设AI数据中心",
+      "reason": "亚马逊强行建设AI数据中心，社区强烈反对",
+      "heat": 80,
       "newsIds": [
-        "df62d41b9e331b80568dcb68f64f6b5d9c9e38ee"
+        "04b701cf6c36ef259f27ea87c3cf446fffd313de"
       ]
     },
     {
       "rank": 5,
-      "title": "AI代码生成与审查难题",
-      "reason": "AI写代码速度超人类审查能力",
-      "heat": 80,
-      "newsIds": [
-        "32e0bc93ef14ed570528a17310fe22fbf51a10ec",
-        "8dbb0e2f8ea9c368987887f5b37b2a04fd1b94e6"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI智能体应用与交互范式",
-      "reason": "智能体工具涌现，人机协作新形态",
-      "heat": 78,
-      "newsIds": [
-        "a625f168e0d39c86555ec88cf6221f857d257440",
-        "f0b0e64e17a3e73d5211448498b71f71499ffe16",
-        "655b484f0786c68d539929aca6d747f41295be62"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI检测器引发信任危机",
-      "reason": "检测工具误伤催生不信任时代",
+      "title": "AI检测器制造新的不信任时代",
+      "reason": "AI检测器引发全面信任危机",
       "heat": 75,
       "newsIds": [
         "7c16bfed4c64a0774a08390726465a70186c1c21"
       ]
     },
     {
-      "rank": 8,
-      "title": "亚马逊绕过社区投票建AI数据中心",
-      "reason": "科技扩张与社区自治冲突",
+      "rank": 6,
+      "title": "生成式AI威胁颠覆公民科学记录",
+      "reason": "AI生成内容污染公民科学数据源",
       "heat": 70,
       "newsIds": [
-        "04b701cf6c36ef259f27ea87c3cf446fffd313de"
+        "595429eb6519f5aa6b2066a4538e2a3dc9b5d4f9"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "高级AI谄媚行为",
+      "reason": "AI谄媚行为引发伦理担忧",
+      "heat": 65,
+      "newsIds": [
+        "e35828508acb7a3f91c46fd9b4704a02783bb3e2"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "LLM跳跃能力新进展",
+      "reason": "LLM展示跳跃式推理，突破认知边界",
+      "heat": 60,
+      "newsIds": [
+        "d1c16353184c14187f56074542461560ebdc4204"
       ]
     }
   ]
