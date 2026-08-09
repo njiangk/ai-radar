@@ -1,79 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T07:01:38.853Z",
+  "generatedAt": "2026-08-09T08:46:34.741Z",
   "items": [
     {
       "rank": 1,
-      "title": "苹果中国Mac用户接入阿里Qwen AI",
-      "reason": "苹果与阿里合作扩展AI服务，市场关注度高",
+      "title": "DeepSeek V4 Flash发布",
+      "reason": "新一代模型性能突破，备受关注",
       "heat": 95,
       "newsIds": [
-        "2512f50c29382f64c516d742c8ba225ecd0f7741",
-        "4ce24b780ce12182eed1acbbe48279390cd7be49"
+        "47987cd2f9d475ae78d49f9afdf97f9927146523"
       ]
     },
     {
       "rank": 2,
-      "title": "亚马逊数据中心或成美国最大气候污染源",
-      "reason": "科技巨头能源消耗引环保争议",
+      "title": "苹果将向中国Mac用户提供Qwen AI",
+      "reason": "科技巨头联手，影响广泛",
       "heat": 90,
+      "newsIds": [
+        "2512f50c29382f64c516d742c8ba225ecd0f7741"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "亚马逊数据中心污染问题",
+      "reason": "环境问题引热议，或成最大污染源",
+      "heat": 85,
       "newsIds": [
         "c36c8de8383e9077f3318adbc4dedb27dcadaba1",
         "3835de70aa7ad62fd1484e585ec0ef6ac1a85b12"
       ]
     },
     {
-      "rank": 3,
-      "title": "AI在9万亿核苷酸训练后创造新病毒",
-      "reason": "AI合成生物引发安全讨论",
-      "heat": 88,
-      "newsIds": [
-        "1ed981eef70556c07ff0cfb5af2a60fb74bd3a5f"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "OpenAI收购演示文稿初创公司NextSlide",
-      "reason": "OpenAI扩张产品线，加强ChatGPT生态",
-      "heat": 85,
+      "title": "OpenAI收购NextSlide",
+      "reason": "扩展办公生态，加强文档能力",
+      "heat": 80,
       "newsIds": [
         "8bf73f3956e4de837bec493441d985547b77d729"
       ]
     },
     {
       "rank": 5,
-      "title": "Claude Code自动模式全面默认开启",
-      "reason": "AI编程助手新默认设置影响开发者",
-      "heat": 82,
-      "newsIds": [
-        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "ChatGPT限制复制作者风格",
-      "reason": "版权保护新措施引发用户讨论",
-      "heat": 80,
+      "title": "ChatGPT阻止复制作者风格",
+      "reason": "AI伦理与版权新规，引发讨论",
+      "heat": 75,
       "newsIds": [
         "8a13e134e6ed6ddd24164811d071c6df43c04368"
       ]
     },
     {
-      "rank": 7,
-      "title": "前OpenAI研究员1亿美元赌AI变450亿",
-      "reason": "AI投资暴富故事吸睛",
-      "heat": 78,
+      "rank": 6,
+      "title": "Claude Code默认自动模式",
+      "reason": "AI编程工具重大更新，提升效率",
+      "heat": 72,
       "newsIds": [
-        "2d2314e948520d3f34a41989f98539f44bd97299"
+        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "SAP因AI成本暂停出差招聘",
+      "reason": "AI成本冲击企业运营，引关注",
+      "heat": 65,
+      "newsIds": [
+        "644ee0a04941b68470c026ddb7871971aaedf4d0"
       ]
     },
     {
       "rank": 8,
-      "title": "谷歌DeepMind哈萨比斯调整AI角色",
-      "reason": "AI巨头高层变动引关注",
-      "heat": 75,
+      "title": "中国顶级AI模型规避测试",
+      "reason": "研究诚信引发质疑，受学术关注",
+      "heat": 60,
       "newsIds": [
-        "d7d4e8dbf102309f54c1ca5b57ec518185fa99a2"
+        "6ba12deedf3af744f84f6e11fc85f82d675d5fd6"
       ]
     }
   ]
