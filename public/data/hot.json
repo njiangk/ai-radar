@@ -1,77 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T16:39:35.188Z",
+  "generatedAt": "2026-08-09T20:36:13.058Z",
   "items": [
     {
       "rank": 1,
-      "title": "中国用数十亿AI代理模拟地球",
-      "reason": "数十亿AI代理模拟地球，引发全球关注",
+      "title": "Anthropic Claude Code 默认启用自动模式",
+      "reason": "AI编程工具重大更新，减少人工监督",
       "heat": 95,
       "newsIds": [
-        "df62d41b9e331b80568dcb68f64f6b5d9c9e38ee"
+        "53f6c1811ec1a3a7e6426076af7decef97346843"
       ]
     },
     {
       "rank": 2,
-      "title": "AI安全测试失控与黑客攻击风险",
-      "reason": "AI安全测试逃脱范围，黑客攻击风险加剧",
-      "heat": 90,
+      "title": "DeepMind AI提前一天预警致命气旋",
+      "reason": "AI气象预测重大突破，挽救生命",
+      "heat": 92,
       "newsIds": [
-        "4c5b2bdf1256d5c54844b1ede8b390747ebbdadc",
-        "0e28f3cfd74f3cb41b80ff8a29f93bb2a8009ee7"
+        "1437ed29b730f6a5f2e2f21c7debdf1bd3443244"
       ]
     },
     {
       "rank": 3,
-      "title": "OpenAI策略师称AI实验室应匹敌政府权力",
-      "reason": "AI权力与政府相提并论，引发巨大争议",
-      "heat": 85,
+      "title": "反AI民粹主义重塑美国政治",
+      "reason": "AI成政治议题，影响选举和决策",
+      "heat": 88,
       "newsIds": [
-        "5d3904a0f34181973244a64a85f93c6c5ef7f48d"
+        "0276434419c0f06f44886e7404c198a34bb13a66"
       ]
     },
     {
       "rank": 4,
-      "title": "亚马逊绕开社区投票建设AI数据中心",
-      "reason": "亚马逊强行建设AI数据中心，社区强烈反对",
-      "heat": 80,
+      "title": "AI从业者请求政府减缓AI发展",
+      "reason": "业界内部呼吁监管，警惕AI风险",
+      "heat": 85,
       "newsIds": [
-        "04b701cf6c36ef259f27ea87c3cf446fffd313de"
+        "8b2cde2c4d8838e505d93248f781237aeff62f7f"
       ]
     },
     {
       "rank": 5,
-      "title": "AI检测器制造新的不信任时代",
-      "reason": "AI检测器引发全面信任危机",
-      "heat": 75,
+      "title": "谷歌被曝办公室AI伪造创意",
+      "reason": "科技巨头疑似用AI造假，引发信任危机",
+      "heat": 82,
       "newsIds": [
-        "7c16bfed4c64a0774a08390726465a70186c1c21"
+        "72726c2ed00d54b24fbc880e31a93afb2e2bfac8"
       ]
     },
     {
       "rank": 6,
-      "title": "生成式AI威胁颠覆公民科学记录",
-      "reason": "AI生成内容污染公民科学数据源",
-      "heat": 70,
+      "title": "开发者要求AI公司默认保障安全隐私",
+      "reason": "开发者集体施压，呼吁默认安全",
+      "heat": 80,
       "newsIds": [
-        "595429eb6519f5aa6b2066a4538e2a3dc9b5d4f9"
+        "588eec7865ef52a67e07bba3e4563408028712ee"
       ]
     },
     {
       "rank": 7,
-      "title": "高级AI谄媚行为",
-      "reason": "AI谄媚行为引发伦理担忧",
-      "heat": 65,
+      "title": "穆迪警告AI热潮致银行受制于科技公司",
+      "reason": "金融依赖AI，引发系统性风险担忧",
+      "heat": 78,
       "newsIds": [
-        "e35828508acb7a3f91c46fd9b4704a02783bb3e2"
+        "db7383ecee01a3cdabf923bafc6ff0aab60ac721"
       ]
     },
     {
       "rank": 8,
-      "title": "LLM跳跃能力新进展",
-      "reason": "LLM展示跳跃式推理，突破认知边界",
-      "heat": 60,
+      "title": "LLM性能引发争议：强弩之末还是可跳跃？",
+      "reason": "学界业界激辩大模型能力上限",
+      "heat": 75,
       "newsIds": [
+        "19a35c095cb63e6c10f816254af81955131d5acb",
+        "6cbdcbfa0d6d85c47af289bcaa2dda865601a46b",
         "d1c16353184c14187f56074542461560ebdc4204"
       ]
     }

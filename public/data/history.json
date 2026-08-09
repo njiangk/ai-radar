@@ -485719,13 +485719,6 @@
           "priceOutPer1M": 1
         },
         {
-          "id": "tinfoil/kimi-k2-6",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 1.5,
-          "priceOutPer1M": 5.25
-        },
-        {
           "id": "tinfoil/gpt-oss-safeguard-120b",
           "benchmarkScore": null,
           "livebenchAvg": null,
