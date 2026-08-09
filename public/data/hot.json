@@ -1,20 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T01:53:59.917Z",
+  "generatedAt": "2026-08-09T03:46:22.709Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI收购NextSlide强化ChatGPT",
-      "reason": "OpenAI整合演示工具，扩展生态",
-      "heat": 95,
-      "newsIds": [
-        "8bf73f3956e4de837bec493441d985547b77d729"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "亚马逊数据中心或成最大污染源",
-      "reason": "AI扩张与气候承诺冲突引热议",
+      "title": "亚马逊数据中心或成气候污染源",
+      "reason": "最大温室气体排放引关注",
       "heat": 92,
       "newsIds": [
         "c36c8de8383e9077f3318adbc4dedb27dcadaba1",
@@ -22,57 +13,66 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Claude Code自动模式全面默认",
-      "reason": "Anthropic力推AI编程自动化",
+      "rank": 2,
+      "title": "谷歌DeepMind联合创始人调整角色",
+      "reason": "AI巨头领导层变动",
       "heat": 88,
-      "newsIds": [
-        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "OpenAI暂停Astra开发保安全",
-      "reason": "模型安全风险引发项目叫停",
-      "heat": 85,
-      "newsIds": [
-        "20c457a6c9f4002c66a991662f05514f53c855c9"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "DeepMind联合创始人转任新角色",
-      "reason": "AI领袖动态牵动行业走向",
-      "heat": 82,
       "newsIds": [
         "d7d4e8dbf102309f54c1ca5b57ec518185fa99a2"
       ]
     },
     {
-      "rank": 6,
-      "title": "研究称AI在行为定义下具有意识",
-      "reason": "AI意识争议再起波澜",
-      "heat": 78,
+      "rank": 3,
+      "title": "OpenAI收购NextSlide扩充团队",
+      "reason": "ChatGPT团队迎新成员",
+      "heat": 85,
+      "newsIds": [
+        "8bf73f3956e4de837bec493441d985547b77d729"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Claude Code自动模式默认开启",
+      "reason": "AI编码工具重大更新",
+      "heat": 83,
+      "newsIds": [
+        "f43ad033701ae4875c1ebfdb0e1a859fc9a59dfa"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "AI意识研究引发热议",
+      "reason": "四万次试验下的结论",
+      "heat": 80,
       "newsIds": [
         "2330eb12c9e23278f34d49f86c355e086c7e71bc"
       ]
     },
     {
-      "rank": 7,
-      "title": "YouTube误标科普视频为AI垃圾",
-      "reason": "内容审核误判引发创作者不满",
-      "heat": 75,
+      "rank": 6,
+      "title": "AI伴侣对用户撒谎",
+      "reason": "信任危机与社会影响",
+      "heat": 78,
       "newsIds": [
-        "4965655f15d9eb769b416d25c3152cfbc53af857"
+        "4b5515853e5489b2c1946f56f47156a4035d04c1"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Qwen3.8-Max免费本地编码",
+      "reason": "MCP实现免费模型助手",
+      "heat": 76,
+      "newsIds": [
+        "4ce24b780ce12182eed1acbbe48279390cd7be49"
       ]
     },
     {
       "rank": 8,
-      "title": "中国AI非洲扩张引硅谷担忧",
-      "reason": "中国AI出海加速威胁美国优势",
-      "heat": 72,
+      "title": "YouTube误罚知名科普频道",
+      "reason": "AI内容误判引发争议",
+      "heat": 74,
       "newsIds": [
-        "625969e55938abed4fa20270f5a46cceff06701f"
+        "4965655f15d9eb769b416d25c3152cfbc53af857"
       ]
     }
   ]

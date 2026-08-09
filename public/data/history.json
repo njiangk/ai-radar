@@ -390031,6 +390031,13 @@
           "priceOutPer1M": 4.4
         },
         {
+          "id": "alibaba/glm-5.2",
+          "benchmarkScore": null,
+          "livebenchAvg": 73.38,
+          "priceInPer1M": 1.4,
+          "priceOutPer1M": 4.4
+        },
+        {
           "id": "vercel/zai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
@@ -390055,8 +390062,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.126,
-          "priceOutPer1M": 0.396
+          "priceInPer1M": 0.098,
+          "priceOutPer1M": 0.308
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -393709,8 +393716,8 @@
           "id": "qwen/qwen3.5-397b-a17b",
           "benchmarkScore": 34.3,
           "livebenchAvg": null,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 3.6
+          "priceInPer1M": 0.39,
+          "priceOutPer1M": 2.34
         },
         {
           "id": "nex-agi/nex-n2-mini",
@@ -423062,6 +423069,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.3,
           "priceOutPer1M": 1.5
+        },
+        {
+          "id": "alibaba/deepseek-v4-flash-0731",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.2,
+          "priceOutPer1M": 0.4
         },
         {
           "id": "alibaba/qwen-flash",
