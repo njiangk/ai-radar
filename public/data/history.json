@@ -449679,8 +449679,8 @@
           "id": "google/gemma-4-26b-a4b-it",
           "benchmarkScore": 26.1,
           "livebenchAvg": null,
-          "priceInPer1M": 0.07,
-          "priceOutPer1M": 0.34
+          "priceInPer1M": 0.12,
+          "priceOutPer1M": 0.4
         },
         {
           "id": "google/gemma-4-26b-a4b-it:free",
@@ -482943,8 +482943,8 @@
           "id": "openrouter/google/gemma-4-26b-a4b-it",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.07,
-          "priceOutPer1M": 0.34
+          "priceInPer1M": 0.12,
+          "priceOutPer1M": 0.4
         },
         {
           "id": "openrouter/google/gemma-2-27b-it",

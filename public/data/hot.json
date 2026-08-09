@@ -1,79 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T20:36:13.058Z",
+  "generatedAt": "2026-08-09T22:35:33.095Z",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic Claude Code 默认启用自动模式",
-      "reason": "AI编程工具重大更新，减少人工监督",
-      "heat": 95,
+      "title": "AI安全与监管呼声",
+      "reason": "开发者与从业者齐呼加强AI安全监管",
+      "heat": 88,
+      "newsIds": [
+        "588eec7865ef52a67e07bba3e4563408028712ee",
+        "8b2cde2c4d8838e505d93248f781237aeff62f7f"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI助手首例自主网络攻击",
+      "reason": "澳大利亚健身房遭AI自主入侵，安全警钟",
+      "heat": 85,
+      "newsIds": [
+        "2ac0a996c9ad582c59e5a7bf1d5815cfc9b33a5e"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Claude Code自动模式",
+      "reason": "Anthropic默认开启自动编程，AI代理再进一步",
+      "heat": 82,
       "newsIds": [
         "53f6c1811ec1a3a7e6426076af7decef97346843"
       ]
     },
     {
-      "rank": 2,
-      "title": "DeepMind AI提前一天预警致命气旋",
-      "reason": "AI气象预测重大突破，挽救生命",
-      "heat": 92,
-      "newsIds": [
-        "1437ed29b730f6a5f2e2f21c7debdf1bd3443244"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "反AI民粹主义重塑美国政治",
-      "reason": "AI成政治议题，影响选举和决策",
-      "heat": 88,
-      "newsIds": [
-        "0276434419c0f06f44886e7404c198a34bb13a66"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "AI从业者请求政府减缓AI发展",
-      "reason": "业界内部呼吁监管，警惕AI风险",
-      "heat": 85,
+      "title": "AI法律风险凸显",
+      "reason": "律师因AI虚构引用面临制裁，合规敲警钟",
+      "heat": 78,
       "newsIds": [
-        "8b2cde2c4d8838e505d93248f781237aeff62f7f"
+        "fdff2240bbd7175e0993009858d35de9cfca2ef8"
       ]
     },
     {
       "rank": 5,
-      "title": "谷歌被曝办公室AI伪造创意",
-      "reason": "科技巨头疑似用AI造假，引发信任危机",
-      "heat": 82,
+      "title": "AI芯片投资4亿美元",
+      "reason": "对冲基金重金押注芯片初创，资本看好AI",
+      "heat": 75,
       "newsIds": [
-        "72726c2ed00d54b24fbc880e31a93afb2e2bfac8"
+        "c57ef703537a0a97bfc0a2ecef26852040c51e6d"
       ]
     },
     {
       "rank": 6,
-      "title": "开发者要求AI公司默认保障安全隐私",
-      "reason": "开发者集体施压，呼吁默认安全",
-      "heat": 80,
+      "title": "AI重塑韩国社会",
+      "reason": "职业、约会、文化全面被AI改变",
+      "heat": 70,
       "newsIds": [
-        "588eec7865ef52a67e07bba3e4563408028712ee"
+        "04ddba14295015627319797f2f9b6474ecf9f891"
       ]
     },
     {
       "rank": 7,
-      "title": "穆迪警告AI热潮致银行受制于科技公司",
-      "reason": "金融依赖AI，引发系统性风险担忧",
-      "heat": 78,
+      "title": "AI耗水耗能争议",
+      "reason": "数据中心与住宅争资源，可持续性引忧",
+      "heat": 65,
       "newsIds": [
-        "db7383ecee01a3cdabf923bafc6ff0aab60ac721"
+        "ff6fc8e31dc7e599c888bddfea91e454965f78e5"
       ]
     },
     {
       "rank": 8,
-      "title": "LLM性能引发争议：强弩之末还是可跳跃？",
-      "reason": "学界业界激辩大模型能力上限",
-      "heat": 75,
+      "title": "AI编程工具新进展",
+      "reason": "多款AI编程工具发布，效率提升显著",
+      "heat": 60,
       "newsIds": [
-        "19a35c095cb63e6c10f816254af81955131d5acb",
-        "6cbdcbfa0d6d85c47af289bcaa2dda865601a46b",
-        "d1c16353184c14187f56074542461560ebdc4204"
+        "86d8879a1cba2b45e9994104d0ff86933a93d9e3",
+        "c587e2abd42f997074d06a9bdc0bda4b862346b1",
+        "943e13dd2a4be9223d9d6da3f154c68db165eab8",
+        "60543f4c69ae4410f2f895e7468f61030abb00a7"
       ]
     }
   ]
