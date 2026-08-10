@@ -449812,8 +449812,8 @@
           "id": "moonshotai/kimi-k2.6",
           "benchmarkScore": 45.1,
           "livebenchAvg": null,
-          "priceInPer1M": 0.95,
-          "priceOutPer1M": 4
+          "priceInPer1M": 0.5795,
+          "priceOutPer1M": 2.44
         },
         {
           "id": "minimax/minimax-m2.7",
@@ -450050,8 +450050,8 @@
           "id": "z-ai/glm-5.1",
           "benchmarkScore": 41,
           "livebenchAvg": null,
-          "priceInPer1M": 1.4,
-          "priceOutPer1M": 4.4
+          "priceInPer1M": 0.952,
+          "priceOutPer1M": 2.992
         },
         {
           "id": "z-ai/glm-4.7",
@@ -450661,13 +450661,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.07,
           "priceOutPer1M": 0.27
-        },
-        {
-          "id": "openai/gpt-5.3-chat",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 1.75,
-          "priceOutPer1M": 14
         },
         {
           "id": "nvidia/nemotron-nano-12b-v2-vl:free",
@@ -451912,8 +451905,8 @@
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.252
+          "priceInPer1M": 0.0798,
+          "priceOutPer1M": 0.1596
         },
         {
           "id": "openrouter/auto-beta",
@@ -467463,13 +467456,6 @@
           "priceOutPer1M": 0
         },
         {
-          "id": "evroc/Qwen/Qwen3-VL-30B-A3B-Instruct",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0.23,
-          "priceOutPer1M": 0.92
-        },
-        {
           "id": "evroc/moonshotai/Kimi-K2.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -476321,8 +476307,8 @@
           "id": "kilo/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.252
+          "priceInPer1M": 0.0798,
+          "priceOutPer1M": 0.1596
         },
         {
           "id": "kilo/perceptron/perceptron-mk1",
@@ -478010,13 +477996,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.25,
           "priceOutPer1M": 2
-        },
-        {
-          "id": "kilo/openai/gpt-5.3-chat",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 1.75,
-          "priceOutPer1M": 14
         },
         {
           "id": "kilo/openai/o1-pro",
@@ -483041,8 +483020,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.252
+          "priceInPer1M": 0.0798,
+          "priceOutPer1M": 0.1596
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",
@@ -484273,8 +484252,8 @@
           "id": "openrouter/z-ai/glm-5.1",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.4,
-          "priceOutPer1M": 4.4
+          "priceInPer1M": 0.952,
+          "priceOutPer1M": 2.992
         },
         {
           "id": "openrouter/z-ai/glm-4.7-flash",
@@ -484371,8 +484350,8 @@
           "id": "openrouter/moonshotai/kimi-k2.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.95,
-          "priceOutPer1M": 4
+          "priceInPer1M": 0.5795,
+          "priceOutPer1M": 2.44
         },
         {
           "id": "openrouter/moonshotai/kimi-k2",
@@ -484667,13 +484646,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.25,
           "priceOutPer1M": 2
-        },
-        {
-          "id": "openrouter/openai/gpt-5.3-chat",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 1.75,
-          "priceOutPer1M": 14
         },
         {
           "id": "openrouter/openai/o1-pro",

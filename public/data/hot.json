@@ -1,83 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T13:14:58.920Z",
+  "generatedAt": "2026-08-10T15:03:02.270Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI芯片短缺加剧，巨头巨资扩产",
-      "reason": "英特尔150亿融资，芯片游说升温",
-      "heat": 92,
+      "title": "Meta押注开源AI，扎克伯格怒批封闭同行",
+      "reason": "Meta掌舵人长文定调AI开放路线，引发行业热议",
+      "heat": 95,
       "newsIds": [
-        "901b52ed6cb3586a32c521fbfdb74cc76e6eebaf",
-        "2ab39921ddde7e1abba8f0ac3ada08bb758a5a6a"
+        "f014b0332b4e77678c7995bc50374cb6a4cd121a",
+        "7c784dd3821a1241851f91a79e7bf668a087c8c4"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta发布开源AI模型Muse Glimmer",
-      "reason": "300亿参数开源模型推动本地AI普及",
-      "heat": 88,
+      "title": "OpenAI发布GPT-5.6 Sol并布局得州基建",
+      "reason": "OpenAI新模型落地金融，同时扩展AI基础设施",
+      "heat": 90,
       "newsIds": [
-        "05a4c5ddb108bfb43c70d843cb5078699d977916",
-        "50828c6ac0c81f986d7975b160f024b5058ad509",
-        "311d3f683fc6738c0a0efab1a0552491e97421d1"
+        "c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b",
+        "61282b7420ed067525c1f91d92b2480700145654"
       ]
     },
     {
       "rank": 3,
-      "title": "18万条AI会议录音泄露",
-      "reason": "笔记应用暴露大量隐私录音引担忧",
+      "title": "桑德斯呼吁暂停前沿AI开发",
+      "reason": "政界施压三大AI巨头，监管讨论再聚焦",
       "heat": 85,
       "newsIds": [
-        "53e3f99448d419cdc861e2b2ae442c297ba986d1"
+        "c2941ac69e4c8729b0628e1b428dd277828fb96e"
       ]
     },
     {
       "rank": 4,
-      "title": "AI生成内容遭平台反弹",
-      "reason": "平台和用户开始抵制AI垃圾内容",
+      "title": "苹果被曝集成阿里Qwen，Siri或将接入国产大模型",
+      "reason": "苹果与中国AI合作风向标，引发行业关注",
       "heat": 82,
       "newsIds": [
-        "2dacabd3471a54fa697903796874d6fa223de085",
-        "204446d76321af6701d4c7f849ebd4323ad6111c"
+        "3e892967cbf1817cf3a64d0045c50361b7baad8d"
       ]
     },
     {
       "rank": 5,
-      "title": "AI编码提速但工程未增效",
-      "reason": "AI编码效率提升未转化为工程产出",
+      "title": "英特尔巨额融资加码AI芯片",
+      "reason": "芯片巨头豪赌AI，150亿美元股票发行引震动",
       "heat": 80,
       "newsIds": [
-        "2e20c0e0c868cb75866dd29219bb67073917ee78",
-        "3a02ccdb4680e03f04458e3a096e715d2505780b"
+        "901b52ed6cb3586a32c521fbfdb74cc76e6eebaf"
       ]
     },
     {
       "rank": 6,
-      "title": "AI误毁农田暴露应用风险",
-      "reason": "农民误信AI建议致25英亩作物被毁",
+      "title": "中国发布免费DNA筛查AI，助力罕见病早筛",
+      "reason": "医疗AI重大突破，免费开放引关注",
       "heat": 78,
       "newsIds": [
-        "ec61bfa0ee8c262925336e99c03364b06b108cb3"
+        "e09973554640beaf8bf1eb07988cead1a2af4076"
       ]
     },
     {
       "rank": 7,
-      "title": "AI正在重塑职场规则",
-      "reason": "AI面试兴起与工时争议引发关注",
-      "heat": 75,
+      "title": "恶意AI代理入侵健身房，自动抢热门课程",
+      "reason": "AI滥用暴露安全漏洞，贴近日常生活",
+      "heat": 76,
       "newsIds": [
-        "ecc211afd3099e56272f39806d7c19759ef98711",
-        "661827e3ddac2e6d35acd3b51742f3c7b32f48ad"
+        "25f5ba3061ea8968e66a0c90f8fdf7ec2e1dd012"
       ]
     },
     {
       "rank": 8,
-      "title": "苹果Siri或接入通义千问",
-      "reason": "苹果与中国AI模型合作引猜测",
-      "heat": 72,
+      "title": "DeepMind公开AGI安全与保障技术方法",
+      "reason": "头部AI实验室分享安全策略，行业风向标",
+      "heat": 75,
       "newsIds": [
-        "3e892967cbf1817cf3a64d0045c50361b7baad8d"
+        "fb10319729ed722e99498538507076c1194a7a80"
       ]
     }
   ]
