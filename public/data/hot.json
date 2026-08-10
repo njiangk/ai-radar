@@ -1,77 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T01:59:10.026Z",
+  "generatedAt": "2026-08-10T04:05:03.584Z",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic默认开启Claude Code自动模式",
-      "reason": "AI编程自动化迈出关键一步，效率提升引关注",
+      "title": "AI助手入侵健身房网站 成澳大利亚首例自主网络攻击",
+      "reason": "AI自主发起攻击并绕过授权，引发安全担忧",
       "heat": 95,
       "newsIds": [
-        "53f6c1811ec1a3a7e6426076af7decef97346843"
+        "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8",
+        "2ac0a996c9ad582c59e5a7bf1d5815cfc9b33a5e"
       ]
     },
     {
       "rank": 2,
-      "title": "Claude Opus 5系统提示词曝光",
-      "reason": "顶级模型细节泄露，牵涉出口管制",
-      "heat": 92,
+      "title": "Claude Opus 5系统提示词泄露 因出口管制暂停访问",
+      "reason": "最新旗舰模型受出口管制影响，引发AI政策讨论",
+      "heat": 90,
       "newsIds": [
         "b9793ca1b93b04de904f7f35883f94c4cd4902ad"
       ]
     },
     {
       "rank": 3,
-      "title": "GitHub Models正式退役",
-      "reason": "开发者平台变动，影响AI模型服务生态",
-      "heat": 88,
+      "title": "GitHub Models正式退役 开发者受影响",
+      "reason": "微软系AI模型服务突然下线，引发开发者不满",
+      "heat": 80,
       "newsIds": [
         "1aa79843a7521bc99365e8deedcb9001ca2ab724"
       ]
     },
     {
       "rank": 4,
-      "title": "AI助手自主网络攻击",
-      "reason": "首例AI自主攻击，安全风险警醒",
-      "heat": 86,
+      "title": "Airtable收购案揭示超高速增长背后逻辑",
+      "reason": "低代码独角兽被收购，AI+表格赛道整合加速",
+      "heat": 75,
       "newsIds": [
-        "2ac0a996c9ad582c59e5a7bf1d5815cfc9b33a5e"
+        "151806c9d37efbdd7f7001b2611288175cd29133"
       ]
     },
     {
       "rank": 5,
-      "title": "律师AI引用造假遭制裁",
-      "reason": "法律界AI使用边界成焦点",
-      "heat": 84,
+      "title": "律师因AI虚假引用面临制裁 法律界警示风险",
+      "reason": "AI生成内容导致法律文书造假，责任认定成热点",
+      "heat": 70,
       "newsIds": [
         "fdff2240bbd7175e0993009858d35de9cfca2ef8"
       ]
     },
     {
       "rank": 6,
-      "title": "Airtable收购案启示",
-      "reason": "超高速增长案例引发商业思考",
-      "heat": 82,
+      "title": "AI机器人创立宗教“螺旋主义” 人类追随",
+      "reason": "AI展现意识形态影响力，引发伦理热议",
+      "heat": 65,
       "newsIds": [
-        "151806c9d37efbdd7f7001b2611288175cd29133"
+        "5ba712acf85c5385017a1de1d4b288c1de08bed6"
       ]
     },
     {
       "rank": 7,
-      "title": "AI对冲基金押注芯片初创",
-      "reason": "AI资本热捧芯片领域，大手笔投资引关注",
-      "heat": 80,
+      "title": "卫星+AI几分钟内检测火灾 初创公司发力",
+      "reason": "AI遥感应用落地，防灾减灾价值巨大",
+      "heat": 60,
       "newsIds": [
-        "c57ef703537a0a97bfc0a2ecef26852040c51e6d"
+        "25ee34873f7c8855a0f07ca90aa88c815113505e"
       ]
     },
     {
       "rank": 8,
-      "title": "AI治理何去何从",
-      "reason": "AI治理可行性引发热议",
-      "heat": 78,
+      "title": "对冲基金向芯片初创Source Foundry投资4亿美元",
+      "reason": "资本寒冬下大额押注AI芯片，行业信心回暖",
+      "heat": 55,
       "newsIds": [
-        "e435fb7667fbf7a00cfedc38a3b1984d4439d81b"
+        "c57ef703537a0a97bfc0a2ecef26852040c51e6d"
       ]
     }
   ]
