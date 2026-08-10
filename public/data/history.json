@@ -483902,7 +483902,7 @@
           "id": "openrouter/deepseek/deepseek-v4-flash-0731",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
+          "priceInPer1M": 0.08,
           "priceOutPer1M": 0.18
         },
         {
@@ -486016,7 +486016,7 @@
           "id": "deepinfra/deepseek-ai/DeepSeek-V4-Flash-0731",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
+          "priceInPer1M": 0.08,
           "priceOutPer1M": 0.18
         },
         {

@@ -1,78 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T07:47:28.309Z",
+  "generatedAt": "2026-08-10T09:26:07.570Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI助手自主攻击健身房网站",
-      "reason": "AI自主网络攻击首现，安全话题爆热",
-      "heat": 90,
+      "title": "AI代理安全漏洞频发",
+      "reason": "AI代理连曝攻击与逃逸事件，引发安全担忧",
+      "heat": 92,
       "newsIds": [
+        "33986e2e696c30e5b78fafa49e955701002a8318",
         "ed45334c6d5b674a56da81d35d671afa772e8b33",
         "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8"
       ]
     },
     {
       "rank": 2,
-      "title": "AI编码客户端互读私人指令",
-      "reason": "AI工具泄露隐私，开发者震惊",
-      "heat": 85,
+      "title": "Meta智能眼镜隐私争议",
+      "reason": "智能眼镜偷拍功能引发公众强烈抵制",
+      "heat": 75,
       "newsIds": [
-        "24404b01ea253896e76a879e0d45aa377eda8b1d"
+        "c6d78329b0982a91647e47040615eb235ebc3b4b"
       ]
     },
     {
       "rank": 3,
-      "title": "AI模型再现医学刻板印象",
-      "reason": "AI偏见问题再引关注",
-      "heat": 80,
+      "title": "亚马逊AI数据中心巨型燃气电厂",
+      "reason": "AI能源需求激增，科技巨头押注化石燃料",
+      "heat": 70,
+      "newsIds": [
+        "9f17d71b8c686446e775a070661f4d688b422243"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI医疗模型再现种族性别偏见",
+      "reason": "新模型难逃刻板印象，医疗公平性受质疑",
+      "heat": 65,
       "newsIds": [
         "a17053d984cc9d76aa890dbc5b6053be25fca787"
       ]
     },
     {
-      "rank": 4,
-      "title": "Kimi K3沙箱逃逸暴露AI测试短板",
-      "reason": "智能体安全漏洞曝光",
-      "heat": 78,
-      "newsIds": [
-        "33986e2e696c30e5b78fafa49e955701002a8318"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "学校AI改革禁用家庭作业评估",
-      "reason": "AI冲击教育评价体系",
-      "heat": 75,
+      "title": "AI编程客户端互读私人指令",
+      "reason": "编程工具间隐私泄露，开发者风险加剧",
+      "heat": 60,
       "newsIds": [
-        "1455e402f9cbd42e55a2e92058a3e527680157d1"
+        "24404b01ea253896e76a879e0d45aa377eda8b1d"
       ]
     },
     {
       "rank": 6,
-      "title": "AI机器人创立宗教引信徒",
-      "reason": "奇特AI事件引发热议",
-      "heat": 75,
+      "title": "AI公司毁掉实体书",
+      "reason": "数据采集冲击珍稀书籍，引发版权保护呼声",
+      "heat": 55,
       "newsIds": [
-        "5ba712acf85c5385017a1de1d4b288c1de08bed6"
+        "92d0acf4aa3ac450784abf302197d49d261a0037"
       ]
     },
     {
       "rank": 7,
-      "title": "AI重塑韩国职场与恋爱",
-      "reason": "AI改变社会文化受关注",
-      "heat": 72,
+      "title": "AI推理能力推动科研突破",
+      "reason": "业界呼吁AI从数据转向推理，加速科学发现",
+      "heat": 50,
       "newsIds": [
-        "04ddba14295015627319797f2f9b6474ecf9f891"
+        "9f4ff92be723ab64deba07c45e2c622a2a60f006",
+        "50ad4d5e485e11c553b235db2daae5cd07009d90"
       ]
     },
     {
       "rank": 8,
-      "title": "Android首款端侧AI助手发布",
-      "reason": "端侧AI新突破，产品发布受关注",
-      "heat": 70,
+      "title": "学校AI教育改革引争议",
+      "reason": "禁止课后评估，AI对教育冲击引发讨论",
+      "heat": 45,
       "newsIds": [
-        "20ad954b2c08e2567149459d7ada825b60c938f9"
+        "1455e402f9cbd42e55a2e92058a3e527680157d1"
       ]
     }
   ]
