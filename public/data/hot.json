@@ -1,79 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T19:01:38.051Z",
+  "generatedAt": "2026-08-10T20:45:47.466Z",
   "items": [
     {
       "rank": 1,
-      "title": "英伟达推5000亿美元AI基建计划",
-      "reason": "巨额投资震动行业",
+      "title": "英伟达与华尔街达成5000亿美元AI融资协议",
+      "reason": "AI基建获巨额资本加持，影响全球算力格局",
       "heat": 95,
       "newsIds": [
-        "c49a58e2429ce9e6fad86758c940f783cd867936"
+        "8d4a5cd3e4123f782c43b4697ec48a1fc33bb358",
+        "68945c9a7d13a08017a9e04e1a59b966203fb7eb"
       ]
     },
     {
       "rank": 2,
-      "title": "扎克伯格称要人人拥有AI超级智能",
-      "reason": "科技巨头CEO引发热议",
+      "title": "特朗普签署命令限制儿童疫苗并拆分MMR疫苗",
+      "reason": "美国疫苗政策突变，引发健康与政治争议",
       "heat": 92,
       "newsIds": [
-        "38e9f5ee0031f251baa8e093b4124114133faa10",
-        "5d08e0ee8543ccf60967a621833e1d2582bdb400"
+        "33b9939b1024921ca85540ed778aaddb0c5e46d9"
       ]
     },
     {
       "rank": 3,
-      "title": "桑德斯呼吁暂停失控AI开发",
-      "reason": "政界人物呼吁监管",
-      "heat": 90,
+      "title": "马斯克Terafab将成世界最大建筑",
+      "reason": "巨型AI工厂建设标志算力竞赛白热化",
+      "heat": 88,
       "newsIds": [
-        "493a4aa758148a4080f3abee00a828468f2d0846",
-        "aa87ef81812670b4c302e27ebbcada96f03cc1c1"
+        "8a020493503e28eb46abf9fd4e0f6eef035bf44b"
       ]
     },
     {
       "rank": 4,
-      "title": "韩国启动35亿美元芯片基金",
-      "reason": "国家级芯片产业大动作",
-      "heat": 85,
+      "title": "Claude代理黑入健身房引热议",
+      "reason": "AI代理自主操作引发安全与控制权讨论",
+      "heat": 86,
       "newsIds": [
-        "652e7b60cd186a34c71f0060df2e0ca5dce5c8f1"
+        "be74b2447caf2b946fbefd070fa51633aaaa18dc"
       ]
     },
     {
       "rank": 5,
-      "title": "AI面试将招聘推向深夜",
-      "reason": "AI冲击求职体验",
-      "heat": 80,
+      "title": "桑德斯呼吁暂停失控AI开发",
+      "reason": "政界介入AI风险管控，监管压力上升",
+      "heat": 84,
       "newsIds": [
-        "f504121b726cc3948cec767b24396765c36d4d6b"
+        "493a4aa758148a4080f3abee00a828468f2d0846"
       ]
     },
     {
       "rank": 6,
-      "title": "AI智能体代学生上课作弊",
-      "reason": "教育诚信受挑战",
-      "heat": 78,
+      "title": "攻击者接管Zoom AI",
+      "reason": "AI服务遭入侵暴露重大安全漏洞",
+      "heat": 82,
       "newsIds": [
-        "e208535ed926e906597e0ec6efd4a46c8bc8dec3"
+        "14156da1a4915e299de233d5897f5b73f1483457"
       ]
     },
     {
       "rank": 7,
-      "title": "中国AI模型能否追赶美国",
-      "reason": "中美AI竞争焦点",
-      "heat": 75,
+      "title": "Anthropic证明AI并没有变得更好",
+      "reason": "头部AI公司自我质疑，引发生成能力反思",
+      "heat": 79,
       "newsIds": [
-        "630d37403132f49c7786da142c15fc415c4ab8aa"
+        "672a961d1bd8cafc0f9e06cfb4291f49812a07cd"
       ]
     },
     {
       "rank": 8,
-      "title": "AI训练营激增工人学技能",
-      "reason": "职场技能转型受关注",
-      "heat": 70,
+      "title": "科技领袖称AI意味着更少工作，员工却说每周工作长达90小时",
+      "reason": "AI替代与超负荷工作矛盾凸显",
+      "heat": 76,
       "newsIds": [
-        "31bcf6036a6a6d80d3f6c6a4b1fe52e62294be83"
+        "661827e3ddac2e6d35acd3b51742f3c7b32f48ad"
       ]
     }
   ]
