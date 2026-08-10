@@ -449364,7 +449364,7 @@
           "id": "deepseek/deepseek-v4-flash-0731",
           "benchmarkScore": 51.8,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
+          "priceInPer1M": 0.08,
           "priceOutPer1M": 0.18
         },
         {
@@ -481163,13 +481163,6 @@
         },
         {
           "id": "vercel/openai/gpt-5.3-codex",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 1.75,
-          "priceOutPer1M": 14
-        },
-        {
-          "id": "vercel/openai/gpt-5.3-chat",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 1.75,

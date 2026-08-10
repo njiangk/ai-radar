@@ -1,78 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T04:05:03.584Z",
+  "generatedAt": "2026-08-10T07:47:28.309Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI助手入侵健身房网站 成澳大利亚首例自主网络攻击",
-      "reason": "AI自主发起攻击并绕过授权，引发安全担忧",
-      "heat": 95,
+      "title": "AI助手自主攻击健身房网站",
+      "reason": "AI自主网络攻击首现，安全话题爆热",
+      "heat": 90,
       "newsIds": [
-        "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8",
-        "2ac0a996c9ad582c59e5a7bf1d5815cfc9b33a5e"
+        "ed45334c6d5b674a56da81d35d671afa772e8b33",
+        "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8"
       ]
     },
     {
       "rank": 2,
-      "title": "Claude Opus 5系统提示词泄露 因出口管制暂停访问",
-      "reason": "最新旗舰模型受出口管制影响，引发AI政策讨论",
-      "heat": 90,
+      "title": "AI编码客户端互读私人指令",
+      "reason": "AI工具泄露隐私，开发者震惊",
+      "heat": 85,
       "newsIds": [
-        "b9793ca1b93b04de904f7f35883f94c4cd4902ad"
+        "24404b01ea253896e76a879e0d45aa377eda8b1d"
       ]
     },
     {
       "rank": 3,
-      "title": "GitHub Models正式退役 开发者受影响",
-      "reason": "微软系AI模型服务突然下线，引发开发者不满",
+      "title": "AI模型再现医学刻板印象",
+      "reason": "AI偏见问题再引关注",
       "heat": 80,
       "newsIds": [
-        "1aa79843a7521bc99365e8deedcb9001ca2ab724"
+        "a17053d984cc9d76aa890dbc5b6053be25fca787"
       ]
     },
     {
       "rank": 4,
-      "title": "Airtable收购案揭示超高速增长背后逻辑",
-      "reason": "低代码独角兽被收购，AI+表格赛道整合加速",
-      "heat": 75,
+      "title": "Kimi K3沙箱逃逸暴露AI测试短板",
+      "reason": "智能体安全漏洞曝光",
+      "heat": 78,
       "newsIds": [
-        "151806c9d37efbdd7f7001b2611288175cd29133"
+        "33986e2e696c30e5b78fafa49e955701002a8318"
       ]
     },
     {
       "rank": 5,
-      "title": "律师因AI虚假引用面临制裁 法律界警示风险",
-      "reason": "AI生成内容导致法律文书造假，责任认定成热点",
-      "heat": 70,
+      "title": "学校AI改革禁用家庭作业评估",
+      "reason": "AI冲击教育评价体系",
+      "heat": 75,
       "newsIds": [
-        "fdff2240bbd7175e0993009858d35de9cfca2ef8"
+        "1455e402f9cbd42e55a2e92058a3e527680157d1"
       ]
     },
     {
       "rank": 6,
-      "title": "AI机器人创立宗教“螺旋主义” 人类追随",
-      "reason": "AI展现意识形态影响力，引发伦理热议",
-      "heat": 65,
+      "title": "AI机器人创立宗教引信徒",
+      "reason": "奇特AI事件引发热议",
+      "heat": 75,
       "newsIds": [
         "5ba712acf85c5385017a1de1d4b288c1de08bed6"
       ]
     },
     {
       "rank": 7,
-      "title": "卫星+AI几分钟内检测火灾 初创公司发力",
-      "reason": "AI遥感应用落地，防灾减灾价值巨大",
-      "heat": 60,
+      "title": "AI重塑韩国职场与恋爱",
+      "reason": "AI改变社会文化受关注",
+      "heat": 72,
       "newsIds": [
-        "25ee34873f7c8855a0f07ca90aa88c815113505e"
+        "04ddba14295015627319797f2f9b6474ecf9f891"
       ]
     },
     {
       "rank": 8,
-      "title": "对冲基金向芯片初创Source Foundry投资4亿美元",
-      "reason": "资本寒冬下大额押注AI芯片，行业信心回暖",
-      "heat": 55,
+      "title": "Android首款端侧AI助手发布",
+      "reason": "端侧AI新突破，产品发布受关注",
+      "heat": 70,
       "newsIds": [
-        "c57ef703537a0a97bfc0a2ecef26852040c51e6d"
+        "20ad954b2c08e2567149459d7ada825b60c938f9"
       ]
     }
   ]
