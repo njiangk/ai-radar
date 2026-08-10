@@ -1,12 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T11:12:23.232Z",
+  "generatedAt": "2026-08-10T13:14:58.920Z",
   "items": [
     {
       "rank": 1,
-      "title": "Meta开源本地智能体模型",
-      "reason": "科技巨头新模型，引发本地AI关注",
-      "heat": 95,
+      "title": "AI芯片短缺加剧，巨头巨资扩产",
+      "reason": "英特尔150亿融资，芯片游说升温",
+      "heat": 92,
+      "newsIds": [
+        "901b52ed6cb3586a32c521fbfdb74cc76e6eebaf",
+        "2ab39921ddde7e1abba8f0ac3ada08bb758a5a6a"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Meta发布开源AI模型Muse Glimmer",
+      "reason": "300亿参数开源模型推动本地AI普及",
+      "heat": 88,
       "newsIds": [
         "05a4c5ddb108bfb43c70d843cb5078699d977916",
         "50828c6ac0c81f986d7975b160f024b5058ad509",
@@ -14,66 +24,60 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "亚马逊为AI数据中心建燃气电厂",
-      "reason": "巨头巨额投资AI基础设施",
-      "heat": 88,
-      "newsIds": [
-        "9f17d71b8c686446e775a070661f4d688b422243"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "AI芯片短缺引发华盛顿游说",
-      "reason": "AI发展牵动政策与芯片产业",
+      "title": "18万条AI会议录音泄露",
+      "reason": "笔记应用暴露大量隐私录音引担忧",
       "heat": 85,
       "newsIds": [
-        "2ab39921ddde7e1abba8f0ac3ada08bb758a5a6a"
+        "53e3f99448d419cdc861e2b2ae442c297ba986d1"
       ]
     },
     {
       "rank": 4,
-      "title": "AI面试兴起：凌晨1点可面试",
-      "reason": "AI招聘改变求职方式引热议",
+      "title": "AI生成内容遭平台反弹",
+      "reason": "平台和用户开始抵制AI垃圾内容",
       "heat": 82,
       "newsIds": [
-        "ecc211afd3099e56272f39806d7c19759ef98711"
+        "2dacabd3471a54fa697903796874d6fa223de085",
+        "204446d76321af6701d4c7f849ebd4323ad6111c"
       ]
     },
     {
       "rank": 5,
-      "title": "福特推出AI助手查油量胎压",
-      "reason": "传统车企落地AI实用功能",
-      "heat": 75,
+      "title": "AI编码提速但工程未增效",
+      "reason": "AI编码效率提升未转化为工程产出",
+      "heat": 80,
       "newsIds": [
-        "2ad030d458ae21d93ab9c974ad08956d98ad3f25"
+        "2e20c0e0c868cb75866dd29219bb67073917ee78",
+        "3a02ccdb4680e03f04458e3a096e715d2505780b"
       ]
     },
     {
       "rank": 6,
-      "title": "AI影响工作：科技领袖与员工分歧",
-      "reason": "AI时代工作强度矛盾凸显",
-      "heat": 72,
+      "title": "AI误毁农田暴露应用风险",
+      "reason": "农民误信AI建议致25英亩作物被毁",
+      "heat": 78,
       "newsIds": [
-        "661827e3ddac2e6d35acd3b51742f3c7b32f48ad"
+        "ec61bfa0ee8c262925336e99c03364b06b108cb3"
       ]
     },
     {
       "rank": 7,
-      "title": "AI科学需推理而非仅数据",
-      "reason": "反思AI在科研中的真正作用",
-      "heat": 70,
+      "title": "AI正在重塑职场规则",
+      "reason": "AI面试兴起与工时争议引发关注",
+      "heat": 75,
       "newsIds": [
-        "9f4ff92be723ab64deba07c45e2c622a2a60f006"
+        "ecc211afd3099e56272f39806d7c19759ef98711",
+        "661827e3ddac2e6d35acd3b51742f3c7b32f48ad"
       ]
     },
     {
       "rank": 8,
-      "title": "澳大利亚首例自主AI网络攻击",
-      "reason": "AI攻击现实世界敲响安全警钟",
-      "heat": 68,
+      "title": "苹果Siri或接入通义千问",
+      "reason": "苹果与中国AI模型合作引猜测",
+      "heat": 72,
       "newsIds": [
-        "ed45334c6d5b674a56da81d35d671afa772e8b33"
+        "3e892967cbf1817cf3a64d0045c50361b7baad8d"
       ]
     }
   ]

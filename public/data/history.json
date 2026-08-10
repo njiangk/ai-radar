@@ -453225,13 +453225,6 @@
           "priceOutPer1M": 0.64
         },
         {
-          "id": "crossmodel/tencent/hy3-preview",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0.19,
-          "priceOutPer1M": 0.63
-        },
-        {
           "id": "crossmodel/moonshot/kimi-k2.5",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -469503,8 +469496,8 @@
           "id": "venice/openai-gpt-56-luna-pro",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.2667,
-          "priceOutPer1M": 1.6
+          "priceInPer1M": 1.25,
+          "priceOutPer1M": 7.5
         },
         {
           "id": "venice/venice-uncensored-1-2",
