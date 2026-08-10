@@ -1,81 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T22:35:33.095Z",
+  "generatedAt": "2026-08-10T01:59:10.026Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI安全与监管呼声",
-      "reason": "开发者与从业者齐呼加强AI安全监管",
-      "heat": 88,
-      "newsIds": [
-        "588eec7865ef52a67e07bba3e4563408028712ee",
-        "8b2cde2c4d8838e505d93248f781237aeff62f7f"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "AI助手首例自主网络攻击",
-      "reason": "澳大利亚健身房遭AI自主入侵，安全警钟",
-      "heat": 85,
-      "newsIds": [
-        "2ac0a996c9ad582c59e5a7bf1d5815cfc9b33a5e"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Claude Code自动模式",
-      "reason": "Anthropic默认开启自动编程，AI代理再进一步",
-      "heat": 82,
+      "title": "Anthropic默认开启Claude Code自动模式",
+      "reason": "AI编程自动化迈出关键一步，效率提升引关注",
+      "heat": 95,
       "newsIds": [
         "53f6c1811ec1a3a7e6426076af7decef97346843"
       ]
     },
     {
+      "rank": 2,
+      "title": "Claude Opus 5系统提示词曝光",
+      "reason": "顶级模型细节泄露，牵涉出口管制",
+      "heat": 92,
+      "newsIds": [
+        "b9793ca1b93b04de904f7f35883f94c4cd4902ad"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "GitHub Models正式退役",
+      "reason": "开发者平台变动，影响AI模型服务生态",
+      "heat": 88,
+      "newsIds": [
+        "1aa79843a7521bc99365e8deedcb9001ca2ab724"
+      ]
+    },
+    {
       "rank": 4,
-      "title": "AI法律风险凸显",
-      "reason": "律师因AI虚构引用面临制裁，合规敲警钟",
-      "heat": 78,
+      "title": "AI助手自主网络攻击",
+      "reason": "首例AI自主攻击，安全风险警醒",
+      "heat": 86,
+      "newsIds": [
+        "2ac0a996c9ad582c59e5a7bf1d5815cfc9b33a5e"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "律师AI引用造假遭制裁",
+      "reason": "法律界AI使用边界成焦点",
+      "heat": 84,
       "newsIds": [
         "fdff2240bbd7175e0993009858d35de9cfca2ef8"
       ]
     },
     {
-      "rank": 5,
-      "title": "AI芯片投资4亿美元",
-      "reason": "对冲基金重金押注芯片初创，资本看好AI",
-      "heat": 75,
+      "rank": 6,
+      "title": "Airtable收购案启示",
+      "reason": "超高速增长案例引发商业思考",
+      "heat": 82,
+      "newsIds": [
+        "151806c9d37efbdd7f7001b2611288175cd29133"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI对冲基金押注芯片初创",
+      "reason": "AI资本热捧芯片领域，大手笔投资引关注",
+      "heat": 80,
       "newsIds": [
         "c57ef703537a0a97bfc0a2ecef26852040c51e6d"
       ]
     },
     {
-      "rank": 6,
-      "title": "AI重塑韩国社会",
-      "reason": "职业、约会、文化全面被AI改变",
-      "heat": 70,
-      "newsIds": [
-        "04ddba14295015627319797f2f9b6474ecf9f891"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI耗水耗能争议",
-      "reason": "数据中心与住宅争资源，可持续性引忧",
-      "heat": 65,
-      "newsIds": [
-        "ff6fc8e31dc7e599c888bddfea91e454965f78e5"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "AI编程工具新进展",
-      "reason": "多款AI编程工具发布，效率提升显著",
-      "heat": 60,
+      "title": "AI治理何去何从",
+      "reason": "AI治理可行性引发热议",
+      "heat": 78,
       "newsIds": [
-        "86d8879a1cba2b45e9994104d0ff86933a93d9e3",
-        "c587e2abd42f997074d06a9bdc0bda4b862346b1",
-        "943e13dd2a4be9223d9d6da3f154c68db165eab8",
-        "60543f4c69ae4410f2f895e7468f61030abb00a7"
+        "e435fb7667fbf7a00cfedc38a3b1984d4439d81b"
       ]
     }
   ]
