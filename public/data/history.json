@@ -503129,8 +503129,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.5306,
-          "priceOutPer1M": 1.6676
+          "priceInPer1M": 0.5026,
+          "priceOutPer1M": 1.5796
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -503598,8 +503598,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.76,
-          "priceOutPer1M": 2.42
+          "priceInPer1M": 0.5026,
+          "priceOutPer1M": 1.5796
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -508670,6 +508670,13 @@
           "priceOutPer1M": 300
         },
         {
+          "id": "meta/muse-glimmer-30b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.35,
+          "priceOutPer1M": 1.5
+        },
+        {
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -509760,6 +509767,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.75,
           "priceOutPer1M": 2.75
+        },
+        {
+          "id": "wandb/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.1,
+          "priceOutPer1M": 0.25
         },
         {
           "id": "wandb/google/gemma-4-31B-it",
@@ -540385,6 +540399,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.45,
           "priceOutPer1M": 0.65
+        },
+        {
+          "id": "openrouter/meta/muse-glimmer-30b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.35,
+          "priceOutPer1M": 1.5
         },
         {
           "id": "openrouter/meta/muse-spark-1.1",

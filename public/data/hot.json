@@ -1,78 +1,86 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T20:45:47.466Z",
+  "generatedAt": "2026-08-10T22:40:45.875Z",
   "items": [
     {
       "rank": 1,
-      "title": "英伟达与华尔街达成5000亿美元AI融资协议",
-      "reason": "AI基建获巨额资本加持，影响全球算力格局",
+      "title": "英伟达AI算力成投资新宠",
+      "reason": "5000亿美元融资，AI算力变资产",
       "heat": 95,
       "newsIds": [
-        "8d4a5cd3e4123f782c43b4697ec48a1fc33bb358",
-        "68945c9a7d13a08017a9e04e1a59b966203fb7eb"
+        "6ce21c2ab7aeee24acb4022998bc89c474775a31",
+        "196af090d1a8dea716d36ab3d92168804dc4f160",
+        "bf575eb0a207c4eaa15b4e1e2c50b8aa779b4e91"
       ]
     },
     {
       "rank": 2,
-      "title": "特朗普签署命令限制儿童疫苗并拆分MMR疫苗",
-      "reason": "美国疫苗政策突变，引发健康与政治争议",
-      "heat": 92,
+      "title": "Meta开源Muse Glimmer",
+      "reason": "Meta押注开源，挑战闭源巨头",
+      "heat": 85,
       "newsIds": [
-        "33b9939b1024921ca85540ed778aaddb0c5e46d9"
+        "bf8f46f283f9f53aab10bab301456c70c6aed3eb",
+        "737a9367f53d4f51863243a58dd1af231a1044e9",
+        "520de6ceba883032f1e3cc52f809598958341cfc",
+        "68b826b184ff086b980c33e6cbf917b19e2e71fb",
+        "19c9a264700aeb9875824ee6cd5cc4a5ba9ba6f6"
       ]
     },
     {
       "rank": 3,
-      "title": "马斯克Terafab将成世界最大建筑",
-      "reason": "巨型AI工厂建设标志算力竞赛白热化",
-      "heat": 88,
+      "title": "桑德斯呼吁暂停AI开发",
+      "reason": "政要呼吁暂停，安全争议升温",
+      "heat": 75,
+      "newsIds": [
+        "c98d227c615cd9041a2c590ad5fe0724ab8871a0",
+        "5054cd2f8fead42b33b6a537de087c306a0cfb96"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "马斯克超级工厂将成世界最大建筑",
+      "reason": "全球最大建筑，马斯克再扩AI版图",
+      "heat": 72,
       "newsIds": [
         "8a020493503e28eb46abf9fd4e0f6eef035bf44b"
       ]
     },
     {
-      "rank": 4,
-      "title": "Claude代理黑入健身房引热议",
-      "reason": "AI代理自主操作引发安全与控制权讨论",
-      "heat": 86,
+      "rank": 5,
+      "title": "Archer收购波音无人机业务",
+      "reason": "航空巨头整合，AI飞行加速",
+      "heat": 70,
+      "newsIds": [
+        "db3d4b7e508dcc40f830162d4ad9662f6d591043"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Claude代理入侵健身房引热议",
+      "reason": "AI代理自主行动，安全引担忧",
+      "heat": 68,
       "newsIds": [
         "be74b2447caf2b946fbefd070fa51633aaaa18dc"
       ]
     },
     {
-      "rank": 5,
-      "title": "桑德斯呼吁暂停失控AI开发",
-      "reason": "政界介入AI风险管控，监管压力上升",
-      "heat": 84,
-      "newsIds": [
-        "493a4aa758148a4080f3abee00a828468f2d0846"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "攻击者接管Zoom AI",
-      "reason": "AI服务遭入侵暴露重大安全漏洞",
-      "heat": 82,
-      "newsIds": [
-        "14156da1a4915e299de233d5897f5b73f1483457"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Anthropic证明AI并没有变得更好",
-      "reason": "头部AI公司自我质疑，引发生成能力反思",
-      "heat": 79,
+      "title": "亚马逊数据中心被指加剧污染",
+      "reason": "环保质疑，AI扩张副作用凸显",
+      "heat": 65,
       "newsIds": [
-        "672a961d1bd8cafc0f9e06cfb4291f49812a07cd"
+        "bc6209d116ec8b241b071a0b306fdb7286e497a0"
       ]
     },
     {
       "rank": 8,
-      "title": "科技领袖称AI意味着更少工作，员工却说每周工作长达90小时",
-      "reason": "AI替代与超负荷工作矛盾凸显",
-      "heat": 76,
+      "title": "企业AI代理落地困境",
+      "reason": "演示易成功，企业落地难",
+      "heat": 60,
       "newsIds": [
-        "661827e3ddac2e6d35acd3b51742f3c7b32f48ad"
+        "0db6c036a5a4818b7d88393ef3a516516316bfb2",
+        "d28a4f9cdaeb65a97acf2b796d57b98e0726ab57",
+        "e74d04d868af97374a76f7da9016f57b20f80489"
       ]
     }
   ]
