@@ -1,80 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T09:26:07.570Z",
+  "generatedAt": "2026-08-10T11:12:23.232Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI代理安全漏洞频发",
-      "reason": "AI代理连曝攻击与逃逸事件，引发安全担忧",
-      "heat": 92,
+      "title": "Meta开源本地智能体模型",
+      "reason": "科技巨头新模型，引发本地AI关注",
+      "heat": 95,
       "newsIds": [
-        "33986e2e696c30e5b78fafa49e955701002a8318",
-        "ed45334c6d5b674a56da81d35d671afa772e8b33",
-        "c1b15acb01934c30a7d2e3bc84e75ae1cd84afe8"
+        "05a4c5ddb108bfb43c70d843cb5078699d977916",
+        "50828c6ac0c81f986d7975b160f024b5058ad509",
+        "311d3f683fc6738c0a0efab1a0552491e97421d1"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta智能眼镜隐私争议",
-      "reason": "智能眼镜偷拍功能引发公众强烈抵制",
-      "heat": 75,
-      "newsIds": [
-        "c6d78329b0982a91647e47040615eb235ebc3b4b"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "亚马逊AI数据中心巨型燃气电厂",
-      "reason": "AI能源需求激增，科技巨头押注化石燃料",
-      "heat": 70,
+      "title": "亚马逊为AI数据中心建燃气电厂",
+      "reason": "巨头巨额投资AI基础设施",
+      "heat": 88,
       "newsIds": [
         "9f17d71b8c686446e775a070661f4d688b422243"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI医疗模型再现种族性别偏见",
-      "reason": "新模型难逃刻板印象，医疗公平性受质疑",
-      "heat": 65,
+      "rank": 3,
+      "title": "AI芯片短缺引发华盛顿游说",
+      "reason": "AI发展牵动政策与芯片产业",
+      "heat": 85,
       "newsIds": [
-        "a17053d984cc9d76aa890dbc5b6053be25fca787"
+        "2ab39921ddde7e1abba8f0ac3ada08bb758a5a6a"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI面试兴起：凌晨1点可面试",
+      "reason": "AI招聘改变求职方式引热议",
+      "heat": 82,
+      "newsIds": [
+        "ecc211afd3099e56272f39806d7c19759ef98711"
       ]
     },
     {
       "rank": 5,
-      "title": "AI编程客户端互读私人指令",
-      "reason": "编程工具间隐私泄露，开发者风险加剧",
-      "heat": 60,
+      "title": "福特推出AI助手查油量胎压",
+      "reason": "传统车企落地AI实用功能",
+      "heat": 75,
       "newsIds": [
-        "24404b01ea253896e76a879e0d45aa377eda8b1d"
+        "2ad030d458ae21d93ab9c974ad08956d98ad3f25"
       ]
     },
     {
       "rank": 6,
-      "title": "AI公司毁掉实体书",
-      "reason": "数据采集冲击珍稀书籍，引发版权保护呼声",
-      "heat": 55,
+      "title": "AI影响工作：科技领袖与员工分歧",
+      "reason": "AI时代工作强度矛盾凸显",
+      "heat": 72,
       "newsIds": [
-        "92d0acf4aa3ac450784abf302197d49d261a0037"
+        "661827e3ddac2e6d35acd3b51742f3c7b32f48ad"
       ]
     },
     {
       "rank": 7,
-      "title": "AI推理能力推动科研突破",
-      "reason": "业界呼吁AI从数据转向推理，加速科学发现",
-      "heat": 50,
+      "title": "AI科学需推理而非仅数据",
+      "reason": "反思AI在科研中的真正作用",
+      "heat": 70,
       "newsIds": [
-        "9f4ff92be723ab64deba07c45e2c622a2a60f006",
-        "50ad4d5e485e11c553b235db2daae5cd07009d90"
+        "9f4ff92be723ab64deba07c45e2c622a2a60f006"
       ]
     },
     {
       "rank": 8,
-      "title": "学校AI教育改革引争议",
-      "reason": "禁止课后评估，AI对教育冲击引发讨论",
-      "heat": 45,
+      "title": "澳大利亚首例自主AI网络攻击",
+      "reason": "AI攻击现实世界敲响安全警钟",
+      "heat": 68,
       "newsIds": [
-        "1455e402f9cbd42e55a2e92058a3e527680157d1"
+        "ed45334c6d5b674a56da81d35d671afa772e8b33"
       ]
     }
   ]

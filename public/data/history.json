@@ -455353,13 +455353,6 @@
           "priceOutPer1M": 0
         },
         {
-          "id": "google/gemini-2.0-flash",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0.1,
-          "priceOutPer1M": 0.4
-        },
-        {
           "id": "google/gemini-2.5-flash-preview-tts",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -455374,25 +455367,11 @@
           "priceOutPer1M": 1.5
         },
         {
-          "id": "google/gemini-3-pro-preview",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 2,
-          "priceOutPer1M": 12
-        },
-        {
           "id": "google/gemini-2.5-pro-preview-tts",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 1,
           "priceOutPer1M": 20
-        },
-        {
-          "id": "google/gemini-2.0-flash-lite",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0.075,
-          "priceOutPer1M": 0.3
         },
         {
           "id": "google/gemini-3.1-flash-live-preview",
@@ -475726,8 +475705,8 @@
           "id": "requesty/gpt-5.6-luna@eu",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.1,
-          "priceOutPer1M": 6.6
+          "priceInPer1M": 0.22,
+          "priceOutPer1M": 1.32
         },
         {
           "id": "requesty/o4-mini@eu",
@@ -475810,8 +475789,8 @@
           "id": "requesty/gpt-5.6-terra@eu",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2.75,
-          "priceOutPer1M": 16.5
+          "priceInPer1M": 2.2,
+          "priceOutPer1M": 13.2
         },
         {
           "id": "tensorx/nvidia/nemotron-3-super-120b-a12b",
