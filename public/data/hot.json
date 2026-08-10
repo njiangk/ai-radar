@@ -1,80 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T16:58:03.771Z",
+  "generatedAt": "2026-08-10T19:01:38.051Z",
   "items": [
     {
       "rank": 1,
-      "title": "扎克伯格发布AI愿景宣言，强调开源与个人AI",
-      "reason": "Meta CEO长文描绘AI未来，引发广泛讨论",
+      "title": "英伟达推5000亿美元AI基建计划",
+      "reason": "巨额投资震动行业",
       "heat": 95,
       "newsIds": [
-        "945000ec303ee7a54587c6128bfe60678fb918a6",
-        "38e9f5ee0031f251baa8e093b4124114133faa10",
-        "f014b0332b4e77678c7995bc50374cb6a4cd121a"
+        "c49a58e2429ce9e6fad86758c940f783cd867936"
       ]
     },
     {
       "rank": 2,
-      "title": "欧盟AI法案GPAI执法正式启动",
-      "reason": "全球首部全面AI法规进入执行阶段",
-      "heat": 90,
+      "title": "扎克伯格称要人人拥有AI超级智能",
+      "reason": "科技巨头CEO引发热议",
+      "heat": 92,
       "newsIds": [
-        "f35952dcb104ee0262f1aaa9c8fb6fba3567def1"
+        "38e9f5ee0031f251baa8e093b4124114133faa10",
+        "5d08e0ee8543ccf60967a621833e1d2582bdb400"
       ]
     },
     {
       "rank": 3,
-      "title": "中国AI芯片与融资：国家押注与企业困境并存",
-      "reason": "中美AI竞争加剧，产业资本动态引关注",
-      "heat": 85,
+      "title": "桑德斯呼吁暂停失控AI开发",
+      "reason": "政界人物呼吁监管",
+      "heat": 90,
       "newsIds": [
-        "b37b38b0c9dac278ad8113a33f327a2c9220823e",
-        "a8bce40b553fdbf1fde84b44b9c0c612bc421504"
+        "493a4aa758148a4080f3abee00a828468f2d0846",
+        "aa87ef81812670b4c302e27ebbcada96f03cc1c1"
       ]
     },
     {
       "rank": 4,
-      "title": "OpenAI CFO谈AI原生财务部门构建经验",
-      "reason": "企业AI转型标杆，提供落地方法论",
-      "heat": 80,
+      "title": "韩国启动35亿美元芯片基金",
+      "reason": "国家级芯片产业大动作",
+      "heat": 85,
       "newsIds": [
-        "7a678e9a26d7e264e59b07c8d89347737c8a5e1c"
+        "652e7b60cd186a34c71f0060df2e0ca5dce5c8f1"
       ]
     },
     {
       "rank": 5,
-      "title": "研究称超半数AI生成补丁有缺陷",
-      "reason": "AI编程可靠性遭质疑，引发开发者讨论",
-      "heat": 78,
+      "title": "AI面试将招聘推向深夜",
+      "reason": "AI冲击求职体验",
+      "heat": 80,
       "newsIds": [
-        "01617d7ae58cdafd952cae74d99e911ce9a13640"
+        "f504121b726cc3948cec767b24396765c36d4d6b"
       ]
     },
     {
       "rank": 6,
-      "title": "Kinney Drugs因客户投诉撤回AI电话助手",
-      "reason": "AI客服落地失败案例，暴露用户体验短板",
-      "heat": 75,
+      "title": "AI智能体代学生上课作弊",
+      "reason": "教育诚信受挑战",
+      "heat": 78,
       "newsIds": [
-        "ce340e9b6235037e030e6af27cf7a859c5b81cb3"
+        "e208535ed926e906597e0ec6efd4a46c8bc8dec3"
       ]
     },
     {
       "rank": 7,
-      "title": "NVIDIA发布开源Magpie TTS语音模型",
-      "reason": "低延迟多语言语音代理新选择，支持本地部署",
-      "heat": 72,
+      "title": "中国AI模型能否追赶美国",
+      "reason": "中美AI竞争焦点",
+      "heat": 75,
       "newsIds": [
-        "e5b664a37aa39848f2818dc3bf1d6e3bf5ae4443"
+        "630d37403132f49c7786da142c15fc415c4ab8aa"
       ]
     },
     {
       "rank": 8,
-      "title": "中国发布免费DNA筛查AI工具",
-      "reason": "AI医疗创新，免费助力罕见病检测",
+      "title": "AI训练营激增工人学技能",
+      "reason": "职场技能转型受关注",
       "heat": 70,
       "newsIds": [
-        "e09973554640beaf8bf1eb07988cead1a2af4076"
+        "31bcf6036a6a6d80d3f6c6a4b1fe52e62294be83"
       ]
     }
   ]

@@ -503129,8 +503129,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.76,
-          "priceOutPer1M": 2.42
+          "priceInPer1M": 0.532,
+          "priceOutPer1M": 1.672
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -503598,8 +503598,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.76,
-          "priceOutPer1M": 2.42
+          "priceInPer1M": 0.5446,
+          "priceOutPer1M": 1.7116
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -536302,15 +536302,15 @@
           "id": "hyper/kimi-k2.5",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.55,
-          "priceOutPer1M": 2.89
+          "priceInPer1M": 0.558,
+          "priceOutPer1M": 2.94
         },
         {
           "id": "hyper/minimax-m2.7",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.436,
-          "priceOutPer1M": 1.72
+          "priceInPer1M": 0.48,
+          "priceOutPer1M": 1.8
         },
         {
           "id": "hyper/qwen3.6-max",
@@ -536337,15 +536337,15 @@
           "id": "hyper/gemma-4-26b-a4b-it",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.124,
-          "priceOutPer1M": 0.42
+          "priceInPer1M": 0.116,
+          "priceOutPer1M": 0.408
         },
         {
           "id": "hyper/llama-3.3-70b-instruct",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.6066,
-          "priceOutPer1M": 1.0386
+          "priceInPer1M": 0.598,
+          "priceOutPer1M": 0.738
         },
         {
           "id": "hyper/qwen3.8-max",
@@ -536365,8 +536365,8 @@
           "id": "hyper/gpt-oss-120b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.178,
-          "priceOutPer1M": 0.71
+          "priceInPer1M": 0.188,
+          "priceOutPer1M": 0.73
         },
         {
           "id": "hyper/qwen3.6-flash",
@@ -536386,8 +536386,8 @@
           "id": "hyper/qwen3-coder-480b-a35b-instruct-int4-mixed-ar",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.569,
-          "priceOutPer1M": 2.135
+          "priceInPer1M": 0.445,
+          "priceOutPer1M": 2.145
         },
         {
           "id": "hyper/qwen3-next-80b-a3b-instruct",
