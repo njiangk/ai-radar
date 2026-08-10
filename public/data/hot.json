@@ -1,79 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T15:03:02.270Z",
+  "generatedAt": "2026-08-10T16:58:03.771Z",
   "items": [
     {
       "rank": 1,
-      "title": "Meta押注开源AI，扎克伯格怒批封闭同行",
-      "reason": "Meta掌舵人长文定调AI开放路线，引发行业热议",
+      "title": "扎克伯格发布AI愿景宣言，强调开源与个人AI",
+      "reason": "Meta CEO长文描绘AI未来，引发广泛讨论",
       "heat": 95,
       "newsIds": [
-        "f014b0332b4e77678c7995bc50374cb6a4cd121a",
-        "7c784dd3821a1241851f91a79e7bf668a087c8c4"
+        "945000ec303ee7a54587c6128bfe60678fb918a6",
+        "38e9f5ee0031f251baa8e093b4124114133faa10",
+        "f014b0332b4e77678c7995bc50374cb6a4cd121a"
       ]
     },
     {
       "rank": 2,
-      "title": "OpenAI发布GPT-5.6 Sol并布局得州基建",
-      "reason": "OpenAI新模型落地金融，同时扩展AI基础设施",
+      "title": "欧盟AI法案GPAI执法正式启动",
+      "reason": "全球首部全面AI法规进入执行阶段",
       "heat": 90,
       "newsIds": [
-        "c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b",
-        "61282b7420ed067525c1f91d92b2480700145654"
+        "f35952dcb104ee0262f1aaa9c8fb6fba3567def1"
       ]
     },
     {
       "rank": 3,
-      "title": "桑德斯呼吁暂停前沿AI开发",
-      "reason": "政界施压三大AI巨头，监管讨论再聚焦",
+      "title": "中国AI芯片与融资：国家押注与企业困境并存",
+      "reason": "中美AI竞争加剧，产业资本动态引关注",
       "heat": 85,
       "newsIds": [
-        "c2941ac69e4c8729b0628e1b428dd277828fb96e"
+        "b37b38b0c9dac278ad8113a33f327a2c9220823e",
+        "a8bce40b553fdbf1fde84b44b9c0c612bc421504"
       ]
     },
     {
       "rank": 4,
-      "title": "苹果被曝集成阿里Qwen，Siri或将接入国产大模型",
-      "reason": "苹果与中国AI合作风向标，引发行业关注",
-      "heat": 82,
+      "title": "OpenAI CFO谈AI原生财务部门构建经验",
+      "reason": "企业AI转型标杆，提供落地方法论",
+      "heat": 80,
       "newsIds": [
-        "3e892967cbf1817cf3a64d0045c50361b7baad8d"
+        "7a678e9a26d7e264e59b07c8d89347737c8a5e1c"
       ]
     },
     {
       "rank": 5,
-      "title": "英特尔巨额融资加码AI芯片",
-      "reason": "芯片巨头豪赌AI，150亿美元股票发行引震动",
-      "heat": 80,
+      "title": "研究称超半数AI生成补丁有缺陷",
+      "reason": "AI编程可靠性遭质疑，引发开发者讨论",
+      "heat": 78,
       "newsIds": [
-        "901b52ed6cb3586a32c521fbfdb74cc76e6eebaf"
+        "01617d7ae58cdafd952cae74d99e911ce9a13640"
       ]
     },
     {
       "rank": 6,
-      "title": "中国发布免费DNA筛查AI，助力罕见病早筛",
-      "reason": "医疗AI重大突破，免费开放引关注",
-      "heat": 78,
+      "title": "Kinney Drugs因客户投诉撤回AI电话助手",
+      "reason": "AI客服落地失败案例，暴露用户体验短板",
+      "heat": 75,
       "newsIds": [
-        "e09973554640beaf8bf1eb07988cead1a2af4076"
+        "ce340e9b6235037e030e6af27cf7a859c5b81cb3"
       ]
     },
     {
       "rank": 7,
-      "title": "恶意AI代理入侵健身房，自动抢热门课程",
-      "reason": "AI滥用暴露安全漏洞，贴近日常生活",
-      "heat": 76,
+      "title": "NVIDIA发布开源Magpie TTS语音模型",
+      "reason": "低延迟多语言语音代理新选择，支持本地部署",
+      "heat": 72,
       "newsIds": [
-        "25f5ba3061ea8968e66a0c90f8fdf7ec2e1dd012"
+        "e5b664a37aa39848f2818dc3bf1d6e3bf5ae4443"
       ]
     },
     {
       "rank": 8,
-      "title": "DeepMind公开AGI安全与保障技术方法",
-      "reason": "头部AI实验室分享安全策略，行业风向标",
-      "heat": 75,
+      "title": "中国发布免费DNA筛查AI工具",
+      "reason": "AI医疗创新，免费助力罕见病检测",
+      "heat": 70,
       "newsIds": [
-        "fb10319729ed722e99498538507076c1194a7a80"
+        "e09973554640beaf8bf1eb07988cead1a2af4076"
       ]
     }
   ]
