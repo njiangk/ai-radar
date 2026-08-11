@@ -1,78 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T19:06:00.172Z",
+  "generatedAt": "2026-08-11T20:48:34.964Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI首席运营官离职创业",
-      "reason": "OpenAI高层变动引发业界关注",
-      "heat": 95,
+      "title": "Gemini用户突破10亿",
+      "reason": "谷歌史上增长最快产品，与ChatGPT并肩",
+      "heat": 100,
       "newsIds": [
-        "4b76f34b9372d46036fe75e6d8119b3054b4b90f",
-        "e476216d8f62ad0a501aac12a483f49617e2c332"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "谷歌Gemini用户突破10亿",
-      "reason": "与ChatGPT平起平坐，里程碑事件",
-      "heat": 90,
-      "newsIds": [
+        "fc18235bff71058eab9ac5f1f5bb617b3b07a654",
+        "72f52ad1b9387ca67cbba8a267cac8ee6e559423",
         "a49e2df2d4497d27b89d8a621fe314e6a70bb7d8"
       ]
     },
     {
-      "rank": 3,
-      "title": "中国警告Anthropic工具安全后门",
-      "reason": "地缘政治与技术安全敏感议题",
-      "heat": 88,
+      "rank": 2,
+      "title": "NVIDIA动员5000亿美元建设AI",
+      "reason": "巨额资本涌入AI基础设施",
+      "heat": 90,
       "newsIds": [
-        "28155b77346e32fb1fa9a888861df2d6f83e73d9"
+        "ff1fbd33671851239bc5e4b23693bd7eaa7b6e98"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI发现Zoom远程接管漏洞",
+      "reason": "AI安全攻防新突破",
+      "heat": 85,
+      "newsIds": [
+        "8618f5cf63542c478f7ad9df84159a7ac198d3be"
       ]
     },
     {
       "rank": 4,
-      "title": "xAI联创River AI获11亿美元融资",
-      "reason": "巨额融资彰显AI代理赛道火热",
-      "heat": 85,
+      "title": "ChatGPT桌面应用登陆Linux",
+      "reason": "Linux用户迎来官方AI助手",
+      "heat": 80,
       "newsIds": [
-        "f66a8ff91a416f880891c61de334efa5be968c69"
+        "2f7f031cc5150ee5b86e61751d35e56f4ea09a0d"
       ]
     },
     {
       "rank": 5,
-      "title": "英伟达推万亿参数Nemotron 4",
-      "reason": "挑战开源模型，AI竞争白热化",
-      "heat": 82,
+      "title": "OpenWALDO开放AI训练数据",
+      "reason": "开源社区推动AI数据透明",
+      "heat": 75,
       "newsIds": [
-        "a6f416d31614142044f9738086e3b5f449282b86"
+        "5dcbd0a80ae34d45a48fa237f4126fc026bb44e2"
       ]
     },
     {
       "rank": 6,
-      "title": "Google 2026 Pixel新品集中发布",
-      "reason": "硬件更新引燃用户期待",
-      "heat": 80,
+      "title": "MCP交互大幅降低LLM调用",
+      "reason": "提升AI效率，降低成本",
+      "heat": 70,
       "newsIds": [
-        "816ed2f1a2f28b410a1b3e884ac1e6c9f55dd96d"
+        "2c1e89676f9eca8a1bd30bdf352216e7ab9a9538"
       ]
     },
     {
       "rank": 7,
-      "title": "谷歌医疗AI AMIE实现临床视频咨询",
-      "reason": "AI落地医疗，创新突破",
-      "heat": 78,
+      "title": "AI智能体入侵健身房系统",
+      "reason": "AI自主行为引发安全担忧",
+      "heat": 65,
       "newsIds": [
-        "9514940f045b6decb4ea4221d63af5d2fb2d6a38"
+        "6327b294681ce73a207ef8bce8c269fbb9850a3c"
       ]
     },
     {
       "rank": 8,
-      "title": "Spotify将为AI艺术家标注标签",
-      "reason": "音乐平台AI内容透明度新规",
-      "heat": 75,
+      "title": "个人AI政策目录发布",
+      "reason": "AI伦理政策工具受关注",
+      "heat": 60,
       "newsIds": [
-        "16e2ba45fe8695c1fd0aa0b85a33f62e7228fc96"
+        "7c3aa7fc015fc740f95179c10f463fce99975c99"
       ]
     }
   ]
