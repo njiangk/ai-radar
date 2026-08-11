@@ -1,21 +1,23 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T07:12:57.139Z",
+  "generatedAt": "2026-08-11T09:01:26.556Z",
   "items": [
     {
       "rank": 1,
-      "title": "英伟达获5000亿美元投资开发AI基础设施",
-      "reason": "巨额投资彰显AI基建热潮",
-      "heat": 95,
+      "title": "AI水印与内容识别成焦点",
+      "reason": "大厂承诺水印，工具可识破AI内容",
+      "heat": 92,
       "newsIds": [
-        "8523266ae83bd4020d957de709e8dd58dc130d06"
+        "7560505f4f2b8a5eccadf90ce9bda8236ee2a6a3",
+        "0d6127b8a739290158cf3b7e6372e8f38271e753",
+        "7b1a136099b58260c624d86d8478904b7f06c7a3"
       ]
     },
     {
       "rank": 2,
-      "title": "OpenAI完成70亿美元股票出售并推出网络安全模型",
-      "reason": "OpenAI融资扩张并强化安全",
-      "heat": 90,
+      "title": "OpenAI融资与安全模型双动态",
+      "reason": "70亿美元收购要约及新网络模型",
+      "heat": 88,
       "newsIds": [
         "5f44fe3808ae9cd6e9dd53827114a2b40f7372a6",
         "166724c6c84d539510535951dec05f886257c1ac"
@@ -23,62 +25,57 @@
     },
     {
       "rank": 3,
-      "title": "AI垃圾内容治理与加水印成为平台政策焦点",
-      "reason": "AI内容治理成全球焦点",
-      "heat": 88,
+      "title": "英伟达获5000亿美元AI基建投资",
+      "reason": "巨额投资凸显AI基建热度",
+      "heat": 85,
       "newsIds": [
-        "16296601fd6657c886a0219cecb63291077609ec",
-        "0d6127b8a739290158cf3b7e6372e8f38271e753",
-        "1adf0b077b9efca525915b2e124dde23ba567453"
+        "8523266ae83bd4020d957de709e8dd58dc130d06"
       ]
     },
     {
       "rank": 4,
-      "title": "Meta发布新开放模型Muse Glimmer",
-      "reason": "Meta以开放模型追赶OpenAI",
-      "heat": 85,
+      "title": "扎克伯格游艇漠视遇险船只",
+      "reason": "富豪行为引公众谴责",
+      "heat": 80,
       "newsIds": [
-        "8aaf1cb28862e975c88d2dc652833f639ab3be89",
-        "bf8f46f283f9f53aab10bab301456c70c6aed3eb"
+        "8e6fe3663c3c25c9a728978c66ac8defbe93069d"
       ]
     },
     {
       "rank": 5,
-      "title": "AI对就业市场冲击引发广泛担忧",
-      "reason": "AI替代担忧席卷就业市场",
-      "heat": 82,
+      "title": "AI模型攻防：逆向与窃取",
+      "reason": "安全漏洞引发业界担忧",
+      "heat": 76,
       "newsIds": [
-        "277952a52a9cf1713139128fe3e1599bd606483c",
-        "d58513e728116bf140ebf3ce8b83c72c7c8a432b"
+        "ab4d91cd563ad11cd1c68d09139eedd94fa6a994",
+        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
       ]
     },
     {
       "rank": 6,
-      "title": "扎克伯格因游艇事件与AI言论惹争议",
-      "reason": "科技领袖言行引舆论风波",
-      "heat": 80,
+      "title": "美国雇游戏玩家解决空管危机",
+      "reason": "创新应对空管员短缺",
+      "heat": 74,
       "newsIds": [
-        "8e6fe3663c3c25c9a728978c66ac8defbe93069d",
-        "b46b0a64019ccba859d704485e0a7ce670fa42cf",
-        "638db6f13c0db00bb6f161c5c90fa4a9162ecd30"
+        "7e7acb2b141c5b697661d688f3f107ad5b600d28"
       ]
     },
     {
       "rank": 7,
-      "title": "DeepSeek逆向工程揭示AI助手内部机制",
-      "reason": "揭秘大模型内部机制引关注",
-      "heat": 75,
+      "title": "AI劣质内容倒逼平台改策",
+      "reason": "内容生态遭冲击，平台出手",
+      "heat": 70,
       "newsIds": [
-        "ab4d91cd563ad11cd1c68d09139eedd94fa6a994"
+        "16296601fd6657c886a0219cecb63291077609ec"
       ]
     },
     {
       "rank": 8,
-      "title": "谷歌AI团队自曝HR筛选器不可靠",
-      "reason": "AI招聘工具可靠性遭质疑",
-      "heat": 70,
+      "title": "AI冲击印度IT就业",
+      "reason": "外包业面临转型压力",
+      "heat": 68,
       "newsIds": [
-        "8de30731e52c0d7e5768656322da43a83fdf012c"
+        "277952a52a9cf1713139128fe3e1599bd606483c"
       ]
     }
   ]

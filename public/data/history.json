@@ -504011,8 +504011,8 @@
           "id": "openrouter/deepseek/deepseek-v4-pro",
           "benchmarkScore": null,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6414,
-          "priceOutPer1M": 1.2829
+          "priceInPer1M": 0.6317,
+          "priceOutPer1M": 1.2634
         },
         {
           "id": "huggingface/deepseek-ai/DeepSeek-V4-Pro",
@@ -507287,8 +507287,8 @@
           "id": "z-ai/glm-4.6",
           "benchmarkScore": 29.3,
           "livebenchAvg": null,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 2
+          "priceInPer1M": 0.55,
+          "priceOutPer1M": 2.2
         },
         {
           "id": "anthropic/claude-opus-4.8-fast",
@@ -541111,8 +541111,8 @@
           "id": "openrouter/z-ai/glm-4.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 2
+          "priceInPer1M": 0.55,
+          "priceOutPer1M": 2.2
         },
         {
           "id": "openrouter/z-ai/glm-4.5",
