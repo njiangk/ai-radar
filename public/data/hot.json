@@ -1,86 +1,84 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T22:40:45.875Z",
+  "generatedAt": "2026-08-11T01:55:14.652Z",
   "items": [
     {
       "rank": 1,
-      "title": "英伟达AI算力成投资新宠",
-      "reason": "5000亿美元融资，AI算力变资产",
+      "title": "Meta发布开源模型Muse Glimmer",
+      "reason": "Meta开源30B模型，性能强劲，刷屏AI圈",
       "heat": 95,
       "newsIds": [
-        "6ce21c2ab7aeee24acb4022998bc89c474775a31",
-        "196af090d1a8dea716d36ab3d92168804dc4f160",
-        "bf575eb0a207c4eaa15b4e1e2c50b8aa779b4e91"
+        "8aaf1cb28862e975c88d2dc652833f639ab3be89",
+        "737a9367f53d4f51863243a58dd1af231a1044e9",
+        "520de6ceba883032f1e3cc52f809598958341cfc",
+        "bf8f46f283f9f53aab10bab301456c70c6aed3eb"
       ]
     },
     {
       "rank": 2,
-      "title": "Meta开源Muse Glimmer",
-      "reason": "Meta押注开源，挑战闭源巨头",
-      "heat": 85,
+      "title": "英伟达AI基础设施获5000亿美元融资",
+      "reason": "华尔街巨头联手，AI芯片成投资新宠",
+      "heat": 90,
       "newsIds": [
-        "bf8f46f283f9f53aab10bab301456c70c6aed3eb",
-        "737a9367f53d4f51863243a58dd1af231a1044e9",
-        "520de6ceba883032f1e3cc52f809598958341cfc",
-        "68b826b184ff086b980c33e6cbf917b19e2e71fb",
-        "19c9a264700aeb9875824ee6cd5cc4a5ba9ba6f6"
+        "bf575eb0a207c4eaa15b4e1e2c50b8aa779b4e91",
+        "6ce21c2ab7aeee24acb4022998bc89c474775a31",
+        "196af090d1a8dea716d36ab3d92168804dc4f160"
       ]
     },
     {
       "rank": 3,
-      "title": "桑德斯呼吁暂停AI开发",
-      "reason": "政要呼吁暂停，安全争议升温",
-      "heat": 75,
+      "title": "OpenAI完成70亿美元员工股票出售",
+      "reason": "巨额套现震动市场，AI巨头估值受瞩目",
+      "heat": 85,
       "newsIds": [
-        "c98d227c615cd9041a2c590ad5fe0724ab8871a0",
-        "5054cd2f8fead42b33b6a537de087c306a0cfb96"
+        "5f44fe3808ae9cd6e9dd53827114a2b40f7372a6"
       ]
     },
     {
       "rank": 4,
-      "title": "马斯克超级工厂将成世界最大建筑",
-      "reason": "全球最大建筑，马斯克再扩AI版图",
-      "heat": 72,
+      "title": "桑德斯呼吁暂停AI开发",
+      "reason": "政界高层发声，AI安全争议再起",
+      "heat": 80,
       "newsIds": [
-        "8a020493503e28eb46abf9fd4e0f6eef035bf44b"
+        "c98d227c615cd9041a2c590ad5fe0724ab8871a0"
       ]
     },
     {
       "rank": 5,
-      "title": "Archer收购波音无人机业务",
-      "reason": "航空巨头整合，AI飞行加速",
-      "heat": 70,
+      "title": "扎克伯格AI宣言招致反感",
+      "reason": "用户不满AI强推，Meta公关陷危机",
+      "heat": 78,
       "newsIds": [
-        "db3d4b7e508dcc40f830162d4ad9662f6d591043"
+        "19c9a264700aeb9875824ee6cd5cc4a5ba9ba6f6",
+        "a9ce26a68a5ada8fab38bb2e09b56c6a2f6d2d19",
+        "638db6f13c0db00bb6f161c5c90fa4a9162ecd30"
       ]
     },
     {
       "rank": 6,
-      "title": "Claude代理入侵健身房引热议",
-      "reason": "AI代理自主行动，安全引担忧",
-      "heat": 68,
+      "title": "谷歌AI团队HR筛选被曝不可靠",
+      "reason": "大厂内部系统翻车，AI招聘可信度遭质疑",
+      "heat": 75,
       "newsIds": [
-        "be74b2447caf2b946fbefd070fa51633aaaa18dc"
+        "8de30731e52c0d7e5768656322da43a83fdf012c"
       ]
     },
     {
       "rank": 7,
-      "title": "亚马逊数据中心被指加剧污染",
-      "reason": "环保质疑，AI扩张副作用凸显",
-      "heat": 65,
+      "title": "AI就业冲击预测引关注",
+      "reason": "AI取代人力担忧升温，深层影响待评估",
+      "heat": 72,
       "newsIds": [
-        "bc6209d116ec8b241b071a0b306fdb7286e497a0"
+        "d58513e728116bf140ebf3ce8b83c72c7c8a432b"
       ]
     },
     {
       "rank": 8,
-      "title": "企业AI代理落地困境",
-      "reason": "演示易成功，企业落地难",
-      "heat": 60,
+      "title": "研究：文本AI水印易被移除",
+      "reason": "AI内容检测失效风险，版权保护遇挑战",
+      "heat": 68,
       "newsIds": [
-        "0db6c036a5a4818b7d88393ef3a516516316bfb2",
-        "d28a4f9cdaeb65a97acf2b796d57b98e0726ab57",
-        "e74d04d868af97374a76f7da9016f57b20f80489"
+        "7b1a136099b58260c624d86d8478904b7f06c7a3"
       ]
     }
   ]
