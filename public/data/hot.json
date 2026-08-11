@@ -1,80 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T15:02:14.895Z",
+  "generatedAt": "2026-08-11T19:06:00.172Z",
   "items": [
     {
       "rank": 1,
-      "title": "从专有LLM API窃取推理轨迹",
-      "reason": "LLM安全漏洞引热议",
+      "title": "OpenAI首席运营官离职创业",
+      "reason": "OpenAI高层变动引发业界关注",
       "heat": 95,
       "newsIds": [
-        "3f5ddb8bbf5319e5476d83485b967bc08213244f",
-        "c6317827a8855c772521a236121e2ab931c51c2f",
-        "5bec56c397652e35ac088b7fd3735e375d45b8f1"
+        "4b76f34b9372d46036fe75e6d8119b3054b4b90f",
+        "e476216d8f62ad0a501aac12a483f49617e2c332"
       ]
     },
     {
       "rank": 2,
-      "title": "新奥尔良用AI分类911电话",
-      "reason": "AI应用于应急服务引争议",
+      "title": "谷歌Gemini用户突破10亿",
+      "reason": "与ChatGPT平起平坐，里程碑事件",
       "heat": 90,
       "newsIds": [
-        "ede97b03d4188f495e3b9ef1e1e0efb9bdd6788d",
-        "0f0796bacd6dd05fe437b975af44396ef1609bff"
+        "a49e2df2d4497d27b89d8a621fe314e6a70bb7d8"
       ]
     },
     {
       "rank": 3,
-      "title": "Apple Silicon虚拟机大幅加速LLM推理",
-      "reason": "Mac本地运行LLM性能突破",
+      "title": "中国警告Anthropic工具安全后门",
+      "reason": "地缘政治与技术安全敏感议题",
       "heat": 88,
       "newsIds": [
-        "800ebb0d7846f162ed94f0e42f798f535455d2c3"
+        "28155b77346e32fb1fa9a888861df2d6f83e73d9"
       ]
     },
     {
       "rank": 4,
-      "title": "OpenAI伦理负责人离职",
-      "reason": "AI伦理团队动荡受关注",
+      "title": "xAI联创River AI获11亿美元融资",
+      "reason": "巨额融资彰显AI代理赛道火热",
       "heat": 85,
       "newsIds": [
-        "8df15853bfd42a5ad6bf0769c83aa210ac7ccf49"
+        "f66a8ff91a416f880891c61de334efa5be968c69"
       ]
     },
     {
       "rank": 5,
-      "title": "波音飞行出租车业务并入Archer",
-      "reason": "飞行汽车行业整合加速",
+      "title": "英伟达推万亿参数Nemotron 4",
+      "reason": "挑战开源模型，AI竞争白热化",
       "heat": 82,
       "newsIds": [
-        "4cd85145b31791ffaccf9bd258df1747aa15ce60"
+        "a6f416d31614142044f9738086e3b5f449282b86"
       ]
     },
     {
       "rank": 6,
-      "title": "AI助手两天建立政府",
-      "reason": "AI自主能力引热议",
+      "title": "Google 2026 Pixel新品集中发布",
+      "reason": "硬件更新引燃用户期待",
       "heat": 80,
       "newsIds": [
-        "3091aa6a4eb95560b530ba67fff3138db16340c1"
+        "816ed2f1a2f28b410a1b3e884ac1e6c9f55dd96d"
       ]
     },
     {
       "rank": 7,
-      "title": "专家警告法庭勿用AI声音克隆",
-      "reason": "AI伪造声音法律风险引担忧",
+      "title": "谷歌医疗AI AMIE实现临床视频咨询",
+      "reason": "AI落地医疗，创新突破",
       "heat": 78,
       "newsIds": [
-        "3300ab16adf4b19332a46081ce9898005215fba9"
+        "9514940f045b6decb4ea4221d63af5d2fb2d6a38"
       ]
     },
     {
       "rank": 8,
-      "title": "想让人用便宜AI？让贵模型变慢",
-      "reason": "AI定价策略引发讨论",
+      "title": "Spotify将为AI艺术家标注标签",
+      "reason": "音乐平台AI内容透明度新规",
       "heat": 75,
       "newsIds": [
-        "495a7f5037dea3ff4ea5b294e45f86598b1d4600"
+        "16e2ba45fe8695c1fd0aa0b85a33f62e7228fc96"
       ]
     }
   ]

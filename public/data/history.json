@@ -561570,8 +561570,8 @@
           "id": "ambient/moonshotai/kimi-k2.7-code",
           "benchmarkScore": null,
           "livebenchAvg": 68.76,
-          "priceInPer1M": 0.7,
-          "priceOutPer1M": 3.5
+          "priceInPer1M": 0.69,
+          "priceOutPer1M": 3.49
         },
         {
           "id": "cline-pass/cline-pass/kimi-k2.7-code",
@@ -581888,6 +581888,13 @@
           "priceOutPer1M": 0.6
         },
         {
+          "id": "empiriolabs/seed-2-0-code",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.4,
+          "priceOutPer1M": 2.4
+        },
+        {
           "id": "empiriolabs/glm-4-5-flash",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -589819,6 +589826,13 @@
           "priceOutPer1M": 0
         },
         {
+          "id": "kilo/nvidia/nemotron-3.5-lightning",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.05,
+          "priceOutPer1M": 0.2
+        },
+        {
           "id": "kilo/nvidia/nemotron-3.5-content-safety:free",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -590081,8 +590095,8 @@
           "id": "kilo/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.0798,
-          "priceOutPer1M": 0.1596
+          "priceInPer1M": 0.072,
+          "priceOutPer1M": 0.144
         },
         {
           "id": "kilo/perceptron/perceptron-mk1",
@@ -590508,8 +590522,8 @@
           "id": "kilo/tencent/hy3",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.14,
-          "priceOutPer1M": 0.58
+          "priceInPer1M": 0.132,
+          "priceOutPer1M": 0.528
         },
         {
           "id": "kilo/tencent/hy3-preview",
@@ -592024,6 +592038,13 @@
           "priceOutPer1M": 2
         },
         {
+          "id": "kilo/bytedance-seed/seed-2.0-code",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3
+        },
+        {
           "id": "kilo/kilo-auto/balanced",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -593336,15 +593357,15 @@
           "id": "hyper/kimi-k2.5",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.558,
-          "priceOutPer1M": 2.94
+          "priceInPer1M": 0.511,
+          "priceOutPer1M": 2.725
         },
         {
           "id": "hyper/minimax-m2.7",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.48,
-          "priceOutPer1M": 1.8
+          "priceInPer1M": 0.47,
+          "priceOutPer1M": 1.76
         },
         {
           "id": "hyper/qwen3.6-max",
@@ -593371,8 +593392,8 @@
           "id": "hyper/gemma-4-26b-a4b-it",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.116,
-          "priceOutPer1M": 0.408
+          "priceInPer1M": 0.118,
+          "priceOutPer1M": 0.428
         },
         {
           "id": "hyper/llama-3.3-70b-instruct",
@@ -596560,6 +596581,13 @@
           "priceOutPer1M": 0
         },
         {
+          "id": "openrouter/nvidia/nemotron-3.5-lightning",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.1,
+          "priceOutPer1M": 0.25
+        },
+        {
           "id": "openrouter/nvidia/nemotron-3.5-content-safety:free",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -596843,8 +596871,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.0798,
-          "priceOutPer1M": 0.1596
+          "priceInPer1M": 0.072,
+          "priceOutPer1M": 0.144
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",
@@ -598730,6 +598758,13 @@
           "priceOutPer1M": 2
         },
         {
+          "id": "openrouter/bytedance-seed/seed-2.0-code",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3
+        },
+        {
           "id": "openrouter/stepfun/step-3.5-flash",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -599792,6 +599827,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.15,
           "priceOutPer1M": 1.15
+        },
+        {
+          "id": "deepinfra/ByteDance/Seed-2.0-code",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3
         },
         {
           "id": "deepinfra/deepseek-ai/DeepSeek-V3",
