@@ -508677,6 +508677,13 @@
           "priceOutPer1M": 300
         },
         {
+          "id": "sakana/sakana-namazu",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.95,
+          "priceOutPer1M": 4
+        },
+        {
           "id": "upstage/solar-pro4",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -508687,8 +508694,8 @@
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.0798,
-          "priceOutPer1M": 0.1596
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.252
         },
         {
           "id": "openrouter/auto-beta",
@@ -539825,6 +539832,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 5,
           "priceOutPer1M": 30
+        },
+        {
+          "id": "openrouter/sakana/namazu",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.95,
+          "priceOutPer1M": 4
         },
         {
           "id": "openrouter/~google/gemini-flash-latest",
