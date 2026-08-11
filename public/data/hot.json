@@ -1,81 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T09:01:26.556Z",
+  "generatedAt": "2026-08-11T10:53:55.137Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI水印与内容识别成焦点",
-      "reason": "大厂承诺水印，工具可识破AI内容",
-      "heat": 92,
+      "title": "英伟达5000亿美元AI基建计划",
+      "reason": "巨额投资引爆AI产业未来",
+      "heat": 98,
       "newsIds": [
-        "7560505f4f2b8a5eccadf90ce9bda8236ee2a6a3",
-        "0d6127b8a739290158cf3b7e6372e8f38271e753",
-        "7b1a136099b58260c624d86d8478904b7f06c7a3"
+        "282f4c874a78b8f1659d6166e72a8774154fd0e7"
       ]
     },
     {
       "rank": 2,
-      "title": "OpenAI融资与安全模型双动态",
-      "reason": "70亿美元收购要约及新网络模型",
+      "title": "AI文本水印与鉴别技术",
+      "reason": "多篇报道聚焦AI内容溯源",
       "heat": 88,
       "newsIds": [
-        "5f44fe3808ae9cd6e9dd53827114a2b40f7372a6",
-        "166724c6c84d539510535951dec05f886257c1ac"
+        "cbc4f3a3af831e2d1e5e92ab7f09fce9f227e342",
+        "7b1a136099b58260c624d86d8478904b7f06c7a3",
+        "7560505f4f2b8a5eccadf90ce9bda8236ee2a6a3"
       ]
     },
     {
       "rank": 3,
-      "title": "英伟达获5000亿美元AI基建投资",
-      "reason": "巨额投资凸显AI基建热度",
+      "title": "AI供应链安全漏洞",
+      "reason": "2500家公司受影响隐患巨大",
       "heat": 85,
       "newsIds": [
-        "8523266ae83bd4020d957de709e8dd58dc130d06"
+        "1b59843eb13f453b69770fcab4bcf01e7f4e3e57"
       ]
     },
     {
       "rank": 4,
-      "title": "扎克伯格游艇漠视遇险船只",
-      "reason": "富豪行为引公众谴责",
-      "heat": 80,
+      "title": "大模型常识推理短板",
+      "reason": "洗车场问题暴露AI逻辑缺陷",
+      "heat": 78,
       "newsIds": [
-        "8e6fe3663c3c25c9a728978c66ac8defbe93069d"
+        "fcc71ffd3ba90778f850befb6ef8c431b5ae9b47"
       ]
     },
     {
       "rank": 5,
-      "title": "AI模型攻防：逆向与窃取",
-      "reason": "安全漏洞引发业界担忧",
-      "heat": 76,
+      "title": "AI揭示精神分裂症遗传机制",
+      "reason": "前沿研究开辟医疗新途径",
+      "heat": 75,
       "newsIds": [
-        "ab4d91cd563ad11cd1c68d09139eedd94fa6a994",
-        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
+        "17e8c9bab99e16e6822491c93ec756f44c7d1643"
       ]
     },
     {
       "rank": 6,
-      "title": "美国雇游戏玩家解决空管危机",
-      "reason": "创新应对空管员短缺",
-      "heat": 74,
-      "newsIds": [
-        "7e7acb2b141c5b697661d688f3f107ad5b600d28"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI劣质内容倒逼平台改策",
-      "reason": "内容生态遭冲击，平台出手",
-      "heat": 70,
+      "title": "AI垃圾信息倒逼平台变革",
+      "reason": "内容泛滥引发政策调整",
+      "heat": 68,
       "newsIds": [
         "16296601fd6657c886a0219cecb63291077609ec"
       ]
     },
     {
-      "rank": 8,
-      "title": "AI冲击印度IT就业",
-      "reason": "外包业面临转型压力",
-      "heat": 68,
+      "rank": 7,
+      "title": "法国律师用开源AI处理机密数据",
+      "reason": "数据主权与隐私保护新规",
+      "heat": 65,
       "newsIds": [
-        "277952a52a9cf1713139128fe3e1599bd606483c"
+        "ee1167d5614a246295a9ea22a5af42ad2aff9ad3"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "类器官有望超越AI？",
+      "reason": "生物智能引发未来新思考",
+      "heat": 60,
+      "newsIds": [
+        "622ddde25e86c4f8797daddb4172a38e47172250"
       ]
     }
   ]
