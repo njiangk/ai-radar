@@ -503689,8 +503689,8 @@
           "id": "deepseek/deepseek-v4-pro",
           "benchmarkScore": 45.3,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6864,
-          "priceOutPer1M": 1.3728
+          "priceInPer1M": 0.6317,
+          "priceOutPer1M": 1.2634
         },
         {
           "id": "anyapi/deepseek/deepseek-v4-pro",
@@ -504011,8 +504011,8 @@
           "id": "openrouter/deepseek/deepseek-v4-pro",
           "benchmarkScore": null,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6864,
-          "priceOutPer1M": 1.3728
+          "priceInPer1M": 0.6414,
+          "priceOutPer1M": 1.2829
         },
         {
           "id": "huggingface/deepseek-ai/DeepSeek-V4-Pro",
