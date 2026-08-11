@@ -503129,8 +503129,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.76,
-          "priceOutPer1M": 2.42
+          "priceInPer1M": 0.4886,
+          "priceOutPer1M": 1.5356
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -503598,8 +503598,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.76,
-          "priceOutPer1M": 2.42
+          "priceInPer1M": 0.49,
+          "priceOutPer1M": 1.54
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -506608,8 +506608,8 @@
           "id": "moonshotai/kimi-k2.6",
           "benchmarkScore": 45.1,
           "livebenchAvg": null,
-          "priceInPer1M": 0.95,
-          "priceOutPer1M": 4
+          "priceInPer1M": 0.5795,
+          "priceOutPer1M": 2.44
         },
         {
           "id": "poolside/laguna-xs-2.1",
@@ -506825,8 +506825,8 @@
           "id": "z-ai/glm-5.1",
           "benchmarkScore": 41,
           "livebenchAvg": null,
-          "priceInPer1M": 1.4,
-          "priceOutPer1M": 4.4
+          "priceInPer1M": 0.952,
+          "priceOutPer1M": 2.992
         },
         {
           "id": "z-ai/glm-4.7",
@@ -507287,8 +507287,8 @@
           "id": "z-ai/glm-4.6",
           "benchmarkScore": 29.3,
           "livebenchAvg": null,
-          "priceInPer1M": 0.55,
-          "priceOutPer1M": 2.2
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 2
         },
         {
           "id": "anthropic/claude-opus-4.8-fast",
@@ -508701,8 +508701,8 @@
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.252
+          "priceInPer1M": 0.0798,
+          "priceOutPer1M": 0.1596
         },
         {
           "id": "openrouter/auto-beta",
@@ -518958,6 +518958,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.95,
           "priceOutPer1M": 4
+        },
+        {
+          "id": "opencode/nemotron-3.5-lighting-free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
         },
         {
           "id": "opencode/glm-5-free",
@@ -539589,6 +539596,13 @@
           "priceOutPer1M": 3.6
         },
         {
+          "id": "openrouter/nvidia/nemotron-3.5-lightning:free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
+        },
+        {
           "id": "openrouter/nvidia/nemotron-nano-12b-v2-vl:free",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -539851,8 +539865,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.252
+          "priceInPer1M": 0.0798,
+          "priceOutPer1M": 0.1596
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",
@@ -541104,8 +541118,8 @@
           "id": "openrouter/z-ai/glm-5.1",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.4,
-          "priceOutPer1M": 4.4
+          "priceInPer1M": 0.952,
+          "priceOutPer1M": 2.992
         },
         {
           "id": "openrouter/z-ai/glm-4.7-flash",
@@ -541118,8 +541132,8 @@
           "id": "openrouter/z-ai/glm-4.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.55,
-          "priceOutPer1M": 2.2
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 2
         },
         {
           "id": "openrouter/z-ai/glm-4.5",
@@ -541202,8 +541216,8 @@
           "id": "openrouter/moonshotai/kimi-k2.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.95,
-          "priceOutPer1M": 4
+          "priceInPer1M": 0.5795,
+          "priceOutPer1M": 2.44
         },
         {
           "id": "openrouter/moonshotai/kimi-k2",

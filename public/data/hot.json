@@ -1,80 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T13:12:57.881Z",
+  "generatedAt": "2026-08-11T15:02:14.895Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI 生成内容水印",
-      "reason": "Anthropic 为 AI 内容加隐形水印，防滥用",
-      "heat": 90,
+      "title": "从专有LLM API窃取推理轨迹",
+      "reason": "LLM安全漏洞引热议",
+      "heat": 95,
       "newsIds": [
-        "fe459dc13f2f666487760df4d5ed2c05b45f2df0",
-        "53c498c7722b4c145b32a0d38fc49c8c326eb58a"
+        "3f5ddb8bbf5319e5476d83485b967bc08213244f",
+        "c6317827a8855c772521a236121e2ab931c51c2f",
+        "5bec56c397652e35ac088b7fd3735e375d45b8f1"
       ]
     },
     {
       "rank": 2,
-      "title": "AI 重塑战争形态",
-      "reason": "AI 无人机与军事决策引发关注",
-      "heat": 88,
+      "title": "新奥尔良用AI分类911电话",
+      "reason": "AI应用于应急服务引争议",
+      "heat": 90,
       "newsIds": [
-        "f2123c554f037842416e1cfef5bfca413c2ade20",
-        "238eaae00273dd352b5fe8f85e521185b142f0b9"
+        "ede97b03d4188f495e3b9ef1e1e0efb9bdd6788d",
+        "0f0796bacd6dd05fe437b975af44396ef1609bff"
       ]
     },
     {
       "rank": 3,
-      "title": "Zoom 漏洞可被 AI 发现",
-      "reason": "AI 工具快速发现 Zoom 高危漏洞",
-      "heat": 85,
+      "title": "Apple Silicon虚拟机大幅加速LLM推理",
+      "reason": "Mac本地运行LLM性能突破",
+      "heat": 88,
       "newsIds": [
-        "dbc45d2be0f86071cb15dd6980dcaf7ad4abbc8f"
+        "800ebb0d7846f162ed94f0e42f798f535455d2c3"
       ]
     },
     {
       "rank": 4,
-      "title": "AI 代理抢课引争议",
-      "reason": "AI 代理黑进系统抢课，伦理堪忧",
-      "heat": 82,
+      "title": "OpenAI伦理负责人离职",
+      "reason": "AI伦理团队动荡受关注",
+      "heat": 85,
       "newsIds": [
-        "c732788f62fdb50fbc08baff707367aa0ccb0b93"
+        "8df15853bfd42a5ad6bf0769c83aa210ac7ccf49"
       ]
     },
     {
       "rank": 5,
-      "title": "NVIDIA 发力代理式 AI",
-      "reason": "发布高效模型并推动开源生态",
-      "heat": 80,
+      "title": "波音飞行出租车业务并入Archer",
+      "reason": "飞行汽车行业整合加速",
+      "heat": 82,
       "newsIds": [
-        "5389972db87633263376fc03e0a8f87ac2056f00",
-        "d9fbf12b504c365fc9993117dfc9c8ce6b777a4d"
+        "4cd85145b31791ffaccf9bd258df1747aa15ce60"
       ]
     },
     {
       "rank": 6,
-      "title": "AI 模型内心被揭示",
-      "reason": "新方法提取推理轨迹，暴露训练秘密",
-      "heat": 78,
+      "title": "AI助手两天建立政府",
+      "reason": "AI自主能力引热议",
+      "heat": 80,
       "newsIds": [
-        "6e85ae4b08247bf069d044d70f7bb95e9e71ebe7"
+        "3091aa6a4eb95560b530ba67fff3138db16340c1"
       ]
     },
     {
       "rank": 7,
-      "title": "谷歌加速 Gemini 研发",
-      "reason": "组建新团队强化 AI 竞争",
-      "heat": 75,
+      "title": "专家警告法庭勿用AI声音克隆",
+      "reason": "AI伪造声音法律风险引担忧",
+      "heat": 78,
       "newsIds": [
-        "a11294dc8acb1f5bfbf4ccbd74341c333235c85c"
+        "3300ab16adf4b19332a46081ce9898005215fba9"
       ]
     },
     {
       "rank": 8,
-      "title": "北京强制 AI 恋人分手",
-      "reason": "官方规范 AI 情感陪伴服务",
-      "heat": 70,
+      "title": "想让人用便宜AI？让贵模型变慢",
+      "reason": "AI定价策略引发讨论",
+      "heat": 75,
       "newsIds": [
-        "1790fb918235d13b52ae21fa4650d155d177c2f9"
+        "495a7f5037dea3ff4ea5b294e45f86598b1d4600"
       ]
     }
   ]
