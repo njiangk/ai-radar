@@ -503689,8 +503689,8 @@
           "id": "deepseek/deepseek-v4-pro",
           "benchmarkScore": 45.3,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6443,
-          "priceOutPer1M": 1.2886
+          "priceInPer1M": 0.6864,
+          "priceOutPer1M": 1.3728
         },
         {
           "id": "anyapi/deepseek/deepseek-v4-pro",
@@ -504011,8 +504011,8 @@
           "id": "openrouter/deepseek/deepseek-v4-pro",
           "benchmarkScore": null,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6443,
-          "priceOutPer1M": 1.2886
+          "priceInPer1M": 0.6864,
+          "priceOutPer1M": 1.3728
         },
         {
           "id": "huggingface/deepseek-ai/DeepSeek-V4-Pro",
@@ -533103,8 +533103,8 @@
           "id": "kilo/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.0798,
-          "priceOutPer1M": 0.1596
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.252
         },
         {
           "id": "kilo/perceptron/perceptron-mk1",
@@ -533119,6 +533119,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 5,
           "priceOutPer1M": 30
+        },
+        {
+          "id": "kilo/sakana/sakana-namazu",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.95,
+          "priceOutPer1M": 4
         },
         {
           "id": "kilo/~google/gemini-flash-latest",
@@ -533548,6 +533555,13 @@
           "priceOutPer1M": 0.6
         },
         {
+          "id": "kilo/upstage/solar-pro4",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.3,
+          "priceOutPer1M": 1.2
+        },
+        {
           "id": "kilo/~x-ai/grok-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -533735,6 +533749,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.45,
           "priceOutPer1M": 0.65
+        },
+        {
+          "id": "kilo/meta/muse-glimmer-30b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.35,
+          "priceOutPer1M": 1.5
         },
         {
           "id": "kilo/meta/muse-spark-1.1",
@@ -536992,6 +537013,13 @@
           "priceOutPer1M": 2
         },
         {
+          "id": "vercel/meta/muse-glimmer-30b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.35,
+          "priceOutPer1M": 1.5
+        },
+        {
           "id": "vercel/meta/muse-spark-1.1",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -539816,8 +539844,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.0798,
-          "priceOutPer1M": 0.1596
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.252
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",
@@ -539834,7 +539862,7 @@
           "priceOutPer1M": 30
         },
         {
-          "id": "openrouter/sakana/namazu",
+          "id": "openrouter/sakana/sakana-namazu",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.95,
