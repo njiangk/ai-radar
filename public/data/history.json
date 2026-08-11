@@ -506410,7 +506410,7 @@
         },
         {
           "id": "deepseek/deepseek-v3.2",
-          "benchmarkScore": 32.6,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.269,
           "priceOutPer1M": 0.4
@@ -506977,7 +506977,7 @@
         },
         {
           "id": "meta-llama/llama-3.1-8b-instruct",
-          "benchmarkScore": 7.8,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.05,
           "priceOutPer1M": 0.08
@@ -507061,7 +507061,7 @@
         },
         {
           "id": "meta-llama/llama-3.3-70b-instruct",
-          "benchmarkScore": 9.3,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.1,
           "priceOutPer1M": 0.32
@@ -507145,7 +507145,7 @@
         },
         {
           "id": "deepseek/deepseek-v3.1-terminus",
-          "benchmarkScore": 30.6,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.27,
           "priceOutPer1M": 1
@@ -507523,7 +507523,7 @@
         },
         {
           "id": "inclusionai/ring-2.6-1t",
-          "benchmarkScore": 31.1,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.075,
           "priceOutPer1M": 0.625
@@ -507691,7 +507691,7 @@
         },
         {
           "id": "moonshotai/kimi-k2-thinking",
-          "benchmarkScore": 17.2,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.6,
           "priceOutPer1M": 2.5
@@ -507719,7 +507719,7 @@
         },
         {
           "id": "amazon/nova-2-lite-v1",
-          "benchmarkScore": 18.4,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.3,
           "priceOutPer1M": 2.5
@@ -507775,7 +507775,7 @@
         },
         {
           "id": "kwaipilot/kat-coder-pro-v2",
-          "benchmarkScore": 33.9,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.3,
           "priceOutPer1M": 1.2
@@ -507873,7 +507873,7 @@
         },
         {
           "id": "nex-agi/nex-n2-pro",
-          "benchmarkScore": 41.7,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.25,
           "priceOutPer1M": 1
@@ -507936,7 +507936,7 @@
         },
         {
           "id": "arcee-ai/trinity-large-thinking",
-          "benchmarkScore": 18.6,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.22,
           "priceOutPer1M": 0.85
@@ -508675,6 +508675,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 75,
           "priceOutPer1M": 300
+        },
+        {
+          "id": "nvidia/nemotron-3.5-lightning:free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
         },
         {
           "id": "sakana/sakana-namazu",
@@ -542530,7 +542537,7 @@
         },
         {
           "id": "xiaomi/mimo-v2-flash",
-          "benchmarkScore": 25,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.14,
           "priceOutPer1M": 0.28
@@ -543831,22 +543838,8 @@
           "priceOutPer1M": 0.3
         },
         {
-          "id": "qiniu-ai/deepseek/deepseek-v3.2-251201",
-          "benchmarkScore": 32.6,
-          "livebenchAvg": null,
-          "priceInPer1M": null,
-          "priceOutPer1M": null
-        },
-        {
-          "id": "qiniu-ai/deepseek/deepseek-v3.1-terminus",
-          "benchmarkScore": 30.6,
-          "livebenchAvg": null,
-          "priceInPer1M": null,
-          "priceOutPer1M": null
-        },
-        {
           "id": "qiniu-ai/xiaomi/mimo-v2-flash",
-          "benchmarkScore": 25,
+          "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.1,
           "priceOutPer1M": 0.3
@@ -552264,13 +552257,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.17,
           "priceOutPer1M": 0.66
-        },
-        {
-          "id": "meta_llama/Llama-3.3-70B-Instruct",
-          "benchmarkScore": 9.3,
-          "livebenchAvg": null,
-          "priceInPer1M": null,
-          "priceOutPer1M": null
         },
         {
           "id": "bedrock_converse/minimax.minimax-m2",

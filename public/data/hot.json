@@ -1,79 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T10:53:55.137Z",
+  "generatedAt": "2026-08-11T13:12:57.881Z",
   "items": [
     {
       "rank": 1,
-      "title": "英伟达5000亿美元AI基建计划",
-      "reason": "巨额投资引爆AI产业未来",
-      "heat": 98,
+      "title": "AI 生成内容水印",
+      "reason": "Anthropic 为 AI 内容加隐形水印，防滥用",
+      "heat": 90,
       "newsIds": [
-        "282f4c874a78b8f1659d6166e72a8774154fd0e7"
+        "fe459dc13f2f666487760df4d5ed2c05b45f2df0",
+        "53c498c7722b4c145b32a0d38fc49c8c326eb58a"
       ]
     },
     {
       "rank": 2,
-      "title": "AI文本水印与鉴别技术",
-      "reason": "多篇报道聚焦AI内容溯源",
+      "title": "AI 重塑战争形态",
+      "reason": "AI 无人机与军事决策引发关注",
       "heat": 88,
       "newsIds": [
-        "cbc4f3a3af831e2d1e5e92ab7f09fce9f227e342",
-        "7b1a136099b58260c624d86d8478904b7f06c7a3",
-        "7560505f4f2b8a5eccadf90ce9bda8236ee2a6a3"
+        "f2123c554f037842416e1cfef5bfca413c2ade20",
+        "238eaae00273dd352b5fe8f85e521185b142f0b9"
       ]
     },
     {
       "rank": 3,
-      "title": "AI供应链安全漏洞",
-      "reason": "2500家公司受影响隐患巨大",
+      "title": "Zoom 漏洞可被 AI 发现",
+      "reason": "AI 工具快速发现 Zoom 高危漏洞",
       "heat": 85,
       "newsIds": [
-        "1b59843eb13f453b69770fcab4bcf01e7f4e3e57"
+        "dbc45d2be0f86071cb15dd6980dcaf7ad4abbc8f"
       ]
     },
     {
       "rank": 4,
-      "title": "大模型常识推理短板",
-      "reason": "洗车场问题暴露AI逻辑缺陷",
-      "heat": 78,
+      "title": "AI 代理抢课引争议",
+      "reason": "AI 代理黑进系统抢课，伦理堪忧",
+      "heat": 82,
       "newsIds": [
-        "fcc71ffd3ba90778f850befb6ef8c431b5ae9b47"
+        "c732788f62fdb50fbc08baff707367aa0ccb0b93"
       ]
     },
     {
       "rank": 5,
-      "title": "AI揭示精神分裂症遗传机制",
-      "reason": "前沿研究开辟医疗新途径",
-      "heat": 75,
+      "title": "NVIDIA 发力代理式 AI",
+      "reason": "发布高效模型并推动开源生态",
+      "heat": 80,
       "newsIds": [
-        "17e8c9bab99e16e6822491c93ec756f44c7d1643"
+        "5389972db87633263376fc03e0a8f87ac2056f00",
+        "d9fbf12b504c365fc9993117dfc9c8ce6b777a4d"
       ]
     },
     {
       "rank": 6,
-      "title": "AI垃圾信息倒逼平台变革",
-      "reason": "内容泛滥引发政策调整",
-      "heat": 68,
+      "title": "AI 模型内心被揭示",
+      "reason": "新方法提取推理轨迹，暴露训练秘密",
+      "heat": 78,
       "newsIds": [
-        "16296601fd6657c886a0219cecb63291077609ec"
+        "6e85ae4b08247bf069d044d70f7bb95e9e71ebe7"
       ]
     },
     {
       "rank": 7,
-      "title": "法国律师用开源AI处理机密数据",
-      "reason": "数据主权与隐私保护新规",
-      "heat": 65,
+      "title": "谷歌加速 Gemini 研发",
+      "reason": "组建新团队强化 AI 竞争",
+      "heat": 75,
       "newsIds": [
-        "ee1167d5614a246295a9ea22a5af42ad2aff9ad3"
+        "a11294dc8acb1f5bfbf4ccbd74341c333235c85c"
       ]
     },
     {
       "rank": 8,
-      "title": "类器官有望超越AI？",
-      "reason": "生物智能引发未来新思考",
-      "heat": 60,
+      "title": "北京强制 AI 恋人分手",
+      "reason": "官方规范 AI 情感陪伴服务",
+      "heat": 70,
       "newsIds": [
-        "622ddde25e86c4f8797daddb4172a38e47172250"
+        "1790fb918235d13b52ae21fa4650d155d177c2f9"
       ]
     }
   ]
