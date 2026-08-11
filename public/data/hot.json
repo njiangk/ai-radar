@@ -1,21 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T20:48:34.964Z",
+  "generatedAt": "2026-08-11T22:45:49.887Z",
   "items": [
     {
       "rank": 1,
-      "title": "Gemini用户突破10亿",
-      "reason": "谷歌史上增长最快产品，与ChatGPT并肩",
-      "heat": 100,
+      "title": "谷歌Gemini用户破10亿",
+      "reason": "谷歌史上增长最快产品，用户达十亿",
+      "heat": 95,
       "newsIds": [
         "fc18235bff71058eab9ac5f1f5bb617b3b07a654",
-        "72f52ad1b9387ca67cbba8a267cac8ee6e559423",
         "a49e2df2d4497d27b89d8a621fe314e6a70bb7d8"
       ]
     },
     {
       "rank": 2,
-      "title": "NVIDIA动员5000亿美元建设AI",
+      "title": "NVIDIA联合投5000亿美元建AI",
       "reason": "巨额资本涌入AI基础设施",
       "heat": 90,
       "newsIds": [
@@ -24,56 +23,58 @@
     },
     {
       "rank": 3,
-      "title": "AI发现Zoom远程接管漏洞",
-      "reason": "AI安全攻防新突破",
+      "title": "AI安全风险引担忧",
+      "reason": "AI失控与杀人机器人言论引恐慌",
       "heat": 85,
       "newsIds": [
-        "8618f5cf63542c478f7ad9df84159a7ac198d3be"
+        "3504c7734d4e32778f8837a620f91a63cc69b3b5",
+        "cbcc0f0bfc24692576f10bf519f9e58aa8c5b039"
       ]
     },
     {
       "rank": 4,
-      "title": "ChatGPT桌面应用登陆Linux",
-      "reason": "Linux用户迎来官方AI助手",
+      "title": "AI解题能力再突破",
+      "reason": "数学突破与CTF挑战均展现强推理",
       "heat": 80,
+      "newsIds": [
+        "7637adda2907636e61ab96edc7ee113a0cfcc2dc",
+        "87dc62502c2448e5b96412a8f294812478787dfa"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "ChatGPT发布Linux桌面应用",
+      "reason": "OpenAI扩展生态，Linux用户终获官方应用",
+      "heat": 78,
       "newsIds": [
         "2f7f031cc5150ee5b86e61751d35e56f4ea09a0d"
       ]
     },
     {
-      "rank": 5,
-      "title": "OpenWALDO开放AI训练数据",
-      "reason": "开源社区推动AI数据透明",
-      "heat": 75,
-      "newsIds": [
-        "5dcbd0a80ae34d45a48fa237f4126fc026bb44e2"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "MCP交互大幅降低LLM调用",
-      "reason": "提升AI效率，降低成本",
-      "heat": 70,
+      "title": "AI发现Zoom远程接管漏洞",
+      "reason": "AI安全研究再显威力，漏洞挖掘自动化",
+      "heat": 76,
       "newsIds": [
-        "2c1e89676f9eca8a1bd30bdf352216e7ab9a9538"
+        "8618f5cf63542c478f7ad9df84159a7ac198d3be"
       ]
     },
     {
       "rank": 7,
-      "title": "AI智能体入侵健身房系统",
-      "reason": "AI自主行为引发安全担忧",
-      "heat": 65,
+      "title": "AI威胁就业？专家提议对资本征税",
+      "reason": "应对AI失业，税制改革成焦点",
+      "heat": 72,
       "newsIds": [
-        "6327b294681ce73a207ef8bce8c269fbb9850a3c"
+        "2dd733bb177e13827790d88029d0fa44eb86d347"
       ]
     },
     {
       "rank": 8,
-      "title": "个人AI政策目录发布",
-      "reason": "AI伦理政策工具受关注",
-      "heat": 60,
+      "title": "OpenWALDO推动AI训练数据开放",
+      "reason": "Rocky Linux创始人开源AI数据应对垄断",
+      "heat": 70,
       "newsIds": [
-        "7c3aa7fc015fc740f95179c10f463fce99975c99"
+        "5dcbd0a80ae34d45a48fa237f4126fc026bb44e2"
       ]
     }
   ]
