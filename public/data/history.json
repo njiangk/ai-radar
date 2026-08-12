@@ -560856,8 +560856,8 @@
           "id": "openrouter/deepseek/deepseek-v4-pro",
           "benchmarkScore": null,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6317,
-          "priceOutPer1M": 1.2634
+          "priceInPer1M": 1.168,
+          "priceOutPer1M": 2.336
         },
         {
           "id": "huggingface/deepseek-ai/DeepSeek-V4-Pro",
