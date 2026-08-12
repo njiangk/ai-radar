@@ -1,83 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T15:00:46.150Z",
+  "generatedAt": "2026-08-12T16:59:21.377Z",
   "items": [
     {
       "rank": 1,
-      "title": "Google制造2026发布会：Pixel 11、Pixel Watch 5及Gemini新功能",
-      "reason": "谷歌年度硬件大会，多款新品与AI深度融合",
-      "heat": 96,
+      "title": "Grok 4.6发布，智能指数61分",
+      "reason": "模型性能突破，引发广泛关注",
+      "heat": 95,
       "newsIds": [
-        "77da1d8caea4ee7fdf4bcf234bd6b8cc15d8bd1a",
-        "1b0e93cced6d2e52e58d23645fd3a63c3d7ffc57",
-        "5cd7a3fff1b297f517e33b6d4ca50b0e840f9028"
+        "32cdb4e18a7ec1e9ef2673a3359ad7870728dc48",
+        "e3ecd38cafbedbc5631103212fd42693e23db980",
+        "81d4ddcf75d38bde972737f46658c282c5dfeb9c",
+        "abadfb45f943fcd5c50b47d2f18462ba3144cbba"
       ]
     },
     {
       "rank": 2,
-      "title": "AI初创Cognition洽谈融资，估值达400亿美元",
-      "reason": "AI编程独角兽估值猛增，引发行业关注",
-      "heat": 93,
+      "title": "北京强制用户与AI恋人分手",
+      "reason": "政府干预AI情感关系引发热议",
+      "heat": 90,
       "newsIds": [
-        "67bfb877c6279af6e67bb09898ebe2e51d460596"
+        "1790fb918235d13b52ae21fa4650d155d177c2f9"
       ]
     },
     {
       "rank": 3,
-      "title": "AI编程热潮与开发者反思",
-      "reason": "开发者热议AI编程效率与迷失感，多篇热帖",
-      "heat": 85,
+      "title": "研究人员用AI创造全新病毒",
+      "reason": "生物安全风险引发担忧",
+      "heat": 88,
       "newsIds": [
-        "c4b349a8111b0c6008c3fde6abeff55f7c632250",
-        "935b663adfe886b9c358bb248fbe238c37f4d36b",
-        "72e4f68803b2bead8b67e63ca4f6596de01f450a"
+        "af550b3e5329a3b2fc9572a27bc519df6ae7b20a"
       ]
     },
     {
       "rank": 4,
-      "title": "NVIDIA CEO黄仁勋登顶Glassdoor最佳CEO",
-      "reason": "员工支持率99%，彰显卓越领导力",
-      "heat": 82,
+      "title": "AI编程公司Lovable估值133亿美元",
+      "reason": "AI编程赛道巨额融资受关注",
+      "heat": 85,
       "newsIds": [
-        "be69a27699ef3d78a53b35541b2d21ddef787474"
+        "efe0c03b99410108091e61cb568d5db8df6e9e96",
+        "b1e003665ffe2f401527ba595b97a0be69c409e5"
       ]
     },
     {
       "rank": 5,
-      "title": "AI水印来袭，大学如何应对",
-      "reason": "AI水印技术引发学术诚信讨论",
-      "heat": 80,
+      "title": "中国关联黑客对台湾发动AI攻击",
+      "reason": "地缘政治与AI安全交织",
+      "heat": 83,
       "newsIds": [
-        "e9317851d41c5e6ac92d1afe556426682bbcb61e",
-        "a89551d130a663f44bf8ba18b86028b2b1faac9b"
+        "e8c10e8333f0c18a2084df840440838fe26afef5"
       ]
     },
     {
       "rank": 6,
-      "title": "红杉资本提升AI投资风险容忍度",
-      "reason": "顶级风投加码AI，释放行业信号",
-      "heat": 78,
+      "title": "苹果在AI激增后限制漏洞赏金",
+      "reason": "安全策略调整引发讨论",
+      "heat": 75,
       "newsIds": [
-        "41e9f5f785257ba858db96e6c25c03704016d21b"
+        "3f09fa4d586a495d2b4e799d193504ced28fb8fb"
       ]
     },
     {
       "rank": 7,
-      "title": "Meta AI眼镜遭德国组织刑事投诉",
-      "reason": "隐私争议升级，引发法律风险",
-      "heat": 75,
+      "title": "YouTuber称自己AI使用不健康",
+      "reason": "名人反思AI依赖引发共鸣",
+      "heat": 72,
       "newsIds": [
-        "2188702988c539c8c1f35d4ce1d37ce32417d6ec"
+        "faffeeac24fbeb6cb9ea2dd7ca813105cb86f467"
       ]
     },
     {
       "rank": 8,
-      "title": "LFM2.5-VL-3B：边缘端视觉语言模型发布",
-      "reason": "小尺寸高性能，推动边缘AI应用",
-      "heat": 72,
+      "title": "吉他公司承认宣传视频用AI音乐",
+      "reason": "品牌使用AI引发争议",
+      "heat": 70,
       "newsIds": [
-        "8f4bb42eb8399de313c68beffcd309f2d1a8def4",
-        "ab799e9da743babb51e7a59b9911ecd2f7b7d322"
+        "617b8a3f0682528e0fadcfec53b02be2c4a77617"
       ]
     }
   ]
