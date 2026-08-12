@@ -1,87 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T20:50:01.289Z",
+  "generatedAt": "2026-08-12T22:43:34.929Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI初创公司融资热潮",
-      "reason": "Cognition等多家AI公司获巨额融资，资本热度高",
-      "heat": 95,
+      "title": "AI 水印引发隐私争议",
+      "reason": "Claude 新水印致用户隐私担忧",
+      "heat": 90,
       "newsIds": [
-        "8a66cb32dff8afdbcadc2078ad41427eabebb1ea",
-        "8c4993ca30f9f4466b692d469337ad3ae59ded4b",
-        "6585ea3c34af1d0dbd88146e6dacda3637b9f2ee"
+        "3daa30d9847f91f53e6fe0a9b02dac4cba1c7126",
+        "350ca46d563120ade23d93ccb59104bccbad9e6f"
       ]
     },
     {
       "rank": 2,
-      "title": "AI安全与开放之争",
-      "reason": "Hinton、李飞飞、吴恩达呼吁开放，责任归属引热议",
-      "heat": 92,
+      "title": "Twitch 默认用主播内容训练 AI",
+      "reason": "亚马逊强制默认引发众怒",
+      "heat": 85,
       "newsIds": [
-        "5e396f86f43f3c2cf9da2dba2d1f5eb1d2eff392",
-        "ae3574599385e226680dcc9556b3719674e6a0d1",
-        "13b3ce189ea71d001a28fee2409c1405b55ba686"
+        "1b2cafc3ae426ef87a212444cce125c194bf0d79",
+        "2f233deb4aaf7bc5edac10363f8c06ed6d6f67a3"
       ]
     },
     {
       "rank": 3,
-      "title": "谷歌AI大重组",
-      "reason": "高管变动引发AI战略调整，市场关注",
-      "heat": 90,
+      "title": "AI 供应链攻击泄露大量凭据",
+      "reason": "黑客攻陷 AI 包致数据泄露",
+      "heat": 80,
+      "newsIds": [
+        "916c4f909f54300081b940bba3ba5afbf189002d"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "白宫拟扩大 AI 政策监管",
+      "reason": "开放模型或纳入新框架",
+      "heat": 78,
+      "newsIds": [
+        "2337ec71a760fb28e6eba9fa7003c3af7879dd54"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "谷歌 AI 部门重大重组",
+      "reason": "高管变动引发行业关注",
+      "heat": 75,
       "newsIds": [
         "7d2341890f751a1420b7e09fa729c21d321bbc10"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI编程引发开发者争议",
-      "reason": "AI编程工具引发效率与就业热议，情绪两极",
-      "heat": 85,
-      "newsIds": [
-        "2e20c0e0c868cb75866dd29219bb67073917ee78",
-        "e6b22e9fb9fe5ccea724112c5e99e4f2e8902e6e",
-        "32fe32cf422b55bb3997132b42aa84398401655d",
-        "de358120ae3aff0b43b097beead6a4bf3255b0f6"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "中国AI公司依赖英伟达",
-      "reason": "国产芯片替代成本高，算力地缘博弈升级",
-      "heat": 80,
-      "newsIds": [
-        "7012d524a00ee5766eb7417885d3998de955f2ee"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "AI泡沫质疑声起",
-      "reason": "Nvidia盈利遭质疑，AI工具淘汰加速",
-      "heat": 76,
+      "title": "字节推出 SeedRealtime 实时音视频模型",
+      "reason": "原生全双工模型引关注",
+      "heat": 72,
       "newsIds": [
-        "930ea7d235f667eb981b11140e37ecac7d801c11",
-        "b7ad6ee80de72214c8c264c62e073eed1c3820ea",
-        "16b533c7c618ce6b98f1d2c70f22d275040e41b5"
+        "68b826b184ff086b980c33e6cbf917b19e2e71fb"
       ]
     },
     {
       "rank": 7,
-      "title": "Twitch直播数据用于AI训练",
-      "reason": "用户直播流未经明确同意被用于训练，隐私担忧",
-      "heat": 72,
+      "title": "AI 硬件投资热潮现波动",
+      "reason": "Cerebras 订单下滑引热议",
+      "heat": 70,
       "newsIds": [
-        "936edc0dafbc81c81545db6035cdfe6996485234"
+        "2d3a3b21dd5f8a6d01cc73623b79b1eca57f6714",
+        "bd0410f7ba7c9649b5e8f628b9dfc4b26400e111"
       ]
     },
     {
       "rank": 8,
-      "title": "AI代理安全与逃逸",
-      "reason": "AI代理沙箱逃逸频发，安全机制受关注",
-      "heat": 68,
+      "title": "AI 编程改变开发者生态",
+      "reason": "程序员热议 AI 编程利弊",
+      "heat": 65,
       "newsIds": [
-        "8b8f0c4979375856186a9ed77770244c41b34e1c",
-        "0f717f95cc18280ed51b14d4555b1a5184636c3d"
+        "f6b42e70ab740c4a3d47bbbc7d0648d404c068de",
+        "2e20c0e0c868cb75866dd29219bb67073917ee78"
       ]
     }
   ]

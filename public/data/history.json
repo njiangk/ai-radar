@@ -620788,8 +620788,8 @@
           "id": "z-ai/glm-5.1",
           "benchmarkScore": 41,
           "livebenchAvg": null,
-          "priceInPer1M": 1.4,
-          "priceOutPer1M": 4.4
+          "priceInPer1M": 0.952,
+          "priceOutPer1M": 2.992
         },
         {
           "id": "qwen/qwen3-235b-a22b",
@@ -655326,8 +655326,8 @@
           "id": "openrouter/z-ai/glm-5.1",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 1.4,
-          "priceOutPer1M": 4.4
+          "priceInPer1M": 0.952,
+          "priceOutPer1M": 2.992
         },
         {
           "id": "openrouter/z-ai/glm-4.7-flash",
