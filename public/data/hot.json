@@ -1,81 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T11:03:06.663Z",
+  "generatedAt": "2026-08-12T13:16:02.989Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek 新发明引热议",
-      "reason": "国产大模型再突破，技术路线受全球关注",
+      "title": "英伟达5000亿美元豪赌，AI算力成为新资产",
+      "reason": "华尔街巨额投资，算力资产化",
       "heat": 95,
       "newsIds": [
-        "d1ccc161142f48ed8483f37c628ff97268189260"
+        "8523266ae83bd4020d957de709e8dd58dc130d06",
+        "c10d56f93e243b39433d6841a14560c5f168cbb2",
+        "f87a8108785cd0aa0520b0634fa3f1835a869970"
       ]
     },
     {
       "rank": 2,
-      "title": "Gemini 月活超 10 亿",
-      "reason": "AI 应用用户量级达历史里程碑",
-      "heat": 92,
+      "title": "谷歌AI误报名人去世",
+      "reason": "AI产品低级错误，引发信任质疑",
+      "heat": 88,
       "newsIds": [
-        "f2596188172945626296f68aa6e81055a1ed9399"
+        "621e2631d3fa205d108be8c45032c3900d6adc27"
       ]
     },
     {
       "rank": 3,
-      "title": "AI 泡沫破裂风险",
-      "reason": "市场过热引发谁会接盘的担忧",
-      "heat": 88,
+      "title": "专家警告AI军备竞赛危及人类",
+      "reason": "人类风险话题，引发广泛讨论",
+      "heat": 82,
       "newsIds": [
-        "db8b01ba85d359828d50e214c25128748e580824",
-        "6ed6a21ed06df67ad848554a44562faaba9f5092"
+        "14e61d49fe3ea945e51f15634edddee74d91223c"
       ]
     },
     {
       "rank": 4,
-      "title": "AI 记者抢发重大新闻",
-      "reason": "AI 新闻编辑室首次领先传统媒体",
-      "heat": 85,
+      "title": "AI记者抢发重大新闻",
+      "reason": "AI新闻编辑室首秀，颠覆媒体",
+      "heat": 78,
       "newsIds": [
         "c35037059e3320b5f0ef8bb2cf20d0c21e4c4306"
       ]
     },
     {
       "rank": 5,
-      "title": "AI 编程的进与忧",
-      "reason": "AI 提升编码能力但引发职业与技术讨论",
-      "heat": 82,
+      "title": "创业文化中的纹身招聘事件",
+      "reason": "纹身作为招聘信号，引发争议",
+      "heat": 72,
       "newsIds": [
-        "2e20c0e0c868cb75866dd29219bb67073917ee78",
-        "ba03fae410748d9e71d9f1f9e619a2b530b2b0d8",
-        "7cc607591a60ae54397dbfb7e36c892949f5cc98",
-        "17dcaac389f15b4f3ee2da0667c04abe00a7a44d"
+        "f4d997374f4aa465c814f4f0608b6a6858a5537c",
+        "9e9199d9dee7091b16d53116a5d8b9341d3d3937"
       ]
     },
     {
       "rank": 6,
-      "title": "开放 AI 名不副实",
-      "reason": "所谓开放系统其实闭源，引发行业反思",
-      "heat": 80,
+      "title": "Grok推出AI代理队友",
+      "reason": "xAI新功能，AI代理可分配工作",
+      "heat": 70,
       "newsIds": [
-        "46650bc54d585e4e12717b49052fcd0d94358017"
+        "4312292f9917ac37e5baed098a3ac9ea846326c9"
       ]
     },
     {
       "rank": 7,
-      "title": "高级攻击者瞄准企业 SaaS",
-      "reason": "Salesforce 等平台成黑客重点目标",
-      "heat": 78,
+      "title": "AI耗电危机：数据中心电力告急",
+      "reason": "数据中心电力需求难以为继",
+      "heat": 68,
       "newsIds": [
-        "5febc6b51b716d5375e376d779aa11498b244b32"
+        "8d8822660d740c841fb52e6a440faf9dea95dcc3",
+        "be80307719be2a28c150939f61b27eed36bea7cc"
       ]
     },
     {
       "rank": 8,
-      "title": "新型 AI 芯片模拟人脑",
-      "reason": "硬件创新有望提升 AI 实时控制能力",
-      "heat": 75,
+      "title": "AI冲击就业市场？",
+      "reason": "AI未摧毁就业，原因何在",
+      "heat": 65,
       "newsIds": [
-        "068807d40ca2ea5f22194b680cf6276d0fbcee8e"
+        "8abee85208f6de21af592c4af43495fdd4dcd848",
+        "992d25fb7f835528137731481438ab02993e803e"
       ]
     }
   ]
