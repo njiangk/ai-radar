@@ -1,81 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T16:59:21.377Z",
+  "generatedAt": "2026-08-12T19:05:12.489Z",
   "items": [
     {
       "rank": 1,
-      "title": "Grok 4.6发布，智能指数61分",
-      "reason": "模型性能突破，引发广泛关注",
+      "title": "Twitch直播数据被用于训练亚马逊AI",
+      "reason": "用户隐私争议，Twitch默认被挖掘，引发强烈关注",
       "heat": 95,
       "newsIds": [
-        "32cdb4e18a7ec1e9ef2673a3359ad7870728dc48",
-        "e3ecd38cafbedbc5631103212fd42693e23db980",
-        "81d4ddcf75d38bde972737f46658c282c5dfeb9c",
-        "abadfb45f943fcd5c50b47d2f18462ba3144cbba"
+        "936edc0dafbc81c81545db6035cdfe6996485234",
+        "70c73a35f66ab0cb7439e6e6ad29fd5b8761a843"
       ]
     },
     {
       "rank": 2,
-      "title": "北京强制用户与AI恋人分手",
-      "reason": "政府干预AI情感关系引发热议",
+      "title": "AI编程公司Cognition估值400亿美元融资",
+      "reason": "巨额融资再度推高AI编程赛道热度",
       "heat": 90,
       "newsIds": [
-        "1790fb918235d13b52ae21fa4650d155d177c2f9"
+        "8a66cb32dff8afdbcadc2078ad41427eabebb1ea"
       ]
     },
     {
       "rank": 3,
-      "title": "研究人员用AI创造全新病毒",
-      "reason": "生物安全风险引发担忧",
+      "title": "Hinton、李飞飞、吴恩达共议AI开放",
+      "reason": "顶尖专家分歧引发AI监管方向热议",
       "heat": 88,
       "newsIds": [
-        "af550b3e5329a3b2fc9572a27bc519df6ae7b20a"
+        "5e396f86f43f3c2cf9da2dba2d1f5eb1d2eff392"
       ]
     },
     {
       "rank": 4,
-      "title": "AI编程公司Lovable估值133亿美元",
-      "reason": "AI编程赛道巨额融资受关注",
+      "title": "多智能体AI框架攻击亚洲政府机构",
+      "reason": "AI武器化威胁国家基础设施，安全警报升级",
       "heat": 85,
       "newsIds": [
-        "efe0c03b99410108091e61cb568d5db8df6e9e96",
-        "b1e003665ffe2f401527ba595b97a0be69c409e5"
+        "4bab0ff973616adc2428adee8a6b6b9c8d59e936"
       ]
     },
     {
       "rank": 5,
-      "title": "中国关联黑客对台湾发动AI攻击",
-      "reason": "地缘政治与AI安全交织",
-      "heat": 83,
+      "title": "Thrive Holdings融资20亿美元深耕企业AI",
+      "reason": "OpenAI加持下大额融资，企业AI价值凸显",
+      "heat": 82,
       "newsIds": [
-        "e8c10e8333f0c18a2084df840440838fe26afef5"
+        "6585ea3c34af1d0dbd88146e6dacda3637b9f2ee"
       ]
     },
     {
       "rank": 6,
-      "title": "苹果在AI激增后限制漏洞赏金",
-      "reason": "安全策略调整引发讨论",
-      "heat": 75,
+      "title": "中国顶尖AI仍依赖英伟达芯片",
+      "reason": "芯片管制下中国AI困境与转型难题备受瞩目",
+      "heat": 78,
       "newsIds": [
-        "3f09fa4d586a495d2b4e799d193504ced28fb8fb"
+        "7012d524a00ee5766eb7417885d3998de955f2ee"
       ]
     },
     {
       "rank": 7,
-      "title": "YouTuber称自己AI使用不健康",
-      "reason": "名人反思AI依赖引发共鸣",
-      "heat": 72,
+      "title": "英伟达与AI泡沫论引发行业争议",
+      "reason": "业内人士质疑AI实验室亏损，泡沫隐忧升温",
+      "heat": 75,
       "newsIds": [
-        "faffeeac24fbeb6cb9ea2dd7ca813105cb86f467"
+        "930ea7d235f667eb981b11140e37ecac7d801c11"
       ]
     },
     {
       "rank": 8,
-      "title": "吉他公司承认宣传视频用AI音乐",
-      "reason": "品牌使用AI引发争议",
+      "title": "科技CEO用AI克隆自己的争议与前景",
+      "reason": "AI自我复制应用成新热点，伦理与商业话题双热",
       "heat": 70,
       "newsIds": [
-        "617b8a3f0682528e0fadcfec53b02be2c4a77617"
+        "1f2c0ad4ca7c9b72c66d8d5bf989ea2014482d4a"
       ]
     }
   ]
