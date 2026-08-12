@@ -1,80 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T22:45:49.887Z",
+  "generatedAt": "2026-08-12T02:07:49.280Z",
   "items": [
     {
       "rank": 1,
-      "title": "谷歌Gemini用户破10亿",
-      "reason": "谷歌史上增长最快产品，用户达十亿",
+      "title": "从专有LLM API窃取推理轨迹",
+      "reason": "暴露主流AI模型隐藏推理，安全漏洞严重",
       "heat": 95,
       "newsIds": [
-        "fc18235bff71058eab9ac5f1f5bb617b3b07a654",
-        "a49e2df2d4497d27b89d8a621fe314e6a70bb7d8"
+        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1",
+        "a2a745e3e9bd59580c79914c95586b658c979fd7",
+        "8e212e39542d0fb76b323aa6beb22a3605f6118b"
       ]
     },
     {
       "rank": 2,
-      "title": "NVIDIA联合投5000亿美元建AI",
-      "reason": "巨额资本涌入AI基础设施",
-      "heat": 90,
+      "title": "NVIDIA AI工厂成投资新宠",
+      "reason": "联合巨头调动5000亿美元建AI基础设施",
+      "heat": 92,
       "newsIds": [
-        "ff1fbd33671851239bc5e4b23693bd7eaa7b6e98"
+        "367f1b12b1dbc402db3a48454b6230d10a8fb4b7"
       ]
     },
     {
       "rank": 3,
-      "title": "AI安全风险引担忧",
-      "reason": "AI失控与杀人机器人言论引恐慌",
+      "title": "Anthropic推AI内容隐形水印",
+      "reason": "AI生成内容可追溯，但方法引猜测",
       "heat": 85,
       "newsIds": [
-        "3504c7734d4e32778f8837a620f91a63cc69b3b5",
-        "cbcc0f0bfc24692576f10bf519f9e58aa8c5b039"
+        "21444e478b807b0a776a435dd0b403712f2b5689",
+        "9605903c69f58f12fca1e3738169a2bb0b565451"
       ]
     },
     {
       "rank": 4,
-      "title": "AI解题能力再突破",
-      "reason": "数学突破与CTF挑战均展现强推理",
+      "title": "台积电营收大涨45% AI芯片强劲",
+      "reason": "AI需求推动业绩，投资者平淡",
       "heat": 80,
       "newsIds": [
-        "7637adda2907636e61ab96edc7ee113a0cfcc2dc",
-        "87dc62502c2448e5b96412a8f294812478787dfa"
+        "e8b06ec1d533e43871b5b910573168e1134c8b69"
       ]
     },
     {
       "rank": 5,
-      "title": "ChatGPT发布Linux桌面应用",
-      "reason": "OpenAI扩展生态，Linux用户终获官方应用",
+      "title": "医学公司宣称人工实为AI",
+      "reason": "标榜100%人工撰写却是AI，欺骗性",
       "heat": 78,
       "newsIds": [
-        "2f7f031cc5150ee5b86e61751d35e56f4ea09a0d"
+        "40f97f4ec8642f5552a100059c9d5ba070db0ee7"
       ]
     },
     {
       "rank": 6,
-      "title": "AI发现Zoom远程接管漏洞",
-      "reason": "AI安全研究再显威力，漏洞挖掘自动化",
-      "heat": 76,
+      "title": "Saber被曝用AI替换游戏编剧",
+      "reason": "编剧称被ChatGPT取代，CEO否认引争议",
+      "heat": 75,
       "newsIds": [
-        "8618f5cf63542c478f7ad9df84159a7ac198d3be"
+        "1b1c36bc0450261ccee71aad8f2d15230e13b70b"
       ]
     },
     {
       "rank": 7,
-      "title": "AI威胁就业？专家提议对资本征税",
-      "reason": "应对AI失业，税制改革成焦点",
+      "title": "4Chan用AI给女性‘穿衣’引反击",
+      "reason": "AI换衣侵害女性权益，当事人奋起抵制",
       "heat": 72,
       "newsIds": [
-        "2dd733bb177e13827790d88029d0fa44eb86d347"
+        "3489a4b331aeab11ce82da8d57adbbfe150d85ab"
       ]
     },
     {
       "rank": 8,
-      "title": "OpenWALDO推动AI训练数据开放",
-      "reason": "Rocky Linux创始人开源AI数据应对垄断",
+      "title": "辛顿AI预测被批不靠谱",
+      "reason": "AI教父预言屡失准，成行业笑谈",
       "heat": 70,
       "newsIds": [
-        "5dcbd0a80ae34d45a48fa237f4126fc026bb44e2"
+        "4b89a5160c432490b17f0d7f68b1640b5d376bbc"
       ]
     }
   ]
