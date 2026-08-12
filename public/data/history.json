@@ -583473,8 +583473,8 @@
           "id": "venice/xiaomi-mimo-v2-5",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.14,
-          "priceOutPer1M": 0.28
+          "priceInPer1M": 0.4,
+          "priceOutPer1M": 2
         },
         {
           "id": "venice/grok-4-20-multi-agent",
@@ -590172,8 +590172,8 @@
           "id": "kilo/qwen/qwen3-32b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.104,
-          "priceOutPer1M": 0.416
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.28
         },
         {
           "id": "kilo/qwen/qwen3.6-35b-a3b",
@@ -590536,8 +590536,8 @@
           "id": "kilo/tencent/hy3",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.132,
-          "priceOutPer1M": 0.528
+          "priceInPer1M": 0.14,
+          "priceOutPer1M": 0.58
         },
         {
           "id": "kilo/tencent/hy3-preview",
@@ -591371,6 +591371,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 30,
           "priceOutPer1M": 150
+        },
+        {
+          "id": "kilo/liquid/lfm-2.5-2.6b:free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
         },
         {
           "id": "kilo/~anthropic/claude-sonnet-latest",

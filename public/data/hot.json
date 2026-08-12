@@ -1,80 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T02:07:49.280Z",
+  "generatedAt": "2026-08-12T05:40:32.377Z",
   "items": [
     {
       "rank": 1,
-      "title": "从专有LLM API窃取推理轨迹",
-      "reason": "暴露主流AI模型隐藏推理，安全漏洞严重",
+      "title": "NVIDIA 5000亿美元AI基建融资",
+      "reason": "联合巨头调动巨额资本，AI基建投资热",
       "heat": 95,
-      "newsIds": [
-        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1",
-        "a2a745e3e9bd59580c79914c95586b658c979fd7",
-        "8e212e39542d0fb76b323aa6beb22a3605f6118b"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "NVIDIA AI工厂成投资新宠",
-      "reason": "联合巨头调动5000亿美元建AI基础设施",
-      "heat": 92,
       "newsIds": [
         "367f1b12b1dbc402db3a48454b6230d10a8fb4b7"
       ]
     },
     {
-      "rank": 3,
-      "title": "Anthropic推AI内容隐形水印",
-      "reason": "AI生成内容可追溯，但方法引猜测",
-      "heat": 85,
+      "rank": 2,
+      "title": "AI泡沫破裂风险加剧",
+      "reason": "7万亿豪赌失败，泡沫破裂担忧升温",
+      "heat": 90,
       "newsIds": [
-        "21444e478b807b0a776a435dd0b403712f2b5689",
-        "9605903c69f58f12fca1e3738169a2bb0b565451"
+        "d7e164d00ce4aa9698bb8c647e84ae0eefa6d632",
+        "2483592801232f73f15f4d111d0de5a79e11ddc3"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI模型遭入侵",
+      "reason": "AI安全事件引全球关注",
+      "heat": 88,
+      "newsIds": [
+        "7b61c0bb007b310603ff1f8aa73320a99880ff19"
       ]
     },
     {
       "rank": 4,
-      "title": "台积电营收大涨45% AI芯片强劲",
-      "reason": "AI需求推动业绩，投资者平淡",
-      "heat": 80,
+      "title": "Anthropic推隐形水印",
+      "reason": "AI内容溯源新举措，行业方向标",
+      "heat": 85,
       "newsIds": [
-        "e8b06ec1d533e43871b5b910573168e1134c8b69"
+        "21444e478b807b0a776a435dd0b403712f2b5689"
       ]
     },
     {
       "rank": 5,
-      "title": "医学公司宣称人工实为AI",
-      "reason": "标榜100%人工撰写却是AI，欺骗性",
-      "heat": 78,
-      "newsIds": [
-        "40f97f4ec8642f5552a100059c9d5ba070db0ee7"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Saber被曝用AI替换游戏编剧",
-      "reason": "编剧称被ChatGPT取代，CEO否认引争议",
-      "heat": 75,
+      "title": "编剧被AI取代争议",
+      "reason": "AI替代人类工作再引热议",
+      "heat": 82,
       "newsIds": [
         "1b1c36bc0450261ccee71aad8f2d15230e13b70b"
       ]
     },
     {
-      "rank": 7,
-      "title": "4Chan用AI给女性‘穿衣’引反击",
-      "reason": "AI换衣侵害女性权益，当事人奋起抵制",
-      "heat": 72,
+      "rank": 6,
+      "title": "AI代理上下文共享新方案",
+      "reason": "解决跨LLM上下文传递痛点",
+      "heat": 75,
       "newsIds": [
-        "3489a4b331aeab11ce82da8d57adbbfe150d85ab"
+        "3216f43aefecd5787acc8df4640c2e84664d4149",
+        "d8963d9f1159625a9a474f608de8040a075f73c1"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "LLM调用成本效率优化",
+      "reason": "两次调用更省更准，成本降67%",
+      "heat": 70,
+      "newsIds": [
+        "e2f621d72a5e165a7250662f9ea0e63778b6679d",
+        "8527b688ea608440b0ade1bf55221ff21c55ba55"
       ]
     },
     {
       "rank": 8,
-      "title": "辛顿AI预测被批不靠谱",
-      "reason": "AI教父预言屡失准，成行业笑谈",
-      "heat": 70,
+      "title": "AI自主治理与安全控制",
+      "reason": "自主代理自组织凸显治理需求",
+      "heat": 65,
       "newsIds": [
-        "4b89a5160c432490b17f0d7f68b1640b5d376bbc"
+        "4a9de602c4b3d9923d5a830622d805cc496afcab",
+        "c41bdd21360fcc554fbc99025857322016a508fc"
       ]
     }
   ]
