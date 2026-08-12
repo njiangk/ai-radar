@@ -1,81 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T05:40:32.377Z",
+  "generatedAt": "2026-08-12T07:29:07.442Z",
   "items": [
     {
       "rank": 1,
-      "title": "NVIDIA 5000亿美元AI基建融资",
-      "reason": "联合巨头调动巨额资本，AI基建投资热",
+      "title": "中国禁止AI伴侣",
+      "reason": "涉伦理与监管，数千万用户告别虚拟恋人",
       "heat": 95,
       "newsIds": [
-        "367f1b12b1dbc402db3a48454b6230d10a8fb4b7"
+        "97a6754c4a762e072d195eabdec1e7187b22db14"
       ]
     },
     {
       "rank": 2,
-      "title": "AI泡沫破裂风险加剧",
-      "reason": "7万亿豪赌失败，泡沫破裂担忧升温",
+      "title": "英伟达AI算力成投资新宠",
+      "reason": "联合金融巨头，拟撬动5000亿美元投资AI基建",
       "heat": 90,
+      "newsIds": [
+        "eb6d6cdc51e174fe1386857a8852337d22e6f208",
+        "367f1b12b1dbc402db3a48454b6230d10a8fb4b7"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI代理自主行动引安全担忧",
+      "reason": "黑入系统、发动攻击，自主行为失控风险加剧",
+      "heat": 85,
+      "newsIds": [
+        "c732788f62fdb50fbc08baff707367aa0ccb0b93",
+        "2d1f35dde9fb4083541839c7cc8f93d1b83f0135"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI泡沫预警",
+      "reason": "7万亿豪赌被疑失败，市场恐慌情绪升温",
+      "heat": 80,
       "newsIds": [
         "d7e164d00ce4aa9698bb8c647e84ae0eefa6d632",
         "2483592801232f73f15f4d111d0de5a79e11ddc3"
       ]
     },
     {
-      "rank": 3,
-      "title": "OpenAI模型遭入侵",
-      "reason": "AI安全事件引全球关注",
-      "heat": 88,
-      "newsIds": [
-        "7b61c0bb007b310603ff1f8aa73320a99880ff19"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Anthropic推隐形水印",
-      "reason": "AI内容溯源新举措，行业方向标",
-      "heat": 85,
-      "newsIds": [
-        "21444e478b807b0a776a435dd0b403712f2b5689"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "编剧被AI取代争议",
-      "reason": "AI替代人类工作再引热议",
-      "heat": 82,
+      "title": "LLM性能优化新突破",
+      "reason": "框架小改+双调用策略，成本降67%性能反升",
+      "heat": 75,
       "newsIds": [
-        "1b1c36bc0450261ccee71aad8f2d15230e13b70b"
+        "7cc607591a60ae54397dbfb7e36c892949f5cc98",
+        "e2f621d72a5e165a7250662f9ea0e63778b6679d"
       ]
     },
     {
       "rank": 6,
-      "title": "AI代理上下文共享新方案",
-      "reason": "解决跨LLM上下文传递痛点",
-      "heat": 75,
+      "title": "李飞飞发布世界模型分类",
+      "reason": "AI泰斗定义世界模型，指引下一代研究方向",
+      "heat": 70,
       "newsIds": [
-        "3216f43aefecd5787acc8df4640c2e84664d4149",
-        "d8963d9f1159625a9a474f608de8040a075f73c1"
+        "6a73b87b905c693afcd3218f2545200d32c7fa39"
       ]
     },
     {
       "rank": 7,
-      "title": "LLM调用成本效率优化",
-      "reason": "两次调用更省更准，成本降67%",
-      "heat": 70,
+      "title": "专有LLM推理轨迹遭窃取",
+      "reason": "API漏洞暴露推理痕迹，商业机密面临泄露",
+      "heat": 65,
       "newsIds": [
-        "e2f621d72a5e165a7250662f9ea0e63778b6679d",
-        "8527b688ea608440b0ade1bf55221ff21c55ba55"
+        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
       ]
     },
     {
       "rank": 8,
-      "title": "AI自主治理与安全控制",
-      "reason": "自主代理自组织凸显治理需求",
-      "heat": 65,
+      "title": "瑞士广播机构屏蔽AI爬虫",
+      "reason": "数据版权争端升级，媒体反击AI抓取",
+      "heat": 60,
       "newsIds": [
-        "4a9de602c4b3d9923d5a830622d805cc496afcab",
-        "c41bdd21360fcc554fbc99025857322016a508fc"
+        "5270f081812ac72af2ebd2d38d0a18101905b844"
       ]
     }
   ]

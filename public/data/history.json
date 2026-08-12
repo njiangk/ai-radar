@@ -559974,8 +559974,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.42,
-          "priceOutPer1M": 1.4
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3.15
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -560443,8 +560443,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.42,
-          "priceOutPer1M": 1.4
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3.15
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -565574,8 +565574,8 @@
           "id": "deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.072,
-          "priceOutPer1M": 0.144
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.252
         },
         {
           "id": "openrouter/auto-beta",
@@ -590109,8 +590109,8 @@
           "id": "kilo/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.072,
-          "priceOutPer1M": 0.144
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.252
         },
         {
           "id": "kilo/perceptron/perceptron-mk1",
@@ -596892,8 +596892,8 @@
           "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.072,
-          "priceOutPer1M": 0.144
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.252
         },
         {
           "id": "openrouter/perceptron/perceptron-mk1",
