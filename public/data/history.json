@@ -626329,13 +626329,6 @@
           "priceOutPer1M": 15
         },
         {
-          "id": "nano-gpt/qwen3.8-max-preview",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 1.5,
-          "priceOutPer1M": 5
-        },
-        {
           "id": "nano-gpt/holo3-35b-a3b:thinking",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -627832,6 +627825,20 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.105,
           "priceOutPer1M": 0.42
+        },
+        {
+          "id": "nano-gpt/nvidia/nemotron-3.5-lightning:thinking",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.05,
+          "priceOutPer1M": 0.2
+        },
+        {
+          "id": "nano-gpt/nvidia/nemotron-3.5-lightning",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.05,
+          "priceOutPer1M": 0.2
         },
         {
           "id": "nano-gpt/nvidia/nemotron-3-ultra-550b-a55b",
@@ -631290,6 +631297,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 1,
           "priceOutPer1M": 5
+        },
+        {
+          "id": "llmgateway/grok-4-6",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 6
         },
         {
           "id": "llmgateway/gpt-5.4-pro",
@@ -648477,6 +648491,13 @@
           "priceOutPer1M": 150
         },
         {
+          "id": "kilo/liquid/lfm-2.5-2.6b:free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
+        },
+        {
           "id": "kilo/~anthropic/claude-sonnet-latest",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -649712,8 +649733,8 @@
           "id": "merge-gateway/xai/grok-4.6",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2,
-          "priceOutPer1M": 6
+          "priceInPer1M": 1.5,
+          "priceOutPer1M": 4.5
         },
         {
           "id": "merge-gateway/xai/grok-4.20-0309-reasoning",
@@ -649889,6 +649910,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 1.35,
           "priceOutPer1M": 5.4
+        },
+        {
+          "id": "merge-gateway/deepseek/deepseek-v4-pro-0813",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.435,
+          "priceOutPer1M": 0.87
         },
         {
           "id": "merge-gateway/writer/palmyra-x4",
@@ -655237,6 +655265,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 30,
           "priceOutPer1M": 150
+        },
+        {
+          "id": "openrouter/liquid/lfm-2.5-2.6b:free",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0,
+          "priceOutPer1M": 0
         },
         {
           "id": "openrouter/~anthropic/claude-sonnet-latest",
