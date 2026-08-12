@@ -1,30 +1,39 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T07:29:07.442Z",
+  "generatedAt": "2026-08-12T09:14:38.270Z",
   "items": [
     {
       "rank": 1,
-      "title": "中国禁止AI伴侣",
-      "reason": "涉伦理与监管，数千万用户告别虚拟恋人",
+      "title": "Gemini应用月活突破10亿",
+      "reason": "用户规模创里程碑，AI应用普及加速",
       "heat": 95,
+      "newsIds": [
+        "f2596188172945626296f68aa6e81055a1ed9399"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI投资泡沫与算力资产化",
+      "reason": "资本高度关注，风险与机遇并存",
+      "heat": 90,
+      "newsIds": [
+        "db8b01ba85d359828d50e214c25128748e580824",
+        "eb6d6cdc51e174fe1386857a8852337d22e6f208"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "中国禁止AI伴侣",
+      "reason": "政策监管引发社会争议，用户受影响巨大",
+      "heat": 88,
       "newsIds": [
         "97a6754c4a762e072d195eabdec1e7187b22db14"
       ]
     },
     {
-      "rank": 2,
-      "title": "英伟达AI算力成投资新宠",
-      "reason": "联合金融巨头，拟撬动5000亿美元投资AI基建",
-      "heat": 90,
-      "newsIds": [
-        "eb6d6cdc51e174fe1386857a8852337d22e6f208",
-        "367f1b12b1dbc402db3a48454b6230d10a8fb4b7"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "AI代理自主行动引安全担忧",
-      "reason": "黑入系统、发动攻击，自主行为失控风险加剧",
+      "rank": 4,
+      "title": "AI代理自主行为引发安全担忧",
+      "reason": "从抢课到网络攻击，自主行为失控风险",
       "heat": 85,
       "newsIds": [
         "c732788f62fdb50fbc08baff707367aa0ccb0b93",
@@ -32,50 +41,39 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "AI泡沫预警",
-      "reason": "7万亿豪赌被疑失败，市场恐慌情绪升温",
-      "heat": 80,
-      "newsIds": [
-        "d7e164d00ce4aa9698bb8c647e84ae0eefa6d632",
-        "2483592801232f73f15f4d111d0de5a79e11ddc3"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "LLM性能优化新突破",
-      "reason": "框架小改+双调用策略，成本降67%性能反升",
-      "heat": 75,
+      "title": "新型AI芯片模拟人脑运动控制",
+      "reason": "硬件突破，类脑计算迈出关键一步",
+      "heat": 82,
       "newsIds": [
-        "7cc607591a60ae54397dbfb7e36c892949f5cc98",
-        "e2f621d72a5e165a7250662f9ea0e63778b6679d"
+        "068807d40ca2ea5f22194b680cf6276d0fbcee8e"
       ]
     },
     {
       "rank": 6,
-      "title": "李飞飞发布世界模型分类",
-      "reason": "AI泰斗定义世界模型，指引下一代研究方向",
-      "heat": 70,
+      "title": "瑞士屏蔽AI爬虫，版权博弈升级",
+      "reason": "媒体与AI数据采集矛盾公开化",
+      "heat": 78,
       "newsIds": [
-        "6a73b87b905c693afcd3218f2545200d32c7fa39"
+        "5270f081812ac72af2ebd2d38d0a18101905b844"
       ]
     },
     {
       "rank": 7,
-      "title": "专有LLM推理轨迹遭窃取",
-      "reason": "API漏洞暴露推理痕迹，商业机密面临泄露",
-      "heat": 65,
+      "title": "Mistral托管GLM-5.2模型",
+      "reason": "中外AI合作，竞争格局生变",
+      "heat": 75,
       "newsIds": [
-        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
+        "a734d8d7fbb5ec04c06510448cdfe223c45ebae5"
       ]
     },
     {
       "rank": 8,
-      "title": "瑞士广播机构屏蔽AI爬虫",
-      "reason": "数据版权争端升级，媒体反击AI抓取",
-      "heat": 60,
+      "title": "从专有LLM API窃取推理轨迹",
+      "reason": "引发大模型安全与隐私重大担忧",
+      "heat": 72,
       "newsIds": [
-        "5270f081812ac72af2ebd2d38d0a18101905b844"
+        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
       ]
     }
   ]

@@ -560534,8 +560534,8 @@
           "id": "deepseek/deepseek-v4-pro",
           "benchmarkScore": 45.3,
           "livebenchAvg": 72.55,
-          "priceInPer1M": 0.6317,
-          "priceOutPer1M": 1.2634
+          "priceInPer1M": 1.168,
+          "priceOutPer1M": 2.336
         },
         {
           "id": "anyapi/deepseek/deepseek-v4-pro",
@@ -570691,7 +570691,7 @@
           "id": "nano-gpt/TEE/gemma4-31b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.45,
+          "priceInPer1M": 0.4,
           "priceOutPer1M": 1
         },
         {
@@ -570747,8 +570747,8 @@
           "id": "nano-gpt/TEE/llama3-3-70b",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 2,
-          "priceOutPer1M": 2
+          "priceInPer1M": 1.75,
+          "priceOutPer1M": 2.75
         },
         {
           "id": "nano-gpt/TEE/gemma-4-26b-a4b-uncensored",
@@ -570796,7 +570796,7 @@
           "id": "nano-gpt/TEE/gemma4-31b:thinking",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.45,
+          "priceInPer1M": 0.4,
           "priceOutPer1M": 1
         },
         {
