@@ -1,82 +1,83 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T13:16:02.989Z",
+  "generatedAt": "2026-08-12T15:00:46.150Z",
   "items": [
     {
       "rank": 1,
-      "title": "英伟达5000亿美元豪赌，AI算力成为新资产",
-      "reason": "华尔街巨额投资，算力资产化",
-      "heat": 95,
+      "title": "Google制造2026发布会：Pixel 11、Pixel Watch 5及Gemini新功能",
+      "reason": "谷歌年度硬件大会，多款新品与AI深度融合",
+      "heat": 96,
       "newsIds": [
-        "8523266ae83bd4020d957de709e8dd58dc130d06",
-        "c10d56f93e243b39433d6841a14560c5f168cbb2",
-        "f87a8108785cd0aa0520b0634fa3f1835a869970"
+        "77da1d8caea4ee7fdf4bcf234bd6b8cc15d8bd1a",
+        "1b0e93cced6d2e52e58d23645fd3a63c3d7ffc57",
+        "5cd7a3fff1b297f517e33b6d4ca50b0e840f9028"
       ]
     },
     {
       "rank": 2,
-      "title": "谷歌AI误报名人去世",
-      "reason": "AI产品低级错误，引发信任质疑",
-      "heat": 88,
+      "title": "AI初创Cognition洽谈融资，估值达400亿美元",
+      "reason": "AI编程独角兽估值猛增，引发行业关注",
+      "heat": 93,
       "newsIds": [
-        "621e2631d3fa205d108be8c45032c3900d6adc27"
+        "67bfb877c6279af6e67bb09898ebe2e51d460596"
       ]
     },
     {
       "rank": 3,
-      "title": "专家警告AI军备竞赛危及人类",
-      "reason": "人类风险话题，引发广泛讨论",
-      "heat": 82,
+      "title": "AI编程热潮与开发者反思",
+      "reason": "开发者热议AI编程效率与迷失感，多篇热帖",
+      "heat": 85,
       "newsIds": [
-        "14e61d49fe3ea945e51f15634edddee74d91223c"
+        "c4b349a8111b0c6008c3fde6abeff55f7c632250",
+        "935b663adfe886b9c358bb248fbe238c37f4d36b",
+        "72e4f68803b2bead8b67e63ca4f6596de01f450a"
       ]
     },
     {
       "rank": 4,
-      "title": "AI记者抢发重大新闻",
-      "reason": "AI新闻编辑室首秀，颠覆媒体",
-      "heat": 78,
+      "title": "NVIDIA CEO黄仁勋登顶Glassdoor最佳CEO",
+      "reason": "员工支持率99%，彰显卓越领导力",
+      "heat": 82,
       "newsIds": [
-        "c35037059e3320b5f0ef8bb2cf20d0c21e4c4306"
+        "be69a27699ef3d78a53b35541b2d21ddef787474"
       ]
     },
     {
       "rank": 5,
-      "title": "创业文化中的纹身招聘事件",
-      "reason": "纹身作为招聘信号，引发争议",
-      "heat": 72,
+      "title": "AI水印来袭，大学如何应对",
+      "reason": "AI水印技术引发学术诚信讨论",
+      "heat": 80,
       "newsIds": [
-        "f4d997374f4aa465c814f4f0608b6a6858a5537c",
-        "9e9199d9dee7091b16d53116a5d8b9341d3d3937"
+        "e9317851d41c5e6ac92d1afe556426682bbcb61e",
+        "a89551d130a663f44bf8ba18b86028b2b1faac9b"
       ]
     },
     {
       "rank": 6,
-      "title": "Grok推出AI代理队友",
-      "reason": "xAI新功能，AI代理可分配工作",
-      "heat": 70,
+      "title": "红杉资本提升AI投资风险容忍度",
+      "reason": "顶级风投加码AI，释放行业信号",
+      "heat": 78,
       "newsIds": [
-        "4312292f9917ac37e5baed098a3ac9ea846326c9"
+        "41e9f5f785257ba858db96e6c25c03704016d21b"
       ]
     },
     {
       "rank": 7,
-      "title": "AI耗电危机：数据中心电力告急",
-      "reason": "数据中心电力需求难以为继",
-      "heat": 68,
+      "title": "Meta AI眼镜遭德国组织刑事投诉",
+      "reason": "隐私争议升级，引发法律风险",
+      "heat": 75,
       "newsIds": [
-        "8d8822660d740c841fb52e6a440faf9dea95dcc3",
-        "be80307719be2a28c150939f61b27eed36bea7cc"
+        "2188702988c539c8c1f35d4ce1d37ce32417d6ec"
       ]
     },
     {
       "rank": 8,
-      "title": "AI冲击就业市场？",
-      "reason": "AI未摧毁就业，原因何在",
-      "heat": 65,
+      "title": "LFM2.5-VL-3B：边缘端视觉语言模型发布",
+      "reason": "小尺寸高性能，推动边缘AI应用",
+      "heat": 72,
       "newsIds": [
-        "8abee85208f6de21af592c4af43495fdd4dcd848",
-        "992d25fb7f835528137731481438ab02993e803e"
+        "8f4bb42eb8399de313c68beffcd309f2d1a8def4",
+        "ab799e9da743babb51e7a59b9911ecd2f7b7d322"
       ]
     }
   ]
