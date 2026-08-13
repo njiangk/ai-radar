@@ -617043,8 +617043,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.63,
-          "priceOutPer1M": 1.98
+          "priceInPer1M": 0.5,
+          "priceOutPer1M": 3.15
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -617608,7 +617608,7 @@
         },
         {
           "id": "deepseek/deepseek-v4-pro",
-          "benchmarkScore": 43.7,
+          "benchmarkScore": 53,
           "livebenchAvg": 72.55,
           "priceInPer1M": 1.168,
           "priceOutPer1M": 2.336
@@ -621108,7 +621108,7 @@
         },
         {
           "id": "deepseek/deepseek-v4-pro-0813",
-          "benchmarkScore": 45.3,
+          "benchmarkScore": 53,
           "livebenchAvg": null,
           "priceInPer1M": 0.435,
           "priceOutPer1M": 0.87
@@ -647129,8 +647129,8 @@
           "id": "kilo/google/gemma-4-31b-it",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
-          "priceOutPer1M": 0.34
+          "priceInPer1M": 0.08,
+          "priceOutPer1M": 0.35
         },
         {
           "id": "kilo/google/gemini-3.1-flash-image",
@@ -654843,7 +654843,7 @@
           "id": "openrouter/minimax/minimax-m2.5",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.22,
+          "priceInPer1M": 0.225,
           "priceOutPer1M": 0.9
         },
         {

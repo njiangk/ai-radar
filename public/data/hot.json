@@ -1,81 +1,83 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T11:03:35.304Z",
+  "generatedAt": "2026-08-13T13:17:10.349Z",
   "items": [
     {
       "rank": 1,
-      "title": "Twitch默认用频道训练AI引众怒",
-      "reason": "用户内容被默认用于AI训练，引发隐私争议",
+      "title": "多款AI模型/工具实测对比",
+      "reason": "多个主流AI模型横向评测，结果差异大",
       "heat": 95,
       "newsIds": [
-        "b808a3cfd0b7b64f82d62c12002286d0f209edd0",
-        "547a2739f7505684d2c95cab7a7f913868ef5342",
-        "0edf73dc7b945da95219dd995cce693ee132b3cd"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "超70%美国人反对AI数据中心，抗议加剧",
-      "reason": "民众抗议AI基建，社会反对声浪高涨",
-      "heat": 90,
-      "newsIds": [
-        "ef86a233f3f14e4c0775c52280db3607aa202495"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "多款新AI模型集中对比发布",
-      "reason": "Grok、DeepSeek等新模型引发性能竞赛",
-      "heat": 85,
-      "newsIds": [
-        "3fcabde7e3517e692e0b5c335009018e1bbf62e0",
+        "838ce01b7ed3d8bc558dc9ac94c31debe2839d59",
+        "05e49fba8559804a7e80fbd31d88c734d8ba060b",
         "ed2ff24014f14fc23390e56ade04473e758de754"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI助力解决40年数学难题",
-      "reason": "AI+人类智慧攻克Galois群问题，展现科研潜力",
-      "heat": 80,
+      "rank": 2,
+      "title": "DeepSeek发布V4-Pro并更新API",
+      "reason": "DeepSeek新模型发布和API调价引发关注",
+      "heat": 90,
       "newsIds": [
-        "879c4af96d6adc90bd5c6a7e5dda284e4ee8df28",
-        "c0e7cfc007e4cb057c50cc027fbab04dbf8b7697"
+        "889ea1c117f15b3172d305835b21dbdb4895b8c0",
+        "b315f2ded491983fa33a289a3630fb39c5506722",
+        "6d2d05a329e442ed2773529e6619433ec893421a"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "苹果洽谈用付费内容改进Siri",
+      "reason": "苹果寻求AI化升级Siri，付费给出版商",
+      "heat": 88,
+      "newsIds": [
+        "2bb891b5a0629e296b0cb3e40c4f4eddd3b45b86",
+        "a387ec6a798994e7caa04d70eacb980d49aacbb8"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI引发广泛担忧",
+      "reason": "近期事件让大众开始担忧AI风险",
+      "heat": 85,
+      "newsIds": [
+        "845dadae15171cd60896da369f8dab77e4f14ba9",
+        "0af0359ae1bdb3543bcf6cd619d7a12d0ebb5bfb"
       ]
     },
     {
       "rank": 5,
-      "title": "研究人员可从专有LLM窃取推理轨迹",
-      "reason": "AI推理过程可被窃取，引发安全担忧",
-      "heat": 75,
+      "title": "Claude新增红字水印",
+      "reason": "Claude为AI生成内容打上隐形水印",
+      "heat": 82,
+      "newsIds": [
+        "549ef0534a63400d081be653d23fb49e7d2d31d1"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "禁止开放权重AI模型争议",
+      "reason": "美国或禁开放权重模型，专家称将输掉竞赛",
+      "heat": 80,
+      "newsIds": [
+        "180387906fdc86e4d108b48392f2d011ab44a383"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "LLM API推理痕迹可被窃取",
+      "reason": "研究发现可窃取推理痕迹，安全风险大",
+      "heat": 78,
       "newsIds": [
         "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
       ]
     },
     {
-      "rank": 6,
-      "title": "Claude输出能否用于训练自有模型引热议",
-      "reason": "AI输出所有权与使用权边界成焦点",
-      "heat": 70,
-      "newsIds": [
-        "9e8de416f8083222626a491a04a3630e2b88e815"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "谷歌AI医生实验分离对话与临床推理",
-      "reason": "AI医疗新范式，提升诊断准确率",
-      "heat": 65,
-      "newsIds": [
-        "15294a99ee3d3a3e6ac1603f624449d11fab27a5"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "三星用AI缩短芯片验证周期15到30倍",
-      "reason": "AI大幅提升芯片制造效率，行业突破",
-      "heat": 60,
+      "title": "超70%美国人反对AI数据中心",
+      "reason": "美国多地上演AI数据中心抗议活动",
+      "heat": 75,
       "newsIds": [
-        "908aa2ca74299cae70414e4d99968eab113309cd"
+        "ef86a233f3f14e4c0775c52280db3607aa202495"
       ]
     }
   ]
