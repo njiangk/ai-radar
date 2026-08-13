@@ -1,81 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T22:43:34.929Z",
+  "generatedAt": "2026-08-13T02:09:38.741Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI 水印引发隐私争议",
-      "reason": "Claude 新水印致用户隐私担忧",
-      "heat": 90,
+      "title": "DeepSeek V4 Pro 发布",
+      "reason": "国产大模型新版本，业界高度关注",
+      "heat": 95,
       "newsIds": [
-        "3daa30d9847f91f53e6fe0a9b02dac4cba1c7126",
-        "350ca46d563120ade23d93ccb59104bccbad9e6f"
+        "e28e8fba6612207c9c546ffc619e58c278e8127c"
       ]
     },
     {
       "rank": 2,
-      "title": "Twitch 默认用主播内容训练 AI",
-      "reason": "亚马逊强制默认引发众怒",
-      "heat": 85,
+      "title": "AI巨额交易频现",
+      "reason": "Anthropic收购及Jeff Dean新创企融资，资本涌入AI",
+      "heat": 90,
       "newsIds": [
-        "1b2cafc3ae426ef87a212444cce125c194bf0d79",
-        "2f233deb4aaf7bc5edac10363f8c06ed6d6f67a3"
+        "83ef0e78131df7c95ff734bbdc1d8cd55b09edd7",
+        "bd9cf84f8c15b91c7cf8f103cebedaac2a2cc64b"
       ]
     },
     {
       "rank": 3,
-      "title": "AI 供应链攻击泄露大量凭据",
-      "reason": "黑客攻陷 AI 包致数据泄露",
-      "heat": 80,
+      "title": "大规模供应链攻击窃取凭据",
+      "reason": "AI包被入侵，2500名用户凭据遭窃",
+      "heat": 88,
       "newsIds": [
         "916c4f909f54300081b940bba3ba5afbf189002d"
       ]
     },
     {
       "rank": 4,
-      "title": "白宫拟扩大 AI 政策监管",
-      "reason": "开放模型或纳入新框架",
-      "heat": 78,
+      "title": "AI水印引发用户不满与反制",
+      "reason": "Anthropic水印暴露AI使用，用户寻求移除",
+      "heat": 85,
       "newsIds": [
-        "2337ec71a760fb28e6eba9fa7003c3af7879dd54"
+        "3daa30d9847f91f53e6fe0a9b02dac4cba1c7126",
+        "350ca46d563120ade23d93ccb59104bccbad9e6f"
       ]
     },
     {
       "rank": 5,
-      "title": "谷歌 AI 部门重大重组",
-      "reason": "高管变动引发行业关注",
-      "heat": 75,
+      "title": "网站与AI爬虫的攻防新手段",
+      "reason": "字体毒化与llms.txt应对AI抓取",
+      "heat": 80,
       "newsIds": [
-        "7d2341890f751a1420b7e09fa729c21d321bbc10"
+        "343894e169aca5248ee4e7f6dc6d815311c27444",
+        "a038a2ae57f9d9aaa0417c30fbffd95e301b3fe3"
       ]
     },
     {
       "rank": 6,
-      "title": "字节推出 SeedRealtime 实时音视频模型",
-      "reason": "原生全双工模型引关注",
-      "heat": 72,
+      "title": "游戏行业全面抵制AI",
+      "reason": "游戏律师称所有客户均签反AI合同",
+      "heat": 75,
       "newsIds": [
-        "68b826b184ff086b980c33e6cbf917b19e2e71fb"
+        "11572e84012a57b6ce5f440f7097891b018643d9"
       ]
     },
     {
       "rank": 7,
-      "title": "AI 硬件投资热潮现波动",
-      "reason": "Cerebras 订单下滑引热议",
+      "title": "加州零工司机工会胜利",
+      "reason": "Uber、Lyft司机赢得工会认可",
       "heat": 70,
       "newsIds": [
-        "2d3a3b21dd5f8a6d01cc73623b79b1eca57f6714",
-        "bd0410f7ba7c9649b5e8f628b9dfc4b26400e111"
+        "2e1eba4aac070511ac11064ff03e0eccd5a76e21"
       ]
     },
     {
       "rank": 8,
-      "title": "AI 编程改变开发者生态",
-      "reason": "程序员热议 AI 编程利弊",
+      "title": "从LLM API窃取推理轨迹",
+      "reason": "专有模型推理过程可被逆向提取",
       "heat": 65,
       "newsIds": [
-        "f6b42e70ab740c4a3d47bbbc7d0648d404c068de",
-        "2e20c0e0c868cb75866dd29219bb67073917ee78"
+        "d1747565ab00caebddf8784aff7e35e62d217616"
       ]
     }
   ]
