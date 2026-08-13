@@ -674217,8 +674217,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.4,
-          "priceOutPer1M": 2.52
+          "priceInPer1M": 0.392,
+          "priceOutPer1M": 1.232
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -674693,8 +674693,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.4,
-          "priceOutPer1M": 2.52
+          "priceInPer1M": 0.392,
+          "priceOutPer1M": 1.232
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -680696,11 +680696,32 @@
           "priceOutPer1M": 22.5
         },
         {
+          "id": "fireworks-ai/accounts/fireworks/models/muse-glimmer-30b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.35,
+          "priceOutPer1M": 1.5
+        },
+        {
+          "id": "fireworks-ai/accounts/fireworks/models/nemotron-lightning-3p5-30b-a3b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.05,
+          "priceOutPer1M": 0.2
+        },
+        {
           "id": "fireworks-ai/accounts/fireworks/models/qwen3p7-plus",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 0.4,
           "priceOutPer1M": 1.6
+        },
+        {
+          "id": "fireworks-ai/accounts/fireworks/models/qwen3p8-max",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 2,
+          "priceOutPer1M": 6
         },
         {
           "id": "fireworks-ai/accounts/fireworks/models/gpt-oss-20b",
@@ -680738,11 +680759,25 @@
           "priceOutPer1M": 0.6
         },
         {
+          "id": "fireworks-ai/accounts/fireworks/models/nemotron-3-ultra-nvfp4",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.6,
+          "priceOutPer1M": 2.4
+        },
+        {
           "id": "fireworks-ai/accounts/fireworks/models/kimi-k3",
           "benchmarkScore": null,
           "livebenchAvg": null,
           "priceInPer1M": 3,
           "priceOutPer1M": 15
+        },
+        {
+          "id": "fireworks-ai/accounts/fireworks/models/inkling",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1,
+          "priceOutPer1M": 4.05
         },
         {
           "id": "greenpt/mistral-medium-3.5-128b",
@@ -688620,6 +688655,13 @@
           "priceOutPer1M": 5
         },
         {
+          "id": "llmgateway/gemini-3.7-flash",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.75,
+          "priceOutPer1M": 3.75
+        },
+        {
           "id": "llmgateway/qwen3-235b-a22b-thinking-2507",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -689934,6 +689976,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 0,
           "priceOutPer1M": 0
+        },
+        {
+          "id": "opencode/gemini-3.7-flash",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 1.5,
+          "priceOutPer1M": 7.5
         },
         {
           "id": "opencode/glm-4.7-free",

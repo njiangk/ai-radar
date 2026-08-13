@@ -1,79 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T19:06:19.272Z",
+  "generatedAt": "2026-08-13T20:47:28.171Z",
   "items": [
     {
       "rank": 1,
-      "title": "Gemini 3.7 Flash 发布",
-      "reason": "谷歌三周内再推新版，性能大幅提升",
-      "heat": 95,
+      "title": "OpenAI发布超快新模型",
+      "reason": "速度提升14倍，企业用户关注",
+      "heat": 96,
       "newsIds": [
-        "45b581a13d87e1474f04fccb837041fa5895f4c4",
-        "dd378ea08187ffc514680b6ebeec11fe5f10a53d",
-        "50819e7766b0c21f2eb0a6b56f95914bb265d07d"
+        "71f28f1b3fcc8fba872f6c883bdcaa32b7b82b3b"
       ]
     },
     {
       "rank": 2,
-      "title": "Anthropic 拟60亿美元收购 Decart AI",
-      "reason": "AI 领域巨额并购，加速算力布局",
-      "heat": 85,
+      "title": "Databricks巨额融资50亿美元",
+      "reason": "估值1900亿，AI投资热潮",
+      "heat": 92,
       "newsIds": [
-        "c058ed640caa9c62a6a7c5f3def6b3d26f4eb99c"
+        "72c1714eb2a2ff3f6474bba304d93b025fc32e2f"
       ]
     },
     {
       "rank": 3,
-      "title": "英伟达 5000 亿美元新计划",
-      "reason": "巨头豪赌 AI 基建，影响 GPU 市场",
-      "heat": 80,
+      "title": "OpenAI再失高管",
+      "reason": "一周内第二位高管离职",
+      "heat": 90,
       "newsIds": [
-        "d410f7210702f9482c24871e5a5e05706fe26dbc"
+        "7bececf76d957d3a5ef2209d8f4a93189141dc0c"
       ]
     },
     {
       "rank": 4,
-      "title": "微软合并 Copilot 应用",
-      "reason": "砍掉失败功能，简化 AI 产品线",
-      "heat": 75,
+      "title": "AI代理安全风险凸显",
+      "reason": "代理冲突且可加速网络攻击",
+      "heat": 85,
       "newsIds": [
-        "7e04a9e0c364740aa9b5cca896d6004376013c3d"
+        "e70d27cdbbfccc6b7dbfd65a197cef1a837e3845",
+        "a0cb3ee1ddbfd123ca564660c1719e8e17e927d1"
       ]
     },
     {
       "rank": 5,
-      "title": "OpenAI 新聘首席营收官",
-      "reason": "高管变动频繁，销售策略调整",
-      "heat": 70,
+      "title": "AI生成垃圾医疗内容",
+      "reason": "可能误导患者，危害健康",
+      "heat": 80,
       "newsIds": [
-        "bf3281290239bd635c01516b5a61b448ae51d048"
+        "102c385e4908e489deb89bde8172b0a7607f8d09"
       ]
     },
     {
       "rank": 6,
-      "title": "AI 代理为任务争夺地盘",
-      "reason": "多代理冲突引发安全新问题",
-      "heat": 65,
+      "title": "AI隐性债务达1.65万亿美元",
+      "reason": "巨额成本或引发经济风险",
+      "heat": 75,
       "newsIds": [
-        "e70d27cdbbfccc6b7dbfd65a197cef1a837e3845"
+        "1d2821dada56ca4165be8f25a231045d2f3bb2a2"
       ]
     },
     {
       "rank": 7,
-      "title": "Anthropic 推隐形水印",
-      "reason": "给 AI 内容打标，防滥用",
-      "heat": 60,
+      "title": "法律文件隐藏提示注入",
+      "reason": "AI被恶意操纵，司法风险",
+      "heat": 70,
       "newsIds": [
-        "b1bf00239d7e23095618c1a777d7cf05f1d46dfd"
+        "5b0655e7daf6e56a6c96814112752ed73ae1a32a"
       ]
     },
     {
       "rank": 8,
-      "title": "谷歌为何扼杀其 AI 论据",
-      "reason": "分析其 AI 策略矛盾，引发思考",
-      "heat": 55,
+      "title": "IBM与OpenAI合作",
+      "reason": "企业AI布局加速，培训顾问",
+      "heat": 65,
       "newsIds": [
-        "f9e131d0e93bb2b49a9226c06633a3e906e155b5"
+        "a4456a2f31b5558d6580100f5d815926c144ff1b"
       ]
     }
   ]
