@@ -647889,13 +647889,6 @@
           "priceOutPer1M": 0.06
         },
         {
-          "id": "kilo/inclusionai/ling-3.0-tiny:free",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0,
-          "priceOutPer1M": 0
-        },
-        {
           "id": "kilo/inclusionai/ling-3.0-flash",
           "benchmarkScore": null,
           "livebenchAvg": null,
@@ -654684,13 +654677,6 @@
           "livebenchAvg": null,
           "priceInPer1M": 0.06,
           "priceOutPer1M": 0.06
-        },
-        {
-          "id": "openrouter/inclusionai/ling-3.0-tiny:free",
-          "benchmarkScore": null,
-          "livebenchAvg": null,
-          "priceInPer1M": 0,
-          "priceOutPer1M": 0
         },
         {
           "id": "openrouter/inclusionai/ling-3.0-flash",
