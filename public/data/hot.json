@@ -1,78 +1,87 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T20:47:28.171Z",
+  "generatedAt": "2026-08-13T22:45:51.536Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI发布超快新模型",
-      "reason": "速度提升14倍，企业用户关注",
-      "heat": 96,
+      "title": "OpenAI多事之秋：安全反思、高管离职与提速",
+      "reason": "OpenAI连串变动引发行业关注",
+      "heat": 95,
       "newsIds": [
+        "7bececf76d957d3a5ef2209d8f4a93189141dc0c",
         "71f28f1b3fcc8fba872f6c883bdcaa32b7b82b3b"
       ]
     },
     {
       "rank": 2,
-      "title": "Databricks巨额融资50亿美元",
-      "reason": "估值1900亿，AI投资热潮",
-      "heat": 92,
-      "newsIds": [
-        "72c1714eb2a2ff3f6474bba304d93b025fc32e2f"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "OpenAI再失高管",
-      "reason": "一周内第二位高管离职",
+      "title": "AI资本狂热与成本隐忧",
+      "reason": "巨额融资与债务问题引发热议",
       "heat": 90,
       "newsIds": [
-        "7bececf76d957d3a5ef2209d8f4a93189141dc0c"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "AI代理安全风险凸显",
-      "reason": "代理冲突且可加速网络攻击",
-      "heat": 85,
-      "newsIds": [
-        "e70d27cdbbfccc6b7dbfd65a197cef1a837e3845",
-        "a0cb3ee1ddbfd123ca564660c1719e8e17e927d1"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI生成垃圾医疗内容",
-      "reason": "可能误导患者，危害健康",
-      "heat": 80,
-      "newsIds": [
-        "102c385e4908e489deb89bde8172b0a7607f8d09"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI隐性债务达1.65万亿美元",
-      "reason": "巨额成本或引发经济风险",
-      "heat": 75,
-      "newsIds": [
+        "de310bf0ace1512025bf591b78535f6f558fc6d5",
+        "db3e778cea5d66adc3c51dbfdf6a257ba68c6ca5",
+        "72c1714eb2a2ff3f6474bba304d93b025fc32e2f",
         "1d2821dada56ca4165be8f25a231045d2f3bb2a2"
       ]
     },
     {
-      "rank": 7,
-      "title": "法律文件隐藏提示注入",
-      "reason": "AI被恶意操纵，司法风险",
-      "heat": 70,
+      "rank": 3,
+      "title": "AI社会风险引发信任危机",
+      "reason": "关于AI负面影响的讨论升温",
+      "heat": 85,
       "newsIds": [
-        "5b0655e7daf6e56a6c96814112752ed73ae1a32a"
+        "51a9230adffd08afd3dc438e28baed9d49317be5",
+        "0af0359ae1bdb3543bcf6cd619d7a12d0ebb5bfb",
+        "102c385e4908e489deb89bde8172b0a7607f8d09"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "微软AI战略调整与中国撤退",
+      "reason": "科技巨头AI方向生变",
+      "heat": 78,
+      "newsIds": [
+        "2cd82d85e5877ec34d62b25d22fbd7a102d8d8ba",
+        "0742ba50144a993f31385c5f64fb09f94b8eb8f7"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "陶哲轩谈AI时代的数学",
+      "reason": "顶尖数学家展望AI影响",
+      "heat": 75,
+      "newsIds": [
+        "bb9325a3558605418e2e9f90ac1ae4510dd05a09"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI辅助编码实践与工具创新",
+      "reason": "AI编程工具竞争白热化",
+      "heat": 72,
+      "newsIds": [
+        "e02e37f3af3764580b69a6eddf09e16cb2fd92cf",
+        "cf120177ae6582291e11b3b4c3762ffc3fd54b53",
+        "36d292a1f5a668a2e32c9ac70230350de57fdee3",
+        "de3e2bf805d40e3f0119050fc7d262d9b8be2f66"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Mistral AI战略布局",
+      "reason": "欧洲AI新贵动向受瞩目",
+      "heat": 68,
+      "newsIds": [
+        "be39a0d304e057561bcd524faa47b0ab1b987238"
       ]
     },
     {
       "rank": 8,
-      "title": "IBM与OpenAI合作",
-      "reason": "企业AI布局加速，培训顾问",
+      "title": "扎克伯格AI宣言引发争议",
+      "reason": "6500字宣言被批空洞",
       "heat": 65,
       "newsIds": [
-        "a4456a2f31b5558d6580100f5d815926c144ff1b"
+        "403f135bd189c06faaeb7e0d681522ac185ba81b"
       ]
     }
   ]
