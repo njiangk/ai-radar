@@ -1,79 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T05:44:12.837Z",
+  "generatedAt": "2026-08-13T07:39:10.974Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro 0813 发布",
-      "reason": "最新模型API上线，性能价格引热议",
-      "heat": 95,
+      "title": "AI代理攻击台湾核安全机构",
+      "reason": "近自主AI代理攻击核设施，安全威胁巨大",
+      "heat": 92,
+      "newsIds": [
+        "f4dbae80ad1ccc698576ec9d983437406a467893"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "DeepSeek V4 Pro 0813发布",
+      "reason": "国产大模型新版本，性能价格引热议",
+      "heat": 89,
       "newsIds": [
         "d0b727037cafe5c912f367fd51ca92477b6fdeac",
         "e28e8fba6612207c9c546ffc619e58c278e8127c"
       ]
     },
     {
-      "rank": 2,
-      "title": "Anthropic 60亿美元收购Decart",
-      "reason": "AI巨头大手笔并购，布局世界模型",
-      "heat": 92,
-      "newsIds": [
-        "83ef0e78131df7c95ff734bbdc1d8cd55b09edd7"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Jeff Dean新创企估值百亿",
-      "reason": "传奇工程师再创业，资本追捧",
-      "heat": 88,
+      "title": "超七成美国人反对AI数据中心",
+      "reason": "民意强烈反对，抗议愈演愈烈",
+      "heat": 86,
       "newsIds": [
-        "bd9cf84f8c15b91c7cf8f103cebedaac2a2cc64b"
+        "ef86a233f3f14e4c0775c52280db3607aa202495"
       ]
     },
     {
       "rank": 4,
-      "title": "AI代理攻击台核机构",
-      "reason": "近自主AI代理涉入国安，安全隐忧",
-      "heat": 85,
-      "newsIds": [
-        "f4dbae80ad1ccc698576ec9d983437406a467893"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "供应链攻击窃取数TB凭据",
-      "reason": "恶意AI包入侵2500用户，数据泄露",
-      "heat": 82,
-      "newsIds": [
-        "916c4f909f54300081b940bba3ba5afbf189002d"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "苹果洽谈新闻内容训练Siri",
-      "reason": "苹果AI布局新动作，或引内容合作",
-      "heat": 78,
+      "title": "苹果洽谈付费获取新闻内容增强Siri AI",
+      "reason": "苹果布局AI新闻，内容合作引关注",
+      "heat": 80,
       "newsIds": [
         "adc042c3db8ab154b46d93531c72f8617df1e8b5"
       ]
     },
     {
-      "rank": 7,
-      "title": "AI水印争议：用户不满与破解",
-      "reason": "Claude水印引反感，移除工具出现",
-      "heat": 70,
+      "rank": 5,
+      "title": "GPT-5.6、Gemini 3.6 Flash等大比拼",
+      "reason": "主流模型性能对比，引发广泛讨论",
+      "heat": 78,
       "newsIds": [
-        "3daa30d9847f91f53e6fe0a9b02dac4cba1c7126",
-        "76851f87b91107e1f90b394de569a9992e68a30f"
+        "ed2ff24014f14fc23390e56ade04473e758de754"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Twitch CPO承认AI训练功能惹众怒",
+      "reason": "官方示弱道歉，用户反对声浪高",
+      "heat": 75,
+      "newsIds": [
+        "0edf73dc7b945da95219dd995cce693ee132b3cd"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "中国审查渗入美国AI答案",
+      "reason": "内容审查问题引政治与安全担忧",
+      "heat": 73,
+      "newsIds": [
+        "2c5d575196765266198047c433b847c992c86527"
       ]
     },
     {
       "rank": 8,
-      "title": "字体武器反制AI爬虫",
-      "reason": "用视觉污染防爬，创新防御手段",
-      "heat": 65,
+      "title": "三星用AI缩短芯片验证周期15至30倍",
+      "reason": "AI提升芯片研发效率，行业标杆",
+      "heat": 70,
       "newsIds": [
-        "343894e169aca5248ee4e7f6dc6d815311c27444"
+        "908aa2ca74299cae70414e4d99968eab113309cd"
       ]
     }
   ]
