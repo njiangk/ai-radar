@@ -1,79 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T09:15:17.323Z",
+  "generatedAt": "2026-08-13T11:03:35.304Z",
   "items": [
     {
       "rank": 1,
       "title": "Twitch默认用频道训练AI引众怒",
-      "reason": "涉及隐私和伦理，官方回应加剧争议",
-      "heat": 92,
+      "reason": "用户内容被默认用于AI训练，引发隐私争议",
+      "heat": 95,
       "newsIds": [
+        "b808a3cfd0b7b64f82d62c12002286d0f209edd0",
         "547a2739f7505684d2c95cab7a7f913868ef5342",
         "0edf73dc7b945da95219dd995cce693ee132b3cd"
       ]
     },
     {
       "rank": 2,
-      "title": "DeepSeek V4 Pro发布引关注",
-      "reason": "重磅模型发布，性能价格成焦点",
+      "title": "超70%美国人反对AI数据中心，抗议加剧",
+      "reason": "民众抗议AI基建，社会反对声浪高涨",
       "heat": 90,
-      "newsIds": [
-        "d0b727037cafe5c912f367fd51ca92477b6fdeac",
-        "e28e8fba6612207c9c546ffc619e58c278e8127c"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "超70%美国人反对AI数据中心",
-      "reason": "民意强烈，社会抗议升级",
-      "heat": 85,
       "newsIds": [
         "ef86a233f3f14e4c0775c52280db3607aa202495"
       ]
     },
     {
-      "rank": 4,
-      "title": "苹果洽谈付费新闻强化Siri AI",
-      "reason": "科技巨头布局AI内容生态",
-      "heat": 82,
+      "rank": 3,
+      "title": "多款新AI模型集中对比发布",
+      "reason": "Grok、DeepSeek等新模型引发性能竞赛",
+      "heat": 85,
       "newsIds": [
-        "adc042c3db8ab154b46d93531c72f8617df1e8b5"
+        "3fcabde7e3517e692e0b5c335009018e1bbf62e0",
+        "ed2ff24014f14fc23390e56ade04473e758de754"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI助力解决40年数学难题",
+      "reason": "AI+人类智慧攻克Galois群问题，展现科研潜力",
+      "heat": 80,
+      "newsIds": [
+        "879c4af96d6adc90bd5c6a7e5dda284e4ee8df28",
+        "c0e7cfc007e4cb057c50cc027fbab04dbf8b7697"
       ]
     },
     {
       "rank": 5,
-      "title": "中国审查渗透美国AI回答",
-      "reason": "政治敏感，引发安全担忧",
-      "heat": 80,
+      "title": "研究人员可从专有LLM窃取推理轨迹",
+      "reason": "AI推理过程可被窃取，引发安全担忧",
+      "heat": 75,
       "newsIds": [
-        "2c5d575196765266198047c433b847c992c86527"
+        "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1"
       ]
     },
     {
       "rank": 6,
-      "title": "三星用AI缩短芯片验证周期",
-      "reason": "AI赋能硬件，效率提升显著",
-      "heat": 78,
+      "title": "Claude输出能否用于训练自有模型引热议",
+      "reason": "AI输出所有权与使用权边界成焦点",
+      "heat": 70,
       "newsIds": [
-        "908aa2ca74299cae70414e4d99968eab113309cd"
+        "9e8de416f8083222626a491a04a3630e2b88e815"
       ]
     },
     {
       "rank": 7,
-      "title": "脂肪肝流行病来袭，AI提前防范",
-      "reason": "健康议题，AI应用前景广阔",
-      "heat": 75,
+      "title": "谷歌AI医生实验分离对话与临床推理",
+      "reason": "AI医疗新范式，提升诊断准确率",
+      "heat": 65,
       "newsIds": [
-        "19890f2dbfd53d35a7936b3db9df8c2b0142cb3d"
+        "15294a99ee3d3a3e6ac1603f624449d11fab27a5"
       ]
     },
     {
       "rank": 8,
-      "title": "GPT-5.6等最新模型对比",
-      "reason": "主流大模型性能大比拼",
-      "heat": 73,
+      "title": "三星用AI缩短芯片验证周期15到30倍",
+      "reason": "AI大幅提升芯片制造效率，行业突破",
+      "heat": 60,
       "newsIds": [
-        "ed2ff24014f14fc23390e56ade04473e758de754"
+        "908aa2ca74299cae70414e4d99968eab113309cd"
       ]
     }
   ]

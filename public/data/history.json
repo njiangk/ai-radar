@@ -617043,8 +617043,8 @@
           "id": "z-ai/glm-5.2",
           "benchmarkScore": 52.6,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 3.15
+          "priceInPer1M": 0.63,
+          "priceOutPer1M": 1.98
         },
         {
           "id": "zhipuai/glm-5.2",
@@ -617519,8 +617519,8 @@
           "id": "openrouter/z-ai/glm-5.2",
           "benchmarkScore": null,
           "livebenchAvg": 73.38,
-          "priceInPer1M": 0.5,
-          "priceOutPer1M": 3.15
+          "priceInPer1M": 0.63,
+          "priceOutPer1M": 1.98
         },
         {
           "id": "huggingface/zai-org/GLM-5.2",
@@ -621271,7 +621271,7 @@
           "id": "qwen/qwen3-next-80b-a3b-instruct",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
+          "priceInPer1M": 0.1,
           "priceOutPer1M": 1.1
         },
         {
@@ -627594,6 +627594,13 @@
           "livebenchAvg": null,
           "priceInPer1M": 1,
           "priceOutPer1M": 2.5
+        },
+        {
+          "id": "nano-gpt/TEE/muse-glimmer-30b",
+          "benchmarkScore": null,
+          "livebenchAvg": null,
+          "priceInPer1M": 0.35,
+          "priceOutPer1M": 1.5
         },
         {
           "id": "nano-gpt/TEE/qwen3.6-35b-a3b",
@@ -647122,8 +647129,8 @@
           "id": "kilo/google/gemma-4-31b-it",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.08,
-          "priceOutPer1M": 0.35
+          "priceInPer1M": 0.09,
+          "priceOutPer1M": 0.34
         },
         {
           "id": "kilo/google/gemini-3.1-flash-image",
@@ -654395,7 +654402,7 @@
           "id": "openrouter/qwen/qwen3-next-80b-a3b-instruct",
           "benchmarkScore": null,
           "livebenchAvg": null,
-          "priceInPer1M": 0.09,
+          "priceInPer1M": 0.1,
           "priceOutPer1M": 1.1
         },
         {
