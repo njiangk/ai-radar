@@ -1,80 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T02:09:38.741Z",
+  "generatedAt": "2026-08-13T05:44:12.837Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro 发布",
-      "reason": "国产大模型新版本，业界高度关注",
+      "title": "DeepSeek V4 Pro 0813 发布",
+      "reason": "最新模型API上线，性能价格引热议",
       "heat": 95,
       "newsIds": [
+        "d0b727037cafe5c912f367fd51ca92477b6fdeac",
         "e28e8fba6612207c9c546ffc619e58c278e8127c"
       ]
     },
     {
       "rank": 2,
-      "title": "AI巨额交易频现",
-      "reason": "Anthropic收购及Jeff Dean新创企融资，资本涌入AI",
-      "heat": 90,
+      "title": "Anthropic 60亿美元收购Decart",
+      "reason": "AI巨头大手笔并购，布局世界模型",
+      "heat": 92,
       "newsIds": [
-        "83ef0e78131df7c95ff734bbdc1d8cd55b09edd7",
-        "bd9cf84f8c15b91c7cf8f103cebedaac2a2cc64b"
+        "83ef0e78131df7c95ff734bbdc1d8cd55b09edd7"
       ]
     },
     {
       "rank": 3,
-      "title": "大规模供应链攻击窃取凭据",
-      "reason": "AI包被入侵，2500名用户凭据遭窃",
+      "title": "Jeff Dean新创企估值百亿",
+      "reason": "传奇工程师再创业，资本追捧",
       "heat": 88,
+      "newsIds": [
+        "bd9cf84f8c15b91c7cf8f103cebedaac2a2cc64b"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI代理攻击台核机构",
+      "reason": "近自主AI代理涉入国安，安全隐忧",
+      "heat": 85,
+      "newsIds": [
+        "f4dbae80ad1ccc698576ec9d983437406a467893"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "供应链攻击窃取数TB凭据",
+      "reason": "恶意AI包入侵2500用户，数据泄露",
+      "heat": 82,
       "newsIds": [
         "916c4f909f54300081b940bba3ba5afbf189002d"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI水印引发用户不满与反制",
-      "reason": "Anthropic水印暴露AI使用，用户寻求移除",
-      "heat": 85,
-      "newsIds": [
-        "3daa30d9847f91f53e6fe0a9b02dac4cba1c7126",
-        "350ca46d563120ade23d93ccb59104bccbad9e6f"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "网站与AI爬虫的攻防新手段",
-      "reason": "字体毒化与llms.txt应对AI抓取",
-      "heat": 80,
-      "newsIds": [
-        "343894e169aca5248ee4e7f6dc6d815311c27444",
-        "a038a2ae57f9d9aaa0417c30fbffd95e301b3fe3"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "游戏行业全面抵制AI",
-      "reason": "游戏律师称所有客户均签反AI合同",
-      "heat": 75,
+      "title": "苹果洽谈新闻内容训练Siri",
+      "reason": "苹果AI布局新动作，或引内容合作",
+      "heat": 78,
       "newsIds": [
-        "11572e84012a57b6ce5f440f7097891b018643d9"
+        "adc042c3db8ab154b46d93531c72f8617df1e8b5"
       ]
     },
     {
       "rank": 7,
-      "title": "加州零工司机工会胜利",
-      "reason": "Uber、Lyft司机赢得工会认可",
+      "title": "AI水印争议：用户不满与破解",
+      "reason": "Claude水印引反感，移除工具出现",
       "heat": 70,
       "newsIds": [
-        "2e1eba4aac070511ac11064ff03e0eccd5a76e21"
+        "3daa30d9847f91f53e6fe0a9b02dac4cba1c7126",
+        "76851f87b91107e1f90b394de569a9992e68a30f"
       ]
     },
     {
       "rank": 8,
-      "title": "从LLM API窃取推理轨迹",
-      "reason": "专有模型推理过程可被逆向提取",
+      "title": "字体武器反制AI爬虫",
+      "reason": "用视觉污染防爬，创新防御手段",
       "heat": 65,
       "newsIds": [
-        "d1747565ab00caebddf8784aff7e35e62d217616"
+        "343894e169aca5248ee4e7f6dc6d815311c27444"
       ]
     }
   ]
