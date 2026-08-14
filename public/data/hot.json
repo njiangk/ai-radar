@@ -1,78 +1,83 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T05:40:21.570Z",
+  "generatedAt": "2026-08-14T09:11:31.580Z",
   "items": [
     {
       "rank": 1,
-      "title": "苹果阿里合作训练中国市场AI模型",
-      "reason": "科技巨头联手，影响中国AI市场",
+      "title": "OpenAI安全风波与监管呼声",
+      "reason": "泄露事件引发AI监管讨论",
       "heat": 95,
       "newsIds": [
-        "e8142f4f826489d0bb33abfa91def2b6e9b0facc"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "特朗普命令航母改用蒸汽弹射器",
-      "reason": "军事决策颠覆传统，引发热议",
-      "heat": 90,
-      "newsIds": [
-        "4ce2751d026216d0dbd634efd82616bd299a6f74",
-        "ebcd358054177efa6462e9e3205a0d4189a2445a"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "马斯克起诉加州AI法律",
-      "reason": "科技领袖挑战法规，透明度之争",
-      "heat": 88,
-      "newsIds": [
-        "33301ab2c826029b0377c8003202c4c03bd622c2"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "OpenAI内部安全反思",
-      "reason": "安全事件引发行业自省",
-      "heat": 85,
-      "newsIds": [
+        "96221e6b24d8fe1221b2f7df66291a0ce27ab34f",
         "9a60ec4dcda9f7df9f497329c81b7fc2724142cb"
       ]
     },
     {
-      "rank": 5,
-      "title": "Databricks融资50亿美元",
-      "reason": "巨额融资显示AI资本热",
-      "heat": 82,
+      "rank": 2,
+      "title": "中国关联黑客AI攻击台湾",
+      "reason": "地缘政治与AI安全交织",
+      "heat": 90,
       "newsIds": [
-        "72c1714eb2a2ff3f6474bba304d93b025fc32e2f"
+        "e8c10e8333f0c18a2084df840440838fe26afef5"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "国产大模型密集发布",
+      "reason": "Qwen/GLM新模型性能亮眼",
+      "heat": 85,
+      "newsIds": [
+        "49e3e0d2e581e164b0b51e41d862b611dc60e58c",
+        "e6c53596b4a80e815105733988ed90171c27eb16",
+        "db3e778cea5d66adc3c51dbfdf6a257ba68c6ca5"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI模型路由与成本优化",
+      "reason": "多模型API管理需求高涨",
+      "heat": 80,
+      "newsIds": [
+        "4dc76bb4166331aaadae13c2a83eb90bdcc76ba5",
+        "f2aa3860aa8e6bfdcb4dff4d87ea5350315c3e64",
+        "391d7c80cdd3ae7ee146fee2e517257e745a7f6f"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "AI隐私法律争议",
+      "reason": "法庭与摄像系统纠纷突起",
+      "heat": 75,
+      "newsIds": [
+        "c622a39b74e2ae962c7ff3e25e3ab6e58142799a",
+        "ab118e6bf2e59fe48205771c5be7125dcca7cdf8"
       ]
     },
     {
       "rank": 6,
-      "title": "GLM-5.3发布：前沿编码模型",
-      "reason": "新模型具备网络能力，技术突破",
-      "heat": 80,
+      "title": "Claude内容标记全球推广",
+      "reason": "AI身份认证仍存争议",
+      "heat": 72,
       "newsIds": [
-        "e6c53596b4a80e815105733988ed90171c27eb16"
+        "fbee205943f01fd0bf4bfc0184c38c5fdda6a5c5"
       ]
     },
     {
       "rank": 7,
-      "title": "数学巨星入职OpenAI",
-      "reason": "顶尖人才与AI碰撞，引发关注",
-      "heat": 75,
+      "title": "Mistral欧洲算力扩张",
+      "reason": "2030年1吉瓦算力目标",
+      "heat": 70,
       "newsIds": [
-        "f9b5ff710c908ff343ad80ead0d116de82eef37a"
+        "be39a0d304e057561bcd524faa47b0ab1b987238"
       ]
     },
     {
       "rank": 8,
-      "title": "AI医疗记录仪出错引担忧",
-      "reason": "医疗AI失误影响患者安全",
-      "heat": 70,
+      "title": "扎克伯格发表AI宣言",
+      "reason": "观点引热议但内容空洞",
+      "heat": 65,
       "newsIds": [
-        "4af661edec8a9abd7f0bc10ce55816d1428c4977"
+        "403f135bd189c06faaeb7e0d681522ac185ba81b"
       ]
     }
   ]
