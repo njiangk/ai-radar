@@ -1,82 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T13:12:33.503Z",
+  "generatedAt": "2026-08-14T14:54:47.968Z",
   "items": [
     {
       "rank": 1,
-      "title": "苹果联手阿里为中国定制AI，中国AI竞赛升温",
-      "reason": "中美AI竞争加剧，苹果罕见合作",
+      "title": "OpenAI与Anthropic价格战应对中国AI",
+      "reason": "中美AI竞争加剧，价格战白热化",
       "heat": 95,
       "newsIds": [
-        "a8d30f7063b5cfffd67c609d132a6bcc3e809ba1",
-        "38f9a3de113cf1aae11ad9707fce4a259ee1fe1f"
+        "6c975d4feeb5c0dce804919d8f32431685686f30"
       ]
     },
     {
       "rank": 2,
-      "title": "Anthropic为Claude输出添加水印，AI溯源成焦点",
-      "reason": "AI安全与版权引热议",
-      "heat": 85,
+      "title": "苹果阿里合作训练中国AI模型",
+      "reason": "巨头联手，中国市场AI布局关键",
+      "heat": 90,
       "newsIds": [
-        "139ca16387704ad2cfb363f4926aa98c6fb5c836",
-        "60259d715a5382f70bbe2015234dc1f8f80877c8"
+        "eb1a1ba45163ca6ae626494bb96511b75406f7d9"
       ]
     },
     {
       "rank": 3,
-      "title": "美国议员欲立法阻止人类与聊天机器人结婚",
-      "reason": "AI伦理触及法律边界",
-      "heat": 80,
+      "title": "Canva估值暴跌100亿美元",
+      "reason": "AI泡沫担忧，估值大幅缩水",
+      "heat": 85,
       "newsIds": [
-        "1a547a1055b80b4f979783b5d8a19f31a4c394da"
+        "374e2aee385e05805a70a6ec3c3c58f157fe2fbb"
       ]
     },
     {
       "rank": 4,
-      "title": "欧盟AI法案或成垂直AI业务阻碍",
-      "reason": "企业合规成本受关注",
-      "heat": 75,
+      "title": "美国天然气涨价冲击AI数据中心",
+      "reason": "AI算力成本或飙升，影响行业",
+      "heat": 80,
       "newsIds": [
-        "52f5a2be883f4d3ab3610ba746d2b764d5d33499"
+        "b31072b49fe0732cba68c79263b2b5ca9facff7e"
       ]
     },
     {
       "rank": 5,
-      "title": "AI病历错误令患者崩溃，医疗AI风险引担忧",
-      "reason": "AI应用安全事件",
-      "heat": 70,
+      "title": "日本企业AI采用迟缓",
+      "reason": "科技大国AI落地缓慢引反思",
+      "heat": 75,
       "newsIds": [
-        "4af661edec8a9abd7f0bc10ce55816d1428c4977"
+        "aef15f5db77997330db94b29354f3c43ce88051b"
       ]
     },
     {
       "rank": 6,
-      "title": "陶哲轩讲座：AI时代的数学与解题潜力",
-      "reason": "顶尖数学家谈AI未来",
-      "heat": 65,
+      "title": "Kog挖掘GPU推理性能",
+      "reason": "突破GPU推理瓶颈，技术前沿",
+      "heat": 70,
       "newsIds": [
-        "bb9325a3558605418e2e9f90ac1ae4510dd05a09",
-        "5bf08bc0b01b2e2c95723a6eac02c28cd2fec283"
+        "5f4cacaaf2bf7e982ebf0b2c3a1064cb3d01f4c4"
       ]
     },
     {
       "rank": 7,
-      "title": "若市场拒绝OpenAI和Anthropic，美国应国有化",
-      "reason": "AI发展战略争议",
-      "heat": 60,
+      "title": "Shoehorn量化LLM适配Mac",
+      "reason": "开源工具让大模型本地运行更高效",
+      "heat": 65,
       "newsIds": [
-        "aa0e57f8852fb01d592d3fa946a4d569fc911747"
+        "26028242d201e69a72ea85fa7f86b40765faef5e"
       ]
     },
     {
       "rank": 8,
-      "title": "MCP/OpenRouter等加速AI代理工具互联",
-      "reason": "AI代理生态关键进展",
-      "heat": 55,
+      "title": "开发者呼吁AI默认安全隐私",
+      "reason": "行业对安全隐私呼声高涨",
+      "heat": 60,
       "newsIds": [
-        "1016b975d69b3092a1437a85ce628ea94e435a68",
-        "ea2ed1ed6b6bb45462cfd737384d33538cc369b3",
-        "4dc76bb4166331aaadae13c2a83eb90bdcc76ba5"
+        "588eec7865ef52a67e07bba3e4563408028712ee"
       ]
     }
   ]
