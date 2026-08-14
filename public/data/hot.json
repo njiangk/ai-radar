@@ -1,77 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T14:54:47.968Z",
+  "generatedAt": "2026-08-14T16:57:37.645Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI与Anthropic价格战应对中国AI",
-      "reason": "中美AI竞争加剧，价格战白热化",
+      "title": "谷歌移除AI水印引发争议",
+      "reason": "谷歌允许用户移除AI水印，引发标识政策讨论",
       "heat": 95,
       "newsIds": [
-        "6c975d4feeb5c0dce804919d8f32431685686f30"
+        "d469d19d5d596cb8087f7c7fbe619c7b0aeaa05b",
+        "0a600d7e7744886c015d6868fd492fda60735c96"
       ]
     },
     {
       "rank": 2,
-      "title": "苹果阿里合作训练中国AI模型",
-      "reason": "巨头联手，中国市场AI布局关键",
+      "title": "Meta发开源模型Glimmer",
+      "reason": "扎克伯格称AI应归所有人，引发开放与封闭之争",
       "heat": 90,
       "newsIds": [
-        "eb1a1ba45163ca6ae626494bb96511b75406f7d9"
+        "09cd4c66e1c4693e3ba0b967322f85f514e0954b"
       ]
     },
     {
       "rank": 3,
-      "title": "Canva估值暴跌100亿美元",
-      "reason": "AI泡沫担忧，估值大幅缩水",
+      "title": "编程智能体评估成焦点",
+      "reason": "公开基准饱和，新工具/自建评测涌现",
       "heat": 85,
       "newsIds": [
-        "374e2aee385e05805a70a6ec3c3c58f157fe2fbb"
+        "a64a6257e8c81fdb108a4ce2aecea02d120c3abb",
+        "ea9c825738edfd7f04e1cf4f865e0204b136d942"
       ]
     },
     {
       "rank": 4,
-      "title": "美国天然气涨价冲击AI数据中心",
-      "reason": "AI算力成本或飙升，影响行业",
-      "heat": 80,
+      "title": "Qwen3本地运行方案涌现",
+      "reason": "量化部署更易用，开源模型落地加速",
+      "heat": 82,
       "newsIds": [
-        "b31072b49fe0732cba68c79263b2b5ca9facff7e"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "日本企业AI采用迟缓",
-      "reason": "科技大国AI落地缓慢引反思",
-      "heat": 75,
-      "newsIds": [
-        "aef15f5db77997330db94b29354f3c43ce88051b"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Kog挖掘GPU推理性能",
-      "reason": "突破GPU推理瓶颈，技术前沿",
-      "heat": 70,
-      "newsIds": [
-        "5f4cacaaf2bf7e982ebf0b2c3a1064cb3d01f4c4"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Shoehorn量化LLM适配Mac",
-      "reason": "开源工具让大模型本地运行更高效",
-      "heat": 65,
-      "newsIds": [
+        "10c60fc60c0f076537f40bfc360555bb51f49347",
         "26028242d201e69a72ea85fa7f86b40765faef5e"
       ]
     },
     {
-      "rank": 8,
-      "title": "开发者呼吁AI默认安全隐私",
-      "reason": "行业对安全隐私呼声高涨",
-      "heat": 60,
+      "rank": 5,
+      "title": "谷歌同态加密推动私有AI",
+      "reason": "同态加密让私有AI实用化，隐私计算突破",
+      "heat": 80,
       "newsIds": [
-        "588eec7865ef52a67e07bba3e4563408028712ee"
+        "543d69cb31ad761d5b3fc29cd42dedf319a9a371"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "高校停用AI检测器",
+      "reason": "南洋理工弃用不可靠检测器，教育界反思",
+      "heat": 75,
+      "newsIds": [
+        "3cdc58a0470666e31972b096ee4b6ffafa066e74"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "开源Lovable替代方案Agentic Ship",
+      "reason": "AI智能体自动交付全栈应用，开源惹关注",
+      "heat": 72,
+      "newsIds": [
+        "6afde5d69509d51c62f17f830e97a59f2be0bab1"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "欧洲出版商遭AI抓取更严重",
+      "reason": "报告指欧洲出版商受AI爬虫影响更大，版权受关注",
+      "heat": 70,
+      "newsIds": [
+        "b483821fc13c3538d75ccf8cbdacff5d9a1fc876"
       ]
     }
   ]
