@@ -1,80 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T16:57:37.645Z",
+  "generatedAt": "2026-08-14T18:58:30.570Z",
   "items": [
     {
       "rank": 1,
-      "title": "谷歌移除AI水印引发争议",
-      "reason": "谷歌允许用户移除AI水印，引发标识政策讨论",
+      "title": "谷歌DeepMind发布手语转文本模型SL2T",
+      "reason": "AI突破实现手语实时转文本",
       "heat": 95,
+      "newsIds": [
+        "9c2d2be8f2107b43c705d7c2088e8a082181ad84"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "苹果借助阿里巴巴为中国市场训练AI模型",
+      "reason": "苹果加码中国AI市场布局",
+      "heat": 93,
+      "newsIds": [
+        "e8142f4f826489d0bb33abfa91def2b6e9b0facc"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "英伟达5000亿美元计划席卷华尔街",
+      "reason": "巨额投资引爆AI基础设施热潮",
+      "heat": 92,
+      "newsIds": [
+        "c6116e076cbc93499c1cb28907060113d59aa605"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "谷歌允许用户移除AI内容可见水印",
+      "reason": "引发AI内容透明度争议",
+      "heat": 85,
       "newsIds": [
         "d469d19d5d596cb8087f7c7fbe619c7b0aeaa05b",
         "0a600d7e7744886c015d6868fd492fda60735c96"
       ]
     },
     {
-      "rank": 2,
-      "title": "Meta发开源模型Glimmer",
-      "reason": "扎克伯格称AI应归所有人，引发开放与封闭之争",
-      "heat": 90,
+      "rank": 5,
+      "title": "Meta发布开源AI模型Glimmer",
+      "reason": "开源模型挑战闭源巨头",
+      "heat": 88,
       "newsIds": [
         "09cd4c66e1c4693e3ba0b967322f85f514e0954b"
       ]
     },
     {
-      "rank": 3,
-      "title": "编程智能体评估成焦点",
-      "reason": "公开基准饱和，新工具/自建评测涌现",
-      "heat": 85,
-      "newsIds": [
-        "a64a6257e8c81fdb108a4ce2aecea02d120c3abb",
-        "ea9c825738edfd7f04e1cf4f865e0204b136d942"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Qwen3本地运行方案涌现",
-      "reason": "量化部署更易用，开源模型落地加速",
+      "rank": 6,
+      "title": "高级黑客瞄准Salesforce和ServiceNow",
+      "reason": "企业SaaS平台遭定向攻击",
       "heat": 82,
       "newsIds": [
-        "10c60fc60c0f076537f40bfc360555bb51f49347",
-        "26028242d201e69a72ea85fa7f86b40765faef5e"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "谷歌同态加密推动私有AI",
-      "reason": "同态加密让私有AI实用化，隐私计算突破",
-      "heat": 80,
-      "newsIds": [
-        "543d69cb31ad761d5b3fc29cd42dedf319a9a371"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "高校停用AI检测器",
-      "reason": "南洋理工弃用不可靠检测器，教育界反思",
-      "heat": 75,
-      "newsIds": [
-        "3cdc58a0470666e31972b096ee4b6ffafa066e74"
+        "5febc6b51b716d5375e376d779aa11498b244b32"
       ]
     },
     {
       "rank": 7,
-      "title": "开源Lovable替代方案Agentic Ship",
-      "reason": "AI智能体自动交付全栈应用，开源惹关注",
-      "heat": 72,
+      "title": "前OpenAI高管用AI攻克POTS",
+      "reason": "AI医疗应用成新焦点",
+      "heat": 78,
       "newsIds": [
-        "6afde5d69509d51c62f17f830e97a59f2be0bab1"
+        "b648730bffeae547b5f8c1094c4bd085315a99bc"
       ]
     },
     {
       "rank": 8,
-      "title": "欧洲出版商遭AI抓取更严重",
-      "reason": "报告指欧洲出版商受AI爬虫影响更大，版权受关注",
-      "heat": 70,
+      "title": "男子向法院文件注入AI提示词",
+      "reason": "AI滥用引发司法信任危机",
+      "heat": 75,
       "newsIds": [
-        "b483821fc13c3538d75ccf8cbdacff5d9a1fc876"
+        "a4e34328d1a87c9406b51f676500f9c5df3cc72f"
       ]
     }
   ]
