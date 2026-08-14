@@ -1,83 +1,92 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T09:11:31.580Z",
+  "generatedAt": "2026-08-14T11:00:18.361Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI安全风波与监管呼声",
-      "reason": "泄露事件引发AI监管讨论",
-      "heat": 95,
+      "title": "AI监管与法律争议",
+      "reason": "多起AI法律事件引发监管探讨",
+      "heat": 90,
       "newsIds": [
+        "1a547a1055b80b4f979783b5d8a19f31a4c394da",
+        "c17be27dbe2a24a94b84867382d871e103882347",
+        "8b1f3ea984c91d221315bb58a958a30e61f5cbfa",
         "96221e6b24d8fe1221b2f7df66291a0ce27ab34f",
-        "9a60ec4dcda9f7df9f497329c81b7fc2724142cb"
+        "c622a39b74e2ae962c7ff3e25e3ab6e58142799a"
       ]
     },
     {
       "rank": 2,
-      "title": "中国关联黑客AI攻击台湾",
-      "reason": "地缘政治与AI安全交织",
-      "heat": 90,
+      "title": "AI新模型集中发布",
+      "reason": "Gemini、GLM等新模型密集亮相",
+      "heat": 88,
       "newsIds": [
-        "e8c10e8333f0c18a2084df840440838fe26afef5"
+        "edfcd2863b63d11c147cd761be6e4b0034e0e146",
+        "d49f6998ad037aeadef83c4d0521c0fd345aafde",
+        "e6c53596b4a80e815105733988ed90171c27eb16"
       ]
     },
     {
       "rank": 3,
-      "title": "国产大模型密集发布",
-      "reason": "Qwen/GLM新模型性能亮眼",
+      "title": "AI伴侣与性健康争议",
+      "reason": "AI用于自慰研究引伦理讨论",
       "heat": 85,
       "newsIds": [
-        "49e3e0d2e581e164b0b51e41d862b611dc60e58c",
-        "e6c53596b4a80e815105733988ed90171c27eb16",
-        "db3e778cea5d66adc3c51dbfdf6a257ba68c6ca5"
+        "57a1ad4796c128fd5c321d90729a94c097e9a42d"
       ]
     },
     {
       "rank": 4,
-      "title": "AI模型路由与成本优化",
-      "reason": "多模型API管理需求高涨",
+      "title": "AI成本优化与API管理",
+      "reason": "开发者热衷降低LLM调用成本",
       "heat": 80,
       "newsIds": [
         "4dc76bb4166331aaadae13c2a83eb90bdcc76ba5",
         "f2aa3860aa8e6bfdcb4dff4d87ea5350315c3e64",
-        "391d7c80cdd3ae7ee146fee2e517257e745a7f6f"
+        "ea2ed1ed6b6bb45462cfd737384d33538cc369b3",
+        "391d7c80cdd3ae7ee146fee2e517257e745a7f6f",
+        "a7258cc5755fe3d945db8ff5b736bfe3ecf9ae62"
       ]
     },
     {
       "rank": 5,
-      "title": "AI隐私法律争议",
-      "reason": "法庭与摄像系统纠纷突起",
-      "heat": 75,
+      "title": "AI智能体：行业热议与实际应用",
+      "reason": "智能体成为AI应用新焦点",
+      "heat": 72,
       "newsIds": [
-        "c622a39b74e2ae962c7ff3e25e3ab6e58142799a",
-        "ab118e6bf2e59fe48205771c5be7125dcca7cdf8"
+        "819a361c8eabd30f134bcc4ae03ba272eb930ba6",
+        "3974510e29507cd2328007411b576ba5fe3344a4"
       ]
     },
     {
       "rank": 6,
-      "title": "Claude内容标记全球推广",
-      "reason": "AI身份认证仍存争议",
-      "heat": 72,
+      "title": "AI代码安全仍需人工审查",
+      "reason": "AI补丁与扫描器依赖专家把控",
+      "heat": 68,
       "newsIds": [
-        "fbee205943f01fd0bf4bfc0184c38c5fdda6a5c5"
+        "152b4d0906eff6963ccdc82ee30162b1a2da708d",
+        "e729541a27cebff8835089940d715a979b5adbe5"
       ]
     },
     {
       "rank": 7,
-      "title": "Mistral欧洲算力扩张",
-      "reason": "2030年1吉瓦算力目标",
-      "heat": 70,
+      "title": "AI自动化应用落地",
+      "reason": "从运营到清洁机器人，AI渗入各业",
+      "heat": 62,
       "newsIds": [
-        "be39a0d304e057561bcd524faa47b0ab1b987238"
+        "c66d202b2ac1f07d8830a42898e09e9a3ac29ace",
+        "600eff58bae02848b37b876a206773afe6cf3203",
+        "ef0ad4d8262075c408c2475426c8e2c5c56503b6"
       ]
     },
     {
       "rank": 8,
-      "title": "扎克伯格发表AI宣言",
-      "reason": "观点引热议但内容空洞",
-      "heat": 65,
+      "title": "AI认知与研究方向",
+      "reason": "探讨AI是真正理解还是机械记忆",
+      "heat": 55,
       "newsIds": [
-        "403f135bd189c06faaeb7e0d681522ac185ba81b"
+        "627a59aedf9611fdaeb7d1ff2dd899265b592252",
+        "8a97d8db14040dcdce204c279074ca9c6663d9c3"
       ]
     }
   ]
