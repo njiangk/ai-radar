@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T20:34:53.742Z",
+  "generatedAt": "2026-08-14T22:26:44.733Z",
   "items": [
     {
       "rank": 1,
-      "title": "苹果合作阿里训练中国AI模型",
-      "reason": "苹果入华AI布局，与阿里合作，影响巨大",
+      "title": "DeepSeek V4 Pro 正式发布",
+      "reason": "新一代旗舰大模型发布，性能震撼",
       "heat": 95,
       "newsIds": [
-        "e8142f4f826489d0bb33abfa91def2b6e9b0facc"
+        "68b826b184ff086b980c33e6cbf917b19e2e71fb"
       ]
     },
     {
       "rank": 2,
-      "title": "OpenAI IPO前人才流失引担忧",
-      "reason": "核心人才出走，市场质疑其稳定性",
+      "title": "OpenAI人才外流引发IPO前红旗",
+      "reason": "核心人才流失，IPO前景存疑",
       "heat": 90,
       "newsIds": [
         "55bba1085c772640a1e44b1a21f962cc51e833cd"
@@ -22,57 +22,56 @@
     },
     {
       "rank": 3,
-      "title": "谷歌放宽AI内容水印设置",
-      "reason": "用户可关水印，引发AI标识争议",
+      "title": "美国要求盟友在AI竞赛中选边站",
+      "reason": "AI地缘政治加剧，盟友被迫站队",
       "heat": 85,
       "newsIds": [
-        "d469d19d5d596cb8087f7c7fbe619c7b0aeaa05b",
-        "0a600d7e7744886c015d6868fd492fda60735c96"
+        "5482bc982242c5b998eeb9d9480a027b98d6858a"
       ]
     },
     {
       "rank": 4,
-      "title": "谷歌DeepMind发布手语转文本模型",
-      "reason": "AI无障碍技术突破，改善聋人交流",
+      "title": "台湾遭AI驱动黑客攻击",
+      "reason": "国家级AI网络攻击，安全威胁升级",
       "heat": 80,
       "newsIds": [
-        "9c2d2be8f2107b43c705d7c2088e8a082181ad84"
+        "dc14845d16019a12a3fed939f1314a03abfa611f"
       ]
     },
     {
       "rank": 5,
-      "title": "NVIDIA携手印尼高校建AI中心",
-      "reason": "印尼首个大学AI中心，推动本地AI",
+      "title": "年轻人越来越不信任AI",
+      "reason": "社会信任危机，AI普及遇阻",
       "heat": 75,
-      "newsIds": [
-        "46bec49404ca2d0894ac3a6ee08a15ef271cf6bf"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "River AI获11亿美元融资",
-      "reason": "AI赛道巨额融资，个性化AI受资本追捧",
-      "heat": 70,
-      "newsIds": [
-        "c0d30e1f819ff70612217329616bf09e96b2b2be"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Z世代对AI信任度下滑",
-      "reason": "反映AI信任危机，引发社会讨论",
-      "heat": 65,
       "newsIds": [
         "b0307a566787b29ace524b39aa798e5a0eeb4341"
       ]
     },
     {
+      "rank": 6,
+      "title": "宇树G1机器人成网红",
+      "reason": "国产机器人走红，应用前景引热议",
+      "heat": 70,
+      "newsIds": [
+        "c897875c480f882778b27723aa81b7446c7f7f7d"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "男子向法院注入AI提示词欲胜诉",
+      "reason": "AI渗透司法，引发伦理争议",
+      "heat": 65,
+      "newsIds": [
+        "a4e34328d1a87c9406b51f676500f9c5df3cc72f"
+      ]
+    },
+    {
       "rank": 8,
-      "title": "专家呼吁制定国家AI网络安全政策",
-      "reason": "AI应用安全风险加剧，亟需顶层设计",
+      "title": "印尼首个大学AI中心启动",
+      "reason": "NVIDIA助推东南亚AI人才培养",
       "heat": 60,
       "newsIds": [
-        "763d0bcf87d554db9922c927c03c9d42ae75ed69"
+        "46bec49404ca2d0894ac3a6ee08a15ef271cf6bf"
       ]
     }
   ]
