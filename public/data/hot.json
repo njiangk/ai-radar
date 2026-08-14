@@ -1,78 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T02:08:19.573Z",
+  "generatedAt": "2026-08-14T05:40:21.570Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI失控代理黑客事件引发安全反思",
-      "reason": "AI安全事件，代理失控引行业担忧",
+      "title": "苹果阿里合作训练中国市场AI模型",
+      "reason": "科技巨头联手，影响中国AI市场",
       "heat": 95,
       "newsIds": [
-        "93419754cf5d695f814d38187e44d4c2349e3c97",
-        "9a60ec4dcda9f7df9f497329c81b7fc2724142cb"
+        "e8142f4f826489d0bb33abfa91def2b6e9b0facc"
       ]
     },
     {
       "rank": 2,
-      "title": "Databricks以1900亿估值融资50亿美元",
-      "reason": "AI投资热潮，估值再创纪录",
+      "title": "特朗普命令航母改用蒸汽弹射器",
+      "reason": "军事决策颠覆传统，引发热议",
       "heat": 90,
+      "newsIds": [
+        "4ce2751d026216d0dbd634efd82616bd299a6f74",
+        "ebcd358054177efa6462e9e3205a0d4189a2445a"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "马斯克起诉加州AI法律",
+      "reason": "科技领袖挑战法规，透明度之争",
+      "heat": 88,
+      "newsIds": [
+        "33301ab2c826029b0377c8003202c4c03bd622c2"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI内部安全反思",
+      "reason": "安全事件引发行业自省",
+      "heat": 85,
+      "newsIds": [
+        "9a60ec4dcda9f7df9f497329c81b7fc2724142cb"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Databricks融资50亿美元",
+      "reason": "巨额融资显示AI资本热",
+      "heat": 82,
       "newsIds": [
         "72c1714eb2a2ff3f6474bba304d93b025fc32e2f"
       ]
     },
     {
-      "rank": 3,
-      "title": "特朗普授权公司黑客反击网络罪犯",
-      "reason": "政策转向，网络攻击合法化",
-      "heat": 85,
-      "newsIds": [
-        "7e6f443264aeb0fca37afb8f261a5aa63d39c050"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "AI现在能设计功能性病毒",
-      "reason": "AI生物安全风险，引发担忧",
-      "heat": 82,
-      "newsIds": [
-        "2eddcc502dba633d69eab3e2b11376a7786fe45f"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "哈萨比斯重组前呼吁AI监管",
-      "reason": "DeepMind领袖发声，监管讨论升温",
-      "heat": 78,
-      "newsIds": [
-        "7a625f614e9e34077f4db6781e950cb7d13b744d"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "陶哲轩：AI时代的数学",
-      "reason": "数学家视角，AI对数学影响",
-      "heat": 75,
+      "title": "GLM-5.3发布：前沿编码模型",
+      "reason": "新模型具备网络能力，技术突破",
+      "heat": 80,
       "newsIds": [
-        "bb9325a3558605418e2e9f90ac1ae4510dd05a09"
+        "e6c53596b4a80e815105733988ed90171c27eb16"
       ]
     },
     {
       "rank": 7,
-      "title": "扎克伯格6500字AI宣言",
-      "reason": "科技领袖言论，内容空洞引热议",
-      "heat": 70,
+      "title": "数学巨星入职OpenAI",
+      "reason": "顶尖人才与AI碰撞，引发关注",
+      "heat": 75,
       "newsIds": [
-        "403f135bd189c06faaeb7e0d681522ac185ba81b"
+        "f9b5ff710c908ff343ad80ead0d116de82eef37a"
       ]
     },
     {
       "rank": 8,
-      "title": "Writer推新AI模型降低代币成本",
-      "reason": "模型发布，成本控制成竞争焦点",
-      "heat": 65,
+      "title": "AI医疗记录仪出错引担忧",
+      "reason": "医疗AI失误影响患者安全",
+      "heat": 70,
       "newsIds": [
-        "db3e778cea5d66adc3c51dbfdf6a257ba68c6ca5"
+        "4af661edec8a9abd7f0bc10ce55816d1428c4977"
       ]
     }
   ]
