@@ -1,87 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T22:45:51.536Z",
+  "generatedAt": "2026-08-14T02:08:19.573Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI多事之秋：安全反思、高管离职与提速",
-      "reason": "OpenAI连串变动引发行业关注",
+      "title": "OpenAI失控代理黑客事件引发安全反思",
+      "reason": "AI安全事件，代理失控引行业担忧",
       "heat": 95,
       "newsIds": [
-        "7bececf76d957d3a5ef2209d8f4a93189141dc0c",
-        "71f28f1b3fcc8fba872f6c883bdcaa32b7b82b3b"
+        "93419754cf5d695f814d38187e44d4c2349e3c97",
+        "9a60ec4dcda9f7df9f497329c81b7fc2724142cb"
       ]
     },
     {
       "rank": 2,
-      "title": "AI资本狂热与成本隐忧",
-      "reason": "巨额融资与债务问题引发热议",
+      "title": "Databricks以1900亿估值融资50亿美元",
+      "reason": "AI投资热潮，估值再创纪录",
       "heat": 90,
       "newsIds": [
-        "de310bf0ace1512025bf591b78535f6f558fc6d5",
-        "db3e778cea5d66adc3c51dbfdf6a257ba68c6ca5",
-        "72c1714eb2a2ff3f6474bba304d93b025fc32e2f",
-        "1d2821dada56ca4165be8f25a231045d2f3bb2a2"
+        "72c1714eb2a2ff3f6474bba304d93b025fc32e2f"
       ]
     },
     {
       "rank": 3,
-      "title": "AI社会风险引发信任危机",
-      "reason": "关于AI负面影响的讨论升温",
+      "title": "特朗普授权公司黑客反击网络罪犯",
+      "reason": "政策转向，网络攻击合法化",
       "heat": 85,
       "newsIds": [
-        "51a9230adffd08afd3dc438e28baed9d49317be5",
-        "0af0359ae1bdb3543bcf6cd619d7a12d0ebb5bfb",
-        "102c385e4908e489deb89bde8172b0a7607f8d09"
+        "7e6f443264aeb0fca37afb8f261a5aa63d39c050"
       ]
     },
     {
       "rank": 4,
-      "title": "微软AI战略调整与中国撤退",
-      "reason": "科技巨头AI方向生变",
-      "heat": 78,
+      "title": "AI现在能设计功能性病毒",
+      "reason": "AI生物安全风险，引发担忧",
+      "heat": 82,
       "newsIds": [
-        "2cd82d85e5877ec34d62b25d22fbd7a102d8d8ba",
-        "0742ba50144a993f31385c5f64fb09f94b8eb8f7"
+        "2eddcc502dba633d69eab3e2b11376a7786fe45f"
       ]
     },
     {
       "rank": 5,
-      "title": "陶哲轩谈AI时代的数学",
-      "reason": "顶尖数学家展望AI影响",
+      "title": "哈萨比斯重组前呼吁AI监管",
+      "reason": "DeepMind领袖发声，监管讨论升温",
+      "heat": 78,
+      "newsIds": [
+        "7a625f614e9e34077f4db6781e950cb7d13b744d"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "陶哲轩：AI时代的数学",
+      "reason": "数学家视角，AI对数学影响",
       "heat": 75,
       "newsIds": [
         "bb9325a3558605418e2e9f90ac1ae4510dd05a09"
       ]
     },
     {
-      "rank": 6,
-      "title": "AI辅助编码实践与工具创新",
-      "reason": "AI编程工具竞争白热化",
-      "heat": 72,
-      "newsIds": [
-        "e02e37f3af3764580b69a6eddf09e16cb2fd92cf",
-        "cf120177ae6582291e11b3b4c3762ffc3fd54b53",
-        "36d292a1f5a668a2e32c9ac70230350de57fdee3",
-        "de3e2bf805d40e3f0119050fc7d262d9b8be2f66"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Mistral AI战略布局",
-      "reason": "欧洲AI新贵动向受瞩目",
-      "heat": 68,
+      "title": "扎克伯格6500字AI宣言",
+      "reason": "科技领袖言论，内容空洞引热议",
+      "heat": 70,
       "newsIds": [
-        "be39a0d304e057561bcd524faa47b0ab1b987238"
+        "403f135bd189c06faaeb7e0d681522ac185ba81b"
       ]
     },
     {
       "rank": 8,
-      "title": "扎克伯格AI宣言引发争议",
-      "reason": "6500字宣言被批空洞",
+      "title": "Writer推新AI模型降低代币成本",
+      "reason": "模型发布，成本控制成竞争焦点",
       "heat": 65,
       "newsIds": [
-        "403f135bd189c06faaeb7e0d681522ac185ba81b"
+        "db3e778cea5d66adc3c51dbfdf6a257ba68c6ca5"
       ]
     }
   ]
