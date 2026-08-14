@@ -1,92 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T11:00:18.361Z",
+  "generatedAt": "2026-08-14T13:12:33.503Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI监管与法律争议",
-      "reason": "多起AI法律事件引发监管探讨",
-      "heat": 90,
+      "title": "苹果联手阿里为中国定制AI，中国AI竞赛升温",
+      "reason": "中美AI竞争加剧，苹果罕见合作",
+      "heat": 95,
       "newsIds": [
-        "1a547a1055b80b4f979783b5d8a19f31a4c394da",
-        "c17be27dbe2a24a94b84867382d871e103882347",
-        "8b1f3ea984c91d221315bb58a958a30e61f5cbfa",
-        "96221e6b24d8fe1221b2f7df66291a0ce27ab34f",
-        "c622a39b74e2ae962c7ff3e25e3ab6e58142799a"
+        "a8d30f7063b5cfffd67c609d132a6bcc3e809ba1",
+        "38f9a3de113cf1aae11ad9707fce4a259ee1fe1f"
       ]
     },
     {
       "rank": 2,
-      "title": "AI新模型集中发布",
-      "reason": "Gemini、GLM等新模型密集亮相",
-      "heat": 88,
+      "title": "Anthropic为Claude输出添加水印，AI溯源成焦点",
+      "reason": "AI安全与版权引热议",
+      "heat": 85,
       "newsIds": [
-        "edfcd2863b63d11c147cd761be6e4b0034e0e146",
-        "d49f6998ad037aeadef83c4d0521c0fd345aafde",
-        "e6c53596b4a80e815105733988ed90171c27eb16"
+        "139ca16387704ad2cfb363f4926aa98c6fb5c836",
+        "60259d715a5382f70bbe2015234dc1f8f80877c8"
       ]
     },
     {
       "rank": 3,
-      "title": "AI伴侣与性健康争议",
-      "reason": "AI用于自慰研究引伦理讨论",
-      "heat": 85,
+      "title": "美国议员欲立法阻止人类与聊天机器人结婚",
+      "reason": "AI伦理触及法律边界",
+      "heat": 80,
       "newsIds": [
-        "57a1ad4796c128fd5c321d90729a94c097e9a42d"
+        "1a547a1055b80b4f979783b5d8a19f31a4c394da"
       ]
     },
     {
       "rank": 4,
-      "title": "AI成本优化与API管理",
-      "reason": "开发者热衷降低LLM调用成本",
-      "heat": 80,
+      "title": "欧盟AI法案或成垂直AI业务阻碍",
+      "reason": "企业合规成本受关注",
+      "heat": 75,
       "newsIds": [
-        "4dc76bb4166331aaadae13c2a83eb90bdcc76ba5",
-        "f2aa3860aa8e6bfdcb4dff4d87ea5350315c3e64",
-        "ea2ed1ed6b6bb45462cfd737384d33538cc369b3",
-        "391d7c80cdd3ae7ee146fee2e517257e745a7f6f",
-        "a7258cc5755fe3d945db8ff5b736bfe3ecf9ae62"
+        "52f5a2be883f4d3ab3610ba746d2b764d5d33499"
       ]
     },
     {
       "rank": 5,
-      "title": "AI智能体：行业热议与实际应用",
-      "reason": "智能体成为AI应用新焦点",
-      "heat": 72,
+      "title": "AI病历错误令患者崩溃，医疗AI风险引担忧",
+      "reason": "AI应用安全事件",
+      "heat": 70,
       "newsIds": [
-        "819a361c8eabd30f134bcc4ae03ba272eb930ba6",
-        "3974510e29507cd2328007411b576ba5fe3344a4"
+        "4af661edec8a9abd7f0bc10ce55816d1428c4977"
       ]
     },
     {
       "rank": 6,
-      "title": "AI代码安全仍需人工审查",
-      "reason": "AI补丁与扫描器依赖专家把控",
-      "heat": 68,
+      "title": "陶哲轩讲座：AI时代的数学与解题潜力",
+      "reason": "顶尖数学家谈AI未来",
+      "heat": 65,
       "newsIds": [
-        "152b4d0906eff6963ccdc82ee30162b1a2da708d",
-        "e729541a27cebff8835089940d715a979b5adbe5"
+        "bb9325a3558605418e2e9f90ac1ae4510dd05a09",
+        "5bf08bc0b01b2e2c95723a6eac02c28cd2fec283"
       ]
     },
     {
       "rank": 7,
-      "title": "AI自动化应用落地",
-      "reason": "从运营到清洁机器人，AI渗入各业",
-      "heat": 62,
+      "title": "若市场拒绝OpenAI和Anthropic，美国应国有化",
+      "reason": "AI发展战略争议",
+      "heat": 60,
       "newsIds": [
-        "c66d202b2ac1f07d8830a42898e09e9a3ac29ace",
-        "600eff58bae02848b37b876a206773afe6cf3203",
-        "ef0ad4d8262075c408c2475426c8e2c5c56503b6"
+        "aa0e57f8852fb01d592d3fa946a4d569fc911747"
       ]
     },
     {
       "rank": 8,
-      "title": "AI认知与研究方向",
-      "reason": "探讨AI是真正理解还是机械记忆",
+      "title": "MCP/OpenRouter等加速AI代理工具互联",
+      "reason": "AI代理生态关键进展",
       "heat": 55,
       "newsIds": [
-        "627a59aedf9611fdaeb7d1ff2dd899265b592252",
-        "8a97d8db14040dcdce204c279074ca9c6663d9c3"
+        "1016b975d69b3092a1437a85ce628ea94e435a68",
+        "ea2ed1ed6b6bb45462cfd737384d33538cc369b3",
+        "4dc76bb4166331aaadae13c2a83eb90bdcc76ba5"
       ]
     }
   ]
