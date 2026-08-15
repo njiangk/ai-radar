@@ -1,79 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T12:42:52.762Z",
+  "generatedAt": "2026-08-15T14:26:22.191Z",
   "items": [
     {
       "rank": 1,
-      "title": "GLM-5.3开源发布",
-      "reason": "中国AI开源新突破，安全路径受瞩目",
+      "title": "DeepSeek V4 Flash 发布，速度 278 tok/s",
+      "reason": "高性能模型，社区热议",
       "heat": 95,
       "newsIds": [
-        "2af6f64fccdfd2a4e4cfe7ebbd3e0ff9ed7ddb92",
-        "7cdafe14a1ae4937db2249a73d95d3568b6a02ae",
-        "3e4e84742a48b5a77bf4b7a97b9e9e50f36f4738"
+        "195fcec34841b147b70d5682399a86515810c4f4"
       ]
     },
     {
       "rank": 2,
-      "title": "Twitch内容默认训练AI引众怒",
-      "reason": "平台未经同意使用用户数据，隐私争议大",
+      "title": "Anthropic 警告 AI 风险，暂缓发布强模型",
+      "reason": "顶级实验室安全声明",
       "heat": 90,
-      "newsIds": [
-        "6106cc4244e94d2e117a94aa555fc35733f9a0f0"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Anthropic警示AI风险加剧",
-      "reason": "顶级AI实验室预警风险，拒发更强模型",
-      "heat": 88,
       "newsIds": [
         "05d4ea9aaa4fff86b65fec338b09ea0de849e405"
       ]
     },
     {
-      "rank": 4,
-      "title": "阿里AI模型下载量破30亿",
-      "reason": "国产模型下载量超越国际巨头，生态强劲",
-      "heat": 85,
+      "rank": 3,
+      "title": "美国施压盟友选边 AI 竞赛",
+      "reason": "地缘政治影响全球格局",
+      "heat": 88,
       "newsIds": [
-        "c1ccbfd759289900a7e12bec7016896b96b11c0f"
+        "b45f1ad3ca4c9eae30ffd7de0095f31550483bfd"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "亚马逊用 Twitch 数据训练 AI 引争议",
+      "reason": "隐私问题，用户可退出",
+      "heat": 86,
+      "newsIds": [
+        "6106cc4244e94d2e117a94aa555fc35733f9a0f0"
       ]
     },
     {
       "rank": 5,
-      "title": "AI在数学上再获突破",
-      "reason": "AI科学能力提升，数学领域再获突破",
+      "title": "Meta 申请 AI 眼镜人脸识别专利",
+      "reason": "科技巨头涉足敏感隐私",
       "heat": 82,
+      "newsIds": [
+        "7224818b1b4161598f21f47e45546bd18308be53"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "NASA 处理器速度提升 500 倍",
+      "reason": "航天级芯片重大突破",
+      "heat": 80,
+      "newsIds": [
+        "071c4f53c8481a2519d11fffdf08be287e2fa0b4"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI 数学再获突破，高中辍学者参与",
+      "reason": "研究新成果，励志故事",
+      "heat": 78,
       "newsIds": [
         "12b9759d587579db4106c6b35e183e57453ab233"
       ]
     },
     {
-      "rank": 6,
-      "title": "Codex用户突破1500万",
-      "reason": "AI编程工具用户激增，开发范式变革",
-      "heat": 80,
-      "newsIds": [
-        "a9c1377ce2e0f5be97d913da850e9829958cf5d7"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "AI代理致害责任归属成焦点",
-      "reason": "AI自主行为责任空白，法律监管亟需明确",
+      "rank": 8,
+      "title": "Debian 社区投票决定 AI/LLM 贡献",
+      "reason": "开源社区如何拥抱 AI",
       "heat": 75,
       "newsIds": [
-        "13b3ce189ea71d001a28fee2409c1405b55ba686"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "俄导弹现英伟达AI芯片",
-      "reason": "AI硬件卷入冲突，出口管制再成焦点",
-      "heat": 72,
-      "newsIds": [
-        "1f35c3c877b1c88abaf6138245f8ea64eba8956d"
+        "aaca96fa0e6a2afa298d19a236e00abfa3b4d398"
       ]
     }
   ]
