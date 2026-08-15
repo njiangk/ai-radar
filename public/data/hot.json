@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T18:33:54.962Z",
+  "generatedAt": "2026-08-15T20:26:13.135Z",
   "items": [
     {
       "rank": 1,
-      "title": "SpaceX收购AI编程工具Cursor",
-      "reason": "巨头跨界收购，AI编程格局生变",
+      "title": "SpaceX收购AI编程Cursor",
+      "reason": "AI编程赛道最大并购落地",
       "heat": 95,
       "newsIds": [
         "04418f82cc0c36b2d99e9e47fbff9a39807f1b42",
@@ -14,18 +14,19 @@
     },
     {
       "rank": 2,
-      "title": "美国要求盟友在中美AI竞赛选边站",
-      "reason": "中美博弈升级，盟友被迫表态",
+      "title": "AI安全风险引发担忧",
+      "reason": "多位专家警告AI灭绝风险",
       "heat": 90,
       "newsIds": [
-        "5482bc982242c5b998eeb9d9480a027b98d6858a",
-        "b45f1ad3ca4c9eae30ffd7de0095f31550483bfd"
+        "c07760d581ffc253021990e508df21625036ba35",
+        "ae3edbb5b63bb703b163aa8d7d340a1199f1bbaa",
+        "2eddcc502dba633d69eab3e2b11376a7786fe45f"
       ]
     },
     {
       "rank": 3,
       "title": "阿里AI模型下载量破30亿",
-      "reason": "中国模型全球热捧，超Meta谷歌",
+      "reason": "国产模型全球下载量领先",
       "heat": 85,
       "newsIds": [
         "c1ccbfd759289900a7e12bec7016896b96b11c0f"
@@ -33,47 +34,48 @@
     },
     {
       "rank": 4,
-      "title": "OpenAI IPO前人才流失引警示",
-      "reason": "核心人才流失，IPO前景蒙阴影",
+      "title": "美国逼盟友在AI竞赛选边",
+      "reason": "AI地缘政治竞争白热化",
       "heat": 80,
       "newsIds": [
-        "55bba1085c772640a1e44b1a21f962cc51e833cd"
+        "5482bc982242c5b998eeb9d9480a027b98d6858a"
       ]
     },
     {
       "rank": 5,
-      "title": "新型无注意力LLM：O(1)内存",
-      "reason": "突破注意力瓶颈，内存占用大减",
+      "title": "Meta用Newsmax训练AI引争议",
+      "reason": "媒体内容版权与AI伦理争议",
       "heat": 75,
       "newsIds": [
-        "f741dc55aca4db693e0da3c687ce9c8d58b4a9f0"
+        "6ebdd215fabf90211f47a6c3c2996eadffb42759"
       ]
     },
     {
       "rank": 6,
-      "title": "AI能设计功能性病毒引发担忧",
-      "reason": "生物安全新风险，伦理争议升温",
+      "title": "AI药物研发进展引关注",
+      "reason": "AI制药突破与质疑并存",
       "heat": 70,
       "newsIds": [
-        "2eddcc502dba633d69eab3e2b11376a7786fe45f"
+        "611835edca3be3007948d36ccfc7f57608bef807",
+        "60d4c40039c15302ce37f9b0a45bd3b4f445c727"
       ]
     },
     {
       "rank": 7,
-      "title": "AI检测器引发信任危机",
-      "reason": "文本真实性遭质疑，信任体系动摇",
+      "title": "Claude水印技术细节公开",
+      "reason": "模型透明度与安全新进展",
       "heat": 65,
       "newsIds": [
-        "7c16bfed4c64a0774a08390726465a70186c1c21"
+        "7086513972fc7e6b31be2cd2f71e8c25a024b27d"
       ]
     },
     {
       "rank": 8,
-      "title": "灭蚊激光器开售",
-      "reason": "黑科技走进生活，吸睛又实用",
+      "title": "AI检测器加剧不信任",
+      "reason": "学术诚信与AI检测困境",
       "heat": 60,
       "newsIds": [
-        "a2f00eae0b6d20adb1b7c0b36b60274ffdfe9761"
+        "7c16bfed4c64a0774a08390726465a70186c1c21"
       ]
     }
   ]
