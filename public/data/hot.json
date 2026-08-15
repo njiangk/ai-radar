@@ -1,78 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T06:43:28.029Z",
+  "generatedAt": "2026-08-15T08:32:25.901Z",
   "items": [
     {
       "rank": 1,
-      "title": "GLM-5.3 开源发布在即",
-      "reason": "中国大模型新版本引发关注",
+      "title": "俄罗斯导弹中发现英伟达AI芯片",
+      "reason": "地缘科技安全，导弹嵌入AI芯片",
       "heat": 95,
       "newsIds": [
-        "7cdafe14a1ae4937db2249a73d95d3568b6a02ae",
-        "3e4e84742a48b5a77bf4b7a97b9e9e50f36f4738"
+        "1f35c3c877b1c88abaf6138245f8ea64eba8956d",
+        "3eb5c9e19367a7bbd0e645821eb72a248d985575"
       ]
     },
     {
       "rank": 2,
-      "title": "AI泡沫破灭？行业反思",
-      "reason": "市场对AI前景产生质疑",
-      "heat": 90,
+      "title": "AI泡沫破灭？",
+      "reason": "市场对AI估值高度争议",
+      "heat": 88,
       "newsIds": [
         "ad4e871d576669b625dd89bce393843d7d4da7a4"
       ]
     },
     {
       "rank": 3,
-      "title": "俄导弹发现Nvidia芯片",
-      "reason": "科技产品流入军事领域引担忧",
-      "heat": 88,
+      "title": "AI事故责任归谁？",
+      "reason": "AI致害法律空白，政策讨论热议",
+      "heat": 82,
       "newsIds": [
-        "3eb5c9e19367a7bbd0e645821eb72a248d985575"
+        "13b3ce189ea71d001a28fee2409c1405b55ba686"
       ]
     },
     {
       "rank": 4,
-      "title": "Dynatrace 9.15亿美元收购Arize",
-      "reason": "AI可观测性领域重大整合",
-      "heat": 85,
+      "title": "GLM-5.3：中国AI赶超",
+      "reason": "中国实验室发布新模型，逼近前沿",
+      "heat": 78,
+      "newsIds": [
+        "7cdafe14a1ae4937db2249a73d95d3568b6a02ae",
+        "3e4e84742a48b5a77bf4b7a97b9e9e50f36f4738"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Dynatrace收购Arize",
+      "reason": "AI可观测性领域重大并购",
+      "heat": 74,
       "newsIds": [
         "f3c3d9ca6dd38bc45d50261a62becb25f1a5b746"
       ]
     },
     {
-      "rank": 5,
-      "title": "谷歌AI垃圾内容危机",
-      "reason": "搜索质量遭AI生成内容冲击",
-      "heat": 82,
+      "rank": 6,
+      "title": "谷歌开放AI垃圾内容",
+      "reason": "AI生成垃圾内容泛滥，引发担忧",
+      "heat": 70,
       "newsIds": [
         "4b846bd05aaa28d4afb429def5d81053405f32b4"
       ]
     },
     {
-      "rank": 6,
-      "title": "OpenAI放弃截图监控，转向键盘记录",
-      "reason": "隐私策略调整引发热议",
-      "heat": 80,
-      "newsIds": [
-        "2244124264e20df7687f7c24996cc50ffb88c64b"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "谷歌Gemini走进课堂",
-      "reason": "AI教育应用再进一步",
-      "heat": 78,
+      "title": "Codex用户突破1500万",
+      "reason": "OpenAI产品快速增长，普及迅速",
+      "heat": 66,
       "newsIds": [
-        "b14cead4c05c8643c74a1fb5572d6c6c2bb98807"
+        "a9c1377ce2e0f5be97d913da850e9829958cf5d7"
       ]
     },
     {
       "rank": 8,
-      "title": "AI生产力提升却增加碳排放",
-      "reason": "AI环境影响引发争议",
-      "heat": 75,
+      "title": "AI政治谎言引担忧",
+      "reason": "领先AI传播政治谎言，信任危机",
+      "heat": 62,
       "newsIds": [
-        "a13ae173e2b4076c97403803272d1cb20212d86d"
+        "ca8cac8eed78a6b33f4ddcc365ea902661638dae"
       ]
     }
   ]
