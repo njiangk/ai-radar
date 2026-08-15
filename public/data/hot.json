@@ -1,78 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T10:26:47.440Z",
+  "generatedAt": "2026-08-15T12:42:52.762Z",
   "items": [
     {
       "rank": 1,
-      "title": "阿里AI模型下载量突破30亿",
-      "reason": "中国AI模型全球崛起，商业影响力巨大",
+      "title": "GLM-5.3开源发布",
+      "reason": "中国AI开源新突破，安全路径受瞩目",
       "heat": 95,
       "newsIds": [
-        "c1ccbfd759289900a7e12bec7016896b96b11c0f"
+        "2af6f64fccdfd2a4e4cfe7ebbd3e0ff9ed7ddb92",
+        "7cdafe14a1ae4937db2249a73d95d3568b6a02ae",
+        "3e4e84742a48b5a77bf4b7a97b9e9e50f36f4738"
       ]
     },
     {
       "rank": 2,
-      "title": "亚马逊用Twitch内容训练AI引争议",
-      "reason": "用户隐私与AI数据霸权冲突",
-      "heat": 93,
+      "title": "Twitch内容默认训练AI引众怒",
+      "reason": "平台未经同意使用用户数据，隐私争议大",
+      "heat": 90,
       "newsIds": [
         "6106cc4244e94d2e117a94aa555fc35733f9a0f0"
       ]
     },
     {
       "rank": 3,
-      "title": "俄导弹发现英伟达AI芯片",
-      "reason": "AI芯片流入战场凸显管控漏洞",
-      "heat": 90,
+      "title": "Anthropic警示AI风险加剧",
+      "reason": "顶级AI实验室预警风险，拒发更强模型",
+      "heat": 88,
       "newsIds": [
-        "1f35c3c877b1c88abaf6138245f8ea64eba8956d"
+        "05d4ea9aaa4fff86b65fec338b09ea0de849e405"
       ]
     },
     {
       "rank": 4,
-      "title": "GLM-5.3开源与展望",
-      "reason": "中国AI实验室保持前沿步伐",
-      "heat": 88,
+      "title": "阿里AI模型下载量破30亿",
+      "reason": "国产模型下载量超越国际巨头，生态强劲",
+      "heat": 85,
       "newsIds": [
-        "7cdafe14a1ae4937db2249a73d95d3568b6a02ae",
-        "3e4e84742a48b5a77bf4b7a97b9e9e50f36f4738"
+        "c1ccbfd759289900a7e12bec7016896b96b11c0f"
       ]
     },
     {
       "rank": 5,
-      "title": "AI泡沫是否破裂",
-      "reason": "市场对AI估值产生疑虑",
-      "heat": 85,
+      "title": "AI在数学上再获突破",
+      "reason": "AI科学能力提升，数学领域再获突破",
+      "heat": 82,
       "newsIds": [
-        "ad4e871d576669b625dd89bce393843d7d4da7a4"
+        "12b9759d587579db4106c6b35e183e57453ab233"
       ]
     },
     {
       "rank": 6,
-      "title": "谷歌AI垃圾内容泛滥",
-      "reason": "AI生成内容冲击搜索生态",
-      "heat": 82,
+      "title": "Codex用户突破1500万",
+      "reason": "AI编程工具用户激增，开发范式变革",
+      "heat": 80,
       "newsIds": [
-        "4b846bd05aaa28d4afb429def5d81053405f32b4"
+        "a9c1377ce2e0f5be97d913da850e9829958cf5d7"
       ]
     },
     {
       "rank": 7,
-      "title": "AI代理责任归属引热议",
-      "reason": "AI造成伤害谁负责成法律难题",
-      "heat": 80,
+      "title": "AI代理致害责任归属成焦点",
+      "reason": "AI自主行为责任空白，法律监管亟需明确",
+      "heat": 75,
       "newsIds": [
         "13b3ce189ea71d001a28fee2409c1405b55ba686"
       ]
     },
     {
       "rank": 8,
-      "title": "Codex用户提前达标",
-      "reason": "AI编程助手获市场认可",
-      "heat": 78,
+      "title": "俄导弹现英伟达AI芯片",
+      "reason": "AI硬件卷入冲突，出口管制再成焦点",
+      "heat": 72,
       "newsIds": [
-        "a9c1377ce2e0f5be97d913da850e9829958cf5d7"
+        "1f35c3c877b1c88abaf6138245f8ea64eba8956d"
       ]
     }
   ]
