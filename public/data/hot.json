@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T22:26:44.733Z",
+  "generatedAt": "2026-08-15T01:22:24.528Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro 正式发布",
-      "reason": "新一代旗舰大模型发布，性能震撼",
+      "title": "DeepSeek V4 Pro正式发布",
+      "reason": "国产大模型旗舰级更新",
       "heat": 95,
       "newsIds": [
         "68b826b184ff086b980c33e6cbf917b19e2e71fb"
@@ -13,27 +13,27 @@
     },
     {
       "rank": 2,
-      "title": "OpenAI人才外流引发IPO前红旗",
-      "reason": "核心人才流失，IPO前景存疑",
+      "title": "美国要求盟友在AI竞赛选边站",
+      "reason": "AI地缘政治角力升级",
       "heat": 90,
-      "newsIds": [
-        "55bba1085c772640a1e44b1a21f962cc51e833cd"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "美国要求盟友在AI竞赛中选边站",
-      "reason": "AI地缘政治加剧，盟友被迫站队",
-      "heat": 85,
       "newsIds": [
         "5482bc982242c5b998eeb9d9480a027b98d6858a"
       ]
     },
     {
+      "rank": 3,
+      "title": "马斯克组建全栈AI编码团队",
+      "reason": "科技领袖下场AI编码",
+      "heat": 88,
+      "newsIds": [
+        "e2bad45fdc1f40c483f81429fb8e0e87864aa580"
+      ]
+    },
+    {
       "rank": 4,
       "title": "台湾遭AI驱动黑客攻击",
-      "reason": "国家级AI网络攻击，安全威胁升级",
-      "heat": 80,
+      "reason": "国家级AI网络攻击威胁",
+      "heat": 85,
       "newsIds": [
         "dc14845d16019a12a3fed939f1314a03abfa611f"
       ]
@@ -41,37 +41,37 @@
     {
       "rank": 5,
       "title": "年轻人越来越不信任AI",
-      "reason": "社会信任危机，AI普及遇阻",
-      "heat": 75,
+      "reason": "Z世代对AI信任度下滑",
+      "heat": 80,
       "newsIds": [
         "b0307a566787b29ace524b39aa798e5a0eeb4341"
       ]
     },
     {
       "rank": 6,
-      "title": "宇树G1机器人成网红",
-      "reason": "国产机器人走红，应用前景引热议",
-      "heat": 70,
+      "title": "Qwen/Nemotron/Muse模型RTX5090对比",
+      "reason": "旗舰模型性能实测受关注",
+      "heat": 78,
       "newsIds": [
-        "c897875c480f882778b27723aa81b7446c7f7f7d"
+        "1bae9599d7e681fc53f37c90d92d07a93d76f875"
       ]
     },
     {
       "rank": 7,
-      "title": "男子向法院注入AI提示词欲胜诉",
-      "reason": "AI渗透司法，引发伦理争议",
-      "heat": 65,
+      "title": "解决AI数据中心能源危机框架",
+      "reason": "AI能耗问题亟待破解",
+      "heat": 75,
       "newsIds": [
-        "a4e34328d1a87c9406b51f676500f9c5df3cc72f"
+        "5d8a6c2cd2b7ef6951165c3bb41f91267dbdb595"
       ]
     },
     {
       "rank": 8,
-      "title": "印尼首个大学AI中心启动",
-      "reason": "NVIDIA助推东南亚AI人才培养",
-      "heat": 60,
+      "title": "宇树G1机器人走红",
+      "reason": "人形机器人引热议",
+      "heat": 72,
       "newsIds": [
-        "46bec49404ca2d0894ac3a6ee08a15ef271cf6bf"
+        "c897875c480f882778b27723aa81b7446c7f7f7d"
       ]
     }
   ]
