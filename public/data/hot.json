@@ -1,78 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T20:26:13.135Z",
+  "generatedAt": "2026-08-15T22:24:49.103Z",
   "items": [
     {
       "rank": 1,
-      "title": "SpaceX收购AI编程Cursor",
-      "reason": "AI编程赛道最大并购落地",
+      "title": "美国同呼号航班险情频发",
+      "reason": "航空安全事件接连引发关注",
       "heat": 95,
       "newsIds": [
-        "04418f82cc0c36b2d99e9e47fbff9a39807f1b42",
-        "a333a85ff9d886234d07c228483b99ad8fc288e7"
+        "6e295da64b42811e6dc1569e85d52546e7840725",
+        "02a6d74962ac60c5f8d7efeedc8ff46c9ad85c44",
+        "d31e29e767a81e46a2e2efcd34abd159c336cdf1"
       ]
     },
     {
       "rank": 2,
-      "title": "AI安全风险引发担忧",
-      "reason": "多位专家警告AI灭绝风险",
+      "title": "阿里AI模型下载量达30亿超越Meta谷歌",
+      "reason": "国产AI模型全球影响力跃升",
       "heat": 90,
-      "newsIds": [
-        "c07760d581ffc253021990e508df21625036ba35",
-        "ae3edbb5b63bb703b163aa8d7d340a1199f1bbaa",
-        "2eddcc502dba633d69eab3e2b11376a7786fe45f"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "阿里AI模型下载量破30亿",
-      "reason": "国产模型全球下载量领先",
-      "heat": 85,
       "newsIds": [
         "c1ccbfd759289900a7e12bec7016896b96b11c0f"
       ]
     },
     {
-      "rank": 4,
-      "title": "美国逼盟友在AI竞赛选边",
-      "reason": "AI地缘政治竞争白热化",
-      "heat": 80,
+      "rank": 3,
+      "title": "Grok被指生成儿童色情图像遭指控",
+      "reason": "AI伦理与安全再敲警钟",
+      "heat": 88,
       "newsIds": [
-        "5482bc982242c5b998eeb9d9480a027b98d6858a"
+        "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Anthropic公开Claude水印机制细节",
+      "reason": "AI内容溯源技术备受关注",
+      "heat": 85,
+      "newsIds": [
+        "7086513972fc7e6b31be2cd2f71e8c25a024b27d"
       ]
     },
     {
       "rank": 5,
-      "title": "Meta用Newsmax训练AI引争议",
-      "reason": "媒体内容版权与AI伦理争议",
-      "heat": 75,
+      "title": "Meta用极右翼媒体Newsmax训练AI",
+      "reason": "训练数据来源引发伦理争议",
+      "heat": 80,
       "newsIds": [
         "6ebdd215fabf90211f47a6c3c2996eadffb42759"
       ]
     },
     {
       "rank": 6,
-      "title": "AI药物研发进展引关注",
-      "reason": "AI制药突破与质疑并存",
+      "title": "AI记忆研究与管理成热点",
+      "reason": "多篇探讨AI记忆的文章集中出现",
       "heat": 70,
       "newsIds": [
-        "611835edca3be3007948d36ccfc7f57608bef807",
-        "60d4c40039c15302ce37f9b0a45bd3b4f445c727"
+        "efafdd95617e816895c95c122aa553a03a861d7b",
+        "d8a1d70a380d0467217c230f5153067c2940121c",
+        "e3abfa61682075e5fe9982de9e5dc3736768e1f1",
+        "627a59aedf9611fdaeb7d1ff2dd899265b592252"
       ]
     },
     {
       "rank": 7,
-      "title": "Claude水印技术细节公开",
-      "reason": "模型透明度与安全新进展",
+      "title": "AI垃圾内容抵制行动初见成效",
+      "reason": "网络内容质量引发关注",
       "heat": 65,
       "newsIds": [
-        "7086513972fc7e6b31be2cd2f71e8c25a024b27d"
+        "2dacabd3471a54fa697903796874d6fa223de085"
       ]
     },
     {
       "rank": 8,
-      "title": "AI检测器加剧不信任",
-      "reason": "学术诚信与AI检测困境",
+      "title": "AI检测器催生不信任时代",
+      "reason": "AI内容真伪难辨引发社会讨论",
       "heat": 60,
       "newsIds": [
         "7c16bfed4c64a0774a08390726465a70186c1c21"
