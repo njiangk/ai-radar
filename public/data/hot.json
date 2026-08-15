@@ -1,78 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T02:55:14.327Z",
+  "generatedAt": "2026-08-15T04:34:47.437Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro 正式发布",
-      "reason": "国产大模型新旗舰，MoE架构受关注",
-      "heat": 95,
+      "title": "AI地缘政治与安全危机",
+      "reason": "军事芯片与地缘对抗升级",
+      "heat": 92,
       "newsIds": [
-        "68b826b184ff086b980c33e6cbf917b19e2e71fb"
+        "3eb5c9e19367a7bbd0e645821eb72a248d985575",
+        "5482bc982242c5b998eeb9d9480a027b98d6858a",
+        "dc14845d16019a12a3fed939f1314a03abfa611f"
       ]
     },
     {
       "rank": 2,
-      "title": "OpenAI隐私策略调整：弃截图监控",
-      "reason": "用户隐私监控引争议，策略转向",
-      "heat": 88,
+      "title": "Dynatrace 9.15亿美元收购Arize",
+      "reason": "AI可观测性重大并购",
+      "heat": 85,
+      "newsIds": [
+        "f3c3d9ca6dd38bc45d50261a62becb25f1a5b746"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "谷歌为Classroom启用Gemini AI",
+      "reason": "AI深入教育场景",
+      "heat": 80,
+      "newsIds": [
+        "b14cead4c05c8643c74a1fb5572d6c6c2bb98807"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI弃截图监控改键盘记录",
+      "reason": "隐私争议引发关注",
+      "heat": 78,
       "newsIds": [
         "2244124264e20df7687f7c24996cc50ffb88c64b"
       ]
     },
     {
-      "rank": 3,
-      "title": "美国施压盟友在AI竞赛选边",
-      "reason": "AI地缘政治加剧，盟友面临站队",
-      "heat": 85,
-      "newsIds": [
-        "5482bc982242c5b998eeb9d9480a027b98d6858a"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "台湾成AI驱动黑客攻击目标",
-      "reason": "网络攻击瞄准台湾，AI成武器",
-      "heat": 83,
-      "newsIds": [
-        "dc14845d16019a12a3fed939f1314a03abfa611f"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "AI能耗引发环境担忧",
-      "reason": "AI能源消耗或推高碳排放",
-      "heat": 80,
+      "title": "中国四足机器人成网红",
+      "reason": "人形机器人引热议",
+      "heat": 75,
+      "newsIds": [
+        "c897875c480f882778b27723aa81b7446c7f7f7d"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI扩张加剧能源危机",
+      "reason": "算力耗能与净CO2增加",
+      "heat": 73,
       "newsIds": [
         "a13ae173e2b4076c97403803272d1cb20212d86d",
         "5d8a6c2cd2b7ef6951165c3bb41f91267dbdb595"
       ]
     },
     {
-      "rank": 6,
-      "title": "Anthropic采用LLM文本水印技术",
-      "reason": "可识别AI生成文本，技术前沿",
-      "heat": 78,
-      "newsIds": [
-        "e531e4f865d5db07336f61006dc6456ef036310d"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "AI助力解决著名数学难题",
-      "reason": "AI推动科研突破，引发热议",
-      "heat": 77,
+      "title": "Comma.ai开源PCIe坞站",
+      "reason": "自动驾驶硬件开放",
+      "heat": 70,
       "newsIds": [
-        "12b9759d587579db4106c6b35e183e57453ab233"
+        "2077d01381427240d27a916974b1bf8f878092ef"
       ]
     },
     {
       "rank": 8,
-      "title": "马斯克布局全栈AI编码",
-      "reason": "名人效应，AI编码竞争加剧",
-      "heat": 75,
+      "title": "AI写作怪癖引热议",
+      "reason": "解析AI文本独特风格",
+      "heat": 65,
       "newsIds": [
-        "e2bad45fdc1f40c483f81429fb8e0e87864aa580"
+        "a929884fc9ce73a7e3d794715eff0f00c417ba47"
       ]
     }
   ]
