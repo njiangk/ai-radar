@@ -1,77 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T14:26:22.191Z",
+  "generatedAt": "2026-08-15T16:27:46.088Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Flash 发布，速度 278 tok/s",
-      "reason": "高性能模型，社区热议",
+      "title": "美国要求盟友在中美AI竞赛中选边站",
+      "reason": "地缘政治博弈升级，影响全球AI格局",
       "heat": 95,
+      "newsIds": [
+        "5482bc982242c5b998eeb9d9480a027b98d6858a",
+        "b45f1ad3ca4c9eae30ffd7de0095f31550483bfd"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "SpaceX收购AI编程初创公司Cursor",
+      "reason": "科技巨头加码AI编程，行业震动",
+      "heat": 90,
+      "newsIds": [
+        "a333a85ff9d886234d07c228483b99ad8fc288e7"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "DeepSeek V4 Flash：278 tok/s全精度",
+      "reason": "国产模型性能突破，速度惊艳",
+      "heat": 85,
       "newsIds": [
         "195fcec34841b147b70d5682399a86515810c4f4"
       ]
     },
     {
-      "rank": 2,
-      "title": "Anthropic 警告 AI 风险，暂缓发布强模型",
-      "reason": "顶级实验室安全声明",
-      "heat": 90,
-      "newsIds": [
-        "05d4ea9aaa4fff86b65fec338b09ea0de849e405"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "美国施压盟友选边 AI 竞赛",
-      "reason": "地缘政治影响全球格局",
-      "heat": 88,
-      "newsIds": [
-        "b45f1ad3ca4c9eae30ffd7de0095f31550483bfd"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "亚马逊用 Twitch 数据训练 AI 引争议",
-      "reason": "隐私问题，用户可退出",
-      "heat": 86,
+      "title": "OpenAI人才外流在IPO前拉响警报",
+      "reason": "核心人才流失，IPO前景蒙阴影",
+      "heat": 80,
+      "newsIds": [
+        "55bba1085c772640a1e44b1a21f962cc51e833cd"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "AI现能设计功能性病毒，我们该担心吗？",
+      "reason": "AI生物安全风险引发公众担忧",
+      "heat": 75,
+      "newsIds": [
+        "2eddcc502dba633d69eab3e2b11376a7786fe45f"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "亚马逊用Twitch内容训练AI，用户质疑",
+      "reason": "默认训练AI引发隐私争议",
+      "heat": 72,
       "newsIds": [
         "6106cc4244e94d2e117a94aa555fc35733f9a0f0"
       ]
     },
     {
-      "rank": 5,
-      "title": "Meta 申请 AI 眼镜人脸识别专利",
-      "reason": "科技巨头涉足敏感隐私",
-      "heat": 82,
-      "newsIds": [
-        "7224818b1b4161598f21f47e45546bd18308be53"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "NASA 处理器速度提升 500 倍",
-      "reason": "航天级芯片重大突破",
-      "heat": 80,
-      "newsIds": [
-        "071c4f53c8481a2519d11fffdf08be287e2fa0b4"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "AI 数学再获突破，高中辍学者参与",
-      "reason": "研究新成果，励志故事",
-      "heat": 78,
+      "title": "GLM-5.3发布与开源审计",
+      "reason": "新模型发布与开源审计并行",
+      "heat": 68,
       "newsIds": [
-        "12b9759d587579db4106c6b35e183e57453ab233"
+        "2d761541d1992d6df250e45b57ff4e14bf50a3e7",
+        "2af6f64fccdfd2a4e4cfe7ebbd3e0ff9ed7ddb92"
       ]
     },
     {
       "rank": 8,
-      "title": "Debian 社区投票决定 AI/LLM 贡献",
-      "reason": "开源社区如何拥抱 AI",
-      "heat": 75,
+      "title": "中国正在塑造开源技术的未来，包括AI",
+      "reason": "开源话语权转移，影响全球开发者",
+      "heat": 65,
       "newsIds": [
-        "aaca96fa0e6a2afa298d19a236e00abfa3b4d398"
+        "29196a068ac15e7841b60b2b0095870fbd722d72"
       ]
     }
   ]
