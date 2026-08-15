@@ -1,38 +1,39 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T16:27:46.088Z",
+  "generatedAt": "2026-08-15T18:33:54.962Z",
   "items": [
     {
       "rank": 1,
-      "title": "美国要求盟友在中美AI竞赛中选边站",
-      "reason": "地缘政治博弈升级，影响全球AI格局",
+      "title": "SpaceX收购AI编程工具Cursor",
+      "reason": "巨头跨界收购，AI编程格局生变",
       "heat": 95,
+      "newsIds": [
+        "04418f82cc0c36b2d99e9e47fbff9a39807f1b42",
+        "a333a85ff9d886234d07c228483b99ad8fc288e7"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "美国要求盟友在中美AI竞赛选边站",
+      "reason": "中美博弈升级，盟友被迫表态",
+      "heat": 90,
       "newsIds": [
         "5482bc982242c5b998eeb9d9480a027b98d6858a",
         "b45f1ad3ca4c9eae30ffd7de0095f31550483bfd"
       ]
     },
     {
-      "rank": 2,
-      "title": "SpaceX收购AI编程初创公司Cursor",
-      "reason": "科技巨头加码AI编程，行业震动",
-      "heat": 90,
-      "newsIds": [
-        "a333a85ff9d886234d07c228483b99ad8fc288e7"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "DeepSeek V4 Flash：278 tok/s全精度",
-      "reason": "国产模型性能突破，速度惊艳",
+      "title": "阿里AI模型下载量破30亿",
+      "reason": "中国模型全球热捧，超Meta谷歌",
       "heat": 85,
       "newsIds": [
-        "195fcec34841b147b70d5682399a86515810c4f4"
+        "c1ccbfd759289900a7e12bec7016896b96b11c0f"
       ]
     },
     {
       "rank": 4,
-      "title": "OpenAI人才外流在IPO前拉响警报",
+      "title": "OpenAI IPO前人才流失引警示",
       "reason": "核心人才流失，IPO前景蒙阴影",
       "heat": 80,
       "newsIds": [
@@ -41,39 +42,38 @@
     },
     {
       "rank": 5,
-      "title": "AI现能设计功能性病毒，我们该担心吗？",
-      "reason": "AI生物安全风险引发公众担忧",
+      "title": "新型无注意力LLM：O(1)内存",
+      "reason": "突破注意力瓶颈，内存占用大减",
       "heat": 75,
+      "newsIds": [
+        "f741dc55aca4db693e0da3c687ce9c8d58b4a9f0"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AI能设计功能性病毒引发担忧",
+      "reason": "生物安全新风险，伦理争议升温",
+      "heat": 70,
       "newsIds": [
         "2eddcc502dba633d69eab3e2b11376a7786fe45f"
       ]
     },
     {
-      "rank": 6,
-      "title": "亚马逊用Twitch内容训练AI，用户质疑",
-      "reason": "默认训练AI引发隐私争议",
-      "heat": 72,
-      "newsIds": [
-        "6106cc4244e94d2e117a94aa555fc35733f9a0f0"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "GLM-5.3发布与开源审计",
-      "reason": "新模型发布与开源审计并行",
-      "heat": 68,
+      "title": "AI检测器引发信任危机",
+      "reason": "文本真实性遭质疑，信任体系动摇",
+      "heat": 65,
       "newsIds": [
-        "2d761541d1992d6df250e45b57ff4e14bf50a3e7",
-        "2af6f64fccdfd2a4e4cfe7ebbd3e0ff9ed7ddb92"
+        "7c16bfed4c64a0774a08390726465a70186c1c21"
       ]
     },
     {
       "rank": 8,
-      "title": "中国正在塑造开源技术的未来，包括AI",
-      "reason": "开源话语权转移，影响全球开发者",
-      "heat": 65,
+      "title": "灭蚊激光器开售",
+      "reason": "黑科技走进生活，吸睛又实用",
+      "heat": 60,
       "newsIds": [
-        "29196a068ac15e7841b60b2b0095870fbd722d72"
+        "a2f00eae0b6d20adb1b7c0b36b60274ffdfe9761"
       ]
     }
   ]
