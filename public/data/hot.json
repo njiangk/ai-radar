@@ -1,78 +1,85 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T14:26:43.855Z",
+  "generatedAt": "2026-08-16T16:29:03.181Z",
   "items": [
     {
       "rank": 1,
-      "title": "最大全电动飞机首飞成功",
-      "reason": "全球最大电动飞机首飞，耗电仅5美元",
+      "title": "ChatGPT‘计算机历史’功能引发隐私担忧",
+      "reason": "监视用户操作引隐私忧虑",
       "heat": 95,
       "newsIds": [
-        "2b96098f8505165cbb5d5a55bc7ad1539665bd3a",
-        "34637ce2db855de2c7eb556072a01f5aadeeeaba"
+        "a1c7d35e071856a8dde38c204c1e26920a4fd5c7"
       ]
     },
     {
       "rank": 2,
-      "title": "AI实现数学重大突破",
-      "reason": "AI在数学领域让数学家绝望，展现惊人能力",
+      "title": "AI安全与失控担忧",
+      "reason": "失控风险与安全争议不断",
       "heat": 90,
+      "newsIds": [
+        "af2af46d5d3afbf298790c63d6155b8627083d19",
+        "c9ff7944415caca4b6fb2d7d11261d05295a6a7f",
+        "cef1df5630e8b0fe8f053c0eab4b5e50abb5e9bf",
+        "3b74bf1b01c2bc4667127928382e1d9866d9da24"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI代理的责任与滥用",
+      "reason": "代理犯罪与学术作弊引担忧",
+      "heat": 85,
+      "newsIds": [
+        "b504b43903b345a0fb8722429a16e17c4468374b",
+        "e208535ed926e906597e0ec6efd4a46c8bc8dec3"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Anthropic CEO谈AI信任与监管",
+      "reason": "CEO回应监管立场与信任危机",
+      "heat": 82,
+      "newsIds": [
+        "51f821562f2ee773f752645c4f155a2fda77da28",
+        "eef57b48512f1d95083c39a1f41e08e09f7de7c8",
+        "5a601ec7a97ee2a66a3844c89b069fbf062dc983"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "AI数学突破引发学界震动",
+      "reason": "数学难题被AI突破引绝望",
+      "heat": 80,
       "newsIds": [
         "3da2e855fad63f7f4e1f7f4d46b7a3ee065b110e"
       ]
     },
     {
-      "rank": 3,
-      "title": "失控AI不再是科幻小说",
-      "reason": "AI安全问题引发关注，失控风险成现实",
-      "heat": 88,
-      "newsIds": [
-        "af2af46d5d3afbf298790c63d6155b8627083d19"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "谷歌为学生开放Gemini",
-      "reason": "谷歌将Gemini引入课堂，影响教育领域",
-      "heat": 85,
-      "newsIds": [
-        "b14cead4c05c8643c74a1fb5572d6c6c2bb98807"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "AI代理帮学生代上课程作弊",
-      "reason": "AI代理替学生上课引发学术诚信危机",
-      "heat": 82,
-      "newsIds": [
-        "e208535ed926e906597e0ec6efd4a46c8bc8dec3"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Anthropic水印技术引争议",
-      "reason": "隐形水印难遏制AI垃圾内容，研究人员存疑",
-      "heat": 80,
+      "title": "新一代AI模型密集发布",
+      "reason": "Qwen和Kimi新模型性能亮眼",
+      "heat": 78,
       "newsIds": [
-        "c9ff7944415caca4b6fb2d7d11261d05295a6a7f"
+        "c71aa4ae86956bb1cf887470887d7ef1c35ab8e1",
+        "ee51e6eb0a74c931f25287f45b47fd3fd896543c"
       ]
     },
     {
       "rank": 7,
-      "title": "首位反AI抗议者入狱",
-      "reason": "抗议者因反AI入狱，呼吁重拾人性",
-      "heat": 78,
+      "title": "AI在药物发现中的争议",
+      "reason": "AI设计分子可靠性遭质疑",
+      "heat": 75,
       "newsIds": [
-        "7c3a6c80a5bdbafd22639595bb7bb2c88e938cb6"
+        "dc237b5066503889a51989422bad568fb26d4d8b",
+        "384cce452243bf8d7cf521cc16d310a7a3e5802c"
       ]
     },
     {
       "rank": 8,
-      "title": "美国拉拢盟友对抗中国AI",
-      "reason": "美国警告盟友在AI竞赛中选边站队",
-      "heat": 75,
+      "title": "欧洲AI主权治理架构",
+      "reason": "欧洲寻求AI主权治理路径",
+      "heat": 70,
       "newsIds": [
-        "e54dbddc0a8bea42aa23076c5f2c77bc2460928d"
+        "30dc41dcc6a1c1abe8f4d4a7e3bef694d5f74c52"
       ]
     }
   ]
