@@ -1,78 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T06:44:21.824Z",
+  "generatedAt": "2026-08-16T08:33:16.973Z",
   "items": [
     {
       "rank": 1,
-      "title": "Grok被曝生成儿童色情图片",
-      "reason": "涉及AI伦理与儿童安全，引爆舆论",
+      "title": "北京强制大规模与AI恋人分手",
+      "reason": "政府监管AI社交，引发热议",
       "heat": 95,
-      "newsIds": [
-        "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "阿里巴巴AI模型下载量达30亿次",
-      "reason": "国产模型下载量超Meta谷歌，行业里程碑",
-      "heat": 90,
-      "newsIds": [
-        "6e5c0bff377376d7924d693db076e426dca47cd6"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "北京强制用户与AI恋人分手",
-      "reason": "官方监管AI情感关系，引发热议",
-      "heat": 85,
       "newsIds": [
         "1790fb918235d13b52ae21fa4650d155d177c2f9"
       ]
     },
     {
-      "rank": 4,
-      "title": "Composio密钥泄露致多个平台令牌暴露",
-      "reason": "重大安全事件，波及Gmail/代码托管",
-      "heat": 80,
+      "rank": 2,
+      "title": "泄露的Composio密钥返回实时令牌",
+      "reason": "AI工具密钥泄露，敏感数据暴露",
+      "heat": 90,
       "newsIds": [
         "1bd4a44bc3c0401060c2095de4a89228b8a09da7"
       ]
     },
     {
-      "rank": 5,
-      "title": "AI泡沫破裂？ChatGPT网络份额下滑22%",
-      "reason": "AI行业降温信号，市场担忧加剧",
-      "heat": 75,
+      "rank": 3,
+      "title": "AI泡沫近尾声？ChatGPT份额下滑",
+      "reason": "AI行业降温迹象明显",
+      "heat": 88,
       "newsIds": [
         "ff1fab357f6a1b7f4d3b53104890c5df413429f1",
         "2ee2f613cd02b1fbd74d879ec5891ee4b4e21172"
       ]
     },
     {
+      "rank": 4,
+      "title": "阿里巴巴AI模型下载量达30亿次",
+      "reason": "国产AI模型下载量全球领先",
+      "heat": 85,
+      "newsIds": [
+        "6e5c0bff377376d7924d693db076e426dca47cd6"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "女子称继父利用Grok生成露骨影像",
+      "reason": "AI工具被用于制作虐待儿童内容",
+      "heat": 82,
+      "newsIds": [
+        "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
+      ]
+    },
+    {
       "rank": 6,
-      "title": "AI辅助移植25万行天气代码到GPU",
-      "reason": "AI编程效率突破，加速老旧代码迁移",
+      "title": "AI代理有半衰期",
+      "reason": "探讨AI代理的生命周期与局限",
       "heat": 70,
       "newsIds": [
-        "c21a3b4fa6230a355f6bf0b360f531c915975a0e"
+        "e969da326d5976d9f6eea4392716f9a54c036f24"
       ]
     },
     {
       "rank": 7,
-      "title": "ShieldFont：用字体对抗AI抓取器",
-      "reason": "开发者反击不守robots.txt的AI爬虫",
+      "title": "当LLM只看五年级以下材料时",
+      "reason": "低水平训练数据影响LLM能力",
       "heat": 65,
       "newsIds": [
-        "030040871f22e19f0b8f74a11f0a2364f348a05d"
+        "badeeae7b539c31c6a74abedfd8adbdab3f7e9ab"
       ]
     },
     {
       "rank": 8,
-      "title": "LLM性别偏见：提问方式影响答案",
-      "reason": "研究揭示LLM语言关联性别偏见",
+      "title": "谷歌不需要LLM桂冠",
+      "reason": "谷歌AI战略引发讨论",
       "heat": 60,
       "newsIds": [
-        "ff34e5a81db6f484b641973c3a788192c1639fe8"
+        "c3e34a49489f247b052f0704640f39336d38e103"
       ]
     }
   ]
