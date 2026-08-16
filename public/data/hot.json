@@ -1,78 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T08:33:16.973Z",
+  "generatedAt": "2026-08-16T10:26:40.281Z",
   "items": [
     {
       "rank": 1,
-      "title": "北京强制大规模与AI恋人分手",
-      "reason": "政府监管AI社交，引发热议",
+      "title": "AI生成儿童性虐待图像丑闻",
+      "reason": "AI工具被滥用制作儿童色情，社会反响强烈",
       "heat": 95,
-      "newsIds": [
-        "1790fb918235d13b52ae21fa4650d155d177c2f9"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "泄露的Composio密钥返回实时令牌",
-      "reason": "AI工具密钥泄露，敏感数据暴露",
-      "heat": 90,
-      "newsIds": [
-        "1bd4a44bc3c0401060c2095de4a89228b8a09da7"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "AI泡沫近尾声？ChatGPT份额下滑",
-      "reason": "AI行业降温迹象明显",
-      "heat": 88,
-      "newsIds": [
-        "ff1fab357f6a1b7f4d3b53104890c5df413429f1",
-        "2ee2f613cd02b1fbd74d879ec5891ee4b4e21172"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "阿里巴巴AI模型下载量达30亿次",
-      "reason": "国产AI模型下载量全球领先",
-      "heat": 85,
-      "newsIds": [
-        "6e5c0bff377376d7924d693db076e426dca47cd6"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "女子称继父利用Grok生成露骨影像",
-      "reason": "AI工具被用于制作虐待儿童内容",
-      "heat": 82,
       "newsIds": [
         "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
       ]
     },
     {
+      "rank": 2,
+      "title": "AI泡沫即将破裂？经济学家警告",
+      "reason": "知名经济学家预测AI泡沫破裂，引发市场担忧",
+      "heat": 90,
+      "newsIds": [
+        "c65d389ad69ecac213f7ebdff03c9730c475f177",
+        "020f7e6b50b9fd745df5f1c17094ee04ff8c9fd8"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "北京强制用户与AI恋人分手",
+      "reason": "政府干预AI情感关系，国内外关注",
+      "heat": 85,
+      "newsIds": [
+        "1790fb918235d13b52ae21fa4650d155d177c2f9"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AI公司密钥泄露事件",
+      "reason": "Composio密钥泄露，Gmail等账号面临风险",
+      "heat": 80,
+      "newsIds": [
+        "1bd4a44bc3c0401060c2095de4a89228b8a09da7"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Twitch默认用创作者内容训练AI引争议",
+      "reason": "创作者被默认纳入AI训练，新增退出选项",
+      "heat": 75,
+      "newsIds": [
+        "e846b51f4ffa8e7336aba4730bb9e6ac324794db"
+      ]
+    },
+    {
       "rank": 6,
-      "title": "AI代理有半衰期",
-      "reason": "探讨AI代理的生命周期与局限",
+      "title": "年轻人不信任AI及其鼓吹者",
+      "reason": "调查揭示年轻世代对AI的怀疑态度",
       "heat": 70,
       "newsIds": [
-        "e969da326d5976d9f6eea4392716f9a54c036f24"
+        "b0307a566787b29ace524b39aa798e5a0eeb4341"
       ]
     },
     {
       "rank": 7,
-      "title": "当LLM只看五年级以下材料时",
-      "reason": "低水平训练数据影响LLM能力",
+      "title": "美国海军3D打印作战无人机",
+      "reason": "军事应用AI和3D打印，提升战力引发关注",
       "heat": 65,
       "newsIds": [
-        "badeeae7b539c31c6a74abedfd8adbdab3f7e9ab"
+        "8a17daa7a1f5bd6932fd76c15a9d8ea6ff9c150a"
       ]
     },
     {
       "rank": 8,
-      "title": "谷歌不需要LLM桂冠",
-      "reason": "谷歌AI战略引发讨论",
+      "title": "中美民众对AI态度差异",
+      "reason": "中国比美国更乐观，折射社会文化差异",
       "heat": 60,
       "newsIds": [
-        "c3e34a49489f247b052f0704640f39336d38e103"
+        "4c1a591fd56fc5e9fee7db34377deb66541bd456"
       ]
     }
   ]
