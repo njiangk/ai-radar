@@ -1,78 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T03:03:49.214Z",
+  "generatedAt": "2026-08-16T04:38:54.749Z",
   "items": [
     {
       "rank": 1,
-      "title": "阿里AI模型下载量30亿次超越Meta谷歌",
-      "reason": "国产模型全球领跑，行业格局巨变",
+      "title": "美航同呼号航班险相撞",
+      "reason": "两架737面对面直飞，空管紧急处置",
       "heat": 95,
       "newsIds": [
-        "6e5c0bff377376d7924d693db076e426dca47cd6"
+        "6e295da64b42811e6dc1569e85d52546e7840725",
+        "02a6d74962ac60c5f8d7efeedc8ff46c9ad85c44"
       ]
     },
     {
       "rank": 2,
-      "title": "美航两架呼号相同航班险相撞",
-      "reason": "航空安全事件，引发广泛关注",
-      "heat": 90,
-      "newsIds": [
-        "02a6d74962ac60c5f8d7efeedc8ff46c9ad85c44",
-        "6e295da64b42811e6dc1569e85d52546e7840725"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "继父用Grok将童年照片变露骨影像",
-      "reason": "AI伦理丑闻，涉儿童安全",
-      "heat": 88,
+      "title": "Grok被用于生成儿童色情图像",
+      "reason": "继父利用AI将童年照转为色情图，社会争议",
+      "heat": 93,
       "newsIds": [
         "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
       ]
     },
     {
+      "rank": 3,
+      "title": "阿里AI模型下载量达30亿",
+      "reason": "下载量超Meta和谷歌，国产模型崛起",
+      "heat": 90,
+      "newsIds": [
+        "6e5c0bff377376d7924d693db076e426dca47cd6"
+      ]
+    },
+    {
       "rank": 4,
-      "title": "ChatGPT网络市场份额下滑22个百分点",
-      "reason": "头部产品份额骤降，竞争加剧",
+      "title": "AI泡沫论再起",
+      "reason": "ChatGPT网页份额下降22%，泡沫担忧升温",
       "heat": 85,
       "newsIds": [
+        "ff1fab357f6a1b7f4d3b53104890c5df413429f1",
         "2ee2f613cd02b1fbd74d879ec5891ee4b4e21172"
       ]
     },
     {
       "rank": 5,
-      "title": "AI泡沫已近尾声",
-      "reason": "行业泡沫论再起，引发热议",
+      "title": "Meta用Newsmax训练AI",
+      "reason": "极右翼媒体作为训练数据引争议",
       "heat": 82,
-      "newsIds": [
-        "ff1fab357f6a1b7f4d3b53104890c5df413429f1"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "AI垃圾内容反弹正在产生影响",
-      "reason": "内容质量危机，反噬效应显现",
-      "heat": 78,
-      "newsIds": [
-        "2dacabd3471a54fa697903796874d6fa223de085"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Meta将用极右媒体Newsmax训练AI",
-      "reason": "训练数据引偏见争议",
-      "heat": 75,
       "newsIds": [
         "6ebdd215fabf90211f47a6c3c2996eadffb42759"
       ]
     },
     {
-      "rank": 8,
-      "title": "AI辅助移植25万行天气代码至GPU",
-      "reason": "技术突破，气象计算提速",
-      "heat": 72,
+      "rank": 6,
+      "title": "LLM性别语言偏见",
+      "reason": "提问方式影响偏见，研究揭示隐秘问题",
+      "heat": 78,
+      "newsIds": [
+        "ff34e5a81db6f484b641973c3a788192c1639fe8"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI移植25万行天气代码",
+      "reason": "AI辅助传统代码迁移GPU，效率突破",
+      "heat": 76,
       "newsIds": [
         "c21a3b4fa6230a355f6bf0b360f531c915975a0e"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "AI代理需身份验证",
+      "reason": "安全议题升温，代理可信度成焦点",
+      "heat": 72,
+      "newsIds": [
+        "5244941a03cb98ecc44a541d10cd2f4651aecf56"
       ]
     }
   ]
