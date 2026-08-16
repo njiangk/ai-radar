@@ -1,78 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T10:26:40.281Z",
+  "generatedAt": "2026-08-16T12:44:12.860Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI生成儿童性虐待图像丑闻",
-      "reason": "AI工具被滥用制作儿童色情，社会反响强烈",
+      "title": "美国警告盟友在AI竞赛中站队",
+      "reason": "AI地缘博弈升级，国际关系焦点",
       "heat": 95,
       "newsIds": [
-        "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
+        "e54dbddc0a8bea42aa23076c5f2c77bc2460928d"
       ]
     },
     {
       "rank": 2,
-      "title": "AI泡沫即将破裂？经济学家警告",
-      "reason": "知名经济学家预测AI泡沫破裂，引发市场担忧",
+      "title": "经济学家预警AI泡沫即将破裂",
+      "reason": "权威经济学家看衰AI市场，引发争论",
       "heat": 90,
       "newsIds": [
-        "c65d389ad69ecac213f7ebdff03c9730c475f177",
-        "020f7e6b50b9fd745df5f1c17094ee04ff8c9fd8"
+        "c65d389ad69ecac213f7ebdff03c9730c475f177"
       ]
     },
     {
       "rank": 3,
-      "title": "北京强制用户与AI恋人分手",
-      "reason": "政府干预AI情感关系，国内外关注",
+      "title": "AI扩张遭遇民众抵制",
+      "reason": "反AI抗议者入狱与拒数据中心引热议",
       "heat": 85,
       "newsIds": [
-        "1790fb918235d13b52ae21fa4650d155d177c2f9"
+        "7c3a6c80a5bdbafd22639595bb7bb2c88e938cb6",
+        "ce34eea1c4f6b258489500947021bd5053f0ef21"
       ]
     },
     {
       "rank": 4,
-      "title": "AI公司密钥泄露事件",
-      "reason": "Composio密钥泄露，Gmail等账号面临风险",
+      "title": "谷歌将Gemini AI引入课堂",
+      "reason": "科技巨头加速AI教育应用布局",
       "heat": 80,
       "newsIds": [
-        "1bd4a44bc3c0401060c2095de4a89228b8a09da7"
+        "b14cead4c05c8643c74a1fb5572d6c6c2bb98807"
       ]
     },
     {
       "rank": 5,
-      "title": "Twitch默认用创作者内容训练AI引争议",
-      "reason": "创作者被默认纳入AI训练，新增退出选项",
-      "heat": 75,
+      "title": "AI Agent面临成本与身份困境",
+      "reason": "多角度探讨AI代理的实用性与高消耗",
+      "heat": 78,
       "newsIds": [
-        "e846b51f4ffa8e7336aba4730bb9e6ac324794db"
+        "e6269f45aecdcb481c62b32f8adcf8d6b4bd7e5f",
+        "ffd7989a1e7975846058db08a02ad52e38094bf3",
+        "66153d7ce80658745bd57ab12e5bcad82057bd6f",
+        "59eb97c97274a3694ae7b9d65927d3947943af44"
       ]
     },
     {
       "rank": 6,
-      "title": "年轻人不信任AI及其鼓吹者",
-      "reason": "调查揭示年轻世代对AI的怀疑态度",
-      "heat": 70,
+      "title": "具身AI与人形机器人闪耀WAIC",
+      "reason": "大会展示前沿进展，产业新风口",
+      "heat": 75,
       "newsIds": [
-        "b0307a566787b29ace524b39aa798e5a0eeb4341"
+        "4a5ff684f4bdb3488c5551de4423d0219e60bc0b"
       ]
     },
     {
       "rank": 7,
-      "title": "美国海军3D打印作战无人机",
-      "reason": "军事应用AI和3D打印，提升战力引发关注",
-      "heat": 65,
+      "title": "AI论文首过同行评审引关注",
+      "reason": "AI科研能力里程碑，引发学术新思考",
+      "heat": 72,
       "newsIds": [
-        "8a17daa7a1f5bd6932fd76c15a9d8ea6ff9c150a"
+        "abf3b1d78eeba0693c29508ef1af3750400a12f1"
       ]
     },
     {
       "rank": 8,
-      "title": "中美民众对AI态度差异",
-      "reason": "中国比美国更乐观，折射社会文化差异",
-      "heat": 60,
+      "title": "Twitch为AI训练提供退出选项",
+      "reason": "创作者数据权益保护再进一步",
+      "heat": 70,
       "newsIds": [
-        "4c1a591fd56fc5e9fee7db34377deb66541bd456"
+        "e846b51f4ffa8e7336aba4730bb9e6ac324794db"
       ]
     }
   ]
