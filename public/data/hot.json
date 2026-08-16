@@ -1,82 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T22:24:49.103Z",
+  "generatedAt": "2026-08-16T01:27:31.916Z",
   "items": [
     {
       "rank": 1,
-      "title": "美国同呼号航班险情频发",
-      "reason": "航空安全事件接连引发关注",
+      "title": "AI工具被用于儿童色情",
+      "reason": "严重伦理丑闻，引发公众愤怒",
       "heat": 95,
-      "newsIds": [
-        "6e295da64b42811e6dc1569e85d52546e7840725",
-        "02a6d74962ac60c5f8d7efeedc8ff46c9ad85c44",
-        "d31e29e767a81e46a2e2efcd34abd159c336cdf1"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "阿里AI模型下载量达30亿超越Meta谷歌",
-      "reason": "国产AI模型全球影响力跃升",
-      "heat": 90,
-      "newsIds": [
-        "c1ccbfd759289900a7e12bec7016896b96b11c0f"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Grok被指生成儿童色情图像遭指控",
-      "reason": "AI伦理与安全再敲警钟",
-      "heat": 88,
       "newsIds": [
         "d8cebe97b9a5af389a07ecaf91f1e4e5dcdd82b4"
       ]
     },
     {
-      "rank": 4,
-      "title": "Anthropic公开Claude水印机制细节",
-      "reason": "AI内容溯源技术备受关注",
+      "rank": 2,
+      "title": "阿里AI模型下载量超Meta谷歌",
+      "reason": "中国AI崛起，国际巨头受挑战",
+      "heat": 90,
+      "newsIds": [
+        "6e5c0bff377376d7924d693db076e426dca47cd6"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI泡沫论与ChatGPT份额下滑",
+      "reason": "市场对AI前景担忧加剧",
       "heat": 85,
+      "newsIds": [
+        "ff1fab357f6a1b7f4d3b53104890c5df413429f1",
+        "2ee2f613cd02b1fbd74d879ec5891ee4b4e21172"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "无注意力LLM Tupoi突破",
+      "reason": "O(1)内存架构，颠覆性创新",
+      "heat": 80,
+      "newsIds": [
+        "f741dc55aca4db693e0da3c687ce9c8d58b4a9f0"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Claude水印技术细节公开",
+      "reason": "AI内容溯源，防伪新手段",
+      "heat": 75,
       "newsIds": [
         "7086513972fc7e6b31be2cd2f71e8c25a024b27d"
       ]
     },
     {
-      "rank": 5,
-      "title": "Meta用极右翼媒体Newsmax训练AI",
-      "reason": "训练数据来源引发伦理争议",
-      "heat": 80,
-      "newsIds": [
-        "6ebdd215fabf90211f47a6c3c2996eadffb42759"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "AI记忆研究与管理成热点",
-      "reason": "多篇探讨AI记忆的文章集中出现",
+      "title": "AI代理安全与身份验证",
+      "reason": "代理普及，安全风险受关注",
       "heat": 70,
       "newsIds": [
-        "efafdd95617e816895c95c122aa553a03a861d7b",
-        "d8a1d70a380d0467217c230f5153067c2940121c",
-        "e3abfa61682075e5fe9982de9e5dc3736768e1f1",
-        "627a59aedf9611fdaeb7d1ff2dd899265b592252"
+        "83887d48cb2f8f88c7b9d5f284b0b4e22ceffcb3",
+        "5244941a03cb98ecc44a541d10cd2f4651aecf56"
       ]
     },
     {
       "rank": 7,
-      "title": "AI垃圾内容抵制行动初见成效",
-      "reason": "网络内容质量引发关注",
+      "title": "开源AI工具替代高价服务",
+      "reason": "开发者寻求低成本方案",
       "heat": 65,
       "newsIds": [
-        "2dacabd3471a54fa697903796874d6fa223de085"
+        "4f55c24f419a8b7c31757e9fa19f08fec061c92f",
+        "29d0bd7864a7163e1b32f371bf07cac8eee10ebf"
       ]
     },
     {
       "rank": 8,
-      "title": "AI检测器催生不信任时代",
-      "reason": "AI内容真伪难辨引发社会讨论",
+      "title": "AI在药物发现中的应用",
+      "reason": "AI加速新药研发，前景广阔",
       "heat": 60,
       "newsIds": [
-        "7c16bfed4c64a0774a08390726465a70186c1c21"
+        "611835edca3be3007948d36ccfc7f57608bef807"
       ]
     }
   ]
