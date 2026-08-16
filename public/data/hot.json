@@ -1,81 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T12:44:12.860Z",
+  "generatedAt": "2026-08-16T14:26:43.855Z",
   "items": [
     {
       "rank": 1,
-      "title": "美国警告盟友在AI竞赛中站队",
-      "reason": "AI地缘博弈升级，国际关系焦点",
+      "title": "最大全电动飞机首飞成功",
+      "reason": "全球最大电动飞机首飞，耗电仅5美元",
       "heat": 95,
       "newsIds": [
-        "e54dbddc0a8bea42aa23076c5f2c77bc2460928d"
+        "2b96098f8505165cbb5d5a55bc7ad1539665bd3a",
+        "34637ce2db855de2c7eb556072a01f5aadeeeaba"
       ]
     },
     {
       "rank": 2,
-      "title": "经济学家预警AI泡沫即将破裂",
-      "reason": "权威经济学家看衰AI市场，引发争论",
+      "title": "AI实现数学重大突破",
+      "reason": "AI在数学领域让数学家绝望，展现惊人能力",
       "heat": 90,
       "newsIds": [
-        "c65d389ad69ecac213f7ebdff03c9730c475f177"
+        "3da2e855fad63f7f4e1f7f4d46b7a3ee065b110e"
       ]
     },
     {
       "rank": 3,
-      "title": "AI扩张遭遇民众抵制",
-      "reason": "反AI抗议者入狱与拒数据中心引热议",
-      "heat": 85,
+      "title": "失控AI不再是科幻小说",
+      "reason": "AI安全问题引发关注，失控风险成现实",
+      "heat": 88,
       "newsIds": [
-        "7c3a6c80a5bdbafd22639595bb7bb2c88e938cb6",
-        "ce34eea1c4f6b258489500947021bd5053f0ef21"
+        "af2af46d5d3afbf298790c63d6155b8627083d19"
       ]
     },
     {
       "rank": 4,
-      "title": "谷歌将Gemini AI引入课堂",
-      "reason": "科技巨头加速AI教育应用布局",
-      "heat": 80,
+      "title": "谷歌为学生开放Gemini",
+      "reason": "谷歌将Gemini引入课堂，影响教育领域",
+      "heat": 85,
       "newsIds": [
         "b14cead4c05c8643c74a1fb5572d6c6c2bb98807"
       ]
     },
     {
       "rank": 5,
-      "title": "AI Agent面临成本与身份困境",
-      "reason": "多角度探讨AI代理的实用性与高消耗",
-      "heat": 78,
+      "title": "AI代理帮学生代上课程作弊",
+      "reason": "AI代理替学生上课引发学术诚信危机",
+      "heat": 82,
       "newsIds": [
-        "e6269f45aecdcb481c62b32f8adcf8d6b4bd7e5f",
-        "ffd7989a1e7975846058db08a02ad52e38094bf3",
-        "66153d7ce80658745bd57ab12e5bcad82057bd6f",
-        "59eb97c97274a3694ae7b9d65927d3947943af44"
+        "e208535ed926e906597e0ec6efd4a46c8bc8dec3"
       ]
     },
     {
       "rank": 6,
-      "title": "具身AI与人形机器人闪耀WAIC",
-      "reason": "大会展示前沿进展，产业新风口",
-      "heat": 75,
+      "title": "Anthropic水印技术引争议",
+      "reason": "隐形水印难遏制AI垃圾内容，研究人员存疑",
+      "heat": 80,
       "newsIds": [
-        "4a5ff684f4bdb3488c5551de4423d0219e60bc0b"
+        "c9ff7944415caca4b6fb2d7d11261d05295a6a7f"
       ]
     },
     {
       "rank": 7,
-      "title": "AI论文首过同行评审引关注",
-      "reason": "AI科研能力里程碑，引发学术新思考",
-      "heat": 72,
+      "title": "首位反AI抗议者入狱",
+      "reason": "抗议者因反AI入狱，呼吁重拾人性",
+      "heat": 78,
       "newsIds": [
-        "abf3b1d78eeba0693c29508ef1af3750400a12f1"
+        "7c3a6c80a5bdbafd22639595bb7bb2c88e938cb6"
       ]
     },
     {
       "rank": 8,
-      "title": "Twitch为AI训练提供退出选项",
-      "reason": "创作者数据权益保护再进一步",
-      "heat": 70,
+      "title": "美国拉拢盟友对抗中国AI",
+      "reason": "美国警告盟友在AI竞赛中选边站队",
+      "heat": 75,
       "newsIds": [
-        "e846b51f4ffa8e7336aba4730bb9e6ac324794db"
+        "e54dbddc0a8bea42aa23076c5f2c77bc2460928d"
       ]
     }
   ]
