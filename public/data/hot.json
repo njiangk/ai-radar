@@ -1,77 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T08:46:40.374Z",
+  "generatedAt": "2026-08-17T10:35:03.668Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro 超快运行",
-      "reason": "1M上下文无量化达207 tok/s",
-      "heat": 95,
+      "title": "AI投资过热引发金融风险",
+      "reason": "英伟达融资风险与万亿级支出引发市场担忧",
+      "heat": 90,
       "newsIds": [
-        "2274d7d68cc73d4831f7d169674c82ebed3eac10"
+        "4f0907f0333e40e0ca196e803cd85099b0aaaf51",
+        "eac8a6b519430b295caa7a57bc18388179510faa",
+        "77e9bef5eb3e2916468b1eddbd1cb915d9f5e5de"
       ]
     },
     {
       "rank": 2,
-      "title": "Qwen 3.8 27B 模型发布",
-      "reason": "开源视觉大模型性能出色",
-      "heat": 90,
+      "title": "美AI企业涉对华出口争议",
+      "reason": "特朗普关联公司提供受限服务，触及地缘政治",
+      "heat": 85,
       "newsIds": [
-        "81603460e9838e678da95dcaa472bbce9d68db56"
+        "dcdb8ea56126f6aa253b8d653edad0ac9489558f"
       ]
     },
     {
       "rank": 3,
-      "title": "谷歌 Gemini 提升足球观赛体验",
-      "reason": "AI 结合体育商业落地",
-      "heat": 85,
+      "title": "微软AI扩张受阻于芯片短缺",
+      "reason": "芯片供应成为大厂AI布局关键瓶颈",
+      "heat": 80,
       "newsIds": [
-        "cfb1ad6d5c2e00ccf0422868807953a9a5b098be"
+        "c81020768a9f5d2ff8816d56baad53fd15cacc59"
       ]
     },
     {
       "rank": 4,
-      "title": "AI 自主经营业务实验",
-      "reason": "AI 代理真实资金运作引关注",
-      "heat": 82,
+      "title": "AI儿童机器人伴侣的情感隐患",
+      "reason": "儿童对AI产生情感依赖，失去引发心理问题",
+      "heat": 75,
       "newsIds": [
-        "c2f254ee7a7dbf61e9cda82f7e17e25dd4fd1ee5"
+        "13298ed20f8fd91dd1d51a672a2d56d877444a0b"
       ]
     },
     {
       "rank": 5,
-      "title": "学生普遍用 AI 作弊",
-      "reason": "教育领域诚信问题引热议",
-      "heat": 80,
+      "title": "校园AI作弊现象泛滥",
+      "reason": "AI工具冲击教育诚信，引发广泛讨论",
+      "heat": 70,
       "newsIds": [
         "ce5ec26c10cfbe02e4cba7b2ad30f62e4bd576ff"
       ]
     },
     {
       "rank": 6,
-      "title": "超市因 AI 摄像头驱逐顾客后暂停使用",
-      "reason": "AI 监控隐私争议持续发酵",
-      "heat": 78,
+      "title": "超市AI摄像头滥用被叫停",
+      "reason": "AI监控侵犯隐私，商业应用遭抵制",
+      "heat": 65,
       "newsIds": [
         "aee876ee9df6dd1f4a56bb7535daa0c56d945bf8"
       ]
     },
     {
       "rank": 7,
-      "title": "年轻人强烈厌恶 AI CEO",
-      "reason": "社会对AI领导层抵触情绪高涨",
-      "heat": 76,
+      "title": "澳青少年社媒禁令报告疑用AI造假",
+      "reason": "官方报告疑AI生成，公信力遭质疑",
+      "heat": 60,
       "newsIds": [
-        "186740912b768b8931d8995bc5d1b8b0acc9316e"
+        "159b18c41326201d69c8d0d3fc1cd039cd6e039b"
       ]
     },
     {
       "rank": 8,
-      "title": "大型科技公司 AI 支出虚高 3 万亿美元",
-      "reason": "AI 投资泡沫担忧加剧",
-      "heat": 75,
+      "title": "LLM爬虫干扰开发者社区",
+      "reason": "AI爬虫滥用破坏开源生态，开发者不满",
+      "heat": 55,
       "newsIds": [
-        "eac8a6b519430b295caa7a57bc18388179510faa"
+        "f2b416e0d41988b98a934334231a58a47a220430"
       ]
     }
   ]
