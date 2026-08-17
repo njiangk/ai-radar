@@ -1,79 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T10:35:03.668Z",
+  "generatedAt": "2026-08-17T12:49:33.003Z",
   "items": [
     {
       "rank": 1,
-      "title": "AI投资过热引发金融风险",
-      "reason": "英伟达融资风险与万亿级支出引发市场担忧",
-      "heat": 90,
+      "title": "OpenAI/Hugging Face 遭黑客攻击",
+      "reason": "顶级 AI 机构遭攻击，安全警钟",
+      "heat": 95,
       "newsIds": [
-        "4f0907f0333e40e0ca196e803cd85099b0aaaf51",
-        "eac8a6b519430b295caa7a57bc18388179510faa",
-        "77e9bef5eb3e2916468b1eddbd1cb915d9f5e5de"
+        "3ffe9eb452f2a9bcf1e525320f58c1286278a11b"
       ]
     },
     {
       "rank": 2,
-      "title": "美AI企业涉对华出口争议",
-      "reason": "特朗普关联公司提供受限服务，触及地缘政治",
-      "heat": 85,
+      "title": "Stripe 70 亿美元收购 OpenRouter",
+      "reason": "巨额收购，掌控 AI 路由层",
+      "heat": 92,
       "newsIds": [
-        "dcdb8ea56126f6aa253b8d653edad0ac9489558f"
+        "e9ecdc2063e401a39cf64a0850c73fb728f8b725"
       ]
     },
     {
       "rank": 3,
-      "title": "微软AI扩张受阻于芯片短缺",
-      "reason": "芯片供应成为大厂AI布局关键瓶颈",
-      "heat": 80,
+      "title": "英伟达 AI 融资 5000 亿美元风险",
+      "reason": "5000 亿融资隐患引担忧",
+      "heat": 90,
       "newsIds": [
-        "c81020768a9f5d2ff8816d56baad53fd15cacc59"
+        "4f0907f0333e40e0ca196e803cd85099b0aaaf51"
       ]
     },
     {
       "rank": 4,
-      "title": "AI儿童机器人伴侣的情感隐患",
-      "reason": "儿童对AI产生情感依赖，失去引发心理问题",
-      "heat": 75,
+      "title": "AI 推高美债收益率",
+      "reason": "AI 资本开支搅动宏观市场",
+      "heat": 88,
       "newsIds": [
-        "13298ed20f8fd91dd1d51a672a2d56d877444a0b"
+        "77e9bef5eb3e2916468b1eddbd1cb915d9f5e5de"
       ]
     },
     {
       "rank": 5,
-      "title": "校园AI作弊现象泛滥",
-      "reason": "AI工具冲击教育诚信，引发广泛讨论",
-      "heat": 70,
+      "title": "AI 冲击图书出版业",
+      "reason": "AI 引发出版业大洗牌",
+      "heat": 85,
       "newsIds": [
-        "ce5ec26c10cfbe02e4cba7b2ad30f62e4bd576ff"
+        "9a2ace51b40397a37b6c333ffbc8eaf8e6f30ac6"
       ]
     },
     {
       "rank": 6,
-      "title": "超市AI摄像头滥用被叫停",
-      "reason": "AI监控侵犯隐私，商业应用遭抵制",
-      "heat": 65,
+      "title": "AI 音乐进入排行榜",
+      "reason": "AI 创作打入主流榜单",
+      "heat": 83,
       "newsIds": [
-        "aee876ee9df6dd1f4a56bb7535daa0c56d945bf8"
+        "cbb94a2c7dfe704c8953fd5031e79933d1f30e04"
       ]
     },
     {
       "rank": 7,
-      "title": "澳青少年社媒禁令报告疑用AI造假",
-      "reason": "官方报告疑AI生成，公信力遭质疑",
-      "heat": 60,
+      "title": "中国寻求塑造 AI 认知",
+      "reason": "地缘政治与 AI 治理博弈",
+      "heat": 80,
       "newsIds": [
-        "159b18c41326201d69c8d0d3fc1cd039cd6e039b"
+        "b32388f256a62a9726382f2cffbe9015d15f7c7d"
       ]
     },
     {
       "rank": 8,
-      "title": "LLM爬虫干扰开发者社区",
-      "reason": "AI爬虫滥用破坏开源生态，开发者不满",
-      "heat": 55,
+      "title": "黄仁勋与开源权重 AI 之争",
+      "reason": "开源闭源路线之争白热化",
+      "heat": 78,
       "newsIds": [
-        "f2b416e0d41988b98a934334231a58a47a220430"
+        "28e3d93e355f3c82c5080ddc7ec92136092622c0"
       ]
     }
   ]
