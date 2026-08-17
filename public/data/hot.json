@@ -1,82 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T03:03:13.593Z",
+  "generatedAt": "2026-08-17T04:45:23.644Z",
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek V4系列发布，本地运行创佳绩",
-      "reason": "1M上下文207 tok/s，性能惊艳",
+      "title": "Stripe 70亿美元收购OpenRouter",
+      "reason": "AI基础设施重大整合",
       "heat": 95,
-      "newsIds": [
-        "2274d7d68cc73d4831f7d169674c82ebed3eac10",
-        "949dc1304b6023b1e0830098df46ab224069845c"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "OpenAI解散安全预备团队",
-      "reason": "模型风险管理组织遭裁撤引发担忧",
-      "heat": 90,
-      "newsIds": [
-        "639f236e7d0f62ec03792a0ad6ec08b4af51bade"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Stripe拟收购OpenRouter",
-      "reason": "70亿美元交易重塑AI分发格局",
-      "heat": 85,
       "newsIds": [
         "943d4b7d862e9ee3501f18bf63c3fa8081948226",
         "ed85780b071edfc86e878955aba7829fa9004f04"
       ]
     },
     {
+      "rank": 2,
+      "title": "DeepSeek V4系列模型发布",
+      "reason": "超快推理与本地化运行",
+      "heat": 92,
+      "newsIds": [
+        "2274d7d68cc73d4831f7d169674c82ebed3eac10",
+        "949dc1304b6023b1e0830098df46ab224069845c"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI解散准备团队",
+      "reason": "AI安全团队重大变动",
+      "heat": 90,
+      "newsIds": [
+        "639f236e7d0f62ec03792a0ad6ec08b4af51bade"
+      ]
+    },
+    {
       "rank": 4,
-      "title": "Qwen 3.8 27B开源模型发布",
-      "reason": "本地可运行的视觉语言模型表现惊艳",
+      "title": "俄导弹发现英伟达AI芯片",
+      "reason": "AI芯片或涉军事用途",
+      "heat": 88,
+      "newsIds": [
+        "1f35c3c877b1c88abaf6138245f8ea64eba8956d"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic CEO谈AI信任危机",
+      "reason": "行业领袖呼吁赢回信任",
+      "heat": 85,
+      "newsIds": [
+        "7b2c05cb77f7b508da27565874275dfcdc6965ff",
+        "d6cf8a00384c7939ba4f391455ac4bec8ab619fd"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Qwen 3.8 27B发布",
+      "reason": "国产开源模型性能亮眼",
       "heat": 82,
       "newsIds": [
         "81603460e9838e678da95dcaa472bbce9d68db56"
       ]
     },
     {
-      "rank": 5,
-      "title": "Anthropic CEO谈AI信任与风险",
-      "reason": "强调信任危机，暂缓发布更强模型",
-      "heat": 78,
-      "newsIds": [
-        "7b2c05cb77f7b508da27565874275dfcdc6965ff",
-        "d6cf8a00384c7939ba4f391455ac4bec8ab619fd",
-        "05d4ea9aaa4fff86b65fec338b09ea0de849e405"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "公众对AI领袖普遍不信任",
-      "reason": "年轻人和市场质疑扎克伯格等CEO",
-      "heat": 70,
-      "newsIds": [
-        "186740912b768b8931d8995bc5d1b8b0acc9316e",
-        "25e650ae358e19b6c9bfd76c7d2e447e78e504cb"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "AI垃圾内容泛滥成灾",
-      "reason": "真实存在且影响内容生态",
-      "heat": 65,
+      "title": "谷歌AI Studio被指违反GDPR",
+      "reason": "欧洲数据合规争议",
+      "heat": 80,
       "newsIds": [
-        "fc1b61d20e2c34053d36e47e9d00d9f0b17b6934"
+        "544fe2073289f28cf1a9619cd115c75e8107be70"
       ]
     },
     {
       "rank": 8,
-      "title": "俄导弹被曝内置英伟达AI芯片",
-      "reason": "地缘冲突与AI技术关联引发关注",
-      "heat": 60,
+      "title": "年轻人对AI CEO感到厌恶",
+      "reason": "公众对AI炒作反感升温",
+      "heat": 78,
       "newsIds": [
-        "1f35c3c877b1c88abaf6138245f8ea64eba8956d"
+        "186740912b768b8931d8995bc5d1b8b0acc9316e"
       ]
     }
   ]
