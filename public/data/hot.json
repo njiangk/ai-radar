@@ -1,80 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T18:33:05.796Z",
+  "generatedAt": "2026-08-17T01:24:37.801Z",
   "items": [
     {
       "rank": 1,
-      "title": "苹果打造定制中文AI模型",
-      "reason": "苹果加码中文AI，市场关注度高",
+      "title": "Stripe 70亿美元收购OpenRouter",
+      "reason": "巨额收购重塑AI网关格局",
       "heat": 95,
       "newsIds": [
-        "e8142f4f826489d0bb33abfa91def2b6e9b0facc"
+        "ed85780b071edfc86e878955aba7829fa9004f04",
+        "943d4b7d862e9ee3501f18bf63c3fa8081948226",
+        "46d4c1f7a6184ea2c9858a9a688d86a7516309c4"
       ]
     },
     {
       "rank": 2,
-      "title": "ChatGPT记录用户操作历史",
-      "reason": "新功能涉隐私与训练数据",
-      "heat": 93,
-      "newsIds": [
-        "a1c7d35e071856a8dde38c204c1e26920a4fd5c7"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Anthropic CEO谈AI信任危机",
-      "reason": "AI领袖回应公众反弹，行业风向标",
+      "title": "Anthropic CEO：AI信任危机",
+      "reason": "高层言论引发AI信任广泛讨论",
       "heat": 90,
       "newsIds": [
+        "7b2c05cb77f7b508da27565874275dfcdc6965ff",
+        "05d4ea9aaa4fff86b65fec338b09ea0de849e405",
         "d6cf8a00384c7939ba4f391455ac4bec8ab619fd",
         "51f821562f2ee773f752645c4f155a2fda77da28"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI店长解雇人类员工",
-      "reason": "AI决策取代人类，引发职场恐慌",
+      "rank": 3,
+      "title": "OpenAI解散安全准备团队",
+      "reason": "AI安全治理重大变动引担忧",
       "heat": 85,
       "newsIds": [
-        "19395daf8f06ce7029f4ed2524aab9bb82fbb3db"
+        "639f236e7d0f62ec03792a0ad6ec08b4af51bade"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Qwen 3.8 27B模型表现出色",
+      "reason": "新模型性能强大但过度思考",
+      "heat": 80,
+      "newsIds": [
+        "81603460e9838e678da95dcaa472bbce9d68db56"
       ]
     },
     {
       "rank": 5,
-      "title": "AI代理安全风险频发",
-      "reason": "AI代理漏洞与治理成为焦点",
-      "heat": 82,
-      "newsIds": [
-        "74ed0a885d7cc768f8793de30add790e27e5d9a8",
-        "4da7bf6fead966ac76f2aac9ad00de3db46eb061",
-        "706616515255592f7cd686ac931aacc701f6e990"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "DeepSeek模型压缩至57GB",
-      "reason": "个人压缩大模型引爆技术讨论",
-      "heat": 80,
+      "title": "DeepSeek V4压缩后本地运行",
+      "reason": "模型压缩技术实现Mac本地编程",
+      "heat": 75,
       "newsIds": [
         "949dc1304b6023b1e0830098df46ab224069845c"
       ]
     },
     {
-      "rank": 7,
-      "title": "AI根据社交照片定位",
-      "reason": "AI隐私威胁再敲警钟",
-      "heat": 78,
+      "rank": 6,
+      "title": "ChatGPT追踪电脑操作引隐私争议",
+      "reason": "桌面应用记录用户行为引发担忧",
+      "heat": 70,
       "newsIds": [
-        "c7e785ccc23119176935fafb5d223fc1fa2af566"
+        "a1c7d35e071856a8dde38c204c1e26920a4fd5c7"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Claude服务宕机",
+      "reason": "主流AI服务中断影响广泛用户",
+      "heat": 65,
+      "newsIds": [
+        "f7264e73b32cd990fafa44e202a91d5494ae7890"
       ]
     },
     {
       "rank": 8,
-      "title": "AI泡沫是连锁滚动泡沫",
-      "reason": "策略师警示AI市场泡沫化风险",
-      "heat": 75,
+      "title": "年轻人反感AI CEO",
+      "reason": "社会情绪反映AI信任危机加剧",
+      "heat": 60,
       "newsIds": [
-        "15df8fd8f9f7fb4944e6e07b2db46f9a6574e859"
+        "186740912b768b8931d8995bc5d1b8b0acc9316e"
       ]
     }
   ]
