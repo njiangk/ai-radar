@@ -1,80 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T04:45:23.644Z",
+  "generatedAt": "2026-08-17T07:00:24.146Z",
   "items": [
     {
       "rank": 1,
-      "title": "Stripe 70亿美元收购OpenRouter",
-      "reason": "AI基础设施重大整合",
+      "title": "Stripe收购AI网关OpenRouter",
+      "reason": "科技巨头重磅收购AI基础设施",
       "heat": 95,
       "newsIds": [
-        "943d4b7d862e9ee3501f18bf63c3fa8081948226",
-        "ed85780b071edfc86e878955aba7829fa9004f04"
+        "ed85780b071edfc86e878955aba7829fa9004f04",
+        "943d4b7d862e9ee3501f18bf63c3fa8081948226"
       ]
     },
     {
       "rank": 2,
-      "title": "DeepSeek V4系列模型发布",
-      "reason": "超快推理与本地化运行",
-      "heat": 92,
-      "newsIds": [
-        "2274d7d68cc73d4831f7d169674c82ebed3eac10",
-        "949dc1304b6023b1e0830098df46ab224069845c"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "OpenAI解散准备团队",
-      "reason": "AI安全团队重大变动",
+      "reason": "AI安全再引行业担忧",
       "heat": 90,
       "newsIds": [
         "639f236e7d0f62ec03792a0ad6ec08b4af51bade"
       ]
     },
     {
-      "rank": 4,
-      "title": "俄导弹发现英伟达AI芯片",
-      "reason": "AI芯片或涉军事用途",
-      "heat": 88,
-      "newsIds": [
-        "1f35c3c877b1c88abaf6138245f8ea64eba8956d"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic CEO谈AI信任危机",
-      "reason": "行业领袖呼吁赢回信任",
+      "rank": 3,
+      "title": "DeepSeek V4 Pro实现1M上下文高速推理",
+      "reason": "1M上下文无量化，速度突破",
       "heat": 85,
       "newsIds": [
-        "7b2c05cb77f7b508da27565874275dfcdc6965ff",
-        "d6cf8a00384c7939ba4f391455ac4bec8ab619fd"
+        "2274d7d68cc73d4831f7d169674c82ebed3eac10"
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Qwen 3.8 27B发布",
-      "reason": "国产开源模型性能亮眼",
+      "reason": "开源新秀性能强，但思考过度",
       "heat": 82,
       "newsIds": [
         "81603460e9838e678da95dcaa472bbce9d68db56"
       ]
     },
     {
-      "rank": 7,
-      "title": "谷歌AI Studio被指违反GDPR",
-      "reason": "欧洲数据合规争议",
-      "heat": 80,
+      "rank": 5,
+      "title": "AI医学突破：发现精子与破解谜团",
+      "reason": "AI诊断能力再获实证",
+      "heat": 75,
       "newsIds": [
-        "544fe2073289f28cf1a9619cd115c75e8107be70"
+        "c41a5aee5b245175a1107173cd07032ee1889948",
+        "bab7795ccc86cc289ad999fde173e1d9fd915346"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Cursor获AI代理安全认证",
+      "reason": "AI代理安全认证新标杆",
+      "heat": 70,
+      "newsIds": [
+        "117cf23b4eb229a9db34fe3a442aa1fa22ae5dd0"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "AI赢得公平工作委员会诉讼",
+      "reason": "AI法律地位里程碑判例",
+      "heat": 65,
+      "newsIds": [
+        "122f12b8401f8a6df2e0d84d22314d3768478b0f"
       ]
     },
     {
       "rank": 8,
-      "title": "年轻人对AI CEO感到厌恶",
-      "reason": "公众对AI炒作反感升温",
-      "heat": 78,
+      "title": "科技巨头AI支出被低估3万亿美元",
+      "reason": "巨额资本开支引发行业担忧",
+      "heat": 60,
       "newsIds": [
-        "186740912b768b8931d8995bc5d1b8b0acc9316e"
+        "eac8a6b519430b295caa7a57bc18388179510faa"
       ]
     }
   ]
