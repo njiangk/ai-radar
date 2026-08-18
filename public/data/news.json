@@ -1,7 +1,211 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T08:39:26.659Z",
+  "generatedAt": "2026-08-18T10:30:37.193Z",
   "items": [
+    {
+      "id": "f615cae1505c317626fea2b31a1c9c444382d149",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://urnicus.com/blog/the-quiet-cost",
+      "publishedAt": "2026-08-18T10:18:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7d1d995afc75a536b84d94c108f2a8586d4d60ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "publishedAt": "2026-08-18T10:13:28.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e62cc87a6eb1decd8bcfd1d74cf99a2b625b504b",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Native vLLM and ROCm 7.15 for RX 6000 (RDNA2) on Windows 11 – 26 Tflops FP16",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
+      "publishedAt": "2026-08-18T10:11:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5dafd87c118139130e42429435486a55c4955533",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "MacBook Is Now an AI Workstation: Run Qwen 3.8 Locally",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d",
+      "publishedAt": "2026-08-18T10:10:37.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "d253cb87afb8ba6d75a340cf28072f5d9be42d0b",
+      "sourceId": "mit-tr-ai",
+      "sourceName": "MIT Tech Review",
+      "title": "We still don’t know how people are really using AI",
+      "zhTitle": null,
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+      "zhSummary": null,
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
+      "publishedAt": "2026-08-18T10:06:43.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "ebabc164efb4b19d3d20c75be47be010a7acdae5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Reproof – A non-linear writing app for perfectionists",
+      "zhTitle": null,
+      "summary": "Hey HN! I&#x27;ve written more words on the internet than I could count, for everyone from Zapier to Wirecutter. And for years it&#x27;s bugged me that nearly every writing app still treats the writing surface as a linear sheet of paper, with paragraphs one after another and no space for experimentation. And so I and a friend build Reproof.app as what I&#x27;ve taken to calling a writing app for p",
+      "zhSummary": null,
+      "url": "https://reproof.app",
+      "publishedAt": "2026-08-18T09:30:07.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "4f46c5de3fc16797f200a85d2fa3c86d704d2c60",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Kraubex AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.kraubex.de/product",
+      "publishedAt": "2026-08-18T09:25:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fc1f0635d1de1c21308b802f232f70f27227d74e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "PromptQuorum, optimize locally prompts and analyze results of multiple AIs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.promptquorum.com/waitlist",
+      "publishedAt": "2026-08-18T09:23:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "570699d107a63365c330fc74f2d4f329fde4abd7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01",
+      "publishedAt": "2026-08-18T09:09:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c99f4f1fca3c3fa2d17154c86faddbb81a587496",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Arctype – An AI workspace that builds documents, apps, and handles email",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arctype.org",
+      "publishedAt": "2026-08-18T09:07:44.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "7db87a0c6a66e6a4bc204cfe35239f184b7639d9",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "GenOffice fork that works with any local LLM instead of a cloud account",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/douglas168/open-genoffice",
+      "publishedAt": "2026-08-18T09:03:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c4b349a8111b0c6008c3fde6abeff55f7c632250",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I'm done coding with AI [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "publishedAt": "2026-08-18T09:03:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "14640eb10ad8f1f5932ff373287573ba12096fb4",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "zhTitle": null,
+      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "publishedAt": "2026-08-18T09:00:01.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "873d2833b485186034322dc2fee4c63df792ec51",
+      "sourceId": "wired-ai",
+      "sourceName": "WIRED AI",
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "zhTitle": null,
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "zhSummary": null,
+      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "c121eaf78a256323c08e28950f735ad43c04fcff",
+      "sourceId": "mit-tr-ai",
+      "sourceName": "MIT Tech Review",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "zhTitle": null,
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+      "zhSummary": null,
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "aa40f040d4b7152032760c27330a99e9e8eb623b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Breakthrough as scientists use AI to predict how breast cancer could progress",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.independent.co.uk/news/health/breast-cancer-diagnosis-cure-ai-symptoms-b3034278.html",
+      "publishedAt": "2026-08-18T08:58:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6a98016cf8e9b58dbe5dbab328ec7647b644a2a8",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Slag: Scriptable, hot-reloadable GPUI framework",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://tangled.org/liminal.rip/slag",
+      "publishedAt": "2026-08-18T08:47:16.000Z",
+      "category": "其他"
+    },
     {
       "id": "302adb96a80b5dd503a4ea274fb0261f199816ce",
       "sourceId": "hn-llm",
@@ -351,90 +555,6 @@
       "category": "其他"
     },
     {
-      "id": "65c01fdd77ef1451b3bff2e4e6b053e5b577ce0f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/Quasilocal/status/2089408301427568691",
-      "publishedAt": "2026-08-18T01:56:38.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "46ea43a7e1c3677868b1b5512645e75ff83a705b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b",
-      "publishedAt": "2026-08-18T01:51:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ce5ec26c10cfbe02e4cba7b2ad30f62e4bd576ff",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Every student is cheating with AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ben.page/cheating",
-      "publishedAt": "2026-08-18T01:45:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a3c1f20df2ffb9327451b098e363ab0aa2abc240",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Apple's Camera-Equipped AirPods See Them in Action",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7",
-      "publishedAt": "2026-08-18T01:39:55.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "fa9b5a32292aae6be856be21901842b373fcb25f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Apple's Camera-Equipped AirPods See Them in Action",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/aaronp613/status/2089522745184760112",
-      "publishedAt": "2026-08-18T01:39:43.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "8b20d027b145c8cd86668e46a33864788a2e56fa",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-      "publishedAt": "2026-08-18T01:16:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d9ec875cb7956c2dd06243205b75e612149a4da2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files",
-      "publishedAt": "2026-08-18T01:01:45.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "4f55c24f419a8b7c31757e9fa19f08fec061c92f",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -447,18 +567,6 @@
       "category": "模型发布"
     },
     {
-      "id": "9e62463480db708af24543645fb783f8f640bf28",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-      "publishedAt": "2026-08-18T00:29:15.000Z",
-      "category": "其他"
-    },
-    {
       "id": "f96256d2fa77bdf91a36569c4a91bb6009666091",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -468,18 +576,6 @@
       "zhSummary": null,
       "url": "https://getcogni.io",
       "publishedAt": "2026-08-18T00:21:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "17b10abe1aabf8c2ae2ab41558537507f954b622",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Consumers Prefer AI Music Until They're Told It's AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai",
-      "publishedAt": "2026-08-18T00:15:23.000Z",
       "category": "其他"
     },
     {
@@ -512,7 +608,7 @@
       "sourceName": "Simon Willison",
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
       "zhTitle": null,
-      "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms,",
+      "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms,",
       "zhSummary": null,
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52",
       "publishedAt": "2026-08-17T23:58:14.000Z",
@@ -663,18 +759,6 @@
       "category": "其他"
     },
     {
-      "id": "968e3954f84ea5f6ab39fa488cb96fc7dd87bf6c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
-      "zhTitle": null,
-      "summary": "Landing Page: https:&#x2F;&#x2F;www.trydoberman.dev&#x2F; The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in. What is Doberman: Doberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of",
-      "zhSummary": null,
-      "url": "https://github.com/fu351/Doberman-Core",
-      "publishedAt": "2026-08-17T20:03:00.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "b597a3d03ee72b44675ad3ad83058f128719c955",
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
@@ -684,18 +768,6 @@
       "zhSummary": null,
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "publishedAt": "2026-08-17T19:46:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "67be073850017bdf0e20c1c3a6356c03c2d56e2f",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Instruction Scheduling in LLVM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://harishch4.github.io/categories/instruction-scheduling",
-      "publishedAt": "2026-08-17T19:26:42.000Z",
       "category": "其他"
     },
     {
@@ -709,18 +781,6 @@
       "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing",
       "publishedAt": "2026-08-17T19:16:09.000Z",
       "category": "工具"
-    },
-    {
-      "id": "a5988983b108d7195199a11797a8825a8fc1ff96",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: LLM choose-your-own-adventure game to go undercover as top CEOs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://undercover.games/play",
-      "publishedAt": "2026-08-17T18:35:25.000Z",
-      "category": "其他"
     },
     {
       "id": "337ff98bc752affaa2f591330198bd3279c8aee1",
@@ -2079,18 +2139,6 @@
       "category": "其他"
     },
     {
-      "id": "2cd82d85e5877ec34d62b25d22fbd7a102d8d8ba",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "zhTitle": null,
-      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "publishedAt": "2026-08-13T21:42:38.000Z",
-      "category": "工具"
-    },
-    {
       "id": "403f135bd189c06faaeb7e0d681522ac185ba81b",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -2401,18 +2449,6 @@
       "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils",
       "publishedAt": "2026-08-12T19:51:30.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "0f717f95cc18280ed51b14d4555b1a5184636c3d",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED AI",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "zhTitle": null,
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "zhSummary": null,
-      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood",
-      "publishedAt": "2026-08-12T18:45:00.000Z",
-      "category": "产品"
     },
     {
       "id": "109e5b269968bd9c5f4535a7817542438a8841cf",
@@ -3279,18 +3315,6 @@
       "category": "政策"
     },
     {
-      "id": "9dfa8f07c07effac71550aaab1b727ee1cef1194",
-      "sourceId": "mit-tr-ai",
-      "sourceName": "MIT Tech Review",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "zhTitle": null,
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
-      "zhSummary": null,
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
-      "publishedAt": "2026-08-03T18:43:30.000Z",
-      "category": "产品"
-    },
-    {
       "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
       "sourceId": "google-ai-blog",
       "sourceName": "Google AI Blog",
@@ -3300,18 +3324,6 @@
       "zhSummary": null,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
       "publishedAt": "2026-08-03T15:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "82e177f4c64b9c7f63e7ef3e6f0ddea1c7931252",
-      "sourceId": "mit-tr-ai",
-      "sourceName": "MIT Tech Review",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "zhTitle": null,
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
-      "zhSummary": null,
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
-      "publishedAt": "2026-08-03T08:30:05.000Z",
       "category": "其他"
     },
     {
@@ -3589,18 +3601,6 @@
       "url": "https://openai.com/index/health-in-chatgpt",
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "category": "产品"
-    },
-    {
-      "id": "37c9890bc32e7cee73233632c06a3e0ba488e007",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "category": "其他"
     }
   ]
 }
