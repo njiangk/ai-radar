@@ -1,7 +1,163 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T06:46:40.814Z",
+  "generatedAt": "2026-08-18T08:39:26.659Z",
   "items": [
+    {
+      "id": "302adb96a80b5dd503a4ea274fb0261f199816ce",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Elm for PostgreSQL",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/evancz/status/2089617868694421564",
+      "publishedAt": "2026-08-18T08:37:34.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c2920cc9a9beefbe22cae8038f1267673cfc9e03",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: There are many factories, but this one's *yours",
+      "zhTitle": null,
+      "summary": "# There are many factories, but this one&#x27;s yours All coding harnesses and code factories have a few major flaws: 1. You don&#x27;t get to pick the workflow - someone else decides the workflow for you 2. It&#x27;s often unclear when the human is needed - is the agent done, or do you need to verify? 3. You&#x27;re limited to prose and all it&#x27;s downsides - nested logic and complex compesiti",
+      "zhSummary": null,
+      "url": "https://github.com/mikaelweiss/penguin",
+      "publishedAt": "2026-08-18T08:33:24.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "37a8c4200a88a2084199b415bba985b5c68637cd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "What if the AI capex bubble may not be a bubble after all?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.afr.com/technology/sam-altman-is-being-proved-right-about-the-economics-of-ai-20260817-p60p1k",
+      "publishedAt": "2026-08-18T08:33:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2a41345abd8de9801dcfb83f2950024c389f3aa8",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Max 20x upgrade not reflected in weekly limits, depleting at Max 5x rate",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/anthropics/claude-code/issues/79773",
+      "publishedAt": "2026-08-18T08:14:33.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2d357f2da7c9db3284c9aa1c02d84e1af4be57ec",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Measuring Obedience to Authority Across LLMs with the Milgram Paradigm",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.16177",
+      "publishedAt": "2026-08-18T08:07:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6febf3814231e06f4e9f60ce2b8a08c591a6eb8f",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html",
+      "publishedAt": "2026-08-18T08:04:11.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e88e641216debaad5b7e613068724155f5bae984",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The End-State Fallacy: Where Is AI Security Headed?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://endstatefallacy.com",
+      "publishedAt": "2026-08-18T08:01:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a3a37ab917f8f5761f2dfb02e5b916c89b742e1a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+      "publishedAt": "2026-08-18T07:55:43.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c5039efbf2f2ea707232627bc7caf184c63056da",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "LLMs Aren't Writing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sixcolors.com/post/2026/08/llms-arent-writing",
+      "publishedAt": "2026-08-18T07:44:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0d58034f020c1213abd1b2281a34d9ae45eca94e",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound",
+      "publishedAt": "2026-08-18T07:26:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "778c00ef9de97bd30430787b467e0b320f896ece",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/tianzizhiming-svg/agentbridge",
+      "publishedAt": "2026-08-18T07:07:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "583ee5d11ccb349c8141ebbd3f8145cc0dcd0079",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AiJarvi – 80 free AI tools for creators in one workspace",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aijarvi.com",
+      "publishedAt": "2026-08-18T07:01:43.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "6a292c579639788c3ad6bc2ab0ae587521727f25",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Coin size device can hack Boeing airplanes",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ia.acs.org.au/article/2026/coin-sized-device-could-hack-boeing-airplanes.html",
+      "publishedAt": "2026-08-18T06:51:37.000Z",
+      "category": "其他"
+    },
     {
       "id": "0ab7ce6910a334e3e402bc5b5cbabc2c83785791",
       "sourceId": "hn-ai",
@@ -328,8 +484,8 @@
     },
     {
       "id": "4e1b095993b416994f02d5f5a1c9233a6469ee2a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
       "zhTitle": null,
       "summary": "",
@@ -340,8 +496,8 @@
     },
     {
       "id": "494e7307546ba56d21a5efa1f59611451a96f042",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Prime Agent: A Self-Improving RLM Agent",
       "zhTitle": null,
       "summary": "",
@@ -363,18 +519,6 @@
       "category": "模型发布"
     },
     {
-      "id": "6dfcd3bc2b1b0d945629a6c1c804293abb82c303",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Un-AI Your Internet",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://un-ai.digitalprophet.online",
-      "publishedAt": "2026-08-17T23:57:13.000Z",
-      "category": "其他"
-    },
-    {
       "id": "bee5424cbe19e52c6c736190ca50443e55af6c99",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -385,54 +529,6 @@
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
       "publishedAt": "2026-08-17T23:56:26.000Z",
       "category": "其他"
-    },
-    {
-      "id": "b302e7723049a88c2df0db7af6ae0fa013236c13",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
-      "zhTitle": null,
-      "summary": "As a hardcore programmer, I used to attend lots of hackathons, and collaboration was always a huge headache. Especially when everyone on the team was &quot;vibe coding&quot; their own parts. Agents would lose context, and individual solutions would end up out of sync and eventually fail to come together at the end. To fix this exact problem, I built Forklane. Forklane is a multiplayer coding platf",
-      "zhSummary": null,
-      "url": "https://forklane.ai",
-      "publishedAt": "2026-08-17T23:33:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b98d47cd9f1a88930cb1cd909550a99add864aaa",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: AI-generated music box version of any song (for baby)",
-      "zhTitle": null,
-      "summary": "title basically covers it. project #2 from my paternity leave. My partner & I got frustrated with hearing Brahm&#x27;s Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy &quot;kids music&quot;. But most adult music is too dense&#x2F;complex for babies to understand, so I created this to generate baby-friendly, slowed down ve",
-      "zhSummary": null,
-      "url": "https://lullabyconverter.com",
-      "publishedAt": "2026-08-17T23:14:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e4a5cf95beea791fb024d3d2812804fd1d71e4fb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google to buy Spirit Airlines business data for $10M",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17",
-      "publishedAt": "2026-08-17T23:12:51.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2398549316c8fdf9e21f0138c62cd7569423628d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/couldbeme/holdline",
-      "publishedAt": "2026-08-17T23:11:48.000Z",
-      "category": "研究"
     },
     {
       "id": "c351afbfafab05c9fb54440b2ccd14ca9545a30c",
@@ -627,54 +723,6 @@
       "category": "其他"
     },
     {
-      "id": "5a26ed9a30afa5a5ebe7b2dcea37dbc5f2d34e63",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
-      "zhTitle": null,
-      "summary": "Hey HN! We are building HarnessRouter, a canonical API for running Codex, Claude Code, Hermes, and other managed agent harnesses as your product backend. Before building HarnessRouter, I used to build our own agent harness for our products. I tried LangGraph, agent SDKs from different vendors, pydantic, LLM tool use &#x2F; function call, and so on. It&#x27;s a very heavy lifting engineering effort",
-      "zhSummary": null,
-      "url": "https://github.com/harnessrouter/harnessrouter",
-      "publishedAt": "2026-08-17T18:33:38.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "bb472c86b643edafbad667a611ce0abfd4ea9e74",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Artisinal developer aschews LLM assistance",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.jumboframeinternet.com/post/27",
-      "publishedAt": "2026-08-17T18:28:39.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "c8799b3bbb75ba368ab57b029b98c63386a78459",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "In Which I Lose My Mind over Embeddings (HPLM Chapter 2)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html",
-      "publishedAt": "2026-08-17T18:26:53.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f6916438b28277b2868082195cf4d1921f19928c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.12123",
-      "publishedAt": "2026-08-17T18:16:51.000Z",
-      "category": "其他"
-    },
-    {
       "id": "337ff98bc752affaa2f591330198bd3279c8aee1",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -732,18 +780,6 @@
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2608.16878v1",
       "publishedAt": "2026-08-17T17:57:11.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0f501286390a99969bedf63f97373ad4d314ece3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Llama.cpp v0.1.0",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
-      "publishedAt": "2026-08-17T17:56:06.000Z",
       "category": "其他"
     },
     {
@@ -831,18 +867,6 @@
       "category": "研究"
     },
     {
-      "id": "cab972440e0d36a49c975ef880a3a5dac7162bed",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "If LLMs can't write, I doubt it can lead us to AGI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.thetrueengineer.com/p/i-tested-every-ai-model-the-same",
-      "publishedAt": "2026-08-17T17:37:37.000Z",
-      "category": "其他"
-    },
-    {
       "id": "87414723310a691437a27faef8d38e2473fa9c15",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -855,18 +879,6 @@
       "category": "政策"
     },
     {
-      "id": "a6c5ae6ec0c2a9ca9737eba82674ca51711115d7",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The Best Way to Make Your (Small) Vision Language Model Smarter",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://loganbolton.github.io/blog/vlm-verification",
-      "publishedAt": "2026-08-17T17:34:05.000Z",
-      "category": "其他"
-    },
-    {
       "id": "7257e6af8b290f0d686c48b2b0950c1059412832",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -877,18 +889,6 @@
       "url": "https://arxiv.org/abs/2608.16844v1",
       "publishedAt": "2026-08-17T17:30:43.000Z",
       "category": "研究"
-    },
-    {
-      "id": "a7eda38dec732a93bf6fd25c101d6feaa1267287",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/Mcn_S7/status/2089107014526079341",
-      "publishedAt": "2026-08-17T17:23:12.000Z",
-      "category": "其他"
     },
     {
       "id": "3ca1a235cb5e98880d4f0c233b10d8dfe51ac7dc",
