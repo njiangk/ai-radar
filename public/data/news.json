@@ -1,7 +1,283 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T22:27:41.280Z",
+  "generatedAt": "2026-08-18T01:21:44.684Z",
   "items": [
+    {
+      "id": "8b20d027b145c8cd86668e46a33864788a2e56fa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+      "publishedAt": "2026-08-18T01:16:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d9ec875cb7956c2dd06243205b75e612149a4da2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files",
+      "publishedAt": "2026-08-18T01:01:45.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "4f55c24f419a8b7c31757e9fa19f08fec061c92f",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/alainnothere/privibe/tree/main",
+      "publishedAt": "2026-08-18T00:39:32.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "9e62463480db708af24543645fb783f8f640bf28",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "publishedAt": "2026-08-18T00:29:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f96256d2fa77bdf91a36569c4a91bb6009666091",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://getcogni.io",
+      "publishedAt": "2026-08-18T00:21:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "17b10abe1aabf8c2ae2ab41558537507f954b622",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Consumers Prefer AI Music Until They're Told It's AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai",
+      "publishedAt": "2026-08-18T00:15:23.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4e1b095993b416994f02d5f5a1c9233a6469ee2a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.14399",
+      "publishedAt": "2026-08-18T00:07:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "494e7307546ba56d21a5efa1f59611451a96f042",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Prime Agent: A Self-Improving RLM Agent",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "publishedAt": "2026-08-18T00:05:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6aa6db5f712edc5a53ae85a7a7eccd4103ea1882",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "zhTitle": null,
+      "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms,",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52",
+      "publishedAt": "2026-08-17T23:58:14.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "6dfcd3bc2b1b0d945629a6c1c804293abb82c303",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Un-AI Your Internet",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://un-ai.digitalprophet.online",
+      "publishedAt": "2026-08-17T23:57:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bee5424cbe19e52c6c736190ca50443e55af6c99",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+      "zhTitle": null,
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
+      "publishedAt": "2026-08-17T23:56:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b302e7723049a88c2df0db7af6ae0fa013236c13",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
+      "zhTitle": null,
+      "summary": "As a hardcore programmer, I used to attend lots of hackathons, and collaboration was always a huge headache. Especially when everyone on the team was &quot;vibe coding&quot; their own parts. Agents would lose context, and individual solutions would end up out of sync and eventually fail to come together at the end. To fix this exact problem, I built Forklane. Forklane is a multiplayer coding platf",
+      "zhSummary": null,
+      "url": "https://forklane.ai",
+      "publishedAt": "2026-08-17T23:33:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b98d47cd9f1a88930cb1cd909550a99add864aaa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AI-generated music box version of any song (for baby)",
+      "zhTitle": null,
+      "summary": "title basically covers it. project #2 from my paternity leave. My partner & I got frustrated with hearing Brahm&#x27;s Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy &quot;kids music&quot;. But most adult music is too dense&#x2F;complex for babies to understand, so I created this to generate baby-friendly, slowed down ve",
+      "zhSummary": null,
+      "url": "https://lullabyconverter.com",
+      "publishedAt": "2026-08-17T23:14:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e4a5cf95beea791fb024d3d2812804fd1d71e4fb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google to buy Spirit Airlines business data for $10M",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17",
+      "publishedAt": "2026-08-17T23:12:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2398549316c8fdf9e21f0138c62cd7569423628d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/couldbeme/holdline",
+      "publishedAt": "2026-08-17T23:11:48.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "a542733bdc2cd65ea23cb33e45586b164c8addee",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google Buys Spirit Data for $10M",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://airlinegeeks.com/2026/08/17/report-google-buys-spirit-data-for-10m",
+      "publishedAt": "2026-08-17T22:53:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "723b7b0828b86f90c5e3ba3c3a2c83ab41f4885b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "publishedAt": "2026-08-17T22:51:16.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "53ddef6230f10e588c9ea09ce7e78e9d5da1aa9d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Building an AI Text Detector from Scratch",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+      "publishedAt": "2026-08-17T22:50:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "46c357333aaca68b8b582c8825e5cf203601502b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/yetone/cumora",
+      "publishedAt": "2026-08-17T22:46:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "c23f27bdba4ea158db78d2744fbdd3681d74c2ed",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Cursor Origin is now live",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://xcancel.com/cursor_ai/status/2089399057659596847",
+      "publishedAt": "2026-08-17T22:42:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6a4f998ca5a21df96c38ae897474c742e50d57aa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "U.S. data-center capacity may nearly double by 2028",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aicharts.grok.me/c/data-center-power",
+      "publishedAt": "2026-08-17T22:40:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a3d9002712d13197ae6fd5555e3d0fbbdfe9330",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
+      "publishedAt": "2026-08-17T22:36:06.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "c351afbfafab05c9fb54440b2ccd14ca9545a30c",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Pfizer, Valneva Lyme vaccine starts review in Europe",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pharmaphorum.com/news/pfizer-valneva-lyme-vaccine-starts-review-europe",
+      "publishedAt": "2026-08-17T22:26:29.000Z",
+      "category": "其他"
+    },
     {
       "id": "a30c3d74bee0c8a5a3fab4d72c5f0bdcc1bbdc82",
       "sourceId": "hn-ai",
@@ -195,21 +471,9 @@
       "category": "其他"
     },
     {
-      "id": "afab202d62051f08323802607a853fc41d022193",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Alberta's AI data centre gamble: Big investment or local burden?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://financialpost.com/technology/alberta-ai-data-centre-investment-local-burden",
-      "publishedAt": "2026-08-17T20:36:06.000Z",
-      "category": "融资"
-    },
-    {
       "id": "ff72c4b50cface9e97a689f254dcc0c70801bffa",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Slaunt – control what AI agents can access, do, and execute",
       "zhTitle": null,
       "summary": "Hey HN, wanted to silently launch what I&#x27;ve building for a bit. Lmk.",
@@ -217,18 +481,6 @@
       "url": "https://slaunt.ai",
       "publishedAt": "2026-08-17T20:33:01.000Z",
       "category": "产品"
-    },
-    {
-      "id": "f804511d035a8ed050ef851254e78dd03af20448",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Gene Inspector Pro – I built a tool for exploring your own genome",
-      "zhTitle": null,
-      "summary": "Hi HN, I’m Sergey. When my son was diagnosed with several health conditions, a doctor told us to “learn to live with it.” I refused and started looking for answers. I spent the next seven years teaching myself genetics and cellular biology. That search led me to build Gene Inspector and have my family’s DNA sequenced. I now study genomic data from 14 family members across three generations. Gene I",
-      "zhSummary": null,
-      "url": "https://gene-inspector.pro",
-      "publishedAt": "2026-08-17T20:31:09.000Z",
-      "category": "研究"
     },
     {
       "id": "e77a61e3c5259e9d3e066f48b12370f570cbc060",
@@ -240,42 +492,6 @@
       "zhSummary": null,
       "url": "https://www.phoronix.com/news/LLVM-Offload-Rust-Performance",
       "publishedAt": "2026-08-17T20:30:39.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a598f06eaef9a43f4f7017a75bcefae3c3261496",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Plotly Studio Embedded",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://plotly.com/blog/plotly-studio-embedded-ai-chat-dash-apps",
-      "publishedAt": "2026-08-17T20:27:44.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dc65ea40c9a4f6920d224d7b9518128e1ea1108b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Nvidia backing $105B in financing for OpenAI data center in Ohio",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-      "publishedAt": "2026-08-17T20:26:11.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "40713fd7417bfa2c8902440e4a1fe0aa441a6be9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Should You Use AI for a Task? Here's a Simple Way to Decide",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-      "publishedAt": "2026-08-17T20:25:37.000Z",
       "category": "其他"
     },
     {
@@ -291,30 +507,6 @@
       "category": "产品"
     },
     {
-      "id": "e2e75338fe652764176dcb029ef3a1e1b450ec42",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Reflections on My Work Trial",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://sageox.ai/blog/reflections-on-my-work-trial",
-      "publishedAt": "2026-08-17T20:19:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d3003ce30bd5896ae0df598db2ef6418c165feea",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Data Loading for AI/ML: A Comprehensive Guide",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lancedb.com/blog/data-loading-guide",
-      "publishedAt": "2026-08-17T20:17:24.000Z",
-      "category": "其他"
-    },
-    {
       "id": "32239941792d4ce33bebbe9959b8e3f7f304f84d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -327,45 +519,9 @@
       "category": "其他"
     },
     {
-      "id": "9a2ace51b40397a37b6c333ffbc8eaf8e6f30ac6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-      "publishedAt": "2026-08-17T20:14:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "72cdc9c1cd73b81a92bf8e117eb7357d667d3a25",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify",
-      "publishedAt": "2026-08-17T20:10:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e885dd57bc6131a7f238230bf79835b5dc929a6b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I pushed Qwen3.8-27B to 99 tps on a single request and 1150 on batch on a 3090",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/syv-ai/qwen38-27b-rtx3090",
-      "publishedAt": "2026-08-17T20:05:13.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "968e3954f84ea5f6ab39fa488cb96fc7dd87bf6c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
       "zhTitle": null,
       "summary": "Landing Page: https:&#x2F;&#x2F;www.trydoberman.dev&#x2F; The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in. What is Doberman: Doberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of",
@@ -373,42 +529,6 @@
       "url": "https://github.com/fu351/Doberman-Core",
       "publishedAt": "2026-08-17T20:03:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "af62803c909360de3eab48b30dffcfc5d93897d9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Is reviewing AI even possible?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible",
-      "publishedAt": "2026-08-17T20:00:30.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "667ef3cd8509e01979dcee3194af12a994d362d1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cursor Origin",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/cursor_ai/status/2089399057659596847",
-      "publishedAt": "2026-08-17T19:54:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c76018e68d72fbf688246849ffbb6da7c96b34e3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI;DR (AI; Didn't Read)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "publishedAt": "2026-08-17T19:47:15.000Z",
-      "category": "其他"
     },
     {
       "id": "b597a3d03ee72b44675ad3ad83058f128719c955",
@@ -420,42 +540,6 @@
       "zhSummary": null,
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "publishedAt": "2026-08-17T19:46:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b742059ae6f40c39f012ef726a7dea9de677b66a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "If A.I. Takes the Jobs of Young People, How Will They React?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.newyorker.com/news/fault-lines/if-ai-takes-the-jobs-of-young-people-how-will-they-react",
-      "publishedAt": "2026-08-17T19:44:02.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "78fbd08774d198d271442053f81ae5ffe559d569",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry",
-      "publishedAt": "2026-08-17T19:43:18.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f903b483063cf72e5d831f5d010babb16a3dd3a5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Japan Aims for the Moons of Mars",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.yahoo.com/news/science/articles/japan-aims-moons-mars-021058808.html",
-      "publishedAt": "2026-08-17T19:39:14.000Z",
       "category": "其他"
     },
     {
@@ -687,18 +771,6 @@
       "category": "研究"
     },
     {
-      "id": "c5039efbf2f2ea707232627bc7caf184c63056da",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLMs aren't writing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://sixcolors.com/post/2026/08/llms-arent-writing",
-      "publishedAt": "2026-08-17T15:27:05.000Z",
-      "category": "其他"
-    },
-    {
       "id": "e9ad3662fedf982870e3953f58d3501c75371d3e",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -711,18 +783,6 @@
       "category": "研究"
     },
     {
-      "id": "0cea7dbc917e36f213c73e1e93d35a71310ded54",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Go 1.27 will make some allocations cheaper",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemire.me/blog/2026/08/15/go-1-27-will-make-some-allocations-cheaper",
-      "publishedAt": "2026-08-17T15:17:41.000Z",
-      "category": "其他"
-    },
-    {
       "id": "9ff0e06f273d7e9a87319f4dfe481ea3645dccdd",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -733,42 +793,6 @@
       "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
       "publishedAt": "2026-08-17T15:16:24.000Z",
       "category": "融资"
-    },
-    {
-      "id": "99bbbe2adb98cf22add1bcfb09d0d4e1fc73ddba",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Lumon Industries Severance game – a retro-pixel browser adventure",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://severance.lol",
-      "publishedAt": "2026-08-17T15:10:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bd12696cbd03783a503b855a0814991cd311ffb2",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The Message Isn't the Medium: In Defense of LLM-Assisted Writing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://claude.ai/share/99bfee0f-bab9-4593-aabb-377e71f1151d",
-      "publishedAt": "2026-08-17T15:08:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4b5796ebc590af49097614792263b7eb1582ed48",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Spain extends Almaraz nuclear plant operations through 2030",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/business/energy/spain-extends-almaraz-nuclear-plant-operations-through-2030-2026-08-14",
-      "publishedAt": "2026-08-17T14:43:21.000Z",
-      "category": "其他"
     },
     {
       "id": "c812e330d26b98a5173e906e324ac159b18c87b2",
@@ -793,6 +817,18 @@
       "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
       "publishedAt": "2026-08-17T12:34:51.000Z",
       "category": "其他"
+    },
+    {
+      "id": "a9f248df49c3a27710ed68db920d5d1694e4de66",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "zhTitle": null,
+      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "publishedAt": "2026-08-17T11:00:00.000Z",
+      "category": "产品"
     },
     {
       "id": "e6c585a846b45f102052fce9a3e870652aa88e57",
@@ -2127,30 +2163,6 @@
       "category": "模型发布"
     },
     {
-      "id": "7bececf76d957d3a5ef2209d8f4a93189141dc0c",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "OpenAI is losing its second executive this week",
-      "zhTitle": null,
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "publishedAt": "2026-08-13T19:28:39.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "71f28f1b3fcc8fba872f6c883bdcaa32b7b82b3b",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "zhTitle": null,
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "publishedAt": "2026-08-13T19:22:40.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "2a37f33a5bd84b1260ed29a9bc50bfdea9445648",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -3096,18 +3108,6 @@
       "zhSummary": null,
       "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens",
       "publishedAt": "2026-08-06T23:07:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "51cad51790e43db7a135192fb1f290db01f4dcae",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "datasette 1.0a38",
-      "zhTitle": null,
-      "summary": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datasette permissions system. Site administrators who serve private tables in this way are advised to disable the execute-sql permission ` on that database to prevent users from accessin",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/6/datasette",
-      "publishedAt": "2026-08-06T18:24:34.000Z",
       "category": "其他"
     },
     {
