@@ -1,7 +1,103 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T04:37:51.556Z",
+  "generatedAt": "2026-08-18T06:46:40.814Z",
   "items": [
+    {
+      "id": "0ab7ce6910a334e3e402bc5b5cbabc2c83785791",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "An agent readiness checker tool",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ora.ai",
+      "publishedAt": "2026-08-18T06:41:41.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "e55aba272fe65683e68d523dcf5d35676087abd5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://omnitender.gumroad.com/l/private-scribe",
+      "publishedAt": "2026-08-18T06:13:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "643ef24a54f7b50c5367d1de1eadecd1cf0418f3",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028",
+      "publishedAt": "2026-08-18T05:51:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c2c7e7e507b89d07cea784317277be0ba9cde768",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "How fast is C++26's std:hive?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive",
+      "publishedAt": "2026-08-18T05:43:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "03370ff5f0a1c1d839bdbb8cc5a364f152804ad7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A/B testing LLMs in production",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.together.ai/blog/a-b-test-models-in-production",
+      "publishedAt": "2026-08-18T05:28:23.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "386a68fd905c3082e0eb65f15ce04a49712c20d9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Goody-2, the most responsible AI model (2024)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.goody2.ai",
+      "publishedAt": "2026-08-18T04:57:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6c2573241d91e0142368e6b6e03a74822eb2925a",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "LLM Speedrun: Architecture",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://layog.io/blog/llm-speedrun-arch",
+      "publishedAt": "2026-08-18T04:46:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a3cd8d0828319d5924fe1cc8285179b8ac9592ac",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Vetted AI code is hard to justify",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "publishedAt": "2026-08-18T04:44:02.000Z",
+      "category": "其他"
+    },
     {
       "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
       "sourceId": "hn-ai",
@@ -337,54 +433,6 @@
       "url": "https://github.com/couldbeme/holdline",
       "publishedAt": "2026-08-17T23:11:48.000Z",
       "category": "研究"
-    },
-    {
-      "id": "a542733bdc2cd65ea23cb33e45586b164c8addee",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google Buys Spirit Data for $10M",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://airlinegeeks.com/2026/08/17/report-google-buys-spirit-data-for-10m",
-      "publishedAt": "2026-08-17T22:53:49.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "723b7b0828b86f90c5e3ba3c3a2c83ab41f4885b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/rysh-ai/rysh-cli-code",
-      "publishedAt": "2026-08-17T22:51:16.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "53ddef6230f10e588c9ea09ce7e78e9d5da1aa9d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Building an AI Text Detector from Scratch",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
-      "publishedAt": "2026-08-17T22:50:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "46c357333aaca68b8b582c8825e5cf203601502b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/yetone/cumora",
-      "publishedAt": "2026-08-17T22:46:00.000Z",
-      "category": "工具"
     },
     {
       "id": "c351afbfafab05c9fb54440b2ccd14ca9545a30c",
@@ -915,18 +963,6 @@
       "category": "产品"
     },
     {
-      "id": "8a64e2ed1e76407af9718eff36726726b2c9bcb0",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Human ancestors may have almost died out after ancient population crash (2023)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nhm.ac.uk/discover/news/2023/august/human-ancestors-may-have-almost-died-out-ancient-population-crash.html",
-      "publishedAt": "2026-08-17T17:11:55.000Z",
-      "category": "其他"
-    },
-    {
       "id": "01f0e8bef73bc4e97e901f32206427e218d47548",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1155,30 +1191,6 @@
       "category": "研究"
     },
     {
-      "id": "649f7b726a1ec883555c146d72ba19c19e63c1ce",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: OpenWebSearch – A router for web search indexes",
-      "zhTitle": null,
-      "summary": "Hi HN, I&#x27;m one of the people behind OpenWebSearch ( https:&#x2F;&#x2F;openwebsearch.ai ). It&#x27;s a router for web search indexes. You POST to one endpoint with a `provider` field, and it normalizes both the request and the response for web search indexes like Parallel, Brave, Exa and more Why we built it: we run a model company (Interfaze) and a lot of our models are smaller in size and we",
-      "zhSummary": null,
-      "url": "https://openwebsearch.ai",
-      "publishedAt": "2026-08-17T16:03:11.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "730980a4db263ad5e1141812cb410a1883115060",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://magik.net/llmcity",
-      "publishedAt": "2026-08-17T16:01:07.000Z",
-      "category": "研究"
-    },
-    {
       "id": "2ca2b456eb24a6e23c44b215dded9b79aeee776e",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1201,18 +1213,6 @@
       "url": "https://arxiv.org/abs/2608.16739v1",
       "publishedAt": "2026-08-17T15:49:36.000Z",
       "category": "政策"
-    },
-    {
-      "id": "5cb27aa5740d9ddcf1fc817300e09776f18f0839",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Codex Weekly Limits Are Draining Way Too Fast – Is This a Bug?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://community.openai.com/t/codex-weekly-limits-are-draining-way-too-fast-is-this-a-bug/1390408",
-      "publishedAt": "2026-08-17T15:42:20.000Z",
-      "category": "其他"
     },
     {
       "id": "0eca881a405e231919381126ffbdc38db2b5503b",
