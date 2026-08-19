@@ -1,7 +1,175 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-19T08:39:43.859Z",
+  "generatedAt": "2026-08-19T10:31:04.901Z",
   "items": [
+    {
+      "id": "ed3f75bc4988cab195093226ba974a92df7ceb91",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: ChatGPT plugin for deterministic world facts",
+      "zhTitle": null,
+      "summary": "Try it in ChatGPT: @emem What has changed around this location? Or ask it something about our world. It is the perfect blend of non-deterministic LLM agent with a deterministic space agent. ChatGPT app&#x2F;plugin: https:&#x2F;&#x2F;chatgpt.com&#x2F;plugins&#x2F;plugin_asdk_app_6a6a0832a5908191... GitHub: https:&#x2F;&#x2F;github.com&#x2F;Vortx-AI&#x2F;emem Thanks",
+      "zhSummary": null,
+      "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77",
+      "publishedAt": "2026-08-19T10:25:13.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "99408e2b067cc9747f1f55f3f3011e4f4f13926c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI reverse-engineered my printer. I just pressed the buttons",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons",
+      "publishedAt": "2026-08-19T10:17:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e5f81951d2df2efca2bc35a6046b2791810edc14",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Artificial Analysis: LLM search API providers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://artificialanalysis.ai/agents/search-api",
+      "publishedAt": "2026-08-19T10:17:25.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "23d857c701cc3b14898bf73662faf4a853df8b92",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "SIL: A semantic interface layer for web applications and AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/ais-space/sil",
+      "publishedAt": "2026-08-19T10:17:25.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "15502d48d7ba977779aa8b64c6a6ab3179d53da8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "My experience with the Fitbit Air after a month",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.kulman.sk/en/a-month-with-fitbit-air",
+      "publishedAt": "2026-08-19T10:17:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4df61421fededce73b3a63ec3c0310e96f79dd8e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://theremin.bizibah.com",
+      "publishedAt": "2026-08-19T10:15:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "03beaeb4b7df3917b34c1b54ee060c8f7870adc1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://inco.ai/blog/dflash2",
+      "publishedAt": "2026-08-19T10:10:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "464564eb65ead3cd06a615199d9d54a6f7194e28",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Building a full agentic harness around a 4B model is hard",
+      "zhTitle": null,
+      "summary": "Around 3 months ago, we were thinking why none of the iPhone apps running an LLM are built as a full harness (as in inference + agentic loop + context management + tools + MCP servers and etc.). It became more interesting when we noticed even the new Siri is not fully on device (and not available in EU for that matter). Having built a few agentic products around a custom harness in the past, we th",
+      "zhSummary": null,
+      "url": "https://orvena.app",
+      "publishedAt": "2026-08-19T10:03:46.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "3a872f4d802b3b2298f5e8c07dc02f1748d70651",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "zhTitle": null,
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "b7c420091e12f5e535092ded50b486761d0d7146",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+      "publishedAt": "2026-08-19T09:59:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f6b665a9160355597a7a044e86a207db53d9378b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Rune – persistent context for AI coding tools",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/thecolourfoundation/rune",
+      "publishedAt": "2026-08-19T09:32:15.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "22dde96012651a65cc997c7f3e7193fe2c1ecdd7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Pander Score: How much do AI models mirror what users believe?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sophronresearch.org/pander",
+      "publishedAt": "2026-08-19T09:32:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "207b0044852265a9f78f06dbd6427841476ebaf3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A multi-tenant SaaS built in a 92-hour AI-augmented engineering sprint",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://fast-and-flow-production.onrender.com/case-study",
+      "publishedAt": "2026-08-19T09:22:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7cccadf9e4065976468089c4d21a86bd0d404438",
+      "sourceId": "wired-ai",
+      "sourceName": "WIRED AI",
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "zhTitle": null,
+      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "zhSummary": null,
+      "url": "https://www.wired.com/story/flock-safety-os-investigate",
+      "publishedAt": "2026-08-19T09:00:00.000Z",
+      "category": "工具"
+    },
     {
       "id": "7d7341d914d471b5ded506e22b43cc920355aeac",
       "sourceId": "hn-ai",
@@ -219,18 +387,6 @@
       "category": "模型发布"
     },
     {
-      "id": "b282e63ac92c8370867d92bbf9ff4b38efd3401b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Building Shared Memory for AI Agents in Notion",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion",
-      "publishedAt": "2026-08-19T06:55:20.000Z",
-      "category": "其他"
-    },
-    {
       "id": "8ae6befdf52344254495ddd823e905340c2fb340",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -240,42 +396,6 @@
       "zhSummary": null,
       "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity",
       "publishedAt": "2026-08-19T06:27:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "56d9680b762dee73a27998f73936e71a0416d51e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Excited and exhausted: life as a tech writer in the AI age",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age",
-      "publishedAt": "2026-08-19T06:24:23.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a5bd2ff854a93d5aa1e016f8a0b752df0f1155ec",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation",
-      "publishedAt": "2026-08-19T06:19:40.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "80ddadb83a7d58385fb2b981246d76700bfd98c6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Does AI stop children from learning?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "publishedAt": "2026-08-19T06:13:31.000Z",
       "category": "其他"
     },
     {
@@ -289,42 +409,6 @@
       "url": "https://zeon-eight.vercel.app",
       "publishedAt": "2026-08-19T05:28:52.000Z",
       "category": "其他"
-    },
-    {
-      "id": "042f52538be6df698d03506dd98c4b1187850494",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Designing AI with character: what we learned building Berd",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
-      "publishedAt": "2026-08-19T05:26:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "123943f49969d5e06eba076448ce25d08f792876",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Get feedback on your AI slop. no accounts",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://slopornot.simplicated.dev",
-      "publishedAt": "2026-08-19T05:24:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Stock Research Assistant · Streamlit",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ai-stock-research-kiaan.streamlit.app",
-      "publishedAt": "2026-08-19T05:17:36.000Z",
-      "category": "研究"
     },
     {
       "id": "506caa1c967aa2e4fe53da2731049c1fa065bedc",
@@ -639,18 +723,6 @@
       "category": "研究"
     },
     {
-      "id": "01385af57a0ef295bd46e339018e037e52aab304",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-      "zhTitle": null,
-      "summary": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \\textbf",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.18076v1",
-      "publishedAt": "2026-08-18T17:59:01.000Z",
-      "category": "其他"
-    },
-    {
       "id": "89c1f5c33b843aa144dfc68bd57fc81817177cd2",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -676,8 +748,8 @@
     },
     {
       "id": "4834099cf3a1da05c98908c0fa24c00537d6328f",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
       "zhTitle": null,
       "summary": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a comprehensive re-evaluation of two memory-based methods, broadening the scope of evaluation along t",
@@ -711,30 +783,6 @@
       "category": "研究"
     },
     {
-      "id": "4f10542d5077c881e983adfc96aae91757d61702",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
-      "zhTitle": null,
-      "summary": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communication from others. We study this condition using two large-scale surveys of active users of a major dating platform (N=2,894",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.18058v1",
-      "publishedAt": "2026-08-18T17:51:16.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "70bdcda5f0cee8bf16c43a8b19cc518792f6159b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
-      "zhTitle": null,
-      "summary": "Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every on-road vehicle is replanned every decision period. We propose HLSR, a selective hybrid live--forecast vehicle rerouting framework that fuses live edge speeds with short-horizon forecas",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.18056v1",
-      "publishedAt": "2026-08-18T17:49:27.000Z",
-      "category": "产品"
-    },
-    {
       "id": "46620853a976b3c3ed60dcc0eb67706b0d0cc979",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -745,18 +793,6 @@
       "url": "https://arxiv.org/abs/2608.18055v1",
       "publishedAt": "2026-08-18T17:48:22.000Z",
       "category": "研究"
-    },
-    {
-      "id": "6c58eafaeee83d3433ec6763843e34282ae2370b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
-      "zhTitle": null,
-      "summary": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer to different versions of the same work product. We formulate this as a workspace-state contract: every",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.18050v1",
-      "publishedAt": "2026-08-18T17:44:18.000Z",
-      "category": "产品"
     },
     {
       "id": "f8bcac00a3c64042f1f9ceead76ffc1568f62713",
@@ -784,8 +820,8 @@
     },
     {
       "id": "ca611b5ac27eb8c41ade6579e761622b954e7832",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
       "zhTitle": null,
       "summary": "MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may provide complementary information for signal recovery. However, their use in MRI reconstruction remains largely unexplored, due to lack of practical settings where informative magnitude measurements c",
@@ -805,18 +841,6 @@
       "url": "https://arxiv.org/abs/2608.18033v1",
       "publishedAt": "2026-08-18T17:28:01.000Z",
       "category": "政策"
-    },
-    {
-      "id": "f0a903183d44deec09857f3d49894b630e68839c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "zhTitle": null,
-      "summary": "Hey HN, I&#x27;ve been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn&#x27;t a good way to use the modern macOS Data Protection Keychain. Electron&#x27;s safeStorage [2] uses the legacy file-based keychain, which allows other apps&#x2F;agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! Th",
-      "zhSummary": null,
-      "url": "https://github.com/biw/keychain-store",
-      "publishedAt": "2026-08-18T17:25:19.000Z",
-      "category": "产品"
     },
     {
       "id": "a442e86b8d202171d123299a2e88e9b86c2c4484",
@@ -856,8 +880,8 @@
     },
     {
       "id": "d539dcee7eb2d86bbed8af09e5def32519c55a5f",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Why GPT-Style Models Do Not Directly Transfer to Symbolic Music: Compression in the Wrong Coordinate System",
       "zhTitle": null,
       "summary": "GPT-style models achieve strong performance by representing language with finite vocabularies of reusable discrete tokens. This success has motivated symbolic music tokenizations to treat recurring musical structures, such as chords, motifs, and phrases, as reusable units analogous to linguistic tokens. However, tokenization derives its advantage not from reusable combinations alone, but from comp",
@@ -879,30 +903,6 @@
       "category": "融资"
     },
     {
-      "id": "b965a93c4dbc49a3306e4c34a9aef04874e69813",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
-      "zhTitle": null,
-      "summary": "Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control behavior. Existing explainable AI techniques, such as feature importance maps, often require considerable domain knowledge to translate them into operationally meaningful explanations. Large Language Models",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.18017v1",
-      "publishedAt": "2026-08-18T17:11:40.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "1e907c1ba3f514403336715f29ee3cc1b9890eaf",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Claude Code May–August 2026 weekly limits promotion",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "publishedAt": "2026-08-18T17:02:15.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "d4196c6635e406eeeb68f8f723a244d252ed0bfa",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -916,8 +916,8 @@
     },
     {
       "id": "3c7f711ede18cd1c8f703e23ce18798b583cc72f",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents",
       "zhTitle": null,
       "summary": "Combining large language models with reinforcement learning is increasingly explored, yet the theoretical status of LLM-derived reward signals is often left implicit. We formalize the hybrid LLM-planner and RL-controller architecture as a Goal-Augmented Markov Decision Process and show that when the LLM per-state progress score is used as a bounded potential function, the resulting shaping term pr",
@@ -925,18 +925,6 @@
       "url": "https://arxiv.org/abs/2608.18008v1",
       "publishedAt": "2026-08-18T16:55:46.000Z",
       "category": "政策"
-    },
-    {
-      "id": "cab972440e0d36a49c975ef880a3a5dac7162bed",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "If LLMs can't write, I doubt it can lead us to AGI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.thetrueengineer.com/p/i-tested-every-ai-model-the-same",
-      "publishedAt": "2026-08-18T16:53:55.000Z",
-      "category": "其他"
     },
     {
       "id": "1904b35c1544448f21beba3441f8abd152c25108",
@@ -949,18 +937,6 @@
       "url": "https://arxiv.org/abs/2608.18004v1",
       "publishedAt": "2026-08-18T16:53:08.000Z",
       "category": "其他"
-    },
-    {
-      "id": "cc27d33b16823f0c254d0f435f985a85b23e160f",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Traceable Trust for action-ready artificial intelligence in bioscience",
-      "zhTitle": null,
-      "summary": "Artificial intelligence (AI) is becoming part of the working infrastructure of the biosciences. AI models can predict biomolecular structures, design proteins, rank variants, annotate images, recommend strains and optimise experimental conditions. We argue that the decision to use an AI output to guide laboratory action is a key juncture for trustworthy research and should follow a defined, review",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17997v1",
-      "publishedAt": "2026-08-18T16:44:39.000Z",
-      "category": "研究"
     },
     {
       "id": "3aaf3c66fccdd44f17f66e5b528559cd2441c2b2",
@@ -976,8 +952,8 @@
     },
     {
       "id": "5be78769a03f2780f30a33fac4a5b95e8bdb69e2",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media",
       "zhTitle": null,
       "summary": "The rapid growth of social media has greatly influenced political discourse, highlighting the need to understand individual political ideologies and their temporal dynamics. This task faces challenges such as data scarcity, abundant non-political content, costly and bias-prone manual annotation, and difficulty in modeling future ideological inclinations. To address these issues, we propose TSN4PI,",
@@ -985,18 +961,6 @@
       "url": "https://arxiv.org/abs/2608.17987v1",
       "publishedAt": "2026-08-18T16:33:32.000Z",
       "category": "工具"
-    },
-    {
-      "id": "1d14562bcc3f2b3d713e60a095a27f430fc88b40",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Dual Co-Train: Cross-Dataset Ultrasound Tongue Segmentation Under Extreme Data Scarcity",
-      "zhTitle": null,
-      "summary": "Ultrasound tongue contour segmentation remains challenging under cross-dataset domain shift, where limited annotations, probe variability, and acquisition noise often degrade model generalization. We present a source-free domain adaptation framework for robust ultrasound tongue segmentation built on a lightweight UltraUNet backbone. Starting from a checkpoint pretrained on only five labeled source",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17983v1",
-      "publishedAt": "2026-08-18T16:31:08.000Z",
-      "category": "融资"
     },
     {
       "id": "61318fe921d5152137258d01b7160e9a14193ff9",
@@ -1036,8 +1000,8 @@
     },
     {
       "id": "37fd465ba2bba1a50d771097f164a0f894042418",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection",
       "zhTitle": null,
       "summary": "Online log anomaly detection is critical for maintaining the reliability of large-scale computing systems. Although recent language model-based log anomaly detectors achieve strong detection performance, their confidence estimates remain poorly calibrated. We show that these detectors frequently assign excessive confidence to incorrect predictions, particularly for anomalous logs under severe clas",
@@ -1060,8 +1024,8 @@
     },
     {
       "id": "9a49056e98e41e9aa06b8720d59afbb8afaf27b1",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Towards Zero-Shot Task Transfer with Neurosymbolic World Models",
       "zhTitle": null,
       "summary": "State-of-the-art model-based reinforcement learning methods learn neural world models that allow policy improvement by planning in a latent space, without assumptions on the structure of the underlying environment. While expressive, these models are generally task-dependent: they learn uninterpretable latent representations that are tied to the training task and thus hard to generalize to new task",
@@ -1084,8 +1048,8 @@
     },
     {
       "id": "ddf9db47aca5d4cb75f0ac1e7be2dab42a832aea",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models",
       "zhTitle": null,
       "summary": "In the Code World Model paradigm an LLM synthesizes an executable world model that a classical planner searches, and the model is accepted when it reproduces sampled transitions. We ask what that acceptance certifies in continuous control. We define the pipeline's danger as an expected risk and isolate its exact factor: the probability that N i.i.d. gate rollouts all miss a critical event of proba",
@@ -1108,8 +1072,8 @@
     },
     {
       "id": "dfb72b9a06f16b0751468fadc8a8b0601348adfa",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "SIGMA: SHAP-Guided Implicit-Trajectory Generation for Metadata-Free LLM-Based AutoFE",
       "zhTitle": null,
       "summary": "Recent research has leveraged Large Language Models (LLMs) to enhance Automated Feature Engineering (AutoFE) through semantic descriptions and trajectory-based prompting. However, there exist two challenges that limit their applicability and scalability in long-horizon optimization: (1) semantic metadata is unavailable in many practical settings, and (2) trajectory accumulation increases the risk",
@@ -1120,8 +1084,8 @@
     },
     {
       "id": "6b67714ef22ab3b614991d53ba30f2c5b2b03d9b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Procedural Content Metageneration via Program Search and Continual Abstraction Discovery",
       "zhTitle": null,
       "summary": "Large language models can generate executable programs, which makes it possible to search directly over procedural content generators rather than individual levels. We study this approach in Sokoban, Zelda, Dangerous Dave, and Lode Runner. Each run evolves complete Python generators through language-model mutation and crossover. We introduce Continual Abstraction Discovery, or CAD, which extracts",
@@ -1132,8 +1096,8 @@
     },
     {
       "id": "2a2ee29bcea4557cb6bd5b8419170f9c68a6f108",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "Efficient RLVR Scheduling via Graph-Structured Online Difficulty Estimation",
       "zhTitle": null,
       "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models but relies on costly rollout exploration. Assigning the same exploration budget to samples with different difficulty levels is inefficient: easy samples may receive redundant rollouts, whereas difficult but learnable samples may receive too little exploration. Existing adaptive schedu",
@@ -1144,8 +1108,8 @@
     },
     {
       "id": "d5d71f03758d9d98a642cac86903e969fb7c622b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "Grading Needs a Rubric, Not Intelligence",
       "zhTitle": null,
       "summary": "Small language models can grade open-ended examination answers as reliably as substantially more expensive models when they grade against an explicit rubric. We test this claim as the design principle behind any-to-bench: a frontier model reads source documents once, at ingestion, to extract each question and its rubric; lower-cost models then perform all repeated grading work. We evaluate six cos",
@@ -1153,30 +1117,6 @@
       "url": "https://arxiv.org/abs/2608.17938v1",
       "publishedAt": "2026-08-18T16:00:05.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "dffcfc1c43b890728fe9832464e59eda483fcc4b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection",
-      "zhTitle": null,
-      "summary": "Financial time series exhibit non-stationary and heterogeneous statistical properties, making change-point detection challenging because no single unsupervised algorithm performs consistently across assets and market regimes. Conventional workflows consequently depend heavily on expert-driven model selection, feature design, and hyperparameter tuning, limiting their scalability and adaptability. W",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17933v1",
-      "publishedAt": "2026-08-18T15:55:32.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "088d7cb8142d6907a0e13497300903165d5a14de",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Collective Counterfactual Planning: Coordination, Consent, and Verification under Representational Constraints",
-      "zhTitle": null,
-      "summary": "Groups routinely complete projects that no single member can plan, execute, or verify alone. We propose a formal model of this phenomenon, Collective Counterfactual Planning (CCP), in which the binding limitation on each agent is neither capability, knowledge, nor observability, but representational geometry: each agent perceives the state, conceives moves, consents to actions, and certifies goal",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17932v1",
-      "publishedAt": "2026-08-18T15:52:12.000Z",
-      "category": "其他"
     },
     {
       "id": "8c4cd9f079ba526bb61215ae2fef14557200d1f9",
@@ -1191,30 +1131,6 @@
       "category": "研究"
     },
     {
-      "id": "bbb141b474f57867d62093b86758013c13eef94e",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Adaptive Policy Portfolios for Robust Markov Decision Processes",
-      "zhTitle": null,
-      "summary": "Robust Markov decision processes optimize one policy against a set of plausible transition functions. This can be conservative when the unknown dynamics are fixed and become partially identifiable after deployment. We study adaptive policy portfolios: finite sets of memoryless randomized policies synthesized offline and paired with a lightweight online selector. Robust regret is a natural measure",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17929v1",
-      "publishedAt": "2026-08-18T15:50:01.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "ee45232ceb6beadab7b5aedf68d0db583023ce95",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning",
-      "zhTitle": null,
-      "summary": "In the Lifelong Multi-Agent Path Finding (L-MAPF) problem, agents must repeatedly move from one destination to another while avoiding obstacles and inter-agent collisions. Widely regarded as one of the highest-performing solutions to this problem is the Rolling-Horizon Collision Resolution (RHCR) framework. However, commensurate with its quality solutions, it incurs a computational cost that limit",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17928v1",
-      "publishedAt": "2026-08-18T15:48:18.000Z",
-      "category": "其他"
-    },
-    {
       "id": "0006ed78103e22273c0105e06be6bf3731ed0f3e",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1225,30 +1141,6 @@
       "url": "https://arxiv.org/abs/2608.17923v1",
       "publishedAt": "2026-08-18T15:46:42.000Z",
       "category": "产品"
-    },
-    {
-      "id": "1de8edb7bff6b31be3a12dd9d7e2ba23163e228f",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks",
-      "zhTitle": null,
-      "summary": "Background and Context: Question and inquiry are integral parts of knowledge seeking and learning. Despite their importance, students tend not to ask enough questions in the classroom. However, studies have shown that students interact extensively with generative AI systems for learning and problem solving. Objective: In this paper, we seek to better understand the types of questions that students",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17919v1",
-      "publishedAt": "2026-08-18T15:45:06.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "8110d1c5329d0adeb3d58528f1cab7a1ff0b83ca",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Comparative Study of Out-of-the-Box Technology for Automatic Target Detection and Recognition",
-      "zhTitle": null,
-      "summary": "Automatic Target Detection and Recognition (ATD/R) is critical for military decision support and (semi-)autonomous operations. Recent advances in object detection and artificial intelligence (AI) significantly boosted the potential performance of ATD/R. However, the scarcity of publicly available military datasets limits the application of these systems. As a solution, this paper explores the use",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.17917v1",
-      "publishedAt": "2026-08-18T15:43:34.000Z",
-      "category": "研究"
     },
     {
       "id": "aca6b678722306148e6b6422c7088d8ad39d00d5",
@@ -1995,18 +1887,6 @@
       "category": "融资"
     },
     {
-      "id": "4f45582db27aec55ce50227e2187d2ace67dc1ae",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "zhTitle": null,
-      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked",
-      "publishedAt": "2026-08-15T16:10:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "e25d8c268c6a65abf77640d3bc4d639a40d051eb",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -2341,18 +2221,6 @@
       "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "publishedAt": "2026-08-13T09:00:00.000Z",
       "category": "产品"
-    },
-    {
-      "id": "19890f2dbfd53d35a7936b3db9df8c2b0142cb3d",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED AI",
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "zhTitle": null,
-      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-      "zhSummary": null,
-      "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "category": "研究"
     },
     {
       "id": "011522d5826fa3031e0d5ad9b675640d76f5fd35",
@@ -3600,6 +3468,138 @@
       "zhSummary": null,
       "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "844ec17c612165f2a2cdc2910ffa0ae80294a9d5",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "zhTitle": null,
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "fc3528d001b5387ae21e7c472c8bfa84d5042ee8",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Advancing the next era of national science",
+      "zhTitle": null,
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "publishedAt": "2026-07-22T12:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c54f46e53d48e3042d6e57aa12e7bc3272d032eb",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing OpenAI Presence",
+      "zhTitle": null,
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "publishedAt": "2026-07-22T05:30:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "ce627deb992812dab28841a5cefd4963cd5314f8",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "zhTitle": null,
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/ntt-data",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "d42362617c6408798d23184364284f73d4984cb3",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing the ChatGPT for small business program",
+      "zhTitle": null,
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "publishedAt": "2026-07-21T17:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "20b0eb2d5c1499740c7eb0c94f0e2e59fcb04e9d",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "zhTitle": null,
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "40359dbf5a246645eb9b9137e83bde4afe2e0908",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "zhTitle": null,
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f07ea0986edc9c353236b2f45b3060a99d2cf92e",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/grabette",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d4ff9ec891b78868c06ad312d627b3bdc105c92f",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "zhTitle": null,
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3ebda52fc80ebe33165f5f415dd9c032d4c031d4",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "A scorecard for the AI age",
+      "zhTitle": null,
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8fe39edff791751de0c2c6545e4ca710ed977e69",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Why teens deserve access to safe AI",
+      "zhTitle": null,
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
       "category": "工具"
     }
   ]
