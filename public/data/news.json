@@ -1,26 +1,242 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T22:26:13.636Z",
+  "generatedAt": "2026-08-19T01:22:00.990Z",
   "items": [
     {
-      "id": "f55fa532f8e6c0d8ed13c313e7e0bcf2e74793a7",
+      "id": "f35197fb903d47306e5aa41abd814f53b5107a87",
       "sourceId": "hn-ai",
       "sourceName": "Hacker News AI",
-      "title": "Who owns the code? AI code == no author == no copyright",
+      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
-      "url": "https://whoownsthecode.com",
-      "publishedAt": "2026-08-18T22:21:30.000Z",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+      "publishedAt": "2026-08-19T01:16:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8b20d027b145c8cd86668e46a33864788a2e56fa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+      "publishedAt": "2026-08-19T01:06:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e8aa7845d56e1cba6f69628cd2a11a6822770c9c",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The Economics and Engineering of On-Premises LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://cacm.acm.org/blogcacm/the-economics-and-engineering-of-on-premises-llms",
+      "publishedAt": "2026-08-19T01:06:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c0e4bffc16195080f538bd4ec10ba79b2905a129",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Cerebras CS4",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cerebras.ai/cs4",
+      "publishedAt": "2026-08-19T00:28:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "daee90f9b6aaa2b3c166535a1d4a73038ea0519c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://secitbench.cribl.io",
+      "publishedAt": "2026-08-19T00:28:02.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "03beaeb4b7df3917b34c1b54ee060c8f7870adc1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://inco.ai/blog/dflash2",
+      "publishedAt": "2026-08-19T00:20:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6e8d6ddea6cbc0ed62274743058705ea50844a26",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Monity.ai – Get notified when any website changes",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+      "publishedAt": "2026-08-19T00:15:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8805e4a554fc15782dcf7b007cbac6187707e101",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+      "publishedAt": "2026-08-19T00:14:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6ddb7c2c8f883a83cae9d150115afae30a128d99",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How to tame AI's voracious appetite for energy",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+      "publishedAt": "2026-08-19T00:14:34.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "4c48b4a86cd844ebd6a45048deb17ea03dfec7ad",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+      "publishedAt": "2026-08-19T00:14:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "632479b830490f2b0858c32ad7f158458a4fcf1d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Artificial intelligence boosts automated biolabs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://knowablemagazine.org/content/article/technology/2026/ai-boosts-biofoundries-synthetic-biology",
+      "publishedAt": "2026-08-18T23:59:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "17fe9ba7dec4ee4d8ba7b1fd13302d53c047eb25",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
+      "publishedAt": "2026-08-18T23:18:29.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "cfd6a1d7417b6e1da9566a56b291fcb8edef27c5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: ResumeSkip – automatically tailor your resume to jobs",
+      "zhTitle": null,
+      "summary": "just gonna make it simple: all job portals scan resumes with AI now, if you aren&#x27;t tailoring your resume to each posting you&#x27;re already behind.. Some companies even use AI to interview (). You can do this yourself for free * (token cost) if you want, but you&#x27;ll have to craft a good prompt, use a good agent you have access to, and validate the outcomes over time, or have an agent bui",
+      "zhSummary": null,
+      "url": "https://resumeskip.com",
+      "publishedAt": "2026-08-18T23:08:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a4478beb7e0e2e668f97bbf19b3e264f4d6b152b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
+      "publishedAt": "2026-08-18T23:06:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "33f94eb7780cb06aee55257e09f11f7fa8a9ee9c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+      "zhTitle": null,
+      "summary": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to run thousands of isolated AI agents for their customers. Imagine you set up an agent like OpenClaw, or a personal assistant agent with a custom framework, and want to give a separate version of it to every customer&#x2F;friend. Each customer needs their own agent",
+      "zhSummary": null,
+      "url": "https://maritime.sh",
+      "publishedAt": "2026-08-18T23:02:32.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "bc7bca8a828afb96e96eee22b5b611fe03f0db69",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI-drafted bills are swamping the House office that writes US laws",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
+      "publishedAt": "2026-08-18T23:01:45.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "c202b14097a548c9a02b8a4ba54895c9d96dc5c3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "To Build a Data Center – Intro to Diesel Generation",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://power2026.ai/diesel",
+      "publishedAt": "2026-08-18T22:58:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cc2ba566f0d9db7f8f5ac6eb8c8e6ab99cd7ff4c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
+      "publishedAt": "2026-08-18T22:45:43.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "959c0c7fb519079a9eddf9eee6e5c11cc603f352",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google wins $10M bankruptcy auction for Spirit Airlines 100M emails, 500M chats",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://247wallst.com/investing/2026/08/18/google-just-bought-100-million-emails-from-a-dead-airline-for-10-million",
+      "publishedAt": "2026-08-18T22:41:18.000Z",
       "category": "其他"
     },
     {
       "id": "6836a788ee9f93ee36111bffe7c4a80a9de037fd",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "zhTitle": null,
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
       "publishedAt": "2026-08-18T22:14:25.000Z",
@@ -135,6 +351,18 @@
       "category": "研究"
     },
     {
+      "id": "c75c05043a3caaa5a1d22c30e385555f4b0bc997",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Companies promote incompetent employees to management to limit damage they do",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle",
+      "publishedAt": "2026-08-18T21:13:30.000Z",
+      "category": "其他"
+    },
+    {
       "id": "9b0bea9a8f225cf06bd55b8852359086ed6971a6",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -159,78 +387,6 @@
       "category": "其他"
     },
     {
-      "id": "57531a3bb3d203867f93c868c2727be4f0a443ed",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-      "zhTitle": null,
-      "summary": "ChatOSS is built on Ollama. If you use Ollama, ChatOSS local works out of the box. ChatOSS is a GUI desktop app that has multiple agentic coding apps and a kanban board integrated into coding sessions. There&#x27;s also a simple way to create your own AI powered apps that can run inside of ChatOSS.",
-      "zhSummary": null,
-      "url": "https://chatoss.ai",
-      "publishedAt": "2026-08-18T20:42:19.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "969136ecc736eeaca0b5c901affe1a4bec30aa90",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Fact check: How do I spot AI-generated images?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602",
-      "publishedAt": "2026-08-18T20:29:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b33d08fce1ac76dc590bc9458fe0685a6f2fdb1d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI detection tools are proliferating. Here's why they won't last.",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last",
-      "publishedAt": "2026-08-18T20:29:31.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "b543b7901e01598ad3553857728376bdfceb2608",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Has any one ever used Strands – the AI Agent SDK by AWS",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://strandsagents.com",
-      "publishedAt": "2026-08-18T20:20:40.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "3517cae985949e1fbf29b8580ed78d096d3b619b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AirPods with Cameras Leak: Used for Visual Intelligence",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.androidauthority.com/apple-airpods-camera-demo-leak-macos-3699674",
-      "publishedAt": "2026-08-18T20:19:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0fb2132ffc0f3d02dbbbf04b9fae5acfde8cd7fd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Traces Know What Broke. Your Agent Doesn't",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://memanto.ai/blog/langfuse-traces-into-agent-memory",
-      "publishedAt": "2026-08-18T20:17:16.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c6186ae68f0f8a7fc8eb821a012126091630ee6f",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -241,18 +397,6 @@
       "url": "https://twitter.com/ClaudeDevs/status/2089798442306711646",
       "publishedAt": "2026-08-18T20:14:19.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "69d8b304bec5612c69b914fcaa5f72440c89fb3d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI built a safer ChatGPT, just not for you",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.machinesociety.ai/p/openai-built-a-safer-chatgpt-but",
-      "publishedAt": "2026-08-18T20:09:57.000Z",
-      "category": "产品"
     },
     {
       "id": "f84a7d359ab8fcaeba6c2526add00faea94c597c",
@@ -267,18 +411,6 @@
       "category": "其他"
     },
     {
-      "id": "21525e9b8839a767a10d5f9693e4f8d71e86303a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18",
-      "publishedAt": "2026-08-18T20:03:28.000Z",
-      "category": "产品"
-    },
-    {
       "id": "9dffd5e77e26ac96f74899ee349a24cd83ae7960",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -289,42 +421,6 @@
       "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "publishedAt": "2026-08-18T19:48:26.000Z",
       "category": "其他"
-    },
-    {
-      "id": "4ff36fc854d7db4f04e5b89e5411fb223d52246f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI Is Slowing Down Its AI Training",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://time.com/article/2026/08/18/openai-slowing-training",
-      "publishedAt": "2026-08-18T19:46:28.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "b0566b1cf0ed9de4876062cdac4824dd0835d6e2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware",
-      "publishedAt": "2026-08-18T19:45:48.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "5c2df06a3618c61a2197f1bdb90b8b4bc2bc40c8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Daily MCP Tool Drifts- 8,931 of 12,391 drifted with no version bump",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://mcpindex.ai/ledger",
-      "publishedAt": "2026-08-18T19:40:17.000Z",
-      "category": "工具"
     },
     {
       "id": "34d85fbbba0bfe1bb47b816da26f7ad71b58e352",
@@ -339,21 +435,9 @@
       "category": "研究"
     },
     {
-      "id": "a5bd2ff854a93d5aa1e016f8a0b752df0f1155ec",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation",
-      "publishedAt": "2026-08-18T19:28:09.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c8366c30e86711c906163714b59e8c41af7dd220",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
       "zhTitle": null,
       "summary": "",
@@ -361,42 +445,6 @@
       "url": "https://geojacker.com/llms-txt",
       "publishedAt": "2026-08-18T19:24:35.000Z",
       "category": "工具"
-    },
-    {
-      "id": "df5cf732e3795afb7c1baebedbf6adf9310dff7c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt",
-      "publishedAt": "2026-08-18T19:24:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a8e0a0df42cedeb17897a2b65226b89bccb902ff",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Pace Layers and AI Integration",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aicoding.leaflet.pub/3maob46kbz22v",
-      "publishedAt": "2026-08-18T19:22:49.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "3767f7610daaf87498193009419ff823a6b140b6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026",
-      "publishedAt": "2026-08-18T19:21:25.000Z",
-      "category": "其他"
     },
     {
       "id": "f565fa1f7e7fd7489b1bf8a91c3c7305a5d6ded6",
@@ -408,30 +456,6 @@
       "zhSummary": null,
       "url": "https://github.com/robgonnella/releasaurus",
       "publishedAt": "2026-08-18T19:20:46.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "26b5e9276ec533ba0bf653bcda2cf1be19c01a7c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI;dr – AI wrote it, you shouldn't have to read it",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ronreiter.github.io/aidr",
-      "publishedAt": "2026-08-18T19:17:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e6235feb674d190dcce8075f8a20b80f1accf473",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Security checks for apps built with AI coding tools",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lukatasolutions.com",
-      "publishedAt": "2026-08-18T19:13:40.000Z",
       "category": "工具"
     },
     {
@@ -517,18 +541,6 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "publishedAt": "2026-08-18T18:09:38.000Z",
       "category": "其他"
-    },
-    {
-      "id": "e38d5c02aa8111c6699da1d01674e67d36d29154",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Miles v0.1: Production-level Post-training",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lmsys.org/blog/2026-08-18-miles-v0-1",
-      "publishedAt": "2026-08-18T18:02:14.000Z",
-      "category": "研究"
     },
     {
       "id": "0318adc7ba0cb66085be2acca0853c12c6a9b0f1",
@@ -627,18 +639,6 @@
       "category": "模型发布"
     },
     {
-      "id": "022207d9d2d975e90a7ae2b07e37b9ec13693cc0",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Acadia Bringing the benefits of elm to SQLite and PostgreSQL",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://acadia.engineering",
-      "publishedAt": "2026-08-18T16:24:17.000Z",
-      "category": "其他"
-    },
-    {
       "id": "b795f2b98eaa8be990f3a781e0def657379f876a",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -675,18 +675,6 @@
       "category": "政策"
     },
     {
-      "id": "01510d5d1a025238a90e28b57ffc76bdbca7bd28",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "America Wants to Make Its Own Humanoid Robots. That Won't Be Easy",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
-      "publishedAt": "2026-08-18T15:05:33.000Z",
-      "category": "其他"
-    },
-    {
       "id": "1adffc62732d68b7b7e173f81a2e01d374f10deb",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -711,30 +699,6 @@
       "category": "研究"
     },
     {
-      "id": "e6b5a8b1d3ad5b6786a1813df8c0f8cc99496f76",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Training Leaves Traces: Centered Residual Signatures for LM Lineage Verification",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.14929",
-      "publishedAt": "2026-08-18T14:44:17.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "34f68b00313d318e52e51e5b48b0473a5dcde9a6",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: K7d – Fork live Kubernetes clusters in <1s –> GRPO-train AI on infra",
-      "zhTitle": null,
-      "summary": "Hey HN, Gary here. Today I want to present k7d which is an Apache 2.0, tight Rust VMM + shim enabling something not possible before: fast forking of live running virtualized multi-node k8s clusters with surviving of in-flight connections. A 3-VM nodes K8s cluster gets forked in 105ms, and a 50x fork of a 3-VM cluster in 4.1s on a 64GB RAM box. I have two goals here: 1) enable large scale GRPO&#x2F",
-      "zhSummary": null,
-      "url": "https://github.com/katakate/k7d",
-      "publishedAt": "2026-08-18T14:38:58.000Z",
-      "category": "其他"
-    },
-    {
       "id": "01c2ddb95c007f2ceeda5a36fc745cb633dcba3e",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -744,30 +708,6 @@
       "zhSummary": null,
       "url": "https://github.com/Vectorlink-Labs/coalent",
       "publishedAt": "2026-08-18T14:16:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f69f77afbb0ec800b5137698861bfaa4adeefed7",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Why I reimplemented LVM (with worse guarantees)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://depot.dev/blog/why-i-reimplemented-lvm",
-      "publishedAt": "2026-08-18T14:08:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6e1f7d6a7239fcaa08430a0900075f4ecb3dc18b",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "What We Learned Moving Our Agent Loops from Anthropic to GLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://getunblocked.com/blog/moving-agent-loops-from-anthropic-to-glm",
-      "publishedAt": "2026-08-18T14:02:55.000Z",
       "category": "其他"
     },
     {
@@ -804,6 +744,66 @@
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
       "publishedAt": "2026-08-18T13:45:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b1d30eb886fac06ad6bcbafc0c99c567e1ae5bbf",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "ChatGPT has almost stopped citing Reddit",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt",
+      "publishedAt": "2026-08-18T13:29:27.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "bc87d306a4e7f3e6486277f6c7e0ffff78c67d6f",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A practical workflow for LLM-assisted development",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
+      "publishedAt": "2026-08-18T13:27:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7cb24afa7d5a03d023e977be5af9acf8d5e2a24b",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Extensible Software in the Age of LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "publishedAt": "2026-08-18T13:25:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8259316c3255a7b446f2a8eef0c866cceed934f0",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Stunt – a stunt double for the APIs you integrate (95 adapters)",
+      "zhTitle": null,
+      "summary": "Hi, I&#x27;m the author. Quick tour before the comments do it for me. StuntAPI, `stunt` for CLI friends, runs local, stateful stand-ins for the public APIs your code talks to. `brew install --cask stuntapi&#x2F;tap&#x2F;stunt`, then `stunt demo` — you get a Stripe-style sim on a local port, and the curl it prints actually means it: create a charge, list it back (the charge is there — state persist",
+      "zhSummary": null,
+      "url": "https://github.com/stuntapi/stunt",
+      "publishedAt": "2026-08-18T13:15:51.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "e506c76107cbbe81e3f8a624905bca8ad024bc4b",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Leviath – Structured context regions for LLM agents, in one Rust binary",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://leviath.dev",
+      "publishedAt": "2026-08-18T13:12:01.000Z",
       "category": "其他"
     },
     {
@@ -961,6 +961,18 @@
       "url": "https://openai.com/index/asana",
       "publishedAt": "2026-08-18T07:00:00.000Z",
       "category": "其他"
+    },
+    {
+      "id": "dfcf73efa3a68602d747c819272e31d3809524e1",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "zhTitle": null,
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "category": "产品"
     },
     {
       "id": "e520424e436f5da3cbec60479a5831bc86254a08",
@@ -1844,7 +1856,7 @@
       "sourceName": "NVIDIA AI",
       "title": "Securing the Infrastructure of Intelligence",
       "zhTitle": null,
-      "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking — as well as land, power and [&#8230;]",
+      "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and [&#8230;]",
       "zhSummary": null,
       "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
       "publishedAt": "2026-08-17T12:34:51.000Z",
@@ -3588,18 +3600,6 @@
       "zhSummary": null,
       "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
       "publishedAt": "2026-07-28T15:00:19.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "50bf9e90585ee5cb7fd10af5baa38f80f25f5b4a",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "zhTitle": null,
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
       "category": "工具"
     }
   ]
