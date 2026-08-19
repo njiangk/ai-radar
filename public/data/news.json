@@ -1,7 +1,127 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-19T04:39:44.807Z",
+  "generatedAt": "2026-08-19T06:47:55.304Z",
   "items": [
+    {
+      "id": "8ae6befdf52344254495ddd823e905340c2fb340",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "An LLM wiki changed how I work",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity",
+      "publishedAt": "2026-08-19T06:27:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "56d9680b762dee73a27998f73936e71a0416d51e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Excited and exhausted: life as a tech writer in the AI age",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age",
+      "publishedAt": "2026-08-19T06:24:23.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a5bd2ff854a93d5aa1e016f8a0b752df0f1155ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation",
+      "publishedAt": "2026-08-19T06:19:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "80ddadb83a7d58385fb2b981246d76700bfd98c6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Does AI stop children from learning?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "publishedAt": "2026-08-19T06:13:31.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cd8f0b71bb7c4fa09bdb634be9cc87dd28b9b968",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "ZEON – A token-efficient data format for LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://zeon-eight.vercel.app",
+      "publishedAt": "2026-08-19T05:28:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "042f52538be6df698d03506dd98c4b1187850494",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Designing AI with character: what we learned building Berd",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
+      "publishedAt": "2026-08-19T05:26:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "123943f49969d5e06eba076448ce25d08f792876",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Get feedback on your AI slop. no accounts",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://slopornot.simplicated.dev",
+      "publishedAt": "2026-08-19T05:24:28.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Stock Research Assistant · Streamlit",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ai-stock-research-kiaan.streamlit.app",
+      "publishedAt": "2026-08-19T05:17:36.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "506caa1c967aa2e4fe53da2731049c1fa065bedc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Looking for an ArXiv Endorser – AI / Computer Science",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/paibyun9/EGA-V9",
+      "publishedAt": "2026-08-19T05:15:32.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "193b600b1c15742e0faea31a8d0fa79f542e0fea",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "BYOKs for an LLM with a Brain",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://alicebraincore.web.app",
+      "publishedAt": "2026-08-19T05:15:27.000Z",
+      "category": "其他"
+    },
     {
       "id": "d9c7f988f213a8bd75e490c283a98f3e074c7bb2",
       "sourceId": "hn-ai",
@@ -207,18 +327,6 @@
       "category": "其他"
     },
     {
-      "id": "6caa7002013fc2dea011be26dfb487cca16af650",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-      "publishedAt": "2026-08-19T02:09:31.000Z",
-      "category": "产品"
-    },
-    {
       "id": "5e06f1e9aa0ea768ec37288f3732e7864453b7cd",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -229,42 +337,6 @@
       "url": "https://github.com/alainnothere/llama.cpp/blob/disk-cache-eviction/models/templates/Qwen3.8-27B-medium-default.jinja",
       "publishedAt": "2026-08-19T01:44:38.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "7d59005b1d74bd972bbb5f60cb35e6b8307e76f6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Do All Your Agents Need Models Like Claude 5 or GPT-5.6?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6",
-      "publishedAt": "2026-08-19T01:27:35.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "f35197fb903d47306e5aa41abd814f53b5107a87",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-      "publishedAt": "2026-08-19T01:16:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "8b20d027b145c8cd86668e46a33864788a2e56fa",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-      "publishedAt": "2026-08-19T01:06:12.000Z",
-      "category": "其他"
     },
     {
       "id": "e8aa7845d56e1cba6f69628cd2a11a6822770c9c",
@@ -289,78 +361,6 @@
       "url": "https://metapodcast.net",
       "publishedAt": "2026-08-19T00:28:42.000Z",
       "category": "其他"
-    },
-    {
-      "id": "c0e4bffc16195080f538bd4ec10ba79b2905a129",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cerebras CS-4",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cerebras.ai/cs4",
-      "publishedAt": "2026-08-19T00:28:18.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "daee90f9b6aaa2b3c166535a1d4a73038ea0519c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://secitbench.cribl.io",
-      "publishedAt": "2026-08-19T00:28:02.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "03beaeb4b7df3917b34c1b54ee060c8f7870adc1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://inco.ai/blog/dflash2",
-      "publishedAt": "2026-08-19T00:20:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6e8d6ddea6cbc0ed62274743058705ea50844a26",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Monity.ai – Get notified when any website changes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
-      "publishedAt": "2026-08-19T00:15:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "8805e4a554fc15782dcf7b007cbac6187707e101",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
-      "publishedAt": "2026-08-19T00:14:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6ddb7c2c8f883a83cae9d150115afae30a128d99",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How to tame AI's voracious appetite for energy",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
-      "publishedAt": "2026-08-19T00:14:34.000Z",
-      "category": "产品"
     },
     {
       "id": "e47c102d557fece57cae3260d0e98a482a652c40",
@@ -397,6 +397,18 @@
       "url": "https://artificialanalysis.ai/models/glm-5-3",
       "publishedAt": "2026-08-18T22:06:10.000Z",
       "category": "研究"
+    },
+    {
+      "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "ChatGPT Ads expands across Europe",
+      "zhTitle": null,
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "publishedAt": "2026-08-18T22:00:00.000Z",
+      "category": "产品"
     },
     {
       "id": "57a3117940c906b98f582f315920add1a58141b7",
@@ -1047,18 +1059,6 @@
       "category": "产品"
     },
     {
-      "id": "f2861be36cbc5c35c46c736a93d5e7dd310994ea",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Do Not Talk About LLMs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://elijahpotter.dev/articles/do-not-talk-about-large-language-models",
-      "publishedAt": "2026-08-18T16:13:06.000Z",
-      "category": "其他"
-    },
-    {
       "id": "9a49056e98e41e9aa06b8720d59afbb8afaf27b1",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1215,18 +1215,6 @@
       "category": "其他"
     },
     {
-      "id": "2b4f7f5a0ec801bdce95a80d872933590d602846",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "AstroForge on X: \"The Next Limit to Moore's Law Is Underground\" / X",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/AstroForge/status/2089732305350758884",
-      "publishedAt": "2026-08-18T15:47:48.000Z",
-      "category": "政策"
-    },
-    {
       "id": "0006ed78103e22273c0105e06be6bf3731ed0f3e",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1323,30 +1311,6 @@
       "category": "研究"
     },
     {
-      "id": "1adffc62732d68b7b7e173f81a2e01d374f10deb",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/AshwinUgale/tracelint",
-      "publishedAt": "2026-08-18T14:49:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "091ad595d3544a8afdbe790910d0fcdbe017ca41",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: I benchmarked LLMs on predicting knife steel properties",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/Steel-predictor-project/steel-llm-eval",
-      "publishedAt": "2026-08-18T14:49:15.000Z",
-      "category": "研究"
-    },
-    {
       "id": "698b96f456b572b770fa51cd65e538ab6cd7c3d6",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1369,18 +1333,6 @@
       "url": "https://arxiv.org/abs/2608.17827v1",
       "publishedAt": "2026-08-18T14:28:33.000Z",
       "category": "融资"
-    },
-    {
-      "id": "01c2ddb95c007f2ceeda5a36fc745cb633dcba3e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Coalent – an LLM answer cache that invalidates when source docs change",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/Vectorlink-Labs/coalent",
-      "publishedAt": "2026-08-18T14:16:34.000Z",
-      "category": "其他"
     },
     {
       "id": "376341d607e7baf759a5e701196041cc48fb5b22",
@@ -3601,6 +3553,54 @@
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "publishedAt": "2026-07-27T00:00:00.000Z",
       "category": "其他"
+    },
+    {
+      "id": "7569338ee0d35289de5fa0da2edc1227182b6ccd",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Launching Health in ChatGPT ",
+      "zhTitle": null,
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "37c9890bc32e7cee73233632c06a3e0ba488e007",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bd6ce42035f550014aca0a9800b9545ebfc3f46b",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "zhTitle": null,
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "130e23c4bd2f87cbb00eed71539e83ba22e3ccf1",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "zhTitle": null,
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "工具"
     }
   ]
 }
