@@ -1,7 +1,163 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-19T02:59:48.232Z",
+  "generatedAt": "2026-08-19T04:39:44.807Z",
   "items": [
+    {
+      "id": "d9c7f988f213a8bd75e490c283a98f3e074c7bb2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+      "publishedAt": "2026-08-19T04:25:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1acb3406285f15606daaa134ffee96014afcabfb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: 4bit bridge between AI and humans",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/YOalphabet/YOalphabet",
+      "publishedAt": "2026-08-19T04:21:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fc9f452012acbf7e2a4e436ade0c3c6becd761fd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.16834",
+      "publishedAt": "2026-08-19T04:07:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "31e1034469752a82030e9578761bfc07d7a8eef1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://plugos.net/plugclaw",
+      "publishedAt": "2026-08-19T04:03:16.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "e0f06e61ebea8c7b0c77caaf307268348c023716",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Mathematics in the Age of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.16753",
+      "publishedAt": "2026-08-19T04:01:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "716c20a2099b22437ba5338951ac84a38cd14b07",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Memanto Is a Memory Agent",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/moorcheh-ai/memanto",
+      "publishedAt": "2026-08-19T04:01:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bfdbe89840d6972146a13466c3dea4aba9aca5cc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "SERP Lens – an AI agent that does SEO work in a real browser",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://serplens.com",
+      "publishedAt": "2026-08-19T03:55:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8e9420afc3fdc03c3e94cd1ec0458270ea6cf252",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Explaining AI agents is like explaining 3D printers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers",
+      "publishedAt": "2026-08-19T03:43:32.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ebc16634fceb29178cf893e84e10d80bdbf7e106",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere",
+      "zhTitle": null,
+      "summary": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don&#x27;t want to ssh&#x2F;rdp into it every single time. Relay brings Claude Code, Codex, OpenCode, and Hermes into one interface that you can access from your phone, browser, or another co",
+      "zhSummary": null,
+      "url": "https://github.com/elin66alpha/Relay",
+      "publishedAt": "2026-08-19T03:26:59.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "2a32fc9c4da4e9756149924ca9c1dcc619e25e46",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Csift – the missing tool to sift your Claude Code sessions",
+      "zhTitle": null,
+      "summary": "I built csift to address all my complaints about Claude&#x27;s handling of its own session files. Claude Code sessions are plain-text JSONL with everything, but they never document the structure anywhere. Every time, Claude has to craft an ad hoc tool to guess, and SKILL.md isn&#x27;t enough to cover everything. This is what happened in the night that made it a real tool: Claude deleted project fi",
+      "zhSummary": null,
+      "url": "https://github.com/wdhwg001/csift",
+      "publishedAt": "2026-08-19T03:24:31.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "1c7dcd1b53d54d69efb1b1392f14f4b8ed4881fb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Recursive Economy: AI Self-Improvement and Scarcity",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://recursive-economy.pages.dev",
+      "publishedAt": "2026-08-19T03:16:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "96db14d843a7590f0f40cf92af9214c33e03ca3e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Agent2Agent (A2A) joins Agentic AI Foundation (AAIF)'s open agentic stack",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aaif.io/blog/a2a-joins-aaif",
+      "publishedAt": "2026-08-19T03:05:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7081c985783f663278d224b00960cb58d7ce83c9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130",
+      "publishedAt": "2026-08-19T02:59:52.000Z",
+      "category": "其他"
+    },
     {
       "id": "e5d663cd89f6f0ddedb1e1269f48c4badc145b8f",
       "sourceId": "hn-ai",
@@ -207,30 +363,6 @@
       "category": "产品"
     },
     {
-      "id": "4c48b4a86cd844ebd6a45048deb17ea03dfec7ad",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
-      "publishedAt": "2026-08-19T00:14:25.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "632479b830490f2b0858c32ad7f158458a4fcf1d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Artificial intelligence boosts automated biolabs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://knowablemagazine.org/content/article/technology/2026/ai-boosts-biofoundries-synthetic-biology",
-      "publishedAt": "2026-08-18T23:59:29.000Z",
-      "category": "其他"
-    },
-    {
       "id": "e47c102d557fece57cae3260d0e98a482a652c40",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -243,102 +375,6 @@
       "category": "工具"
     },
     {
-      "id": "17fe9ba7dec4ee4d8ba7b1fd13302d53c047eb25",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
-      "publishedAt": "2026-08-18T23:18:29.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "cfd6a1d7417b6e1da9566a56b291fcb8edef27c5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: ResumeSkip – automatically tailor your resume to jobs",
-      "zhTitle": null,
-      "summary": "just gonna make it simple: all job portals scan resumes with AI now, if you aren&#x27;t tailoring your resume to each posting you&#x27;re already behind.. Some companies even use AI to interview (). You can do this yourself for free * (token cost) if you want, but you&#x27;ll have to craft a good prompt, use a good agent you have access to, and validate the outcomes over time, or have an agent bui",
-      "zhSummary": null,
-      "url": "https://resumeskip.com",
-      "publishedAt": "2026-08-18T23:08:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a4478beb7e0e2e668f97bbf19b3e264f4d6b152b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
-      "publishedAt": "2026-08-18T23:06:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "33f94eb7780cb06aee55257e09f11f7fa8a9ee9c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
-      "zhTitle": null,
-      "summary": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to run thousands of isolated AI agents for their customers. Imagine you set up an agent like OpenClaw, or a personal assistant agent with a custom framework, and want to give a separate version of it to every customer&#x2F;friend. Each customer needs their own agent",
-      "zhSummary": null,
-      "url": "https://maritime.sh",
-      "publishedAt": "2026-08-18T23:02:32.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "bc7bca8a828afb96e96eee22b5b611fe03f0db69",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-drafted bills are swamping the House office that writes US laws",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
-      "publishedAt": "2026-08-18T23:01:45.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "c202b14097a548c9a02b8a4ba54895c9d96dc5c3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "To Build a Data Center – Intro to Diesel Generation",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://power2026.ai/diesel",
-      "publishedAt": "2026-08-18T22:58:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cc2ba566f0d9db7f8f5ac6eb8c8e6ab99cd7ff4c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-      "publishedAt": "2026-08-18T22:45:43.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "959c0c7fb519079a9eddf9eee6e5c11cc603f352",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google wins $10M bankruptcy auction for Spirit Airlines 100M emails, 500M chats",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://247wallst.com/investing/2026/08/18/google-just-bought-100-million-emails-from-a-dead-airline-for-10-million",
-      "publishedAt": "2026-08-18T22:41:18.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6836a788ee9f93ee36111bffe7c4a80a9de037fd",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -349,42 +385,6 @@
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
       "publishedAt": "2026-08-18T22:14:25.000Z",
       "category": "工具"
-    },
-    {
-      "id": "657ec7769e26238a577dff5506e2d7e734aefdfb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "GPT-5.6 Sol: 70% off in Devin",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-      "publishedAt": "2026-08-18T22:12:14.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "5dfeaa278fabb2bdea74bccbc577b615490c2239",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Tail: A 0–5 scale for how much AI wrote this",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://beaucronin.com/tail",
-      "publishedAt": "2026-08-18T22:11:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d3c89fb31dea3c6de8793ec052df5fed5fcfd9ad",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI usage patterns in software teams",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://linear.app/data",
-      "publishedAt": "2026-08-18T22:08:07.000Z",
-      "category": "其他"
     },
     {
       "id": "2156e302859a8392b80afa7d90b1f16e619a682c",
@@ -1419,18 +1419,6 @@
       "category": "研究"
     },
     {
-      "id": "6e1f7d6a7239fcaa08430a0900075f4ecb3dc18b",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "What We Learned Moving Our Agent Loops from Anthropic to GLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://getunblocked.com/blog/moving-agent-loops-from-anthropic-to-glm",
-      "publishedAt": "2026-08-18T14:02:55.000Z",
-      "category": "其他"
-    },
-    {
       "id": "7e9a207261ee6b69569af8f80bae5e42d2e88466",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1489,18 +1477,6 @@
       "url": "https://arxiv.org/abs/2608.17781v1",
       "publishedAt": "2026-08-18T13:45:17.000Z",
       "category": "其他"
-    },
-    {
-      "id": "b1d30eb886fac06ad6bcbafc0c99c567e1ae5bbf",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "ChatGPT has almost stopped citing Reddit",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt",
-      "publishedAt": "2026-08-18T13:29:27.000Z",
-      "category": "产品"
     },
     {
       "id": "905b50ddf2bea81afe404624f9e5afd2533f4dce",
@@ -3600,6 +3576,30 @@
       "zhSummary": null,
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "publishedAt": "2026-07-27T09:32:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f143efbfe201f0407b0e218865c812c1de07681a",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How AI is expanding what people do at work",
+      "zhTitle": null,
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "publishedAt": "2026-07-27T03:30:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "8ff67d77127ccd24731c0636446168075996e8c8",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
       "category": "其他"
     }
   ]
