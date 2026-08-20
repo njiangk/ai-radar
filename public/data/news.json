@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T06:49:29.751Z",
+  "generatedAt": "2026-08-20T08:40:32.448Z",
   "items": [
+    {
+      "id": "a6781ae1d97fe886438e181fee7a62698baee809",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Don't Paste the AI, please",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://dontpastetheai.com",
+      "publishedAt": "2026-08-20T08:20:44.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5256b468be8f0af42bd8bf99d320ed25f7c1d31c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The wrong unit – Shipping sooner, not faster",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.codemanship.dev/smaller-steps-six-ai-coding-agents",
+      "publishedAt": "2026-08-20T08:20:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "96905ced180f62725808a8334157d5a80ae139c1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Influence Level (Ail) v1.0",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://danielmiessler.com/blog/ai-influence-level-ail",
+      "publishedAt": "2026-08-20T08:16:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a5bd2ff854a93d5aa1e016f8a0b752df0f1155ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation",
+      "publishedAt": "2026-08-20T08:14:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "33f14679240505fa682f91093d5add446d6ebf3d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A perfect example of concept entanglement in generative AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://martinanderson.ai/blog/entanglement-in-ai-generation-veronica-carlson-hair.html",
+      "publishedAt": "2026-08-20T08:14:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2d47bf76b0586d952cb377a2f85a2ef5981d732c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Florida police officer accused of using Flock AI cameras",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226",
+      "publishedAt": "2026-08-20T07:39:22.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d0f3894d6f9a95b32648397786c2f4ca854d32f4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+      "publishedAt": "2026-08-20T07:30:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c86c26fc575639a80c6209ea2910314a7760924d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Our security harness can hack to get root 9/10 times",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://donely.ai/ai-employees/autonomous-security-agent",
+      "publishedAt": "2026-08-20T07:24:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5c0a63b23ba467e860ab2b504fe041e1f75f0ad6",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Understanding the Limitations of Pubsub Systems",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
+      "publishedAt": "2026-08-20T07:12:55.000Z",
+      "category": "其他"
+    },
     {
       "id": "54e0d759858d11cf9d62d9329bca2bf52b626c45",
       "sourceId": "hn-ai",
@@ -255,78 +363,6 @@
       "category": "其他"
     },
     {
-      "id": "6e129de01a90859770d9535e9a117131b99ef683",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How to use AI for your next job interview",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
-      "publishedAt": "2026-08-20T01:18:17.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f77bec8eea30aa27b96fe6918e2bee954cdaa52e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Agentic AI has made CPUs the new performance bottleneck",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://spectrum.ieee.org/ai-cpu-comeback",
-      "publishedAt": "2026-08-20T01:14:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "84d78624e62c41368c8956f09fb1832c9cf09c0a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
-      "publishedAt": "2026-08-20T00:40:14.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "df4c90e3656b0ce2a3370d327676d9263670d70f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure",
-      "publishedAt": "2026-08-20T00:07:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "de1e50203cb055809296b865f65fe928b7a89e66",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Amazon's Drones Will Soon Deliver to Nearly 500 US Cities and Towns",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
-      "publishedAt": "2026-08-20T00:02:48.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e84cfb2e4f48f0895656e8de550f4dea50c44029",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "If You're Not Studying for Retention, Just Use AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai",
-      "publishedAt": "2026-08-19T23:50:50.000Z",
-      "category": "研究"
-    },
-    {
       "id": "77011f59b88856c9bd912598fb9a1fd9b3178b51",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -336,30 +372,6 @@
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
       "publishedAt": "2026-08-19T23:32:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "915a61c368f6aebc2efc5cc6b4559b38e335da4a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-Powered Cyberattacks",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
-      "publishedAt": "2026-08-19T23:25:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bb911aa52d3a7ba4c6589930d8900e7acb12c855",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Hurtles Ahead",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead",
-      "publishedAt": "2026-08-19T23:21:08.000Z",
       "category": "其他"
     },
     {
@@ -373,18 +385,6 @@
       "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox",
       "publishedAt": "2026-08-19T23:16:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "9beab1f820a571efc08c74298f645ee562d3cd46",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Technical leaders should have the largest AI exhaust",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust",
-      "publishedAt": "2026-08-19T23:12:38.000Z",
-      "category": "其他"
     },
     {
       "id": "0d381d906f59feaffac0a5b17464e0d6d642be2e",
@@ -1335,18 +1335,6 @@
       "category": "其他"
     },
     {
-      "id": "c70f05cb0ac393f337456b43a38b7061a27fa845",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Minna – On-device semantic search across your own documents (macOS)",
-      "zhTitle": null,
-      "summary": "Hi HN! Minna is a new tool geared towards people who have a knowledge base so big they forget where things are. - Chat answers are constrained to retrieved results. The model has to search your knowledge base first and cite the document it pulled from. It won&#x27;t answer from outside your knowledge base which means you can trust the LLM instead of having to be weary about what it outputs. - Hybr",
-      "zhSummary": null,
-      "url": "https://github.com/impel-intelligence/Minna",
-      "publishedAt": "2026-08-19T15:09:48.000Z",
-      "category": "工具"
-    },
-    {
       "id": "09e0adef9c258d869875d6717cb093e100103fe0",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1369,18 +1357,6 @@
       "url": "https://arxiv.org/abs/2608.19003v1",
       "publishedAt": "2026-08-19T15:03:51.000Z",
       "category": "研究"
-    },
-    {
-      "id": "4cbaef17f5c03233738f3e5eac9bb51641c3e36a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: A design skill that turn your feelings into UI and remembers it",
-      "zhTitle": null,
-      "summary": "Share a skill that I built for myself and friends. I don&#x27;t have any design background as a PM and engineer. When I vibe coding, I said: &quot;I want to make it feel like Stripe&quot;. My friend said: &quot;More elegant, more Apple.&quot; LLM doesn&#x27;t undserstand them well, for we don&#x27;t know how to speak design words. I also found that I don&#x27;t want to repeat or write lines of pro",
-      "zhSummary": null,
-      "url": "https://github.com/MonkeyUI-dev/vibe-to-ui",
-      "publishedAt": "2026-08-19T15:01:07.000Z",
-      "category": "产品"
     },
     {
       "id": "60c2117fcb017b5760ad0ba7f93d2886c6356e37",
@@ -3600,6 +3576,30 @@
       "zhSummary": null,
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "publishedAt": "2026-07-27T09:32:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f143efbfe201f0407b0e218865c812c1de07681a",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How AI is expanding what people do at work",
+      "zhTitle": null,
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "publishedAt": "2026-07-27T03:30:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "8ff67d77127ccd24731c0636446168075996e8c8",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
       "category": "其他"
     }
   ]
