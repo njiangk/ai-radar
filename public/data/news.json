@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T04:39:03.832Z",
+  "generatedAt": "2026-08-20T06:49:29.751Z",
   "items": [
+    {
+      "id": "54e0d759858d11cf9d62d9329bca2bf52b626c45",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Do-over, undo for AI agent shell commands",
+      "zhTitle": null,
+      "summary": "Hello HN, I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code&#x27;s hooks and snapshots what a command is about to touch right before it runs. I know what you&#x27;re thinking. Why don&#x27;t you just commit more often? This tool doesn&#x27;t seek to replace git. What it does is: [1] Protect the stuff git doesn&#x27;t protect: your untracked&",
+      "zhSummary": null,
+      "url": "https://github.com/CaydenChik/doover",
+      "publishedAt": "2026-08-20T06:42:36.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "a8c6d9d95ce9d25155519294073334173c9dba98",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "LLM Reasoning Traces Are Not Audit Records",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs",
+      "publishedAt": "2026-08-20T06:20:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "72c6e4dd8b8b0036d3874b8363b112cea679348a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The data center fight is heating up",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
+      "publishedAt": "2026-08-20T06:03:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "87454b22985f217102bfa08a283809e1c7d046e3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: UI Inspector for Tauri",
+      "zhTitle": null,
+      "summary": "Because AI.",
+      "zhSummary": null,
+      "url": "https://github.com/mathematic-inc/tauri-plugin-ui-inspector",
+      "publishedAt": "2026-08-20T05:41:53.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fad618b16703332a001e0929c9d33dcaa9eb222a",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The US national debt now stands at $40T",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://apnews.com/article/treasury-national-debt-limit-a27a8d3651ff810b25c610d3e1b6259d",
+      "publishedAt": "2026-08-20T04:55:06.000Z",
+      "category": "其他"
+    },
     {
       "id": "95af3069f60bba57b2a0686915c857ef6303a6f5",
       "sourceId": "hn-llm",
@@ -327,18 +387,6 @@
       "category": "其他"
     },
     {
-      "id": "3bd31d30c63037abd60a3b02f051612bd820f1e1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "\"Half-Day\": 0-Day in the Age of AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai",
-      "publishedAt": "2026-08-19T23:03:53.000Z",
-      "category": "其他"
-    },
-    {
       "id": "0d381d906f59feaffac0a5b17464e0d6d642be2e",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -349,18 +397,6 @@
       "url": "https://www.freep.com/story/news/local/michigan/2026/08/18/speeding-drivers-traffic-deaths/91350348007",
       "publishedAt": "2026-08-19T23:00:31.000Z",
       "category": "研究"
-    },
-    {
-      "id": "358fa0075cbe645affa8a71f1e2a84198acb58d4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Jason Kelce pleads with NFL fans to send urine to AI data centers",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.themirror.com/sport/american-football/jason-kelce-pee-garage-beers-1989324",
-      "publishedAt": "2026-08-19T22:58:44.000Z",
-      "category": "其他"
     },
     {
       "id": "0a9fa676909b8364009fc6ddd6f4ddffa40878f7",
@@ -375,18 +411,6 @@
       "category": "产品"
     },
     {
-      "id": "50d55a26a910f447c4b99594aa42d5e932082a1d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I had to unplug from AI to rediscover my love of writing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing",
-      "publishedAt": "2026-08-19T22:51:20.000Z",
-      "category": "其他"
-    },
-    {
       "id": "124941365f232afc5fb083129390c9929bab8740",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -399,18 +423,6 @@
       "category": "其他"
     },
     {
-      "id": "50c31233f7b47204641120aec91a021351db65e4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Dear researchers: Is AI all you've got?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://austinhenley.com/blog/dearresearchers.html",
-      "publishedAt": "2026-08-19T22:47:04.000Z",
-      "category": "研究"
-    },
-    {
       "id": "986320ef31b6f3af30d5ad259a27524423ff1d53",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -421,54 +433,6 @@
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code",
       "publishedAt": "2026-08-19T22:46:07.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "e9333d9b0441e68de441f2d3b218f25aeed7c0c5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Semantica, the Open Source Palantir for AI Agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/semantica-agi/semantica",
-      "publishedAt": "2026-08-19T22:28:48.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "48c797945b8270130a5f53265ec124857b8c8ce4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
-      "publishedAt": "2026-08-19T22:20:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4ae433b292867ee6e7ac43c91a2847769c2917d9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Everyone's Using This A.I. Dictation App That I Want to Murder with a Hammer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html",
-      "publishedAt": "2026-08-19T22:18:13.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "f174bce97f3edf7dfd61bb162529b0a6953f1be1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Japan to require AI firms to disclose training data",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure",
-      "publishedAt": "2026-08-19T22:12:52.000Z",
-      "category": "研究"
     },
     {
       "id": "801a3672f2c6a152119cd5d8d6236b5857716ad2",
@@ -1453,18 +1417,6 @@
       "url": "https://arxiv.org/abs/2608.18982v1",
       "publishedAt": "2026-08-19T14:48:19.000Z",
       "category": "融资"
-    },
-    {
-      "id": "e797c3757fc477a8597a1111a677ef4412145d7a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Prompt caching makes self-consistency cheap for long-context LLMs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/@mohitsinghchauhan/prompt-caching-makes-self-consistency-cheap-for-long-context-llms-c611ba4f5237",
-      "publishedAt": "2026-08-19T14:41:56.000Z",
-      "category": "其他"
     },
     {
       "id": "86d31b63b62db1cff997b2d54b168274d3806ddf",
@@ -3601,6 +3553,54 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "6075f78d718a8d87773ee3531c103bf624df8e93",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "zhTitle": null,
+      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
+      "publishedAt": "2026-07-28T15:00:19.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "50bf9e90585ee5cb7fd10af5baa38f80f25f5b4a",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "zhTitle": null,
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "337133ac9fb12af1db84d163c1580eff1c9e9876",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "zhTitle": null,
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "publishedAt": "2026-07-27T09:32:20.000Z",
+      "category": "其他"
     }
   ]
 }
