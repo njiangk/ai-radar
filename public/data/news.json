@@ -1,7 +1,367 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T14:38:34.029Z",
+  "generatedAt": "2026-08-20T16:37:31.068Z",
   "items": [
+    {
+      "id": "4b62860502a9e5f36755f37cf8e1f60f09136ef8",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "What breaks when you switch LLMs?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.evalshift.dev/blog/what-breaks-when-you-switch-llms",
+      "publishedAt": "2026-08-20T16:33:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "800c9106f9ec6f5110ec86714cfe3a00ece5c79c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Top Open Source MCP Gateways in 2026",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.getmaxim.ai/articles/top-5-open-source-mcp-gateways-in-2026",
+      "publishedAt": "2026-08-20T16:26:37.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "9f4ff92be723ab64deba07c45e2c622a2a60f006",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI for science needs reasoning, not just data – Eric Schmidt and Suhas Mahesh",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+      "publishedAt": "2026-08-20T16:26:22.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c4b349a8111b0c6008c3fde6abeff55f7c632250",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I'm done coding with AI [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "publishedAt": "2026-08-20T16:23:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8e1ee77348dde2f6e4901a7185907f19f2e01e11",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "zhTitle": null,
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users",
+      "publishedAt": "2026-08-20T16:07:26.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "9d164193b43ad810ce9563669d223946b6a154b3",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "zhTitle": null,
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9b9b25297a39bdf76c4267f8ac7465810e0b286b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "DripSharp: Building a Java-to-C# source converter with AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter",
+      "publishedAt": "2026-08-20T15:55:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "879e4304edb36e649e6c2e64b9b60f997b9fdcfa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Excuse My French – an Open Source French-learning app",
+      "zhTitle": null,
+      "summary": "hi HN! Many years ago (in 2018) I wrote a simple French-learning exercise generator in Javascript for my wife. I was looking for a way to generate as many exercises as possible for her to practice. The idea was being able to generate a huge combination of sentences and being able to transform them deterministically based on French grammar rules. The generation and transformation is rule-based (no",
+      "zhSummary": null,
+      "url": "https://excusemyfrench.org",
+      "publishedAt": "2026-08-20T15:54:50.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "c5a0e372e8ce251d08631c37f8337c4ef35f337c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Project management with schedule aware AI copilot",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.criticalschedule.com",
+      "publishedAt": "2026-08-20T15:52:28.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "bc8336ea4b178c29f926e1b52d0c220cfde394f8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Teens Taking on Data Centers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html",
+      "publishedAt": "2026-08-20T15:51:23.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c0d5118cc801275f3cd28fc9ac60aea6c3bce32a",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Paymug – Self-host LemonSqueezy / Polar alternative",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/Paymug/paymug",
+      "publishedAt": "2026-08-20T15:50:50.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c6a5bcc79540ffba50d8b6feea82ffa57a48e2e2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
+      "publishedAt": "2026-08-20T15:46:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d7ef2975580865aa45752368aa847106bd36b57e",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "zhTitle": null,
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "publishedAt": "2026-08-20T15:45:55.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "5cf352cadaec05e3fd561cd15e1fe7fc7cb16961",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Epho – run Claude Code with a curl",
+      "zhTitle": null,
+      "summary": "Hey folks, Burak here. Epho is an API that allows running Claude Code, Codex or Opencode in a sandbox in the cloud. It abstracts away sandboxes, and allows running coding agents with a single HTTP request. Epho came out of our own struggles with building our own AI analyst: - Sandboxes give you bare machines; you need to configure them for agentic workloads. - Each agent behaves differently, and y",
+      "zhSummary": null,
+      "url": "https://epho.io",
+      "publishedAt": "2026-08-20T15:45:51.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "56003c0c955d5c553812c52572fda8d30e2b37ef",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "(LLM Cluster) I spent all my money on broken Steam Decks [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=P0GXwKlg3pU",
+      "publishedAt": "2026-08-20T15:45:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "323607896034de1de5d57cfe02b3b0e49331c16a",
+      "sourceId": "mit-tr-ai",
+      "sourceName": "MIT Tech Review",
+      "title": "Debates over AI consciousness are a trap",
+      "zhTitle": null,
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+      "zhSummary": null,
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
+      "publishedAt": "2026-08-20T15:42:39.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "7c1f684d3b5863fb4017ca069466b5def7591a1c",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Autolith: A programming agent with a live runtime",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "publishedAt": "2026-08-20T15:40:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0a74ca13dad0d95dcf166ce06b5fad211288e018",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: okfctl",
+      "zhTitle": null,
+      "summary": "I built a CLI tool to manage Open Knowledge Format (OKF) bundles. Knowledge bases, second brains, and LLM-Wikis now have a toolchain to complement the specification. Validate, lint, analyze, search, serve, and manage your knowledge. Go binary, agent plugin, and skills included. Please try it! I&#x27;ve been using it for about a month on home labs, work labs, team knowledge base repos, and more.",
+      "zhSummary": null,
+      "url": "https://github.com/cwest/okfctl",
+      "publishedAt": "2026-08-20T15:39:55.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "b6b1c7917aeddf4f63f16415a27621aab47ccf36",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Is Undermining Leaders' Judgment. Here's What to Do About It",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it",
+      "publishedAt": "2026-08-20T15:33:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5dd840a03a214ac66b34636e27038fafd55b08e9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "zhTitle": null,
+      "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https:&#x2F;&#x2F;vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=VdpHehY64ls We built Vendo because every SaaS ev",
+      "zhSummary": null,
+      "url": "https://github.com/runvendo/vendo",
+      "publishedAt": "2026-08-20T15:29:52.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "0ac0123bfb33b14e7507074ab74116a0d5a16fb5",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/zachahn/vomit",
+      "publishedAt": "2026-08-20T15:26:02.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "2a12b72016c542204e690cfc212d9ba310e1b2c1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "publishedAt": "2026-08-20T15:22:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "157e2ca74123ec7d621784452be8f1eac4713b57",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Anti-AI fonts are useless and harmful",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+      "publishedAt": "2026-08-20T15:06:53.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "845dadae15171cd60896da369f8dab77e4f14ba9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "If You Weren't Worried About A.I., You Should Be After the Past Few Weeks",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
+      "publishedAt": "2026-08-20T15:04:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2f2ec4c1f081510a1b6f8e0d9f865b8066213614",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Open Source Is Not a Virtue: It's an Ownership Model",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model",
+      "publishedAt": "2026-08-20T14:58:14.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "3532b641a489b9248409dfb13885585f1d2f3d83",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: LLM-enabled large data analysis",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://app.verbagpt.com",
+      "publishedAt": "2026-08-20T14:55:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7c21626e9d430aa93b01bda762b7b484a53b949e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "publishedAt": "2026-08-20T14:55:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "eab4fa7d2ab76d676f4c453bc8c39a61bad06df4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Could AIs Become Conscious?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+      "publishedAt": "2026-08-20T14:47:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8d316b18ccd23fb74a4a2ec1968e99ff837da2ab",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Code Factories Without Quality: The AI Development Blind Spot",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.qawolf.com/blog/code-factories-without-quality",
+      "publishedAt": "2026-08-20T14:39:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4bafc696f34d362b4fee01985f2db74a5d8aa702",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "zhTitle": null,
+      "summary": "Hey, I&#x27;m Ben. I built Zoneless because I was paying so much to use Stripe Connect on my own marketplace. The fees were really, really bad, and it was also limiting in terms of the seller countries I could onboard. To give you an idea, I was paying around $9,000 per month in fees just to run payouts. Using Zoneless, that cost goes down to around $6. I&#x27;ve been using it personally for the p",
+      "zhSummary": null,
+      "url": "https://zoneless.com",
+      "publishedAt": "2026-08-20T14:38:45.000Z",
+      "category": "其他"
+    },
     {
       "id": "baea135c476961d0591975ba90d737a91bd0cd9d",
       "sourceId": "hn-ai",
@@ -135,6 +495,18 @@
       "category": "其他"
     },
     {
+      "id": "8d8f0f88980a9ae89671e6f1c45e97d02ebadbf2",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Welcome to the AI crisis in math",
+      "zhTitle": null,
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "category": "其他"
+    },
+    {
       "id": "49107a0b6f84ffb99450633d388736e332eb6a4c",
       "sourceId": "hn-ai",
       "sourceName": "Hacker News AI",
@@ -183,18 +555,6 @@
       "category": "模型发布"
     },
     {
-      "id": "0afcaec1e290ad643c0d9786dd2673d201b47344",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
-      "publishedAt": "2026-08-20T13:46:48.000Z",
-      "category": "其他"
-    },
-    {
       "id": "ebc2e46eed96b628531b9cc9fd0288c74fd3cd9a",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -204,42 +564,6 @@
       "zhSummary": null,
       "url": "https://github.com/shallowbyte/parmar",
       "publishedAt": "2026-08-20T13:35:32.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3505592c4678eb098068f8542bdd7ec3212c2674",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
-      "publishedAt": "2026-08-20T13:26:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4a80fcdf7ac86ac3e8ff2a9817f6a112664f7d92",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Relationship Engineering: the fifth phase of building with AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/swombat/status/2090421410887880771",
-      "publishedAt": "2026-08-20T13:19:23.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "faf1e6a65c5c4c86a344df629b0bce9ea80361bc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Choking victims should perform Heimlich manoeuvre on themselves – scientists",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.independent.co.uk/news/health/choking-heimlich-manoeuvre-perform-yourself-how-to-chair-thrusts-victims-themselves-first-aid-thorax-royal-brompton-a7681841.html",
-      "publishedAt": "2026-08-20T13:16:55.000Z",
       "category": "其他"
     },
     {
@@ -255,21 +579,9 @@
       "category": "其他"
     },
     {
-      "id": "683c86802ff7711de92f621236f0411ad4073dad",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Data annotation is creating jobs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
-      "publishedAt": "2026-08-20T13:14:20.000Z",
-      "category": "其他"
-    },
-    {
       "id": "d66d2fef98f6e23963104c9a37fc8bc3b132dac3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Find every AI model your code calls and warn before it's retired",
       "zhTitle": null,
       "summary": "",
@@ -289,18 +601,6 @@
       "url": "https://testmagic.link",
       "publishedAt": "2026-08-20T13:08:03.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "df5b80c7bced39d70d129e7df4cb9e872230a46f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Prove Your Point Correctly",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://play.google.com/store/apps/details?id=ai.argumentapp.argument&hl=en_US",
-      "publishedAt": "2026-08-20T13:01:32.000Z",
-      "category": "其他"
     },
     {
       "id": "2fe5325fd56fa6ed4e1be27bed44bbd0cd165983",
@@ -363,42 +663,6 @@
       "category": "其他"
     },
     {
-      "id": "def10dfb6e84abd37d51e36bac710a5cab81b570",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "GOP issues stark warning to AI companies",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "publishedAt": "2026-08-20T12:44:49.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "77c7993a3c4b64c8c4686444f129ad183657cc21",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "LinkedIn cracks down on automated content with AI detection button",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
-      "publishedAt": "2026-08-20T12:42:42.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a5317f5574f13bce1dd57caee4772c57543f854f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Amazon drone delivery is expanding to nearly 500 cities and towns this year",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.aboutamazon.com/news/transportation/amazon-prime-air-drone-delivery-expansion",
-      "publishedAt": "2026-08-20T12:39:22.000Z",
-      "category": "其他"
-    },
-    {
       "id": "410bc09f29787581e3d7da92180dcca60ce0d668",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -411,75 +675,27 @@
       "category": "其他"
     },
     {
-      "id": "002d2ad14ce5d09f7bc3132185cdd24aa193a569",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0",
-      "publishedAt": "2026-08-20T12:34:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d85780c6e2655e8124c016559f0daef466baff7d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Not Your Model, Not Your Mind",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
-      "publishedAt": "2026-08-20T12:33:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0ce83ebc6fb7fdd6cf57a2e146956bb028c6371c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Agent Loop Has Always Been There",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://memseek.ai/blog/the-loop-has-always-been-there",
-      "publishedAt": "2026-08-20T12:22:48.000Z",
-      "category": "其他"
-    },
-    {
       "id": "3008ad1f12c019933bcabbd0722e0c4646b8c3c3",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
       "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
       "zhTitle": null,
-      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
       "publishedAt": "2026-08-20T12:11:57.000Z",
-      "category": "产品"
+      "category": "工具"
     },
     {
       "id": "0e6b85e152b34e39882a4924fe0280dd598ee57a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
       "publishedAt": "2026-08-20T12:07:07.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3c3679338d616c596d5591b992b219b69f4f98ce",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google's AI photoscanner can determine body fat through selfies",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2603.27017",
-      "publishedAt": "2026-08-20T12:06:37.000Z",
       "category": "其他"
     },
     {
@@ -493,30 +709,6 @@
       "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "publishedAt": "2026-08-20T12:00:00.000Z",
       "category": "工具"
-    },
-    {
-      "id": "2dbcba10fd483f53663a557017fb0f38cb9a0281",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20",
-      "publishedAt": "2026-08-20T11:52:42.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e7cece69fe928819448c6e4ad891c91df6970896",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://billiondollartweets.com",
-      "publishedAt": "2026-08-20T11:49:24.000Z",
-      "category": "其他"
     },
     {
       "id": "dfa2f5b064bdb88e8cc322c59d8dda7c0c6ce10e",
@@ -584,7 +776,7 @@
       "sourceName": "TechCrunch AI",
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "zhTitle": null,
-      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
       "publishedAt": "2026-08-20T09:30:00.000Z",
@@ -603,76 +795,16 @@
       "category": "其他"
     },
     {
-      "id": "5c0a63b23ba467e860ab2b504fe041e1f75f0ad6",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Understanding the Limitations of Pubsub Systems",
+      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
       "zhTitle": null,
-      "summary": "",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "zhSummary": null,
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
-      "publishedAt": "2026-08-20T07:12:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a8c6d9d95ce9d25155519294073334173c9dba98",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLM Reasoning Traces Are Not Audit Records",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs",
-      "publishedAt": "2026-08-20T06:20:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "fad618b16703332a001e0929c9d33dcaa9eb222a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The US national debt now stands at $40T",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://apnews.com/article/treasury-national-debt-limit-a27a8d3651ff810b25c610d3e1b6259d",
-      "publishedAt": "2026-08-20T04:55:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "95af3069f60bba57b2a0686915c857ef6303a6f5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Thoughts About Scaling Law (By the Founder of ZAI of GLM Fame)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://xcancel.com/antibot/captcha",
-      "publishedAt": "2026-08-20T04:27:06.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "b49aad656dd63c7ef3b43b6a2e96847f4b7e44b1",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.09867",
-      "publishedAt": "2026-08-20T02:12:17.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "0ba8f101fc381a8d24505c9970b6f1a39972683d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55",
-      "publishedAt": "2026-08-20T01:48:42.000Z",
-      "category": "其他"
+      "url": "https://openai.com/index/stampli",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "category": "产品"
     },
     {
       "id": "77011f59b88856c9bd912598fb9a1fd9b3178b51",
@@ -1875,30 +2007,6 @@
       "category": "产品"
     },
     {
-      "id": "7e9a207261ee6b69569af8f80bae5e42d2e88466",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
-      "zhTitle": null,
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
-      "publishedAt": "2026-08-18T14:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "60c60b76327531a5f30d63318e93acbacae28b96",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "zhTitle": null,
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
-      "publishedAt": "2026-08-18T13:50:30.000Z",
-      "category": "工具"
-    },
-    {
       "id": "578f2121e456e16fc6ae643317b3cfe5fe7c8d56",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -1921,18 +2029,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
       "publishedAt": "2026-08-18T13:00:00.000Z",
       "category": "其他"
-    },
-    {
-      "id": "d3969698435fa5863ec3387b264c1a1bf886dfc4",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Google&#8217;s Pet Memory forgot who my cats are",
-      "zhTitle": null,
-      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "publishedAt": "2026-08-18T12:01:29.000Z",
-      "category": "模型发布"
     },
     {
       "id": "9765648ad527edb666ee1df6ba69a5bb92d8a9c9",
@@ -1969,18 +2065,6 @@
       "url": "https://openai.com/index/chatgpt-for-teens",
       "publishedAt": "2026-08-18T11:00:00.000Z",
       "category": "产品"
-    },
-    {
-      "id": "9b37fd2d441f7e4575f587437f6f93168c6b772e",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "zhTitle": null,
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "category": "其他"
     },
     {
       "id": "d253cb87afb8ba6d75a340cf28072f5d9be42d0b",
@@ -3027,18 +3111,6 @@
       "category": "模型发布"
     },
     {
-      "id": "9f4ff92be723ab64deba07c45e2c622a2a60f006",
-      "sourceId": "mit-tr-ai",
-      "sourceName": "MIT Tech Review",
-      "title": "AI for science needs reasoning, not just data",
-      "zhTitle": null,
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
-      "zhSummary": null,
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "category": "其他"
-    },
-    {
       "id": "112f0e07b971dc3bd92c428bfe00fbb72039bc55",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -3529,78 +3601,6 @@
       "url": "https://openai.com/index/avatarin",
       "publishedAt": "2026-07-30T00:00:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "cc8e132c619995d199d338076bd693d216fb9d56",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "zhTitle": null,
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "publishedAt": "2026-07-29T15:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "zhTitle": null,
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "publishedAt": "2026-07-29T10:00:00.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "6d964f10c3337bbc89e99f2ce7545a297b7b9cec",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "zhTitle": null,
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "df22037e3e0ff3eac5f159ecccf3538b3b9b51a5",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Scientific computing in the age of agentic AI",
-      "zhTitle": null,
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "publishedAt": "2026-07-28T17:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d81cfe08f75c7d6eb5b2b7bf8788ddfb1e29bfe5",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "zhTitle": null,
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "zhSummary": null,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "publishedAt": "2026-07-28T16:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "50bf9e90585ee5cb7fd10af5baa38f80f25f5b4a",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "zhTitle": null,
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "category": "工具"
     }
   ]
 }
