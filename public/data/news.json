@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T02:58:38.100Z",
+  "generatedAt": "2026-08-20T04:39:03.832Z",
   "items": [
+    {
+      "id": "95af3069f60bba57b2a0686915c857ef6303a6f5",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Thoughts About Scaling Law (By the Founder of ZAI of GLM Fame)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://xcancel.com/antibot/captcha",
+      "publishedAt": "2026-08-20T04:27:06.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "ba98181a11d6bb236642461fb617cac16ffa027e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Designing Loops for Production-Grade Work",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.liquid.ai/blog/agent-loops",
+      "publishedAt": "2026-08-20T04:25:42.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "ed229f3ed9d510863d9b2250d1eb04b5376c1cfa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "SeedSQL – Generate realistic SQL mock data with foreign key integrity",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://seed-sql.ai.studio",
+      "publishedAt": "2026-08-20T04:08:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8b24e7f2b373a003852fd5e35dcf02afab702b3b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Crypto's (and AI's) midterm PAC machine",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
+      "publishedAt": "2026-08-20T03:58:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a78d3f98e34537b0c0e79a121c33431402f6c88",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: MatrAIx – simulate users before reality (Survey/Chat/Web/App)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+      "publishedAt": "2026-08-20T03:34:52.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "d2d65995adb5518fe6006d4afac789e0a4e0f19e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql",
+      "publishedAt": "2026-08-20T03:24:31.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "79e432852e55801fe4dd94a2b2c311a733b2ddd4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AI agents can now safely write to your CRMs",
+      "zhTitle": null,
+      "summary": "Hi HN! Just wanted to share that I&#x27;ve built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable audit logs. Demo: https:&#x2F;&#x2F;youtu.be&#x2F;uUTWGwJjpdA Would love to hear your thoughts about this and feedback. We are offering 3 months free to test it in your business workflow. Feel",
+      "zhSummary": null,
+      "url": "https://www.archron.app",
+      "publishedAt": "2026-08-20T03:17:08.000Z",
+      "category": "其他"
+    },
     {
       "id": "f963f56fac4034f9ebbc63015c767a747d18e248",
       "sourceId": "hn-ai",
@@ -399,30 +483,6 @@
       "category": "其他"
     },
     {
-      "id": "4a0ac7aac17072f89c5ac2ae98fb0a0957ccc8a2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Orion: The open-source agentic BI platform",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://orion-agent.ai",
-      "publishedAt": "2026-08-19T22:10:12.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "a6b87936a843e1c36db699ada487ab2aa60ec669",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Node.js AI use policy and guidelines",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
-      "publishedAt": "2026-08-19T22:03:24.000Z",
-      "category": "政策"
-    },
-    {
       "id": "c0a2363cc6027f0a13a3ac379602d3be842a8837",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -447,18 +507,6 @@
       "category": "其他"
     },
     {
-      "id": "8ca2f3d29767f81578da810f41f83bb464a6437a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "New AirPods leak reveals built-in cameras and Visual Intelligence",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.dexerto.com/entertainment/new-airpods-leak-reveals-built-in-cameras-and-visual-intelligence-3400062",
-      "publishedAt": "2026-08-19T21:42:32.000Z",
-      "category": "其他"
-    },
-    {
       "id": "d55c3c0d0994111fda74152962d9c69f66f9d159",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -468,18 +516,6 @@
       "zhSummary": null,
       "url": "https://dl.acm.org/doi/10.1145/3828688",
       "publishedAt": "2026-08-19T21:42:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e0d2b17d286ce707152717506ee67ab6bc33bd50",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/flashlan/vibe-kanban-alternative",
-      "publishedAt": "2026-08-19T21:38:25.000Z",
       "category": "其他"
     },
     {
@@ -1453,30 +1489,6 @@
       "url": "https://arxiv.org/abs/2608.18969v1",
       "publishedAt": "2026-08-19T14:38:10.000Z",
       "category": "其他"
-    },
-    {
-      "id": "162f11aae30c6aa7ae03213cf74e4c0c331c6c9c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
-      "zhTitle": null,
-      "summary": "Hi HN, author here. Android Remote Control MCP is an MCP server that runs directly on your Android phone (no root, no ADB, no computer in the middle) and lets an AI agent drive real apps the way a human would: it reads the screen through the accessibility tree, taps, types, scrolls, optionally also screenshots. I spent a lot of time optimizing tool usage and token consumption, and making it work n",
-      "zhSummary": null,
-      "url": "https://github.com/danielealbano/android-remote-control-mcp",
-      "publishedAt": "2026-08-19T14:23:13.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "485e2e7ab9f851a5181090084dcbb5bf99fc3ab0",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The Feedback Cap: Lehman's laws in the age of AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your",
-      "publishedAt": "2026-08-19T14:22:48.000Z",
-      "category": "政策"
     },
     {
       "id": "e2f95ae810b5d581a130f1a340431f89009d648d",
@@ -3589,18 +3601,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "6075f78d718a8d87773ee3531c103bf624df8e93",
-      "sourceId": "nvidia-ai",
-      "sourceName": "NVIDIA AI",
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "zhTitle": null,
-      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge [&#8230;]",
-      "zhSummary": null,
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
-      "publishedAt": "2026-07-28T15:00:19.000Z",
-      "category": "工具"
     }
   ]
 }
