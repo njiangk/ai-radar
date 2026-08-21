@@ -1,7 +1,163 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T04:40:30.091Z",
+  "generatedAt": "2026-08-21T06:51:03.242Z",
   "items": [
+    {
+      "id": "d65fc8d63669aa1601a6ce67e320d2c4294d4eaf",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Young Americans increasingly fear AI will take their jobs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs",
+      "publishedAt": "2026-08-21T06:49:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "05f0ef8c17250655af6c240c7b130081a9a3effd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Pretraining a Mini Kimi K3",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://books.vizuara.ai/book/pretraining-a-mini-k3",
+      "publishedAt": "2026-08-21T06:44:22.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "2969c76a397a9687728d6f932e1e5e59710a0ec3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://argentic.network",
+      "publishedAt": "2026-08-21T06:24:16.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "73695a7c4016d35f03e78bc19ad6b9bd7daf022d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI CMS with WebMCP tools for agents in admin panel",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aliothpress.com/cms-for-ai-agents-webmcp-built-in",
+      "publishedAt": "2026-08-21T06:20:14.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "877472073b0030a4b8db09d678f009f958828fa9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Robot Comment Classifier",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://entropicthoughts.com/ai-comment-classifier",
+      "publishedAt": "2026-08-21T06:16:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "32e73e329f3b20733c8125a49e22ab6a14a831cc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically",
+      "publishedAt": "2026-08-21T06:03:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "941ad27c2f69eb2c72450d08d762437ee31c24f4",
+      "sourceId": "wired-ai",
+      "sourceName": "WIRED AI",
+      "title": "The Single English County Saying No to Palantir",
+      "zhTitle": null,
+      "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+      "zhSummary": null,
+      "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir",
+      "publishedAt": "2026-08-21T06:00:00.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "5727ea2cfabec84a15ad436a3eb7cf31058c9a2a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security",
+      "publishedAt": "2026-08-21T05:56:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c46971b17674d3e1b31466b2753575891c0a1b62",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Elven Rope, Ultra-High Molecular Weight Polyethylene, and LLMs (2025)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vgel.me/posts/elven-rope-and-llms",
+      "publishedAt": "2026-08-21T05:55:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "de2a2bd3a89a678790744f987085c7bdd3f530e3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Thousands of years of indoor air pollution",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.slowboring.com/p/thousands-of-years-of-indoor-air",
+      "publishedAt": "2026-08-21T05:50:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "243a57188af7fbb0b6e262ac7cbba643bd31af6f",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: I built an open source video editor that you can control with an LLM",
+      "zhTitle": null,
+      "summary": "Hey HN, my name is David. I&#x27;m building an open source video editor. I&#x27;m a novice at video editing and previously only used iMovie. I recently opened iMovie to edit a video but noticed it didn&#x27;t have some features I wanted, like text overlays. Apple probably hasn&#x27;t updated it in ages. How hard could it be to build one? It&#x27;s actually pretty hard. There are so many basic thin",
+      "zhSummary": null,
+      "url": "https://github.com/DonkeyCut/Donkey",
+      "publishedAt": "2026-08-21T05:19:27.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "4d11d15dd9c28b910d8f703448c1f4d99efc3cf1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Just describe your idea and let AI build a playable game for you",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://run.ceo/coder",
+      "publishedAt": "2026-08-21T05:04:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "69fa9f07db2686c7eae0e2a22328c5e177157f15",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "California Draws More Startup Investment Than All Other 49 States Combined",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
+      "publishedAt": "2026-08-21T04:57:01.000Z",
+      "category": "融资"
+    },
     {
       "id": "94402d9b099aad17f1c73d6e481ecb0081433446",
       "sourceId": "hn-llm",
@@ -267,30 +423,6 @@
       "category": "其他"
     },
     {
-      "id": "80ca446f82e45775d92724d1ba0d79b8427ed175",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI and Consciousness – A Skeptical Overview",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896",
-      "publishedAt": "2026-08-21T00:41:53.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dd5736dec723f423dd53e1149f455ac3e1db10f7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How A Texas student blew the whistle on a rogue AI hacking attempt",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "publishedAt": "2026-08-21T00:28:01.000Z",
-      "category": "其他"
-    },
-    {
       "id": "dfe1afe4effbec8cd75b8bf7bb2397ad9b4e086f",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -300,30 +432,6 @@
       "zhSummary": null,
       "url": "https://rahmipruitt.me/content/github-outage-reactive-scaling",
       "publishedAt": "2026-08-21T00:27:43.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e17378a3c82a0e9023f9fe959d2c967869a8a4a9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-now-control-imessage-potentially-205633657.html",
-      "publishedAt": "2026-08-21T00:16:01.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "ad9e90903af423fa8041cec85dcd830cf0c3f929",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "publishedAt": "2026-08-21T00:15:12.000Z",
       "category": "其他"
     },
     {
@@ -339,18 +447,6 @@
       "category": "研究"
     },
     {
-      "id": "845dadae15171cd60896da369f8dab77e4f14ba9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "If You Weren't Worried About A.I., You Should Be",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
-      "publishedAt": "2026-08-21T00:11:05.000Z",
-      "category": "其他"
-    },
-    {
       "id": "071e11ee2c220477724a90db9b5e15967e31f5a1",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -361,54 +457,6 @@
       "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale",
       "publishedAt": "2026-08-20T23:57:32.000Z",
       "category": "工具"
-    },
-    {
-      "id": "2f7b33868b153a762bdc319febe2153eb985059d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Ox Alpha",
-      "zhTitle": null,
-      "summary": "https:&#x2F;&#x2F;twitter.com&#x2F;OpenRouter&#x2F;status&#x2F;2090544970923184269, https:&#x2F;&#x2F;xcancel.com&#x2F;OpenRouter&#x2F;status&#x2F;2090544970923184269",
-      "zhSummary": null,
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "publishedAt": "2026-08-20T23:56:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d75db865660fc866b7fb7322537fd56270cbbbc8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Mail client optimized for self-hosted email across multiple domains",
-      "zhTitle": null,
-      "summary": "As someone with a clean IP range and ADHD, I manage my inbox by splitting across a variety of accounts for a variety of domains. I’ve never really found a client that scratches all my itches, so I spent some time making one and it’s now become my daily driver. It’s optimised to be visually simple and highly configurable for things like colour, folders&#x2F;subfolders, sorting and tweaking the sear",
-      "zhSummary": null,
-      "url": "https://mainly.crnst8.com",
-      "publishedAt": "2026-08-20T23:47:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bce0e403d500d4df0853aa05dbde254c677920c9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI's 'middle class' has gotten dramatically better at hacking",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat",
-      "publishedAt": "2026-08-20T23:41:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2b61ff3d0642c187d574ce0155fab2c684732483",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Could AIs Become Conscious?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.economist.com/leaders/2026/08/20/could-ais-become-conscious",
-      "publishedAt": "2026-08-20T23:38:30.000Z",
-      "category": "其他"
     },
     {
       "id": "e8efd1f6bfb22b2f113728adad9fbf82d057fa1f",
@@ -505,6 +553,18 @@
       "url": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html",
       "publishedAt": "2026-08-20T21:48:28.000Z",
       "category": "工具"
+    },
+    {
+      "id": "abd90318b888271796235bd8fd963eff5818406e",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Sears didn't miss e-commerce – Eddie Lampert stripped it [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=Vxe1kXKBClg",
+      "publishedAt": "2026-08-20T21:37:05.000Z",
+      "category": "其他"
     },
     {
       "id": "3b3e20700607b2dc0903ed3af7d4ab9f19cb61a9",
@@ -1383,18 +1443,6 @@
       "category": "融资"
     },
     {
-      "id": "4bafc696f34d362b4fee01985f2db74a5d8aa702",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Open-source Stripe Connect alternative",
-      "zhTitle": null,
-      "summary": "Hey, I&#x27;m Ben. I built Zoneless because I was paying so much to use Stripe Connect on my own marketplace. The fees were really, really bad, and it was also limiting in terms of the seller countries I could onboard. To give you an idea, I was paying around $9,000 per month in fees just to run payouts. Using Zoneless, that cost goes down to around $6. I&#x27;ve been using it personally for the p",
-      "zhSummary": null,
-      "url": "https://zoneless.com",
-      "publishedAt": "2026-08-20T14:38:45.000Z",
-      "category": "其他"
-    },
-    {
       "id": "7e91540f7043ecc99178ab034b604bd08eb25dd6",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1440,30 +1488,6 @@
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2608.20083v1",
       "publishedAt": "2026-08-20T14:16:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6bec7014a700f1df92090253e5cce1ed19cb983f",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Bisecto – A minimalist game about cutting shapes into 50/50 halves",
-      "zhTitle": null,
-      "summary": "Hey HN, I built Bisecto ( https:&#x2F;&#x2F;bisecto.com ), a minimalist browser game with one simple mechanic, cutting (bisecting) a procedural 2D shape into two exact 50&#x2F;50 halves with a single straight line. Confession: I got completely hooked watching those viral reels of people trying to cut fruits and vegetables into perfectly equal halves, and that was my inspiration for this game:D I&#",
-      "zhSummary": null,
-      "url": "https://bisecto.com",
-      "publishedAt": "2026-08-20T14:15:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "77e68636da5caf48b9ba5ae04546b5d02a6ed85c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The Prompt Cacheing Cheatsheet",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://coolhandlabs.com/updates/llm-prompt-caching-what-it-is-and-key-terms-explained",
-      "publishedAt": "2026-08-20T14:10:51.000Z",
       "category": "其他"
     },
     {
@@ -2425,18 +2449,6 @@
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
       "publishedAt": "2026-08-14T14:27:14.000Z",
       "category": "其他"
-    },
-    {
-      "id": "57a1ad4796c128fd5c321d90729a94c097e9a42d",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED AI",
-      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-      "zhTitle": null,
-      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
-      "zhSummary": null,
-      "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai",
-      "publishedAt": "2026-08-14T10:45:00.000Z",
-      "category": "研究"
     },
     {
       "id": "d556a48bace2bfaa6a70c65604f0e49f66477d68",
@@ -3589,18 +3601,6 @@
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "publishedAt": "2026-07-29T10:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "6d964f10c3337bbc89e99f2ce7545a297b7b9cec",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "zhTitle": null,
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "category": "模型发布"
     }
   ]
 }
