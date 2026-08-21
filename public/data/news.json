@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T06:51:03.242Z",
+  "generatedAt": "2026-08-21T08:42:29.205Z",
   "items": [
+    {
+      "id": "a72fdd1a13682e5ebbbf2d069768ac29d7429036",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.15888",
+      "publishedAt": "2026-08-21T08:32:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b663725ed20ff09ff2d10d6240ba15e11120df3c",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Bulwark Gateway – fail-closed security proxy for LLM agents (self-hosted)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/red-orbita/bulwark-gateway",
+      "publishedAt": "2026-08-21T08:18:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ce32fa91e9605cdae06f41fab20b822eb8d95db9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Engaging with AI for serious maths research – Norman Wildberger",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=Q7d2KMdVp9E",
+      "publishedAt": "2026-08-21T08:17:26.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "63f65b1ebe66009a39b1b41161dcf8070011e129",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Only one type of lawyer will survive the AI wipeout",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla",
+      "publishedAt": "2026-08-21T07:55:48.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "eb4520215ff0007749e38a7fa81a9614c9ebfbee",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Writing with AI Is Stupid",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lambdaland.org/posts/2026-08-07-ai-writing-stupid",
+      "publishedAt": "2026-08-21T07:51:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7438394f99ad2c9a28524f0804661474e472d9eb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Claude Opus 4.6 returned nothing 900/900 times. Should agents retry?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://zenodo.org/records/21696066",
+      "publishedAt": "2026-08-21T07:33:12.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "288a2de4435ca36151aea92535b04bfa11a440a4",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Where to Draw the Line Which decisions should not be handed over to LLMs?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://queue.acm.org/detail.cfm?id=3834784",
+      "publishedAt": "2026-08-21T07:13:50.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "942f30d44bbbbe51a0a08d7516d7f89feb252ce6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Domain-Driven Design matters more when AI writes your code",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://threedots.tech/post/ddd-and-ai-coding",
+      "publishedAt": "2026-08-21T07:11:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6df81656560acaea1fdab220824a7e22eafd2855",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The LLM rewrote the email after I approved it",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.crusbro.com/en/product-architecture.html",
+      "publishedAt": "2026-08-21T07:11:02.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "b0ea8f54deebb3b72b31743565e24e2c2920fca8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Updating a side project with AI in 275 commits",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://benhoyt.com/writings/updating-gifty-with-ai",
+      "publishedAt": "2026-08-21T07:09:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "97737103751e4d08fa94be8158d9c01d285c3362",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Plainspeak, make AI agents write like a human",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sufiyan.cc/plainspeak",
+      "publishedAt": "2026-08-21T07:09:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c2da945ade77e0ccc21f169081bec7439530ba2f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I built a TV like website for Indian nostalgic shows",
+      "zhTitle": null,
+      "summary": "I used to watch a lot of TV as a kid. I missed the feeling of watching whatever was airing. So, I made Dabba TV. There are multiple channels. Each channel has a theme and all the content being played is according to the theme. Everyone watching it will see the same exact feed. The content is being fetched from YT.",
+      "zhSummary": null,
+      "url": "https://www.dabbatv.xyz",
+      "publishedAt": "2026-08-21T07:03:48.000Z",
+      "category": "其他"
+    },
     {
       "id": "d65fc8d63669aa1601a6ce67e320d2c4294d4eaf",
       "sourceId": "hn-ai",
@@ -279,66 +423,6 @@
       "category": "其他"
     },
     {
-      "id": "df63b02d50ec00aeb68db06d42e790b21a85e798",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://seevido.com/model/seedance-2-5",
-      "publishedAt": "2026-08-21T03:28:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d1f180ebd69573557379f4305b0bacb342c3c079",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: An autonomous AI agent running one project for two months in public",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aitoolsinsiderhq.com/log",
-      "publishedAt": "2026-08-21T03:21:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "92d0acf4aa3ac450784abf302197d49d261a0037",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "publishedAt": "2026-08-21T02:37:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "11c98d407aefbce5c853a6732c164048f7d06cbf",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Beatport Bans AI-Produced Tracks from Platform",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform",
-      "publishedAt": "2026-08-21T02:28:46.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "fe3a490ced94b7d36872c2e2915ddd3a86e6b8ce",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: ImageSage – Photo manager using Local AI on Windows",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
-      "publishedAt": "2026-08-21T02:06:27.000Z",
-      "category": "其他"
-    },
-    {
       "id": "5c5a142a32c714f76eac0f469bcf70ecce43cbb5",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -352,8 +436,8 @@
     },
     {
       "id": "ef9744bdd6c4b2110fdddf2c84417c1a0830403e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
       "zhTitle": null,
       "summary": "",
@@ -373,42 +457,6 @@
       "url": "https://github.com/ifoxhz/pigame",
       "publishedAt": "2026-08-21T01:20:26.000Z",
       "category": "工具"
-    },
-    {
-      "id": "889ea1c117f15b3172d305835b21dbdb4895b8c0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "DeepSeek harness: what doors does config over code open?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "publishedAt": "2026-08-21T01:06:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "2f154f6e698392866bd3289525371040ea005a8a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How Much of the Internet Is Written with AI?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
-      "publishedAt": "2026-08-21T01:02:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a1c7d35e071856a8dde38c204c1e26920a4fd5c7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "ChatGPT's Computer History tracks your clicks and keystrokes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "publishedAt": "2026-08-21T01:01:23.000Z",
-      "category": "产品"
     },
     {
       "id": "119a4d6da764dd6b04e4bc296c17b6651c8fc071",
@@ -1227,18 +1275,6 @@
       "category": "政策"
     },
     {
-      "id": "56003c0c955d5c553812c52572fda8d30e2b37ef",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "(LLM Cluster) I spent all my money on broken Steam Decks [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=P0GXwKlg3pU",
-      "publishedAt": "2026-08-20T15:45:42.000Z",
-      "category": "其他"
-    },
-    {
       "id": "323607896034de1de5d57cfe02b3b0e49331c16a",
       "sourceId": "mit-tr-ai",
       "sourceName": "MIT Tech Review",
@@ -1287,18 +1323,6 @@
       "category": "产品"
     },
     {
-      "id": "0a74ca13dad0d95dcf166ce06b5fad211288e018",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: okfctl",
-      "zhTitle": null,
-      "summary": "I built a CLI tool to manage Open Knowledge Format (OKF) bundles. Knowledge bases, second brains, and LLM-Wikis now have a toolchain to complement the specification. Validate, lint, analyze, search, serve, and manage your knowledge. Go binary, agent plugin, and skills included. Please try it! I&#x27;ve been using it for about a month on home labs, work labs, team knowledge base repos, and more.",
-      "zhSummary": null,
-      "url": "https://github.com/cwest/okfctl",
-      "publishedAt": "2026-08-20T15:39:55.000Z",
-      "category": "工具"
-    },
-    {
       "id": "356bdab6beb75ab8ed388067b3b63eeddca0bfc1",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -1333,18 +1357,6 @@
       "url": "https://arxiv.org/abs/2608.20172v1",
       "publishedAt": "2026-08-20T15:27:25.000Z",
       "category": "其他"
-    },
-    {
-      "id": "0ac0123bfb33b14e7507074ab74116a0d5a16fb5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/zachahn/vomit",
-      "publishedAt": "2026-08-20T15:26:02.000Z",
-      "category": "模型发布"
     },
     {
       "id": "5bcda1f61096914851c3e859fa458a9c8548ee3e",
@@ -1392,18 +1404,6 @@
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2608.20129v1",
       "publishedAt": "2026-08-20T14:56:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3532b641a489b9248409dfb13885585f1d2f3d83",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: LLM-enabled large data analysis",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://app.verbagpt.com",
-      "publishedAt": "2026-08-20T14:55:29.000Z",
       "category": "其他"
     },
     {
