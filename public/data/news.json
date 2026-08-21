@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T20:28:05.659Z",
+  "generatedAt": "2026-08-21T22:27:04.844Z",
   "items": [
+    {
+      "id": "602a78154839995040992c6196cc2b67fc4c27a2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Front Page of the Internet",
+      "zhTitle": null,
+      "summary": "you can buy the front page of the internet and stay there, while you use it for AI SEO, until someone out bids you and now they are on the front page of the internet, bid now just for a dollar",
+      "zhSummary": null,
+      "url": "https://frontpageoftheinternet.lol",
+      "publishedAt": "2026-08-21T22:06:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "008cc5f584c7c57757625a9713f6ff18083c0f2f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful",
+      "publishedAt": "2026-08-21T21:51:36.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "85a58f067a4f4821bd80ab64ccc66f20db314a25",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Personalized Language Learning",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lumilanguage.com",
+      "publishedAt": "2026-08-21T21:43:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "016ca72fa4b58873e575aed83d01ffde356786e4",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "zhTitle": null,
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "publishedAt": "2026-08-21T21:25:50.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "9c97e0748fa373901b739bc5b7390b9c6c729e69",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+      "publishedAt": "2026-08-21T21:24:43.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1e067ecf2cc7b344847bdce21798704a92c25311",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Salesforce Agentforce at total dud for partners",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theregister.com/saas/2026/08/21/salesforce-partners-are-not-seeing-revenue-from-agentforce-ai-platform-report-says/5291167",
+      "publishedAt": "2026-08-21T20:56:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8af58c93d64030e8cfeab8bf4ab8aea868f1231f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "http://www.dennisweyland.net/blog/?p=175",
+      "publishedAt": "2026-08-21T20:36:23.000Z",
+      "category": "其他"
+    },
     {
       "id": "61de033b62e19edf16b0ab301f615f64cfbd00d1",
       "sourceId": "hn-ai",
@@ -303,78 +387,6 @@
       "category": "其他"
     },
     {
-      "id": "ad8b38af6e42e5d59eb768d073143f606750c548",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
-      "zhTitle": null,
-      "summary": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn&#x27;t use it enough to justify $50&#x2F;month for classes, so I vibe coded https:&#x2F;&#x2F;poorleton.fit&#x2F; over the weekend to have AI generated cycling classes. Let me know what you think.",
-      "zhSummary": null,
-      "url": "https://poorleton.fit",
-      "publishedAt": "2026-08-21T18:19:16.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1eb7f0d232ce488b6ae3d3caec89137e557579ac",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/ananayarora/status/2090742255284031537",
-      "publishedAt": "2026-08-21T18:17:56.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "2f154f6e698392866bd3289525371040ea005a8a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How Much of the Internet Is Written with AI?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
-      "publishedAt": "2026-08-21T18:14:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2de097d06c5bc1daeb94cf224b5d3f89a4553412",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "What Do Students Lose When They Stop Writing?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
-      "publishedAt": "2026-08-21T17:56:33.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c9cd98830da6597946b84baa37c69438e5c837a5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://areyto.media/openly-synthetic",
-      "publishedAt": "2026-08-21T17:55:30.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "35cae2eb0e9382e732be5ae70e5420e952cb6963",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Git Might Be the Best Message Forum for AI Agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents",
-      "publishedAt": "2026-08-21T17:49:04.000Z",
-      "category": "其他"
-    },
-    {
       "id": "b3485f6348f428e04f7a5ad5f64d1526249b251b",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -397,6 +409,30 @@
       "url": "https://www.liquid.ai/blog/lfm2.5-dspark",
       "publishedAt": "2026-08-21T17:36:03.000Z",
       "category": "其他"
+    },
+    {
+      "id": "10e3fbb000b426e38feacf59752378d7e0f1431d",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "llm 0.32.1",
+      "zhTitle": null,
+      "summary": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx, and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai<3, and a soon-to-drop 0.33 release will switch from httpx to httpx2. Tags: httpx, openai, llm",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/21/llm",
+      "publishedAt": "2026-08-21T17:16:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "663269e9c4eca4633a817674b7e0a9a345456d10",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "llm-openrouter 0.7",
+      "zhTitle": null,
+      "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM 0.32. Models now use OpenRouter's implementation of the Responses API. Three new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch. Tags: llm, openrouter",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter",
+      "publishedAt": "2026-08-21T16:58:19.000Z",
+      "category": "工具"
     },
     {
       "id": "a47861a2eeef2d7257d4be0ad6b726998d8fc590",
@@ -567,18 +603,6 @@
       "category": "其他"
     },
     {
-      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "zhTitle": null,
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -589,6 +613,18 @@
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "融资"
+    },
+    {
+      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "zhTitle": null,
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "工具"
     },
     {
       "id": "281f3891877a8f0157a10ff722783c174f554b1a",
@@ -733,18 +769,6 @@
       "url": "https://wandb.ai/marin-community/marin_moe/reports/535B-A23B-18T-Token-Hero-Run-Scaling-Ladder--VmlldzoxNzc2MDM5Ng",
       "publishedAt": "2026-08-21T10:25:34.000Z",
       "category": "其他"
-    },
-    {
-      "id": "0f243ca294973e9efffcc40873159ba4ea213da7",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Voro – An attention manager for agentic coding",
-      "zhTitle": null,
-      "summary": "A few months ago I was getting frustrated trying to use Claude Code effectively. I was finding that for small tasks I would spend a lot of time waiting for it to finish &quot;thinking&quot; and I would end up browsing here... To make a better use of my time, and ideally make better use of the limits, I developed Voro to help me know what I should be focusing on. Fundamentally it&#x27;s a task trac",
-      "zhSummary": null,
-      "url": "https://github.com/ClachDev/Voro",
-      "publishedAt": "2026-08-21T10:07:29.000Z",
-      "category": "模型发布"
     },
     {
       "id": "941ad27c2f69eb2c72450d08d762437ee31c24f4",
@@ -2043,18 +2067,6 @@
       "category": "研究"
     },
     {
-      "id": "9dffd5e77e26ac96f74899ee349a24cd83ae7960",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "zhTitle": null,
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "publishedAt": "2026-08-18T19:48:26.000Z",
-      "category": "其他"
-    },
-    {
       "id": "67f37d861d340b85b022037b65b3e9a60f1c90a5",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -3207,30 +3219,6 @@
       "category": "研究"
     },
     {
-      "id": "741f7f7c4b86cc0e5db3369a6dc8394c286ea40c",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "Quoting Claude Opus 5 system prompt",
-      "zhTitle": null,
-      "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt",
-      "publishedAt": "2026-08-09T23:31:39.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "2088203280efa3f1706bdc6d066aba0417a3e7bc",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "GitHub Models is now retired",
-      "zhTitle": null,
-      "summary": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled retirement brownout. That message is already stale, because the retirement has been completed. GitHub Models was an odd-shaped duck. GitHub provided a model playground tool and a un",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired",
-      "publishedAt": "2026-08-09T22:48:05.000Z",
-      "category": "研究"
-    },
-    {
       "id": "ca6d8281d6b4dc186cd6fc7e77ac9eaf059bf605",
       "sourceId": "nvidia-ai",
       "sourceName": "NVIDIA AI",
@@ -3601,6 +3589,18 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "publishedAt": "2026-07-29T15:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "zhTitle": null,
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "category": "研究"
     }
   ]
 }
