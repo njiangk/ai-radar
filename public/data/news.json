@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T01:19:54.256Z",
+  "generatedAt": "2026-08-22T02:55:43.419Z",
   "items": [
+    {
+      "id": "721742ef6d307a7803cdc5a068d0a88909fd0429",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "New human genome has almost no gaps",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://cen.acs.org/biological-chemistry/genomics/single-complete-diploid-human-genome/104/web/2026/08",
+      "publishedAt": "2026-08-22T02:31:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5f2053898907bbb1598092cd3fff23c6340fcbbc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Anthropic Could Aim to Raise $100B in Blockbuster IPO",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+      "publishedAt": "2026-08-22T02:13:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "16b49f08ef77cbf1540a443f6ca3d17211294c8f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+      "zhTitle": null,
+      "summary": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A macOS app where AI does the job of a personal assistant for the user. Not a chat only app where user needs to dig through chats to understand today’s schedule or a project they planned with the ai last week, but a canvas where the user and AI work together arou",
+      "zhSummary": null,
+      "url": "https://www.anjadhe.com/demo",
+      "publishedAt": "2026-08-22T02:12:01.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "f655774091c9c8290d1aad77c0af01524c7e34a6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/ArihantDeva/heimdall",
+      "publishedAt": "2026-08-22T02:02:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "31752e89057a1e91455bb9d8c73826e43c06049f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Obsession with AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
+      "publishedAt": "2026-08-22T01:53:33.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9d4ae19780070746c00ca0a44f12c11012fbb8cc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654",
+      "publishedAt": "2026-08-22T01:47:18.000Z",
+      "category": "其他"
+    },
     {
       "id": "d3b1fa7da10828c881387c1944423777a44bd01b",
       "sourceId": "hn-ai",
@@ -339,42 +411,6 @@
       "category": "其他"
     },
     {
-      "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Stock Research Assistant · Streamlit",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ai-stock-research-kiaan.streamlit.app",
-      "publishedAt": "2026-08-21T20:05:04.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "43009ddd3f6cec95eaea57a88801f334c39e1e8d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Australia Summons Israeli Envoy over Not to Probe Killing of Aid Workers",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-20/ty-article/australia-summons-israeli-envoy-over-idf-not-probing-killing-of-gaza-aid-workers/000001a0-1dc2-d129-a3ba-5feafc770000",
-      "publishedAt": "2026-08-21T19:58:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b08b3f0ac25f68940ba95550e2dbff9ca46005ac",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Wage Effects of Generative AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
-      "publishedAt": "2026-08-21T19:49:16.000Z",
-      "category": "其他"
-    },
-    {
       "id": "2b7b4ffceb6b58cbcab2a362fd7d237d997e20d5",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -387,21 +423,9 @@
       "category": "研究"
     },
     {
-      "id": "1c604742dc87171861c8e8c10134ce8ea0e9448e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Neolabs Are a Bet Against Superintelligence",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://futuresearch.ai/neolab-challengers-forecast",
-      "publishedAt": "2026-08-21T19:39:50.000Z",
-      "category": "其他"
-    },
-    {
       "id": "e6d823f40842d8677694a3e5d00a2d69c3584e25",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Getting GLM-5.2 NVFP4 Post-Training off the ground",
       "zhTitle": null,
       "summary": "",
@@ -756,18 +780,6 @@
       "zhSummary": null,
       "url": "https://ngrislain.github.io/blog/2026-8-20-language-models-are-anomaly-detectors",
       "publishedAt": "2026-08-21T12:57:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "84b5e08b0e2ee4eade60130ea3e586a55d7543ed",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Rules vs. examples: what helps LLMs write correct SQL?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.getcassis.com/derivation-distance",
-      "publishedAt": "2026-08-21T12:43:29.000Z",
       "category": "其他"
     },
     {
@@ -3589,18 +3601,6 @@
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "publishedAt": "2026-07-29T00:00:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "df22037e3e0ff3eac5f159ecccf3538b3b9b51a5",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Scientific computing in the age of agentic AI",
-      "zhTitle": null,
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "publishedAt": "2026-07-28T17:00:00.000Z",
-      "category": "其他"
     }
   ]
 }
