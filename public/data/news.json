@@ -1,7 +1,187 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T16:27:27.384Z",
+  "generatedAt": "2026-08-22T18:33:28.610Z",
   "items": [
+    {
+      "id": "087ae0ec5ec7a43f457fb4130112e1585658724f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+      "publishedAt": "2026-08-22T18:32:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f6ea3e88ff9f70ee5b9ef2fe218876331e9648f3",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Quota Watch: Which LLM provider has which discount now?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.quota-watch.com",
+      "publishedAt": "2026-08-22T18:31:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "638f69dacca5d5a3603dcef44f0f2583117efc4c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bbc.com/news/articles/ce979zpjj85o",
+      "publishedAt": "2026-08-22T18:20:28.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c0f9d10986f5807194255dd00f9ddf078d85f069",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Why your local LLM feels dumber than it is",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "publishedAt": "2026-08-22T18:14:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b48c2a5a69f42f9c7b78f5a8ba80e23c5eb987f6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "When AI art has no author: Generated images can't trace to training data (study)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "publishedAt": "2026-08-22T17:50:30.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "1703fe980fcaa6fd2728b83574e8686fc92cb3ce",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Aurabid, pay more to get ranked #1 and beat others",
+      "zhTitle": null,
+      "summary": "Indie hacker help needed! My aim was to make aurabid for humans i.e. me bidding $10 Feedback is showing that I didn&#x27;t make it clear enough that it&#x27;s for humans, not companies Also built a leaderboard per country&#x2F;city, so that you can claim #1 in diff places How do I make it clearer that it&#x27;s just for humans? Thanks for any help!",
+      "zhSummary": null,
+      "url": "https://aurabid.now",
+      "publishedAt": "2026-08-22T17:38:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c1350e47a6e575013062f9aaf1d277e2ba1ea2cc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/debabratasaha-dev/techskills",
+      "publishedAt": "2026-08-22T17:37:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3e284d11e91a9acf40d2a60b260de2508f774ef6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "publishedAt": "2026-08-22T17:06:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "43aa0c036180460ecdc5fbd0f97ab64180e996ad",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "llm 0.33",
+      "zhTitle": null,
+      "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key. The Python EmbeddingModel.embed(), EmbeddingModel.embed_multi(), Collection.embed() and Collect",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/22/llm",
+      "publishedAt": "2026-08-22T17:01:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4aa8bc3a3f2d7e840a36ad33b780352ef5576bd0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/hsandhu/agent",
+      "publishedAt": "2026-08-22T16:52:38.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "476b87d0d4e3866e99ad4fb0b979de1074246d45",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Git workflow as an AI-agent skill",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/musoyangrigor/gitx-skill",
+      "publishedAt": "2026-08-22T16:50:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b9abb2b9c6d12a18abefd881033839d15955780d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/musoyangrigor/scroll-video-website-skill",
+      "publishedAt": "2026-08-22T16:47:58.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "e4cd78bd850d586094cd54faa06158d59fa37c49",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Hotcrp.com – AI agents and bot accounts",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://hotcrp.com/news/2026/ai-agents-202608",
+      "publishedAt": "2026-08-22T16:46:22.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "82f2f7f49d7de05d54b273d369902974dfed94cf",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
+      "zhTitle": null,
+      "summary": "I created this simple AI autocomplete tool for the bash terminal. I&#x27;m sure many like it exist already, but unlike the others this one does not completely hijack your terminal and stays mostly out of the way. Contributions&#x2F;feedback are welcome. One other interesting thing about it is that it&#x27;s written in a custom memory-safe (aspirationally) language that I am developing.",
+      "zhSummary": null,
+      "url": "https://github.com/namo-robotics/namo_complete",
+      "publishedAt": "2026-08-22T16:44:53.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "897fc0b9ac4740bc1dc8a784d0378b74182a2676",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "zhTitle": null,
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
+      "publishedAt": "2026-08-22T16:30:34.000Z",
+      "category": "其他"
+    },
     {
       "id": "9a42fb897d7d2649761eca6caaa6a64d05cfa101",
       "sourceId": "hn-ai",
@@ -255,102 +435,6 @@
       "category": "其他"
     },
     {
-      "id": "70f99cd3e72758f4fd3f143c6bd1385cc64af842",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Ante: Self-contained coding agent that lives in your terminal and self-organizes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://docs.antigma.ai",
-      "publishedAt": "2026-08-22T13:40:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Stock Research Assistant · Streamlit",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ai-stock-research-kiaan.streamlit.app",
-      "publishedAt": "2026-08-22T13:13:00.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "5eede46b9ac78497fe846b7775e3a6a5eb931239",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://knoku.com",
-      "publishedAt": "2026-08-22T13:04:13.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e9d1a94e9e16cf75f561a427832ebf050c84d2b9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: VinvAI runs and observes your services to find bugs and perf issues",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://vinv.ai",
-      "publishedAt": "2026-08-22T12:47:51.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "8a84ce37b1ba34903506c20b335f6f56292e5aeb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cleaning and Shaping the Airbnb Listings",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://stochastic.blog/cleaning-and-shaping-the-airbnb-listings",
-      "publishedAt": "2026-08-22T12:32:25.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "c6193ae4a28c40116b06478e95eca54bcb01ef98",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How to Fingerprint AI Models When Prompts Lie",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
-      "publishedAt": "2026-08-22T12:26:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "32ef5c65049a2fef907a2e024166828df9ed45d3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
-      "publishedAt": "2026-08-22T11:45:40.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "5c67532ef610ff8e99ddb955553c21f898eed893",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://trymangoai.com",
-      "publishedAt": "2026-08-22T11:43:53.000Z",
-      "category": "其他"
-    },
-    {
       "id": "70241c30eb6ef3dcff794b80471148a9f5a21a8c",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -360,54 +444,6 @@
       "zhSummary": null,
       "url": "https://aengelke.net/llvm23-ct.html",
       "publishedAt": "2026-08-22T11:42:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "68a541e1c86d9f0c5d4bc95c1553b54eef8f099e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
-      "publishedAt": "2026-08-22T11:27:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e744a657fdba380277cf379ea94a1ca202e1362f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "SignalWatch – AI crypto scanner and smart alerts in your pocket",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US",
-      "publishedAt": "2026-08-22T11:13:33.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6cc6619aa5804b631ca980ba8350ff4d0c7a2771",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI;DR There May Be Nobody There",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://yusufaytas.com/there-may-be-nobody-there",
-      "publishedAt": "2026-08-22T11:10:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2b912834dba2e17e98bf17a244438bccdb302f73",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Five things make agent-built UI look generic. Each takes 30 seconds to check",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://tailthemes.com/blog/ai-design-slop-quality-gate",
-      "publishedAt": "2026-08-22T11:07:42.000Z",
       "category": "其他"
     },
     {
@@ -795,30 +831,6 @@
       "category": "其他"
     },
     {
-      "id": "ce4b46507c231e5dba3cf628436729a169b88cf5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Bounded GenAI metrics from Otel traces with O raw prompts",
-      "zhTitle": null,
-      "summary": "Hi friends, Author here. Like to present a project I&#x27;ve been working on - Otelcol-GenAI-Sketches, a Otel connector that works on genai&#x2F;agent traces, and summarizes them (via sketches), to produce: ( ) exact request counts&#x2F;totals for tokens; ( ) distinct users&#x2F;prompts (estimates) (*) &#x27;heavy&#x27; items in terms of tokens Why does this exist: I&#x27;m a data scientist by pro",
-      "zhSummary": null,
-      "url": "https://github.com/llm-measurement/otelcol-genai-sketches",
-      "publishedAt": "2026-08-21T15:37:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e8fefae054c16b6f78627b41f5a5c3b86c13d857",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "A single well aimed cosmic ray can demolish a LLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://spock.is/writing/simulating-cosmic-rays-to-lobotomize-llms",
-      "publishedAt": "2026-08-21T15:11:22.000Z",
-      "category": "其他"
-    },
-    {
       "id": "5d2883141182dc2632add9d394cf9d843704ff66",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -831,18 +843,6 @@
       "category": "产品"
     },
     {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
-    },
-    {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -853,6 +853,18 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
+    },
+    {
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "zhTitle": null,
+      "summary": "There's about to be a big fight to secure access to space.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "e16f2484c31fe5402b8ef2b3e4ec87d571e0b465",
@@ -1885,18 +1897,6 @@
       "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models",
       "publishedAt": "2026-08-20T09:47:22.000Z",
       "category": "其他"
-    },
-    {
-      "id": "fb3ec95aff340e276296fc515e7c85040b003333",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "zhTitle": null,
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
-      "publishedAt": "2026-08-20T09:30:00.000Z",
-      "category": "模型发布"
     },
     {
       "id": "027379c08484bed24af91415c1d7d96dc8273daa",
@@ -3075,18 +3075,6 @@
       "category": "其他"
     },
     {
-      "id": "2f46c475cd9d5b223831f8e838b3f6ce3777e6de",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "Introducing Muse Glimmer",
-      "zhTitle": null,
-      "summary": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it for exactly the kind of things I'm looking for in a local model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including Deep",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer",
-      "publishedAt": "2026-08-10T23:56:03.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "bf8f46f283f9f53aab10bab301456c70c6aed3eb",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -3601,6 +3589,18 @@
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026",
       "publishedAt": "2026-07-30T13:00:20.000Z",
       "category": "研究"
+    },
+    {
+      "id": "fc362ba711f59d44f4f1c69c201956c28bef036a",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "zhTitle": null,
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "publishedAt": "2026-07-30T10:00:00.000Z",
+      "category": "模型发布"
     }
   ]
 }
