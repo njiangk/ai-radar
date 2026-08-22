@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T04:34:50.553Z",
+  "generatedAt": "2026-08-22T06:42:49.712Z",
   "items": [
+    {
+      "id": "710cf2d96d463b3046429bf8d863b703cf55be55",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "publishedAt": "2026-08-22T06:34:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2f154f6e698392866bd3289525371040ea005a8a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How Much of the Internet Is Written with AI?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
+      "publishedAt": "2026-08-22T06:33:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6fae3503c81f817e6a10c21f1db2002c38e9c7e6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2511.07885",
+      "publishedAt": "2026-08-22T05:54:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b0ef2df65840ebf1305a316c4cfddf65a74011c3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://krishna-modi12.github.io/frontend-design-pro",
+      "publishedAt": "2026-08-22T05:52:19.000Z",
+      "category": "其他"
+    },
     {
       "id": "7636d8f455f89643c327b0aef8560a130b3a1397",
       "sourceId": "hn-llm",
@@ -363,18 +411,6 @@
       "category": "其他"
     },
     {
-      "id": "008cc5f584c7c57757625a9713f6ff18083c0f2f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "80% of developers find AI coding more addictive than helpful",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful",
-      "publishedAt": "2026-08-21T21:51:36.000Z",
-      "category": "工具"
-    },
-    {
       "id": "85a58f067a4f4821bd80ab64ccc66f20db314a25",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -397,54 +433,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "publishedAt": "2026-08-21T21:25:50.000Z",
       "category": "产品"
-    },
-    {
-      "id": "9c97e0748fa373901b739bc5b7390b9c6c729e69",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
-      "publishedAt": "2026-08-21T21:24:43.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1e067ecf2cc7b344847bdce21798704a92c25311",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Salesforce Agentforce at total dud for partners",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theregister.com/saas/2026/08/21/salesforce-partners-are-not-seeing-revenue-from-agentforce-ai-platform-report-says/5291167",
-      "publishedAt": "2026-08-21T20:56:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "8af58c93d64030e8cfeab8bf4ab8aea868f1231f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "http://www.dennisweyland.net/blog/?p=175",
-      "publishedAt": "2026-08-21T20:36:23.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "61de033b62e19edf16b0ab301f615f64cfbd00d1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck",
-      "publishedAt": "2026-08-21T20:24:40.000Z",
-      "category": "其他"
     },
     {
       "id": "2b7b4ffceb6b58cbcab2a362fd7d237d997e20d5",
@@ -723,18 +711,6 @@
       "category": "其他"
     },
     {
-      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "zhTitle": null,
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -745,6 +721,18 @@
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "融资"
+    },
+    {
+      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "zhTitle": null,
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "工具"
     },
     {
       "id": "281f3891877a8f0157a10ff722783c174f554b1a",
@@ -3601,6 +3589,18 @@
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "publishedAt": "2026-07-28T17:00:00.000Z",
       "category": "其他"
+    },
+    {
+      "id": "d81cfe08f75c7d6eb5b2b7bf8788ddfb1e29bfe5",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "zhTitle": null,
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "zhSummary": null,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "category": "模型发布"
     }
   ]
 }
