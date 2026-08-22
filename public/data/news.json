@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T02:55:43.419Z",
+  "generatedAt": "2026-08-22T04:34:50.553Z",
   "items": [
+    {
+      "id": "7636d8f455f89643c327b0aef8560a130b3a1397",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Prevention of myopia in a near-primate by supplemental indigo light",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612637",
+      "publishedAt": "2026-08-22T04:17:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d6ce8233066e0c52f478d877fdb803e75ac6bfd7",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Limnic Eruption",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://en.wikipedia.org/wiki/Limnic_eruption",
+      "publishedAt": "2026-08-22T04:08:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "43381af5b5c90f07340f6f3c9e5371221d00c677",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Getting Freaky in the Age of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai",
+      "publishedAt": "2026-08-22T03:45:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d3591cb36413f478ba71f4ea22f2a859109821ed",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "publishedAt": "2026-08-22T03:39:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "065ffcd2361992d87c6ba68b73fb98bb9c1d982f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
+      "publishedAt": "2026-08-22T03:33:34.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "087ae0ec5ec7a43f457fb4130112e1585658724f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+      "publishedAt": "2026-08-22T03:20:33.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c2c7e7e507b89d07cea784317277be0ba9cde768",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "How fast is C++26's std:hive?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive",
+      "publishedAt": "2026-08-22T03:08:53.000Z",
+      "category": "其他"
+    },
     {
       "id": "721742ef6d307a7803cdc5a068d0a88909fd0429",
       "sourceId": "hn-llm",
@@ -363,54 +447,6 @@
       "category": "其他"
     },
     {
-      "id": "ddb9ead3f8303caa5806526a4eff6cc4959b9387",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
-      "publishedAt": "2026-08-21T20:24:18.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ccfa732036416391fe8ee8d517d8228c7a9f840a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AgentCheck – regression testing for AI agents, with diff-aware CI reports",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/rez-99/agentcheck",
-      "publishedAt": "2026-08-21T20:21:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "01652a7aa2034a3e973353f70107d17e280edcb2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Zroar – Serialized Roaring Bitmaps in Zig",
-      "zhTitle": null,
-      "summary": "zroar is a ground-up implementation of Roaring Bitmaps data structure in Zig. zroar stores both the keys and (array, bitmap) containers in a single flat byte buffer, making the in-memory representation equal to the on-disk or over-the-network representation, eliminating the serialization&#x2F;deserialization step entirely. The design was originally aimed at systems which keep their posting lists o",
-      "zhSummary": null,
-      "url": "https://github.com/manishrjain/zroar",
-      "publishedAt": "2026-08-21T20:18:22.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "984ed13535e78c9ef7e6b0edcc9dcc2edd31576e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Most of Your Architecture Was Just Expensive Code",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aicoding.leaflet.pub/3mtmk6ot6oc2i",
-      "publishedAt": "2026-08-21T20:17:36.000Z",
-      "category": "其他"
-    },
-    {
       "id": "2b7b4ffceb6b58cbcab2a362fd7d237d997e20d5",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -512,7 +548,7 @@
       "sourceName": "Simon Willison",
       "title": "llm-openrouter 0.7",
       "zhTitle": null,
-      "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM 0.32. Models now use OpenRouter's implementation of the Responses API. Three new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch. Tags: llm, openrouter",
+      "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32. Models now use OpenRouter's implementation of the Responses API. Three new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch. Tags: llm, openrouter",
       "zhSummary": null,
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter",
       "publishedAt": "2026-08-21T16:58:19.000Z",
@@ -687,18 +723,6 @@
       "category": "其他"
     },
     {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
-    },
-    {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -709,6 +733,18 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
+    },
+    {
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "zhTitle": null,
+      "summary": "There's about to be a big fight to secure access to space.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "281f3891877a8f0157a10ff722783c174f554b1a",
@@ -733,54 +769,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
       "publishedAt": "2026-08-21T13:37:52.000Z",
       "category": "工具"
-    },
-    {
-      "id": "a78c3bc9a591b3734e84972a21431913c7d913f3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Good Results when training Qwen 3 4B to learn a new domain",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
-      "publishedAt": "2026-08-21T13:21:11.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "27f464736507e878680b031d3d108b08a833ab18",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Diffview, a fast Git diff viewer written in Rust",
-      "zhTitle": null,
-      "summary": "Even with LLMs, I still like to review my code manually. However, I haven’t found a good visual diff viewer for this, so I wrote one myself in Rust. Its sole purpose is to help you quickly skim through diffs. If you organize your code into folders named domain, use-case, application, and infra, the app will show the domain code at the top, allowing you to easily see the most important changes firs",
-      "zhSummary": null,
-      "url": "https://github.com/sleipner42/diffviewer",
-      "publishedAt": "2026-08-21T13:18:22.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "3ea26a0ca443fa1897766a4a570fb4a371ad1bb0",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.10218",
-      "publishedAt": "2026-08-21T13:15:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c3e98206b25755370ca94d293480f4a7c914b9f5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Anomaly Detection with LLMs for Cybersecurity",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ngrislain.github.io/blog/2026-8-20-language-models-are-anomaly-detectors",
-      "publishedAt": "2026-08-21T12:57:26.000Z",
-      "category": "其他"
     },
     {
       "id": "05e8cff2c8217a29b4a8c96b368dc4be15ce2d23",
@@ -3601,6 +3589,18 @@
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "publishedAt": "2026-07-29T00:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "df22037e3e0ff3eac5f159ecccf3538b3b9b51a5",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Scientific computing in the age of agentic AI",
+      "zhTitle": null,
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "publishedAt": "2026-07-28T17:00:00.000Z",
+      "category": "其他"
     }
   ]
 }
