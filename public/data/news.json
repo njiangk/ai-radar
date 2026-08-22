@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T06:42:49.712Z",
+  "generatedAt": "2026-08-22T08:33:06.456Z",
   "items": [
+    {
+      "id": "41b5685d8357a94013802c1e0c32ca1e866623cd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Older Americans leaving workforce poses challenges for AI plans",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
+      "publishedAt": "2026-08-22T08:24:50.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9e98c378bde5943a56254068a281a1027fe226dd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "publishedAt": "2026-08-22T08:16:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "832f333b63aca87c12d7f5268f040d0dd309ed8c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
+      "publishedAt": "2026-08-22T08:14:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cf47e8b88403fde760a8ee055cd69af76c9f664b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Agile AI Development Lifecycle",
+      "zhTitle": null,
+      "summary": "Schrödinger&#x27;s AI-DLC Framework",
+      "zhSummary": null,
+      "url": "https://valeriavg.dev/agile-ai-development-lifecycle",
+      "publishedAt": "2026-08-22T08:08:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "990bb3c742a8d605b862f54cdf331e30dd412901",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+      "zhTitle": null,
+      "summary": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your material and can create quizzes, flashcards, and exams to test your understanding. It&#x27;s still",
+      "zhSummary": null,
+      "url": "https://learnleap.xyz",
+      "publishedAt": "2026-08-22T08:07:56.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "b7754d843f6ebc81c8f9608da2e59995c92bd755",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+      "publishedAt": "2026-08-22T06:46:35.000Z",
+      "category": "其他"
+    },
     {
       "id": "710cf2d96d463b3046429bf8d863b703cf55be55",
       "sourceId": "hn-ai",
@@ -315,21 +387,9 @@
       "category": "其他"
     },
     {
-      "id": "e529bf8326195bb2a358566c667a9f1bd182df85",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Kinodesk – Unlimited Remote Desktop Sharing",
-      "zhTitle": null,
-      "summary": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performance enhancing utilities to reach 2K 240fps on capable hardware to ensure you have a smooth experience.",
-      "zhSummary": null,
-      "url": "https://kinodesk.net",
-      "publishedAt": "2026-08-21T23:20:53.000Z",
-      "category": "其他"
-    },
-    {
       "id": "572301c0aa0facc5e6de2fc9f3d68860870a8da6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
       "zhTitle": null,
       "summary": "What&#x27;s up, ChickenButt? I made a free, native GTK client called ChickenButt.:) It lets you chat with local models through Ollama, and I figured some of you might get a kick out of it. Here&#x27;s the repo: https:&#x2F;&#x2F;github.com&#x2F;pixelhackstudios&#x2F;ChickenButt I&#x27;ve always hated reading long text in the terminal, and I couldn&#x27;t find anything that ran locally that allowed",
@@ -340,8 +400,8 @@
     },
     {
       "id": "5f11dca1c8a4bab287322b32ad47fd4df091dd0f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Replacing 223-node agent graph with a single OSS LLM",
       "zhTitle": null,
       "summary": "",
@@ -352,8 +412,8 @@
     },
     {
       "id": "ec74d4d3ec74d7516915232a1697bbea2371a357",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
       "zhTitle": null,
       "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th t",
@@ -375,18 +435,6 @@
       "category": "模型发布"
     },
     {
-      "id": "6b1c0e96e4308a1922d0d3ff9b2edd9678e152bc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Building Exoskeletons – Keeping Creative Inspiration",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://johnoestmannmusic.com/ai-building-exoskeletons",
-      "publishedAt": "2026-08-21T22:57:01.000Z",
-      "category": "其他"
-    },
-    {
       "id": "568c94c0a09090c4200a8d82bd0996eccf3406aa",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -397,18 +445,6 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
       "publishedAt": "2026-08-21T22:37:38.000Z",
       "category": "工具"
-    },
-    {
-      "id": "602a78154839995040992c6196cc2b67fc4c27a2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Front Page of the Internet",
-      "zhTitle": null,
-      "summary": "you can buy the front page of the internet and stay there, while you use it for AI SEO, until someone out bids you and now they are on the front page of the internet, bid now just for a dollar",
-      "zhSummary": null,
-      "url": "https://frontpageoftheinternet.lol",
-      "publishedAt": "2026-08-21T22:06:04.000Z",
-      "category": "其他"
     },
     {
       "id": "85a58f067a4f4821bd80ab64ccc66f20db314a25",
@@ -3565,42 +3601,6 @@
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "publishedAt": "2026-07-29T10:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "6d964f10c3337bbc89e99f2ce7545a297b7b9cec",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "zhTitle": null,
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "df22037e3e0ff3eac5f159ecccf3538b3b9b51a5",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Scientific computing in the age of agentic AI",
-      "zhTitle": null,
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "publishedAt": "2026-07-28T17:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d81cfe08f75c7d6eb5b2b7bf8788ddfb1e29bfe5",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "zhTitle": null,
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "zhSummary": null,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "publishedAt": "2026-07-28T16:00:00.000Z",
-      "category": "模型发布"
     }
   ]
 }
