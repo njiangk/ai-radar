@@ -1,17 +1,185 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T20:25:05.414Z",
+  "generatedAt": "2026-08-22T22:24:12.098Z",
   "items": [
     {
-      "id": "1a5df61a105f7b4fa8a5dec273b9224baf33a645",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Intuitionistic LMs with Composition as a Language Modeling Primitive",
+      "id": "3377c27b081e0284c6cb247c65aecb54d149e526",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "NanoGPT Speedrun Frontier",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DSt7tE87RL3",
-      "publishedAt": "2026-08-22T20:19:03.000Z",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "publishedAt": "2026-08-22T22:14:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6509875fdb4a08ce1a0ff99ea967fe2aa229c3d2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66",
+      "publishedAt": "2026-08-22T22:05:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "653ef197344c2d18606b360f12dbe66bca30c984",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The crisis of AI-generated mathematics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.02859",
+      "publishedAt": "2026-08-22T22:04:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6f6638aa1f5beee1bffe108ed7b5810483ab10e2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Spiel – watch your own files on every device",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://spielplayer.com",
+      "publishedAt": "2026-08-22T21:56:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ca1bb3e81f45e80ca5f60a13587d5bd311530182",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "zhTitle": null,
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4922384da7e70521d2a504e205071e551fbc5762",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The cost of forming an LLC in every US state (2026)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.incorpassist.com/blog/us-states/real-cost-to-form-an-llc-by-state",
+      "publishedAt": "2026-08-22T21:43:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "071f98f115f099e67e13ee0285f91e6cd8594528",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "How LLM Serves a Request",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mapathak-commits.github.io/inference-wall/articles/primer",
+      "publishedAt": "2026-08-22T21:42:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "85393f47a97ecffe535029af51deafcce7ef7e43",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Contra Anthropic: AI is not 'structurally' centralizing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing",
+      "publishedAt": "2026-08-22T21:40:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6d0e044796734d9afbef9aabb7733db62a2278d1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.phoronix.com/news/Linux-7.3-Networking",
+      "publishedAt": "2026-08-22T21:39:39.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "3bea3ed5a4cecc1e0bbc14dbfd0ea64ffc2b988d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Building a Soft Display (Air powered) [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=RTOARC-yeMc",
+      "publishedAt": "2026-08-22T21:30:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "59fe724baf0edc9a426164c1ed3ea7101515fcb7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Yam – Local AST-based plagiarism detector (MOSS, JPlag, Turnitin alternative)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gitlab.com/shamtech.ai/yam",
+      "publishedAt": "2026-08-22T21:16:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a8f78bf5754b9f4f03f905e45dd532d0ffcd525",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The search for consciousness inside LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+      "publishedAt": "2026-08-22T21:10:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a876225de70d84d78882d1c9285b86a2e7f32c1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The importance of teaching students what AI can't do",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
+      "publishedAt": "2026-08-22T21:06:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "686686b80dcf4d54eb5c0f7e3858bca133a2840a",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Quoting Linus Torvalds",
+      "zhTitle": null,
+      "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up se",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
+      "publishedAt": "2026-08-22T21:04:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "db5c1439f231fe920510c330710e9693c2064b94",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Mortal Limits, Humans Minds",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://american-innocence.com/p/mortal-limits-humans-minds",
+      "publishedAt": "2026-08-22T20:51:04.000Z",
       "category": "其他"
     },
     {
@@ -339,18 +507,6 @@
       "category": "其他"
     },
     {
-      "id": "82f2f7f49d7de05d54b273d369902974dfed94cf",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
-      "zhTitle": null,
-      "summary": "I created this simple AI autocomplete tool for the bash terminal. I&#x27;m sure many like it exist already, but unlike the others this one does not completely hijack your terminal and stays mostly out of the way. Contributions&#x2F;feedback are welcome. One other interesting thing about it is that it&#x27;s written in a custom memory-safe (aspirationally) language that I am developing.",
-      "zhSummary": null,
-      "url": "https://github.com/namo-robotics/namo_complete",
-      "publishedAt": "2026-08-22T16:44:53.000Z",
-      "category": "工具"
-    },
-    {
       "id": "897fc0b9ac4740bc1dc8a784d0378b74182a2676",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -360,54 +516,6 @@
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
       "publishedAt": "2026-08-22T16:30:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9a42fb897d7d2649761eca6caaa6a64d05cfa101",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Riyadh Tech Week – a year-round guide to Saudi Arabia's tech ecosystem",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://riyadhtechweek.com",
-      "publishedAt": "2026-08-22T16:23:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "45f68b1865d16093e76f55182f79ab8450acb349",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "publishedAt": "2026-08-22T16:23:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2b68d724280d114957b705238f1619d343547aad",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Fintex on X: \"The Math of Why Bigger AI Keeps Getting Smarter (Scaling Laws)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/_yusufknl/status/2090429393139097948",
-      "publishedAt": "2026-08-22T16:18:10.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "d5233470b6b8071c5099ffa70e64e26db5054418",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI and Chauffeur Knowledge",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.aaron-gray.com/ai-and-chauffeur-knowledge",
-      "publishedAt": "2026-08-22T16:11:50.000Z",
       "category": "其他"
     },
     {
@@ -421,18 +529,6 @@
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
       "publishedAt": "2026-08-22T16:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "1e405032fd206283497b1e3de1c389090aef7d6e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: AI as Cognitive Gym Equipment",
-      "zhTitle": null,
-      "summary": "Why AI assistance should be judged by what it does to your future thinking, not just your next answer",
-      "zhSummary": null,
-      "url": "https://bookerapp.replit.app/book/ai-cognitive-gym/ai-as-cognitive-gym-equipment",
-      "publishedAt": "2026-08-22T15:58:02.000Z",
-      "category": "其他"
     },
     {
       "id": "6cda44a27fa95dfd0f2b54b978f42839eaa65583",
@@ -457,42 +553,6 @@
       "url": "https://huggingface.co/blog/mayafree/model-dna",
       "publishedAt": "2026-08-22T15:20:59.000Z",
       "category": "其他"
-    },
-    {
-      "id": "86c524975cc110e1fa0aea78f018ccc032d11b82",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: ClearVoice TTS, SOTA voice cloning model running offline, in an iOS app",
-      "zhTitle": null,
-      "summary": "This is the first app I am aware of that can run a voice model of this quality on iPhone or iPad. It uses 6GB of RAM at peak, so most modern Macs, and some iPhone and iPad models should work (I’ve tested on a 17 pro). The model used is OmniVoice, which is known mostly for its ability to generate quality tts in hundreds of languages. This probably isn’t the fastest implementation of OmniVoice on a",
-      "zhSummary": null,
-      "url": "https://apps.apple.com/ie/app/clearvoice-text-to-speech/id6798899505",
-      "publishedAt": "2026-08-22T15:20:28.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "6038e1d4613666b8cf11795c6c14560dba3d5492",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Find and Organize Photos with Private, Local AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ringlochid.me/imagesage/index.html",
-      "publishedAt": "2026-08-22T14:59:49.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "df5399c7f9d2448ea3e533409c9f720c164c8730",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Claude Watermarks AI-Generated Text",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-      "publishedAt": "2026-08-22T14:45:00.000Z",
-      "category": "模型发布"
     },
     {
       "id": "b2df6c64a8c7fab02e3eb33457f32b790181f112",
@@ -783,18 +843,6 @@
       "category": "其他"
     },
     {
-      "id": "6a022da02937eeb3dc41bcefe1f38aece4889bad",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LFM2.5-DSpark: Up to 3.2x Faster Inference from H100 to MacB",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.liquid.ai/blog/lfm2.5-dspark",
-      "publishedAt": "2026-08-21T17:36:03.000Z",
-      "category": "其他"
-    },
-    {
       "id": "10e3fbb000b426e38feacf59752378d7e0f1431d",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -817,30 +865,6 @@
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter",
       "publishedAt": "2026-08-21T16:58:19.000Z",
       "category": "工具"
-    },
-    {
-      "id": "a47861a2eeef2d7257d4be0ad6b726998d8fc590",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Why your infrastructure is more important than the next LLM release",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ito.ai/blog/ai-model-plateau-why-infrastructure-matters-more-next-release",
-      "publishedAt": "2026-08-21T16:43:41.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "33d21784e28bbde0afdb3bbc7b3b607b38f87184",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-      "zhTitle": null,
-      "summary": "Hi HN! I made a project that I found really fun and I&#x27;m proud of the idea and implementation. This first came up when speaking to a friend, we were talking around how to do steganography in natural text, and realized an LLM&#x27;s token choices are a natural channel. Steganeur accomplishes this by encoding a secret message into the token choices of a language model, producing cover text that",
-      "zhSummary": null,
-      "url": "https://github.com/marcsnid/steganeur",
-      "publishedAt": "2026-08-21T16:33:37.000Z",
-      "category": "其他"
     },
     {
       "id": "2b90eef6053740b64e7d3eb8e7c6cd5c08ce49e9",
@@ -1489,18 +1513,6 @@
       "url": "https://arxiv.org/abs/2608.20202v1",
       "publishedAt": "2026-08-20T16:00:17.000Z",
       "category": "研究"
-    },
-    {
-      "id": "9d164193b43ad810ce9563669d223946b6a154b3",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "zhTitle": null,
-      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast",
-      "publishedAt": "2026-08-20T16:00:00.000Z",
-      "category": "其他"
     },
     {
       "id": "a0454d735fdfcecf6073a6324cb61e1e9a478117",
@@ -2977,18 +2989,6 @@
       "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
       "publishedAt": "2026-08-11T22:40:45.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "ad6adeecaf5c1e892eba7d9255add58268cd186d",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "datasette-upload-dbs 0.5a0",
-      "zhTitle": null,
-      "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance. It can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs",
-      "publishedAt": "2026-08-11T20:35:13.000Z",
-      "category": "工具"
     },
     {
       "id": "fc18235bff71058eab9ac5f1f5bb617b3b07a654",
