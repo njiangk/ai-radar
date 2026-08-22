@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T08:33:06.456Z",
+  "generatedAt": "2026-08-22T10:25:32.660Z",
   "items": [
+    {
+      "id": "6c0c098065fe5c1f1e65eb5262087d6b3c63d1b0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Joy of Why (podcast): Are We Thinking Correctly About AI Intelligence?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820",
+      "publishedAt": "2026-08-22T10:16:28.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "03d65c765e35913f307aa41011c1c80c65bcc421",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
+      "publishedAt": "2026-08-22T09:44:44.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "928cabca8fa45257623acc6d3806e0e6539f81f7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Math Academy – How Our AI Works",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.mathacademy.com/how-our-ai-works",
+      "publishedAt": "2026-08-22T09:43:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d9c221e4ef38f0c4cee941725aa5b34914fe6174",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Saab Unveils Stealthy Supersonic 'Fighter Drone' Concept",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.twz.com/air/saab-unveils-stealthy-supersonic-fighter-drone-concept",
+      "publishedAt": "2026-08-22T09:43:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2814b904020075fc7bea52ccb9b8e0d4b809237f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The hold that could not release itself",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://shitrat.ai/log/the-hold-that-could-not-release-itself",
+      "publishedAt": "2026-08-22T09:21:44.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0d24b5343da1d22cb90c932b7e42a4915e56e18e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Embedded AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://nostarch.com/embedded-ai",
+      "publishedAt": "2026-08-22T09:07:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3709d29ca7ff8385a40ababbcf16c3c6e113eeac",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "RayNeo IO",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.rayneo.com/pages/rayneo-io-ai-glasses",
+      "publishedAt": "2026-08-22T08:37:42.000Z",
+      "category": "其他"
+    },
     {
       "id": "41b5685d8357a94013802c1e0c32ca1e866623cd",
       "sourceId": "hn-ai",
@@ -291,78 +375,6 @@
       "category": "产品"
     },
     {
-      "id": "c17bcef89fef769038fcba06cf0c3ebf657971c3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a",
-      "publishedAt": "2026-08-22T01:00:44.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b0ea8f54deebb3b72b31743565e24e2c2920fca8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://benhoyt.com/writings/updating-gifty-with-ai",
-      "publishedAt": "2026-08-22T00:25:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "5c8319889e8e0929cd2a8fcc958e9c6c15c21d17",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: AI driven civic dashboard for Palo Alto",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://paloaltocivic.com",
-      "publishedAt": "2026-08-22T00:17:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3e284d11e91a9acf40d2a60b260de2508f774ef6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "publishedAt": "2026-08-22T00:08:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "db58fd70cd5286ac8f3fdd67904e867af77b99b7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-      "publishedAt": "2026-08-22T00:07:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "eaea31132b08a45902e33898a6025f66802e87c7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "What We Tell AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.whatwetellai.com",
-      "publishedAt": "2026-08-21T23:50:27.000Z",
-      "category": "其他"
-    },
-    {
       "id": "bab546ab1a47bf588c5cd61ad2767f207f513595",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -372,18 +384,6 @@
       "zhSummary": null,
       "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
       "publishedAt": "2026-08-21T23:25:32.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0356aeda76477f790ccfdf9a7303ba57b208d5dd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
-      "publishedAt": "2026-08-21T23:20:57.000Z",
       "category": "其他"
     },
     {
@@ -747,18 +747,6 @@
       "category": "其他"
     },
     {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
-    },
-    {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -769,6 +757,18 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
+    },
+    {
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "zhTitle": null,
+      "summary": "There's about to be a big fight to secure access to space.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "281f3891877a8f0157a10ff722783c174f554b1a",
