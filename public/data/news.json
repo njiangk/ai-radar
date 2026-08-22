@@ -1,7 +1,139 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T12:42:18.586Z",
+  "generatedAt": "2026-08-22T14:23:36.588Z",
   "items": [
+    {
+      "id": "b2df6c64a8c7fab02e3eb33457f32b790181f112",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.13573",
+      "publishedAt": "2026-08-22T14:16:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "008cc5f584c7c57757625a9713f6ff18083c0f2f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful",
+      "publishedAt": "2026-08-22T14:14:30.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "4303d7dc2034709962daebb9c4b9561c62452be3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Knowl – agent memory that retires stale facts when they change",
+      "zhTitle": null,
+      "summary": "Using AI agents is amazing, but in long-term, I started to have more and more problems about the context of them. They keep forgetting what we are working on, opening a new chat session clears all their context, my CLAUDE.md had like 1000 lines. So I thought to install those agent memory that are on the market. Started out great, but I noticed that those memory only append and does not fix what is",
+      "zhSummary": null,
+      "url": "https://github.com/dat999zx/knowl",
+      "publishedAt": "2026-08-22T14:13:22.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "f5886f0c0a0500f94a6550d35438639d9bcd7b56",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "publishedAt": "2026-08-22T14:13:05.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "066b7b8c14884998fb36ef44410da24f831f8ed3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
+      "publishedAt": "2026-08-22T14:03:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6a6b94374364dbe57847525edf5021c568401fd8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/kidus-tiliksew/conveyor",
+      "publishedAt": "2026-08-22T14:01:46.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "2ff4f5049eadf4adae048cf061ed9c14fc5a79c3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/pawaca/dsh-edge",
+      "publishedAt": "2026-08-22T13:58:50.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "70f99cd3e72758f4fd3f143c6bd1385cc64af842",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Ante: Self-contained coding agent that lives in your terminal and self-organizes",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://docs.antigma.ai",
+      "publishedAt": "2026-08-22T13:40:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Stock Research Assistant · Streamlit",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ai-stock-research-kiaan.streamlit.app",
+      "publishedAt": "2026-08-22T13:13:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "5eede46b9ac78497fe846b7775e3a6a5eb931239",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://knoku.com",
+      "publishedAt": "2026-08-22T13:04:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e9d1a94e9e16cf75f561a427832ebf050c84d2b9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: VinvAI runs and observes your services to find bugs and perf issues",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vinv.ai",
+      "publishedAt": "2026-08-22T12:47:51.000Z",
+      "category": "其他"
+    },
     {
       "id": "8a84ce37b1ba34903506c20b335f6f56292e5aeb",
       "sourceId": "hn-ai",
@@ -240,102 +372,6 @@
       "zhSummary": null,
       "url": "https://www.rayneo.com/pages/rayneo-io-ai-glasses",
       "publishedAt": "2026-08-22T08:37:42.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "41b5685d8357a94013802c1e0c32ca1e866623cd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Older Americans leaving workforce poses challenges for AI plans",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
-      "publishedAt": "2026-08-22T08:24:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9e98c378bde5943a56254068a281a1027fe226dd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "publishedAt": "2026-08-22T08:16:02.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "832f333b63aca87c12d7f5268f040d0dd309ed8c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
-      "publishedAt": "2026-08-22T08:14:41.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cf47e8b88403fde760a8ee055cd69af76c9f664b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Agile AI Development Lifecycle",
-      "zhTitle": null,
-      "summary": "Schrödinger&#x27;s AI-DLC Framework",
-      "zhSummary": null,
-      "url": "https://valeriavg.dev/agile-ai-development-lifecycle",
-      "publishedAt": "2026-08-22T08:08:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "990bb3c742a8d605b862f54cdf331e30dd412901",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
-      "zhTitle": null,
-      "summary": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your material and can create quizzes, flashcards, and exams to test your understanding. It&#x27;s still",
-      "zhSummary": null,
-      "url": "https://learnleap.xyz",
-      "publishedAt": "2026-08-22T08:07:56.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "b7754d843f6ebc81c8f9608da2e59995c92bd755",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-      "publishedAt": "2026-08-22T06:46:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "710cf2d96d463b3046429bf8d863b703cf55be55",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
-      "publishedAt": "2026-08-22T06:34:41.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2f154f6e698392866bd3289525371040ea005a8a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How Much of the Internet Is Written with AI?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
-      "publishedAt": "2026-08-22T06:33:40.000Z",
       "category": "其他"
     },
     {
@@ -771,28 +807,16 @@
       "category": "产品"
     },
     {
-      "id": "fb937fcbd3d50275247c1f93c6118bfc1c477f8e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "How I came to write that paper with Leslie Lamport",
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "zhTitle": null,
-      "summary": "https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;publication&#x2F;specifi...",
+      "summary": "There's about to be a big fight to secure access to space.",
       "zhSummary": null,
-      "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-      "publishedAt": "2026-08-21T14:46:01.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "07df96f773dfa17004bb170ff53478a8356c4f06",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Muteval – mutation testing for your LLM evals",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/AshwinUgale/muteval",
-      "publishedAt": "2026-08-21T14:42:57.000Z",
-      "category": "其他"
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
@@ -805,18 +829,6 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
-    },
-    {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
     },
     {
       "id": "e16f2484c31fe5402b8ef2b3e4ec87d571e0b465",
@@ -3589,18 +3601,6 @@
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026",
       "publishedAt": "2026-07-30T13:00:20.000Z",
       "category": "研究"
-    },
-    {
-      "id": "fc362ba711f59d44f4f1c69c201956c28bef036a",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "zhTitle": null,
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "publishedAt": "2026-07-30T10:00:00.000Z",
-      "category": "模型发布"
     }
   ]
 }
