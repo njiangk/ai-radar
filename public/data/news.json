@@ -1,7 +1,187 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T18:33:28.610Z",
+  "generatedAt": "2026-08-22T20:25:05.414Z",
   "items": [
+    {
+      "id": "1a5df61a105f7b4fa8a5dec273b9224baf33a645",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Intuitionistic LMs with Composition as a Language Modeling Primitive",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DSt7tE87RL3",
+      "publishedAt": "2026-08-22T20:19:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a326ef70b8e7f1f2f8b44d8c480604aff5f1ace3",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: A tool that intentionally makes you forget your Screen Time passcode",
+      "zhTitle": null,
+      "summary": "iOS Screen Time is a fantastic app blocker because it&#x27;s built into the OS, unlike third party apps that can simply be uninstalled. The only problem is that it uses a 4 digit passcode. If I set the passcode myself, I can always override my app limits by tapping ignore limit and entering the screetime passcode. So I built WaitToUnlock.com. It&#x27;s a simple website that generates a random Scre",
+      "zhSummary": null,
+      "url": "https://waittounlock.com",
+      "publishedAt": "2026-08-22T20:17:44.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "9a171ab3f606b84b249efeb62dc4e442c310a4da",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Fast and Hard Code",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code",
+      "publishedAt": "2026-08-22T19:56:38.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ed85d4ffce7ba6f3583eaa41277678dad6abab13",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Domain Driven AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pedromadruga.com/blog/domain-driven-ai",
+      "publishedAt": "2026-08-22T19:42:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "674823bfa0e2ee4f0b8d9d372e966495bc7fd223",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "QEMU, now with almost full NeXT Black/M68K hardware support",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/blanham/qemu-NeXT",
+      "publishedAt": "2026-08-22T19:38:11.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "42c54720f072dfff9cebdf89341e092f1100892f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Retailers Want AI to Solve Online Shopping's Biggest Problem",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns",
+      "publishedAt": "2026-08-22T19:26:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "710cf2d96d463b3046429bf8d863b703cf55be55",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "publishedAt": "2026-08-22T19:11:34.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e27266507cd21b897783f55381bc8669900239e5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "If you're not using AI to attack your own systems, your adversaries will",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
+      "publishedAt": "2026-08-22T19:06:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "59eb4791af164658e70af9f851fef9b82763fede",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+      "publishedAt": "2026-08-22T19:02:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4d23654c67d4be56082424d1601d22df0f6869fb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Niall Ferguson: Elon's Favorite Sci-Fi Prophet Was Wrong",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.thefp.com/p/niall-ferguson-future-ai-tech-economics-space",
+      "publishedAt": "2026-08-22T19:00:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "683931e34e4d9cf385236e1080b746eb4b3f6df0",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "zhTitle": null,
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "743f56b27f58a7ae63ef4eac123497b9f4dcbc72",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Can an AI agent serve at a Foreign Office?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.karlsnotes.com/can-an-ai-agent-serve-at-a-foreign-office",
+      "publishedAt": "2026-08-22T18:53:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b1b776ec99c93df4305359c8cf2805319bf2a158",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Pygame Boundaries: Stop Your Player from Leaving the Screen – No AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=UOP_2zz30qo",
+      "publishedAt": "2026-08-22T18:52:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9370ba514932b0f73a3e782d98509f3a2830dad4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How I Use AI to Learn Things",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=kzcI5F4tGiU",
+      "publishedAt": "2026-08-22T18:52:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9c7cb7cdec81637f70e8fae2f30d4eee0e7e2fcc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Robots Will Soon See the Real World Thanks to These Next-Gen AI Models",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/ai-world-models-robotics-33ab46cb",
+      "publishedAt": "2026-08-22T18:48:39.000Z",
+      "category": "其他"
+    },
     {
       "id": "087ae0ec5ec7a43f457fb4130112e1585658724f",
       "sourceId": "hn-ai",
@@ -315,42 +495,6 @@
       "category": "模型发布"
     },
     {
-      "id": "d781486119fc59d4194f5c827d76b5a32508d90f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Harvard's A.I. Clones Will Hear Your Startup Pitch Now",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
-      "publishedAt": "2026-08-22T14:41:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9e72b11037677b9aa27d0a071ca4b5f8f337eb05",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI agents merged two dangers once kept separate: reach and judgment",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://syntheticauth.ai/posts/agent-nation-03-the-threshold",
-      "publishedAt": "2026-08-22T14:35:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b7b4e8a8d5c70b8423919dfe0e0cd510ef55f3e9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Will the Open Internet Survive the War on Bots?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://cdt.org/insights/will-the-open-internet-survive-the-war-on-bots-mapping-the-debate-over-ai-preferences",
-      "publishedAt": "2026-08-22T14:32:45.000Z",
-      "category": "其他"
-    },
-    {
       "id": "b2df6c64a8c7fab02e3eb33457f32b790181f112",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -363,21 +507,9 @@
       "category": "其他"
     },
     {
-      "id": "008cc5f584c7c57757625a9713f6ff18083c0f2f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "80% of developers find AI coding more addictive than helpful",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful",
-      "publishedAt": "2026-08-22T14:14:30.000Z",
-      "category": "工具"
-    },
-    {
       "id": "4303d7dc2034709962daebb9c4b9561c62452be3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Knowl – CLAUDE.md hit 1000 lines, so I built memory that prunes itself",
       "zhTitle": null,
       "summary": "Using AI agents is amazing, but in long-term, I started to have more and more problems about the context of them. They keep forgetting what we are working on, opening a new chat session clears all their context, my CLAUDE.md had like 1000 lines. So I thought to install those agent memory that are on the market. Started out great, but I noticed that those memory only append and does not fix what is",
@@ -385,54 +517,6 @@
       "url": "https://github.com/dat999zx/knowl",
       "publishedAt": "2026-08-22T14:13:22.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "f5886f0c0a0500f94a6550d35438639d9bcd7b56",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "publishedAt": "2026-08-22T14:13:05.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "066b7b8c14884998fb36ef44410da24f831f8ed3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
-      "publishedAt": "2026-08-22T14:03:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6a6b94374364dbe57847525edf5021c568401fd8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/kidus-tiliksew/conveyor",
-      "publishedAt": "2026-08-22T14:01:46.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "2ff4f5049eadf4adae048cf061ed9c14fc5a79c3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/pawaca/dsh-edge",
-      "publishedAt": "2026-08-22T13:58:50.000Z",
-      "category": "其他"
     },
     {
       "id": "70241c30eb6ef3dcff794b80471148a9f5a21a8c",
@@ -759,30 +843,6 @@
       "category": "其他"
     },
     {
-      "id": "a331eefe844bd3d8c8236b31995799467a19e444",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The artistry in 8-bit and 16-bit pixel art",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=LMlh0re9fMk",
-      "publishedAt": "2026-08-21T16:33:27.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "fd3f5bbbc04ede1e17f0b540418f00f096418e79",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-      "publishedAt": "2026-08-21T16:27:52.000Z",
-      "category": "其他"
-    },
-    {
       "id": "2b90eef6053740b64e7d3eb8e7c6cd5c08ce49e9",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -793,42 +853,6 @@
       "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis",
       "publishedAt": "2026-08-21T16:07:32.000Z",
       "category": "工具"
-    },
-    {
-      "id": "e10d980f4496d4ad75df9ab5ad410bb39c7de21e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLMs are (still) mostly powered by imitative learning, not RL",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lesswrong.com/posts/wYpjXRLqbLbnmjbJP/llms-are-still-mostly-powered-by-imitative-learning-not-rl",
-      "publishedAt": "2026-08-21T16:07:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7a3fdc69759d29e14f3f9dedd1052ade8faf39e2",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
-      "zhTitle": null,
-      "summary": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day. The mysteries are all written by LLMs. Some are better than others, but most work nicely. The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE for content updates, and a turn-based game engine written as a Temporal workflow. Check out the my",
-      "zhSummary": null,
-      "url": "https://whodunit.rip",
-      "publishedAt": "2026-08-21T16:04:49.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "3eb3def268ad606f668a0ac1e56d52dbcb1db49d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLMs are proof that Unix won",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://bastian.rieck.me/blog/2026/unix",
-      "publishedAt": "2026-08-21T15:59:16.000Z",
-      "category": "其他"
     },
     {
       "id": "5d2883141182dc2632add9d394cf9d843704ff66",
@@ -1837,18 +1861,6 @@
       "url": "https://arxiv.org/abs/2608.19957v1",
       "publishedAt": "2026-08-20T12:24:53.000Z",
       "category": "研究"
-    },
-    {
-      "id": "3008ad1f12c019933bcabbd0722e0c4646b8c3c3",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
-      "zhTitle": null,
-      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
-      "publishedAt": "2026-08-20T12:11:57.000Z",
-      "category": "工具"
     },
     {
       "id": "47ae6f38e43719dc047c2a4ea51fe0a9c3e8d582",
@@ -3589,18 +3601,6 @@
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026",
       "publishedAt": "2026-07-30T13:00:20.000Z",
       "category": "研究"
-    },
-    {
-      "id": "fc362ba711f59d44f4f1c69c201956c28bef036a",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "zhTitle": null,
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "publishedAt": "2026-07-30T10:00:00.000Z",
-      "category": "模型发布"
     }
   ]
 }
