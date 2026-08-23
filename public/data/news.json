@@ -1,7 +1,127 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T14:25:46.131Z",
+  "generatedAt": "2026-08-23T16:28:17.773Z",
   "items": [
+    {
+      "id": "3fff31f0ded01f70bdb76151bfcd702017ccbff7",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "zhTitle": null,
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
+      "publishedAt": "2026-08-23T15:30:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ced619d6ca9393b5cebc9f099fcd1aa80bf28bc1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "publishedAt": "2026-08-23T15:03:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8dafa127b694766cddf306eb42fd73a6aec2afdd",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "zhTitle": null,
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "576534e69b452fa1ae93541997540100c977e4b2",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Gemini 3.7 Flash, Grok 4.6, GLM-5.3 and DeepSeek V4 Pro joined the frontier",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://quesma.com/blog/baba-is-aug-2026",
+      "publishedAt": "2026-08-23T14:55:37.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "328ec6df200b797ab4e583615f3d23c552672f1c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Oneiric, AI-generated, open source [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "publishedAt": "2026-08-23T14:55:14.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "01f347f1355872f6610368ac7a62cc7ce939fe11",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell",
+      "publishedAt": "2026-08-23T14:53:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a2356fce3c2f571fb338b3bba36de3a0894dd702",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Minimus Is Shutting Down",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://imgur.com/a/FmVJNsz",
+      "publishedAt": "2026-08-23T14:50:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7f7bf7c48b4237a78de855f04b7edcbdc81c2ea0",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "I Shouldn't Need an LLM to Explain My LLM",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://daviesgeek.com/I-Shouldn%E2%80%99t-Need-an-LLM-to-Explain-My-LLM",
+      "publishedAt": "2026-08-23T14:47:50.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c7b47afbf6df2e2ffb79d711f3ad31e4cc084a54",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/majesticlabs-dev/writing-eval",
+      "publishedAt": "2026-08-23T14:31:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5f6a3257006a37cf0634888e09418e41a6fc0953",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Aim-424 Lraam – Malice",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/4580867/aim-424-lraam-malice",
+      "publishedAt": "2026-08-23T14:29:30.000Z",
+      "category": "其他"
+    },
     {
       "id": "b8885548b7fa0b29f5eb52d3a0bdd2e750a04629",
       "sourceId": "hn-ai",
@@ -340,38 +460,14 @@
     },
     {
       "id": "36af0b98b5b568a7ca5fa3a210ae6aa17dcd31cb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21",
       "publishedAt": "2026-08-23T10:23:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "403523c41ec070fde4839eb11034015eeb2e9fa2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Austrian mountain town [Leoben] finds niche in AI boom",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html",
-      "publishedAt": "2026-08-23T10:21:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4e68b5a49c0fdc11d48f70935b55d9154daa5cab",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Writing Without the Slop",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://sfactory.dev",
-      "publishedAt": "2026-08-23T10:00:11.000Z",
       "category": "其他"
     },
     {
@@ -385,18 +481,6 @@
       "url": "https://medium.com/luminasticity/the-strange-foods-0624e47c11f4",
       "publishedAt": "2026-08-23T09:50:18.000Z",
       "category": "其他"
-    },
-    {
-      "id": "75a73f0d5f5385a681a4b6fd4b44f0009b4f6578",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "publishedAt": "2026-08-23T09:21:44.000Z",
-      "category": "工具"
     },
     {
       "id": "5b8aeb7726994dfe118192aeacfdcb60166c5b55",
@@ -579,18 +663,6 @@
       "category": "其他"
     },
     {
-      "id": "674823bfa0e2ee4f0b8d9d372e966495bc7fd223",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "QEMU, now with almost full NeXT Black/M68K hardware support",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/blanham/qemu-NeXT",
-      "publishedAt": "2026-08-22T19:38:11.000Z",
-      "category": "其他"
-    },
-    {
       "id": "683931e34e4d9cf385236e1080b746eb4b3f6df0",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -601,18 +673,6 @@
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
       "publishedAt": "2026-08-22T19:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "f6ea3e88ff9f70ee5b9ef2fe218876331e9648f3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Quota Watch: Which LLM provider has which discount now?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.quota-watch.com",
-      "publishedAt": "2026-08-22T18:31:42.000Z",
-      "category": "其他"
     },
     {
       "id": "43aa0c036180460ecdc5fbd0f97ab64180e996ad",
@@ -1251,18 +1311,6 @@
       "category": "其他"
     },
     {
-      "id": "83bdb87ab15bc4a5ab93fca73dec9a6a35f34b88",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Ramp launches its own AI model router, called Router",
-      "zhTitle": null,
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
-      "publishedAt": "2026-08-20T16:46:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "b4ab34fa7ffe6a157935e4fa6dfeb05b38a32aba",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1357,18 +1405,6 @@
       "url": "https://arxiv.org/abs/2608.20210v1",
       "publishedAt": "2026-08-20T16:09:43.000Z",
       "category": "研究"
-    },
-    {
-      "id": "8e1ee77348dde2f6e4901a7185907f19f2e01e11",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "zhTitle": null,
-      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users",
-      "publishedAt": "2026-08-20T16:07:26.000Z",
-      "category": "产品"
     },
     {
       "id": "86a54c2fa4473d98b6af743b9143b97c87ce747e",
@@ -3565,42 +3601,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "50bf9e90585ee5cb7fd10af5baa38f80f25f5b4a",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "zhTitle": null,
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "337133ac9fb12af1db84d163c1580eff1c9e9876",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "zhTitle": null,
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "publishedAt": "2026-07-27T09:32:20.000Z",
-      "category": "其他"
     }
   ]
 }
