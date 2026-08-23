@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T03:04:17.997Z",
+  "generatedAt": "2026-08-23T04:39:13.133Z",
   "items": [
+    {
+      "id": "7a040e9c44ff64d75d3244ab94f9ecff17231be6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Andreessen Horowitz Focus of DOJ Probe over Board Directors",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://finance.yahoo.com/technology/ai/articles/andreessen-horowitz-focus-doj-probe-171350711.html",
+      "publishedAt": "2026-08-23T04:31:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "899756697a18d185fcc57923428766db328c6b34",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Activity Monitor for AI Application on Mac OS X",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://popy.app/apps/corral",
+      "publishedAt": "2026-08-23T04:23:35.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "7dd2c0c9003daecff36588013239ea1268292d75",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "publishedAt": "2026-08-23T04:03:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2713e6d9f03d3179c258d5fe377c31d0eacc1e43",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Java's String.indexOf can be slow (quadratic)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic",
+      "publishedAt": "2026-08-23T03:52:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "de2139dcb3d662c53c773a6306d9e0b756c97a6d",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/AntoineChatry/Dictata",
+      "publishedAt": "2026-08-23T03:50:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d027899622852957266808a378dee369cf91be9b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/subcountability/status/2091164267827327042",
+      "publishedAt": "2026-08-23T03:47:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1bd2d44a4bb30c8e46c8c610c914d7c1a416a42f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Power Scaling Cuts Both Ways",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
+      "publishedAt": "2026-08-23T03:24:32.000Z",
+      "category": "其他"
+    },
     {
       "id": "0e158d95f4ce15230b140c77a27a96d56dbfb35a",
       "sourceId": "hn-ai",
@@ -291,18 +375,6 @@
       "category": "其他"
     },
     {
-      "id": "6f6638aa1f5beee1bffe108ed7b5810483ab10e2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Spiel – watch your own files on every device",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://spielplayer.com",
-      "publishedAt": "2026-08-22T21:56:17.000Z",
-      "category": "其他"
-    },
-    {
       "id": "ca1bb3e81f45e80ca5f60a13587d5bd311530182",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -324,54 +396,6 @@
       "zhSummary": null,
       "url": "https://mapathak-commits.github.io/inference-wall/articles/primer",
       "publishedAt": "2026-08-22T21:42:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "85393f47a97ecffe535029af51deafcce7ef7e43",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Contra Anthropic: AI is not 'structurally' centralizing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing",
-      "publishedAt": "2026-08-22T21:40:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6d0e044796734d9afbef9aabb7733db62a2278d1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.phoronix.com/news/Linux-7.3-Networking",
-      "publishedAt": "2026-08-22T21:39:39.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "3bea3ed5a4cecc1e0bbc14dbfd0ea64ffc2b988d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Building a Soft Display (Air powered) [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=RTOARC-yeMc",
-      "publishedAt": "2026-08-22T21:30:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "59fe724baf0edc9a426164c1ed3ea7101515fcb7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Yam – Local AST-based plagiarism detector (MOSS, JPlag, Turnitin alternative)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://gitlab.com/shamtech.ai/yam",
-      "publishedAt": "2026-08-22T21:16:42.000Z",
       "category": "其他"
     },
     {
@@ -804,30 +828,6 @@
       "zhSummary": null,
       "url": "https://www.lesswrong.com/posts/wYpjXRLqbLbnmjbJP/llms-are-still-mostly-powered-by-imitative-learning-not-rl",
       "publishedAt": "2026-08-21T16:07:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7a3fdc69759d29e14f3f9dedd1052ade8faf39e2",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
-      "zhTitle": null,
-      "summary": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day. The mysteries are all written by LLMs. Some are better than others, but most work nicely. The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE for content updates, and a turn-based game engine written as a Temporal workflow. Check out the my",
-      "zhSummary": null,
-      "url": "https://whodunit.rip",
-      "publishedAt": "2026-08-21T16:04:49.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "3eb3def268ad606f668a0ac1e56d52dbcb1db49d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLMs are proof that Unix won",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://bastian.rieck.me/blog/2026/unix",
-      "publishedAt": "2026-08-21T15:59:16.000Z",
       "category": "其他"
     },
     {
