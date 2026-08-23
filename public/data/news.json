@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T18:32:17.693Z",
+  "generatedAt": "2026-08-23T20:25:41.798Z",
   "items": [
+    {
+      "id": "055017b0a06036dc3a91c7e91247075d0fb74739",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "zhTitle": null,
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
+      "publishedAt": "2026-08-23T20:01:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "02dbe79386a6916414afc264125769f5eb1ea546",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Quoting Drew Breunig",
+      "zhTitle": null,
+      "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible. But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig",
+      "publishedAt": "2026-08-23T19:55:30.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "5781c024565a9e9e81f5c4b51908e56e557ab63f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "zhTitle": null,
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
+      "publishedAt": "2026-08-23T19:14:08.000Z",
+      "category": "工具"
+    },
     {
       "id": "3fff31f0ded01f70bdb76151bfcd702017ccbff7",
       "sourceId": "techcrunch-ai",
@@ -1011,18 +1047,6 @@
       "category": "其他"
     },
     {
-      "id": "58297c5880255cb0143301658392c51ee928ad3b",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "zhTitle": null,
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
-      "publishedAt": "2026-08-20T18:20:35.000Z",
-      "category": "工具"
-    },
-    {
       "id": "d67e105d160462b416d33ea6b2061a14366ea5f0",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1201,18 +1225,6 @@
       "url": "https://arxiv.org/abs/2608.20285v1",
       "publishedAt": "2026-08-20T17:20:09.000Z",
       "category": "其他"
-    },
-    {
-      "id": "81d194be8e0a17c10152f3c3c017214812eac2d6",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "zhTitle": null,
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
-      "publishedAt": "2026-08-20T17:18:58.000Z",
-      "category": "研究"
     },
     {
       "id": "e2230525507edceb0b4fce303cd5c5053479ba92",
@@ -2893,18 +2905,6 @@
       "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text",
       "publishedAt": "2026-08-11T23:48:35.000Z",
       "category": "政策"
-    },
-    {
-      "id": "9098acb81a2966acc9f6cd8e6f69a3e91a670595",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "zhTitle": null,
-      "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name ( stolen-thoughts.com ) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
-      "publishedAt": "2026-08-11T22:40:45.000Z",
-      "category": "模型发布"
     },
     {
       "id": "fc18235bff71058eab9ac5f1f5bb617b3b07a654",
