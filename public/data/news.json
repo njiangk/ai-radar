@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T01:27:50.402Z",
+  "generatedAt": "2026-08-23T03:04:17.997Z",
   "items": [
+    {
+      "id": "0e158d95f4ce15230b140c77a27a96d56dbfb35a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/gojiplus/layoutlens",
+      "publishedAt": "2026-08-23T02:33:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "91ae94a813eb2d8ea0341f9704f16c5a6666027f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
+      "publishedAt": "2026-08-23T02:27:20.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "09341d148a28ea462691ac8aa0ae253508b955e1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Chip Architectures",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "publishedAt": "2026-08-23T02:25:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "69e79de31c0e441bb515b14e616a4955956432ac",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.19760",
+      "publishedAt": "2026-08-23T02:07:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "db9bb7eb629c4355dcdae202150c7829ee138215",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Apple degrades privacy and encryption of iMessage with AI integrations",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/stevemoraco/status/2091194172917338520",
+      "publishedAt": "2026-08-23T01:41:02.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "302f36d19451caa5ca1d550941ea63a990318187",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+      "publishedAt": "2026-08-23T01:31:06.000Z",
+      "category": "其他"
+    },
     {
       "id": "47804206f8a65ce11445ce10ebdd79a4cf941328",
       "sourceId": "hn-ai",
@@ -315,18 +387,6 @@
       "category": "其他"
     },
     {
-      "id": "9a876225de70d84d78882d1c9285b86a2e7f32c1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The importance of teaching students what AI can't do",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
-      "publishedAt": "2026-08-22T21:06:27.000Z",
-      "category": "其他"
-    },
-    {
       "id": "686686b80dcf4d54eb5c0f7e3858bca133a2840a",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -363,15 +423,15 @@
       "category": "工具"
     },
     {
-      "id": "ed85d4ffce7ba6f3583eaa41277678dad6abab13",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Domain Driven AI",
+      "id": "9a171ab3f606b84b249efeb62dc4e442c310a4da",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Fast and Hard Code",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
-      "url": "https://pedromadruga.com/blog/domain-driven-ai",
-      "publishedAt": "2026-08-22T19:42:19.000Z",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code",
+      "publishedAt": "2026-08-22T19:56:38.000Z",
       "category": "其他"
     },
     {
@@ -384,54 +444,6 @@
       "zhSummary": null,
       "url": "https://github.com/blanham/qemu-NeXT",
       "publishedAt": "2026-08-22T19:38:11.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "42c54720f072dfff9cebdf89341e092f1100892f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Retailers Want AI to Solve Online Shopping's Biggest Problem",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns",
-      "publishedAt": "2026-08-22T19:26:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "710cf2d96d463b3046429bf8d863b703cf55be55",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
-      "publishedAt": "2026-08-22T19:11:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e27266507cd21b897783f55381bc8669900239e5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "If you're not using AI to attack your own systems, your adversaries will",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
-      "publishedAt": "2026-08-22T19:06:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "59eb4791af164658e70af9f851fef9b82763fede",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
-      "publishedAt": "2026-08-22T19:02:54.000Z",
       "category": "其他"
     },
     {
@@ -759,6 +771,18 @@
       "category": "其他"
     },
     {
+      "id": "fd3f5bbbc04ede1e17f0b540418f00f096418e79",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+      "publishedAt": "2026-08-21T16:27:52.000Z",
+      "category": "其他"
+    },
+    {
       "id": "2b90eef6053740b64e7d3eb8e7c6cd5c08ce49e9",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -807,42 +831,6 @@
       "category": "其他"
     },
     {
-      "id": "ce4b46507c231e5dba3cf628436729a169b88cf5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Bounded GenAI metrics from Otel traces with O raw prompts",
-      "zhTitle": null,
-      "summary": "Hi friends, Author here. Like to present a project I&#x27;ve been working on - Otelcol-GenAI-Sketches, a Otel connector that works on genai&#x2F;agent traces, and summarizes them (via sketches), to produce: ( ) exact request counts&#x2F;totals for tokens; ( ) distinct users&#x2F;prompts (estimates) (*) &#x27;heavy&#x27; items in terms of tokens Why does this exist: I&#x27;m a data scientist by pro",
-      "zhSummary": null,
-      "url": "https://github.com/llm-measurement/otelcol-genai-sketches",
-      "publishedAt": "2026-08-21T15:37:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e8fefae054c16b6f78627b41f5a5c3b86c13d857",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "A single well aimed cosmic ray can demolish a LLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://spock.is/writing/simulating-cosmic-rays-to-lobotomize-llms",
-      "publishedAt": "2026-08-21T15:11:22.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0d00b5dc28354ffe2200c302d8174aa08e837621",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Code Obfuscation via Local Mixing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
-      "publishedAt": "2026-08-21T15:11:10.000Z",
-      "category": "其他"
-    },
-    {
       "id": "5d2883141182dc2632add9d394cf9d843704ff66",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -855,16 +843,16 @@
       "category": "产品"
     },
     {
-      "id": "07df96f773dfa17004bb170ff53478a8356c4f06",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Muteval – mutation testing for your LLM evals",
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "zhTitle": null,
-      "summary": "",
+      "summary": "There's about to be a big fight to secure access to space.",
       "zhSummary": null,
-      "url": "https://github.com/AshwinUgale/muteval",
-      "publishedAt": "2026-08-21T14:42:57.000Z",
-      "category": "其他"
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
@@ -877,18 +865,6 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
-    },
-    {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
     },
     {
       "id": "e16f2484c31fe5402b8ef2b3e4ec87d571e0b465",
@@ -1071,6 +1047,18 @@
       "category": "研究"
     },
     {
+      "id": "76bef101769705c93034dde885ebde7d3182e812",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Information on trajectories: martingales and random times",
+      "zhTitle": null,
+      "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures what each one discards. The tail a bound controls is itself a relative entropy, resolved by the chain rule into per-step con",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20337v1",
+      "publishedAt": "2026-08-20T17:59:57.000Z",
+      "category": "其他"
+    },
+    {
       "id": "a8ed76e33167e1d940ea94a00c38e3644df58c4b",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1081,6 +1069,30 @@
       "url": "https://arxiv.org/abs/2608.20331v1",
       "publishedAt": "2026-08-20T17:59:46.000Z",
       "category": "其他"
+    },
+    {
+      "id": "fe499c0eb39934981db44f6b66121ff35abe0eb9",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+      "zhTitle": null,
+      "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classifier. Existing targets, however, suffer from inherent ambiguity: they assign overlapping confidence",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20326v1",
+      "publishedAt": "2026-08-20T17:58:50.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "d25623ebaaffd36dedc6d93c57f8519fb37936b7",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+      "zhTitle": null,
+      "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband (IR-UWB), and Wi-Fi sensing are rarely compared under identical deployment conditions, as existing studies typically differ in hardware, datasets, and evaluation methodologies. In addi",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20322v1",
+      "publishedAt": "2026-08-20T17:58:22.000Z",
+      "category": "融资"
     },
     {
       "id": "aab1dde831f8dd097879bd68c6591871b036b431",
@@ -1131,6 +1143,18 @@
       "category": "其他"
     },
     {
+      "id": "095ed1a6cc5d81818151ae246050fa1b2ea409ca",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+      "zhTitle": null,
+      "summary": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that enc",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20315v1",
+      "publishedAt": "2026-08-20T17:54:17.000Z",
+      "category": "研究"
+    },
+    {
       "id": "e0ba484df4ec09021640b3526cee1cf7e6e09b3d",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1141,6 +1165,18 @@
       "url": "https://arxiv.org/abs/2608.20314v1",
       "publishedAt": "2026-08-20T17:53:59.000Z",
       "category": "研究"
+    },
+    {
+      "id": "6f112348d56c1850f743e1de760934f588fe7206",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
+      "zhTitle": null,
+      "summary": "Sparse pursuit after dictionary learning can yield a precise atom support even when its physical interpretation is not justified by the calibration data, especially for highly coherent dictionaries where alternative calibration-compatible dictionaries may assign different physical meanings to the same selected support. We develop resolution-aware physical-support inference that jointly accounts fo",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20295v1",
+      "publishedAt": "2026-08-20T17:35:26.000Z",
+      "category": "其他"
     },
     {
       "id": "f3338c918ca49bdae19da9e378d2f88557452928",
@@ -1167,6 +1203,18 @@
       "category": "模型发布"
     },
     {
+      "id": "3cca5cdec73cdc45aa1f4d26f183d39e70410fcc",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Dynamic Structural Causal Modeling for Sleep",
+      "zhTitle": null,
+      "summary": "The causal dynamics of sleep-disordered breathing are complex and vary across patient populations, hindering the development of targeted interventions. We learn dynamic causal graphs of sleep-disordered breathing from Home Sleep Apnea Test (HSAT) recordings, revealing systematic differences in causal structure across sex and age subcohorts. We do so using the PCMCI+ algorithm on windowed fractiona",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20285v1",
+      "publishedAt": "2026-08-20T17:20:09.000Z",
+      "category": "其他"
+    },
+    {
       "id": "81d194be8e0a17c10152f3c3c017214812eac2d6",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1189,6 +1237,18 @@
       "url": "https://arxiv.org/abs/2608.20281v1",
       "publishedAt": "2026-08-20T17:14:24.000Z",
       "category": "研究"
+    },
+    {
+      "id": "33c9b48905ee7183414c224a97a07a229150dfc7",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders",
+      "zhTitle": null,
+      "summary": "Semantic caches reuse an LLM response when the incoming query embedding lies near a cached query, but proposed eviction policies have rarely been compared under one protocol. Using CLEVER, we evaluate FIFO, LRU, LFU, ARC, GDSF, a single-pass streaming adaptation of SISO, and a semantic-redundancy policy across three ordered, deduplicated query corpora, three cache capacities, and two encoders. No",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20280v1",
+      "publishedAt": "2026-08-20T17:14:19.000Z",
+      "category": "政策"
     },
     {
       "id": "990ea766961f722ec0a7ec7647333eb7a2594044",
@@ -1215,6 +1275,18 @@
       "category": "研究"
     },
     {
+      "id": "a23bc2b2f7f62e8798bab895159c6427a15dc488",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "DICS: Data-Informed Centroid Splitting for Decision Tree Classifiers",
+      "zhTitle": null,
+      "summary": "Decision tree-based models are widely used in machine learning due to their interpretability and strong empirical performance. However, training decision trees can be computationally expensive, particularly for large and high-dimensional datasets, largely due to the exhaustive search over candidate splits at each node. To improve computational efficiency, we propose Data-Informed Centroid Splittin",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20258v1",
+      "publishedAt": "2026-08-20T16:54:17.000Z",
+      "category": "研究"
+    },
+    {
       "id": "78a63fe337932a41956a6dcb97318bc076425144",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1224,6 +1296,18 @@
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2608.20256v1",
       "publishedAt": "2026-08-20T16:54:08.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "4ca59d99572d86725c9b5bbca51800a71ba0905c",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Transfer Learning in Nonparametric Regression with Deep ReLU Networks",
+      "zhTitle": null,
+      "summary": "This paper develops a general transfer learning framework for nonparametric regression with data consisting of multiple groups. Under the assumption that groups share a common structure along with group-specific deviations in additive form, the proposed method employs a two-stage offset learning procedure: the first stage pools data from all groups to estimate an overall mean function, and the sec",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20255v1",
+      "publishedAt": "2026-08-20T16:53:00.000Z",
       "category": "研究"
     },
     {
@@ -1297,6 +1381,18 @@
       "url": "https://arxiv.org/abs/2608.20229v1",
       "publishedAt": "2026-08-20T16:24:09.000Z",
       "category": "产品"
+    },
+    {
+      "id": "4d6153d6834fd8bf58cd529a672e788b78ced3ac",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Gravitational-wave parameter estimation with machine-learning generated surrogate waveforms",
+      "zhTitle": null,
+      "summary": "The worldwide network of gravitational-wave detectors have detected more than 350 binary coalescence events till date. Future third-generation detectors, like Einstein telescope, are expected to detect orders-of-magnitude more signals from sources with more complicated characteristics, including eccentric orbits and high-mass ratio binaries. It is well-established that the computational cost of pa",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20222v1",
+      "publishedAt": "2026-08-20T16:20:55.000Z",
+      "category": "其他"
     },
     {
       "id": "67969febfbbe2af8090f18754993b3453df16171",
@@ -1431,6 +1527,30 @@
       "category": "工具"
     },
     {
+      "id": "daa12e443a07f3c69aef4d4665fc0502d551d434",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Decoding silent reading from non-invasive EEG",
+      "zhTitle": null,
+      "summary": "Non-invasive decoding of inner speech faces a fundamental data problem: a corpus pairing brain activity with a person's spontaneous inner monologue cannot be collected, and the available proxy paradigms (cued repetitive and retrospectively reported generative inner speech) are slow to acquire, poorly time-locked, and subject compliance is unverifiable. We therefore treat silent reading as a scalab",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20186v1",
+      "publishedAt": "2026-08-20T15:41:05.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "ee6d83ada90ac8777ab56817efcb14ef9077211d",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Exact Algebraic Computation of Learning Coefficients for Two-Dimensional Singular Models",
+      "zhTitle": null,
+      "summary": "Classical information criteria such as the Bayesian Information Criterion (BIC) rely on regularity assumptions that break down for singular models, leading to incorrect model selection in settings such as deep learning. The Widely Applicable Bayesian Information Criterion (WBIC) relies on local learning coefficients $λ$, which in the analytic case coincides with local Real Log Canonical Thresholds",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20183v1",
+      "publishedAt": "2026-08-20T15:40:50.000Z",
+      "category": "产品"
+    },
+    {
       "id": "356bdab6beb75ab8ed388067b3b63eeddca0bfc1",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -1453,6 +1573,18 @@
       "url": "https://arxiv.org/abs/2608.20181v1",
       "publishedAt": "2026-08-20T15:35:36.000Z",
       "category": "融资"
+    },
+    {
+      "id": "94de6e0692ddb5e4b4af9d41e4bed3d62345e226",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Ask Self, Ask Others: Relation Is All You Need",
+      "zhTitle": null,
+      "summary": "Attention directly derives normalized information flow from pairwise scores. We introduce Relation, an alternative token-mixing primitive that first organizes pairwise evidence into explicit Self and Exchange relations and derives information flow afterward. This relational organization gives rise to Full Relation, FlashRelation, Linear Relation, Hybrid Relation, and a KV-style Relation Cache. Acr",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20172v1",
+      "publishedAt": "2026-08-20T15:27:25.000Z",
+      "category": "其他"
     },
     {
       "id": "5bcda1f61096914851c3e859fa458a9c8548ee3e",
@@ -1479,6 +1611,18 @@
       "category": "研究"
     },
     {
+      "id": "2acb695a3c20aaefb9505de7c87cf18dd4ead65e",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Feature Evolution and Migration during Vision Transformer Training",
+      "zhTitle": null,
+      "summary": "We present a novel view on feature evolution in Vision Transformers (ViTs) by visualizing the training process over two dimensions -- network depth (layer) and training time (epochs). We employ Sparse Autoencoders (SAEs) to extract candidate sparse features from CLS-token representations and compare their activation profiles across epoch--layer pairs. This allows us to study feature-level dynamics",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20134v1",
+      "publishedAt": "2026-08-20T15:00:21.000Z",
+      "category": "研究"
+    },
+    {
       "id": "108d7c9079ad8bdd5f6618e0944a4350b48a5113",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1489,6 +1633,30 @@
       "url": "https://arxiv.org/abs/2608.20129v1",
       "publishedAt": "2026-08-20T14:56:15.000Z",
       "category": "其他"
+    },
+    {
+      "id": "274dbc6324c933643bd3d12e0736b0af45878500",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo",
+      "zhTitle": null,
+      "summary": "We study inference-time control for text generation in discrete diffusion language models, where the goal is to steer sampling toward sequence-level rewards without retraining. Prior work in this domain has focused on particle-based methods such as best-of-$n$ sampling and bootstrap sequential Monte Carlo, which may suffer from overoptimism and weight degeneracy, respectively. We address these lim",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20123v1",
+      "publishedAt": "2026-08-20T14:52:17.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "ccf690c73a5f56b1b7fc605d9996c3382131dce2",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "SAE-Xplainers: Rule-Based Feature Interpretation for Extreme Earth Events",
+      "zhTitle": null,
+      "summary": "The emergence of large-scale Weather and Climate (W&C) datasets offers new opportunities for modeling extreme Earth events (ExEE) and their impacts using deep learning. However, their adoption in operational settings remains limited by the lack of models' interpretability. While for conventional text and image modalities, tools such as Sparse Autoencoders (SAEs) have proven effective for extractin",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20117v1",
+      "publishedAt": "2026-08-20T14:49:26.000Z",
+      "category": "工具"
     },
     {
       "id": "f05f106695bb35c83c0b2b09b8931d45b9c88d15",
@@ -1513,6 +1681,18 @@
       "url": "https://arxiv.org/abs/2608.20106v1",
       "publishedAt": "2026-08-20T14:37:22.000Z",
       "category": "融资"
+    },
+    {
+      "id": "06ae00d4c49332ce0a411120c38eccfa70accaea",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Structured Affinity for Unsupervised Visual Class-Incremental Memory in Deep Artificial Immune Networks",
+      "zhTitle": null,
+      "summary": "Artificial immune networks (AINs) are naturally memory-forming systems, but conventional visual AINs often rely on flattened vector affinity that ignores spatial structure. This paper studies whether structured, gradient-free immune affinity can make Deep AINs viable as replay-free visual class-incremental representation-memory learners. Visual B-cells are formalized as structured templates, inclu",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20104v1",
+      "publishedAt": "2026-08-20T14:34:54.000Z",
+      "category": "研究"
     },
     {
       "id": "55505e6cf471b8dc12f249a46d2d3a6e11d74983",
@@ -1548,6 +1728,18 @@
       "zhSummary": null,
       "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "publishedAt": "2026-08-20T14:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a06a220f56a3c00ac3773f8750e30da9fead9d7e",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
+      "title": "Orthogonal JEPA: Factorized Predictive States for Latent World Models",
+      "zhTitle": null,
+      "summary": "World models construct latent states that support prediction, planning, and reasoning about an underlying system. Joint-embedding predictive architectures (JEPAs) offer a direct way to learn such states by predicting targets in representation space instead of reconstructing every detail of the observation. Standard JEPAs, however, organize all predictable content through one target embedding and o",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.20065v1",
+      "publishedAt": "2026-08-20T13:59:57.000Z",
       "category": "其他"
     },
     {
@@ -3409,198 +3601,6 @@
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "publishedAt": "2026-07-29T10:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "6d964f10c3337bbc89e99f2ce7545a297b7b9cec",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "zhTitle": null,
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "df22037e3e0ff3eac5f159ecccf3538b3b9b51a5",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Scientific computing in the age of agentic AI",
-      "zhTitle": null,
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "publishedAt": "2026-07-28T17:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d81cfe08f75c7d6eb5b2b7bf8788ddfb1e29bfe5",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "zhTitle": null,
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "zhSummary": null,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "publishedAt": "2026-07-28T16:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "50bf9e90585ee5cb7fd10af5baa38f80f25f5b4a",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "zhTitle": null,
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "337133ac9fb12af1db84d163c1580eff1c9e9876",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "zhTitle": null,
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "publishedAt": "2026-07-27T09:32:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f143efbfe201f0407b0e218865c812c1de07681a",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How AI is expanding what people do at work",
-      "zhTitle": null,
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "publishedAt": "2026-07-27T03:30:00.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "8ff67d77127ccd24731c0636446168075996e8c8",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "publishedAt": "2026-07-27T00:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7569338ee0d35289de5fa0da2edc1227182b6ccd",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Launching Health in ChatGPT ",
-      "zhTitle": null,
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "37c9890bc32e7cee73233632c06a3e0ba488e007",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bd6ce42035f550014aca0a9800b9545ebfc3f46b",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "zhTitle": null,
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "130e23c4bd2f87cbb00eed71539e83ba22e3ccf1",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "zhTitle": null,
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "844ec17c612165f2a2cdc2910ffa0ae80294a9d5",
-      "sourceId": "google-ai-blog",
-      "sourceName": "Google AI Blog",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "zhTitle": null,
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-      "zhSummary": null,
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "fc3528d001b5387ae21e7c472c8bfa84d5042ee8",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Advancing the next era of national science",
-      "zhTitle": null,
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "publishedAt": "2026-07-22T12:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c54f46e53d48e3042d6e57aa12e7bc3272d032eb",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Introducing OpenAI Presence",
-      "zhTitle": null,
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "publishedAt": "2026-07-22T05:30:00.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "ce627deb992812dab28841a5cefd4963cd5314f8",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "zhTitle": null,
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/ntt-data",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "category": "产品"
     }
   ]
 }
