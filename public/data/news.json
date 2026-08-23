@@ -1,7 +1,175 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T04:39:13.133Z",
+  "generatedAt": "2026-08-23T06:43:24.726Z",
   "items": [
+    {
+      "id": "a67ac832f4fd09416413e46cd3397c45cbd68177",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Cache-Control for LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.gojiberries.io/cache-control-for-llms",
+      "publishedAt": "2026-08-23T06:26:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1a46c098bd026d856667ba8a32b8d9aade7f85ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Wild AI-related reliability incidents are coming",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "publishedAt": "2026-08-23T06:23:50.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d781486119fc59d4194f5c827d76b5a32508d90f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+      "publishedAt": "2026-08-23T06:16:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d2c1708ca52d675ddaf103c40fb06b58f275c1ee",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://topagent.lol",
+      "publishedAt": "2026-08-23T06:01:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f3d4e0925e8c7572c22833f89a93df14cedb1ffc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "China Is Building AI Models of American Voters",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+      "publishedAt": "2026-08-23T05:43:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "18837430aeb79567bf247567ff6de87d561efdd8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "publishedAt": "2026-08-23T05:40:43.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "f2c4ca19f0da0471fc92953b5c93f80f2909a0da",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+      "publishedAt": "2026-08-23T05:32:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7797cc7f64267fe5b068ba03878afa01a384c861",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Chinese Orgs Building AI Models of American Voters to Test Political Messages",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/nataliegwinters/status/2090814996687237570",
+      "publishedAt": "2026-08-23T05:19:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1f101c463c368624bed93be6102a26332d1ea8df",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "MailSift – Fast email and MX DNS validator Chrome extension",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://chromewebstore.google.com/detail/mailsift/aipolipnoajkejecehomimoglebbekdm",
+      "publishedAt": "2026-08-23T05:13:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "eb46aa070d319ae8f21d8f245c2079d36ce62b30",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vero.verina.io",
+      "publishedAt": "2026-08-23T04:59:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "79a7a5423161fa7791e675af435043d13b720843",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Hidden Pipeline Behind AI Search Visibility",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8",
+      "publishedAt": "2026-08-23T04:52:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "70241c30eb6ef3dcff794b80471148a9f5a21a8c",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Compile-Time Improvements in LLVM 23",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aengelke.net/llvm23-ct.html",
+      "publishedAt": "2026-08-23T04:51:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "44677a03eac5c65c41f9add92c84f673524b28ca",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+      "publishedAt": "2026-08-23T04:50:53.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5750fa4b7386553ca9ccb62c79ac570d993aeb08",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Who is the founder of 0x Alpha?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://openrouter.ai",
+      "publishedAt": "2026-08-23T04:46:35.000Z",
+      "category": "其他"
+    },
     {
       "id": "7a040e9c44ff64d75d3244ab94f9ecff17231be6",
       "sourceId": "hn-ai",
@@ -231,102 +399,6 @@
       "category": "其他"
     },
     {
-      "id": "0af302265d8647889342717136939cc9a15b4b26",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "You don't have to make money with AI. You could just be happier",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://hibernation.dev/posts/ai-for-happiness-not-money",
-      "publishedAt": "2026-08-22T23:59:34.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "5a1370cfd150dc7b20275fdcb3e3b258ec0653b5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI has failed to win people's trust. Its makers? less trusted",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-      "publishedAt": "2026-08-22T23:30:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6e9cca3d308c1891d2038cbed216969c37942fae",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI as a Co-Writer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://strawberry9.github.io/the-wrong-memory/cover.html",
-      "publishedAt": "2026-08-22T23:27:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2a65222a6ea2d02cc46502e8c1c49f9a662ecc73",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Real AI Crash Will Start This Year",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this",
-      "publishedAt": "2026-08-22T23:21:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2febe2144ffd5617f3d2c29d4aa95c170610ec2a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: MacAIApps – a directory of AI-powered Mac apps",
-      "zhTitle": null,
-      "summary": "I love discovering Mac apps that use AI, so I built MacAIApps to collect them in one place. You can browse by category and find apps you might otherwise miss.",
-      "zhSummary": null,
-      "url": "https://www.macaiapps.com",
-      "publishedAt": "2026-08-22T23:05:32.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "43da57ce8d6218c33271d9381e5684ba01d07f0e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Quiet on set. How AI transformed China's microdrama scene",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk",
-      "publishedAt": "2026-08-22T22:39:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "245d6840b85e351a69a1a42a1b095e60e81d71b0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How much is crawling your content worth to an AI bot?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot",
-      "publishedAt": "2026-08-22T22:35:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9bab1d54af60f2c0b1580d4ece38af8e4eed7fa6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "People vs. the AI Overlords",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords",
-      "publishedAt": "2026-08-22T22:32:42.000Z",
-      "category": "其他"
-    },
-    {
       "id": "5055f0dbc99c8d6821538a95847fe7f787ee1871",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -337,42 +409,6 @@
       "url": "https://twitter.com/percyliang/status/2090918065634684997",
       "publishedAt": "2026-08-22T22:27:39.000Z",
       "category": "研究"
-    },
-    {
-      "id": "3377c27b081e0284c6cb247c65aecb54d149e526",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "NanoGPT Speedrun Frontier",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "publishedAt": "2026-08-22T22:14:27.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6509875fdb4a08ce1a0ff99ea967fe2aa229c3d2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66",
-      "publishedAt": "2026-08-22T22:05:01.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "653ef197344c2d18606b360f12dbe66bca30c984",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The crisis of AI-generated mathematics",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.02859",
-      "publishedAt": "2026-08-22T22:04:49.000Z",
-      "category": "其他"
     },
     {
       "id": "ca1bb3e81f45e80ca5f60a13587d5bd311530182",
@@ -795,18 +831,6 @@
       "category": "其他"
     },
     {
-      "id": "fd3f5bbbc04ede1e17f0b540418f00f096418e79",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-      "publishedAt": "2026-08-21T16:27:52.000Z",
-      "category": "其他"
-    },
-    {
       "id": "2b90eef6053740b64e7d3eb8e7c6cd5c08ce49e9",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -817,18 +841,6 @@
       "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis",
       "publishedAt": "2026-08-21T16:07:32.000Z",
       "category": "工具"
-    },
-    {
-      "id": "e10d980f4496d4ad75df9ab5ad410bb39c7de21e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LLMs are (still) mostly powered by imitative learning, not RL",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lesswrong.com/posts/wYpjXRLqbLbnmjbJP/llms-are-still-mostly-powered-by-imitative-learning-not-rl",
-      "publishedAt": "2026-08-21T16:07:04.000Z",
-      "category": "其他"
     },
     {
       "id": "5d2883141182dc2632add9d394cf9d843704ff66",
@@ -3589,18 +3601,6 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "publishedAt": "2026-07-29T15:00:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "zhTitle": null,
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "publishedAt": "2026-07-29T10:00:00.000Z",
-      "category": "研究"
     }
   ]
 }
