@@ -1,7 +1,103 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T08:32:26.738Z",
+  "generatedAt": "2026-08-23T10:26:30.610Z",
   "items": [
+    {
+      "id": "36af0b98b5b568a7ca5fa3a210ae6aa17dcd31cb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21",
+      "publishedAt": "2026-08-23T10:23:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "403523c41ec070fde4839eb11034015eeb2e9fa2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Austrian mountain town [Leoben] finds niche in AI boom",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html",
+      "publishedAt": "2026-08-23T10:21:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4e68b5a49c0fdc11d48f70935b55d9154daa5cab",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Writing Without the Slop",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sfactory.dev",
+      "publishedAt": "2026-08-23T10:00:11.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3d9925888799f096d9f0eb4f7c4a6e38423ff2ff",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The Strange Foods",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://medium.com/luminasticity/the-strange-foods-0624e47c11f4",
+      "publishedAt": "2026-08-23T09:50:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "75a73f0d5f5385a681a4b6fd4b44f0009b4f6578",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "publishedAt": "2026-08-23T09:21:44.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "f08c6dc4d6e268e9bafa9e5e7aafbeb61881879b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How Is AI Transforming Academic Search?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search",
+      "publishedAt": "2026-08-23T09:09:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5b8aeb7726994dfe118192aeacfdcb60166c5b55",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The lost airports of SimCity 3000 (2002)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://web.archive.org/web/20021204030618/http://www.sc3000.com/knowledge/showarticle.cfm?id=0910&openItemID=",
+      "publishedAt": "2026-08-23T08:39:23.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7032d7caa35a807dbc8dcf61389ec84140e7a7ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=KJxfSIvv920",
+      "publishedAt": "2026-08-23T08:36:11.000Z",
+      "category": "其他"
+    },
     {
       "id": "64e1e139c5e4c4ea34a097795e5099321554c868",
       "sourceId": "hn-ai",
@@ -327,66 +423,6 @@
       "category": "其他"
     },
     {
-      "id": "d027899622852957266808a378dee369cf91be9b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/subcountability/status/2091164267827327042",
-      "publishedAt": "2026-08-23T03:47:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1bd2d44a4bb30c8e46c8c610c914d7c1a416a42f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Power Scaling Cuts Both Ways",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
-      "publishedAt": "2026-08-23T03:24:32.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0e158d95f4ce15230b140c77a27a96d56dbfb35a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/gojiplus/layoutlens",
-      "publishedAt": "2026-08-23T02:33:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "91ae94a813eb2d8ea0341f9704f16c5a6666027f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
-      "publishedAt": "2026-08-23T02:27:20.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "09341d148a28ea462691ac8aa0ae253508b955e1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Chip Architectures",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "publishedAt": "2026-08-23T02:25:10.000Z",
-      "category": "其他"
-    },
-    {
       "id": "69e79de31c0e441bb515b14e616a4955956432ac",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -396,30 +432,6 @@
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2608.19760",
       "publishedAt": "2026-08-23T02:07:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "db9bb7eb629c4355dcdae202150c7829ee138215",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Apple degrades privacy and encryption of iMessage with AI integrations",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/stevemoraco/status/2091194172917338520",
-      "publishedAt": "2026-08-23T01:41:02.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "302f36d19451caa5ca1d550941ea63a990318187",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
-      "publishedAt": "2026-08-23T01:31:06.000Z",
       "category": "其他"
     },
     {
@@ -711,30 +723,6 @@
       "category": "模型发布"
     },
     {
-      "id": "5f11dca1c8a4bab287322b32ad47fd4df091dd0f",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Replacing 223-node agent graph with a single OSS LLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
-      "publishedAt": "2026-08-21T23:10:52.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ec74d4d3ec74d7516915232a1697bbea2371a357",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "zhTitle": null,
-      "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th t",
-      "zhSummary": null,
-      "url": "https://ozbrain.com",
-      "publishedAt": "2026-08-21T23:09:06.000Z",
-      "category": "研究"
-    },
-    {
       "id": "c3928314b15f8ce4d23494feeb9ec8ad49d04c01",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -781,30 +769,6 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
       "publishedAt": "2026-08-21T19:43:39.000Z",
       "category": "研究"
-    },
-    {
-      "id": "fdeb7a0ada48ab95d56d93f1c71999875b903ec3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "A limit order book and matching engine in Go",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://intrepidkarthi.github.io/orderbook",
-      "publishedAt": "2026-08-21T19:03:17.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "168b378cc80ded1e44d14cd7bc4bb22c48eda09a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Traccia - Observability, Runtime Control & Audit for agents",
-      "zhTitle": null,
-      "summary": "AI applications are becoming agents, which has started to take autonomous decisions. There are plenty of tools and platform available to trace, and observe what an agent or llms calls does. They are good in what they do, but tracing and observability isnt enough for AI agents era. We need a solution that can help you observe, evaluate, create run time policies to govern and finally audit the actio",
-      "zhSummary": null,
-      "url": "https://traccia.ai",
-      "publishedAt": "2026-08-21T18:20:16.000Z",
-      "category": "工具"
     },
     {
       "id": "10e3fbb000b426e38feacf59752378d7e0f1431d",
@@ -855,18 +819,6 @@
       "category": "产品"
     },
     {
-      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "zhTitle": null,
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -877,6 +829,18 @@
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "融资"
+    },
+    {
+      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "zhTitle": null,
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "工具"
     },
     {
       "id": "e16f2484c31fe5402b8ef2b3e4ec87d571e0b465",
@@ -3601,6 +3565,42 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "publishedAt": "2026-07-29T15:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "14fd05ad34f9923ee3b272a35b3cb1238aa811dc",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "zhTitle": null,
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "6d964f10c3337bbc89e99f2ce7545a297b7b9cec",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "zhTitle": null,
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "df22037e3e0ff3eac5f159ecccf3538b3b9b51a5",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Scientific computing in the age of agentic AI",
+      "zhTitle": null,
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "publishedAt": "2026-07-28T17:00:00.000Z",
+      "category": "其他"
     }
   ]
 }
