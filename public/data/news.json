@@ -1,7 +1,139 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T12:43:04.159Z",
+  "generatedAt": "2026-08-23T14:25:46.131Z",
   "items": [
+    {
+      "id": "b8885548b7fa0b29f5eb52d3a0bdd2e750a04629",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "IETF Publication- Closing Apple-Siri EU Deadlock Without Sacrificing Security",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://datatracker.ietf.org/doc/html/draft-das-execution-finality-ai-interoperability-00",
+      "publishedAt": "2026-08-23T14:24:20.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "36a58a3d58419260bef71fb882494fc18fe60618",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ericpardee.github.io/fire-hd-ownership",
+      "publishedAt": "2026-08-23T14:23:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e2d7ad3e171ad8ae1ad66dde1d5b8768e619f4e9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "publishedAt": "2026-08-23T14:16:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "172bde13f827c6abdceac507c43b92536a8cb679",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Do LLMs dream of electric sheep?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vpablo.dev/articles/llm-thinking.html",
+      "publishedAt": "2026-08-23T14:16:38.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bc4a5a337e4c7ef6d657858942b9ad11737f4fb2",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "How 'Beast Runner' finds missing hikers in Taiwan's mountains",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=LLyn8srpO9E",
+      "publishedAt": "2026-08-23T14:03:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "dfbd6354753a125e48361b83218b8c690b8bb432",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Airbus bows to remote working demands after series of strikes",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
+      "publishedAt": "2026-08-23T13:31:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "20e680093a83a555d932e78f61c554a2acd51f78",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Froging AI – image and video models in one workflow",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.froging.ai",
+      "publishedAt": "2026-08-23T13:30:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d22ad66ef2b3cf88d25e5b39d7aa34c598889aad",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Daimon – Local Privacy LLM",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/ar0per0/Daimon",
+      "publishedAt": "2026-08-23T13:26:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5d6d060446c59af1e974ef2185e35b2b9184e097",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Web-Search Latency Your Agent Pays",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://telem.ai/blog/latency-research",
+      "publishedAt": "2026-08-23T13:19:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "33ef60c41f70fbee23bdee86cd9d7ff67efcc16f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Yomif Kejelcha regains world half marathon record with 56:51 in Buenos Aires",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/world-half-marathon-record-buenos-aires-2026-yomif-kejelcha",
+      "publishedAt": "2026-08-23T13:03:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5d1ea27348056943e47f16fd62cc7a95ffec084b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Soofi S 31.6B. German Open Moe Explained",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://kie.ai/blog/what-is-soofi-s-31-6b",
+      "publishedAt": "2026-08-23T12:57:59.000Z",
+      "category": "其他"
+    },
     {
       "id": "b478029858908c71a7b1bb6c6459dcb3cedd38c8",
       "sourceId": "hn-ai",
@@ -267,21 +399,9 @@
       "category": "工具"
     },
     {
-      "id": "f08c6dc4d6e268e9bafa9e5e7aafbeb61881879b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How Is AI Transforming Academic Search?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search",
-      "publishedAt": "2026-08-23T09:09:54.000Z",
-      "category": "其他"
-    },
-    {
       "id": "5b8aeb7726994dfe118192aeacfdcb60166c5b55",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "The lost airports of SimCity 3000 (2002)",
       "zhTitle": null,
       "summary": "",
@@ -289,30 +409,6 @@
       "url": "https://web.archive.org/web/20021204030618/http://www.sc3000.com/knowledge/showarticle.cfm?id=0910&openItemID=",
       "publishedAt": "2026-08-23T08:39:23.000Z",
       "category": "其他"
-    },
-    {
-      "id": "7032d7caa35a807dbc8dcf61389ec84140e7a7ec",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=KJxfSIvv920",
-      "publishedAt": "2026-08-23T08:36:11.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "64e1e139c5e4c4ea34a097795e5099321554c868",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/free-news-api/news-search-api-comparison",
-      "publishedAt": "2026-08-23T08:30:32.000Z",
-      "category": "研究"
     },
     {
       "id": "a2edb3590a37159e18cd1e531361757c5b5f93b7",
@@ -324,54 +420,6 @@
       "zhSummary": null,
       "url": "https://www.xda-developers.com/someone-wired-up-seven-esp32s-to-create-a-04b-llm-and-so-can-you",
       "publishedAt": "2026-08-23T08:14:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a4b6b30b6530e447f9a76aaddb80c960295c1cd3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Orelon – AI Video Generator for Cinematic Creation",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://orelon.ai",
-      "publishedAt": "2026-08-23T08:08:13.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e7ed41d162b9fb2ec8af9622b76ca7c848f9c5ef",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Ksumiyo – AI music generation with producer-level controls",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ksumiyo.com",
-      "publishedAt": "2026-08-23T07:55:25.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cf3628262210dc7fa5e1cd9f504430fcabba252c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Zen of AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.dtlarson.com/zen",
-      "publishedAt": "2026-08-23T07:53:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6f1e2643ffe989dd73a9138776c08b492e18e1b8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A Test for AI Consciousness",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://gruhn.me/blog/2026-08-16",
-      "publishedAt": "2026-08-23T07:51:09.000Z",
       "category": "其他"
     },
     {
@@ -567,18 +615,6 @@
       "category": "其他"
     },
     {
-      "id": "c0f9d10986f5807194255dd00f9ddf078d85f069",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Why your local LLM feels dumber than it is",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "publishedAt": "2026-08-22T18:14:16.000Z",
-      "category": "其他"
-    },
-    {
       "id": "43aa0c036180460ecdc5fbd0f97ab64180e996ad",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -625,54 +661,6 @@
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
       "publishedAt": "2026-08-22T15:56:54.000Z",
       "category": "产品"
-    },
-    {
-      "id": "26c1a9456c0f6de0338dd35a5368eb0880648b63",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/mayafree/model-dna",
-      "publishedAt": "2026-08-22T15:20:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b2df6c64a8c7fab02e3eb33457f32b790181f112",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.13573",
-      "publishedAt": "2026-08-22T14:16:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d6ce8233066e0c52f478d877fdb803e75ac6bfd7",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Limnic Eruption",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://en.wikipedia.org/wiki/Limnic_eruption",
-      "publishedAt": "2026-08-22T04:08:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "065ffcd2361992d87c6ba68b73fb98bb9c1d982f",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
-      "publishedAt": "2026-08-22T03:33:34.000Z",
-      "category": "其他"
     },
     {
       "id": "bab546ab1a47bf588c5cd61ad2767f207f513595",
@@ -783,18 +771,6 @@
       "category": "产品"
     },
     {
-      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "zhTitle": null,
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -805,6 +781,18 @@
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "融资"
+    },
+    {
+      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "zhTitle": null,
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "工具"
     },
     {
       "id": "e16f2484c31fe5402b8ef2b3e4ec87d571e0b465",
@@ -3601,6 +3589,18 @@
       "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
       "publishedAt": "2026-07-28T13:00:00.000Z",
       "category": "产品"
+    },
+    {
+      "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "publishedAt": "2026-07-27T09:32:20.000Z",
+      "category": "其他"
     }
   ]
 }
