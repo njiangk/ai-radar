@@ -1,7 +1,103 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T06:43:24.726Z",
+  "generatedAt": "2026-08-23T08:32:26.738Z",
   "items": [
+    {
+      "id": "64e1e139c5e4c4ea34a097795e5099321554c868",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/free-news-api/news-search-api-comparison",
+      "publishedAt": "2026-08-23T08:30:32.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "a2edb3590a37159e18cd1e531361757c5b5f93b7",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Wiring up seven ESP32s to create a ~0.4B LLM",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.xda-developers.com/someone-wired-up-seven-esp32s-to-create-a-04b-llm-and-so-can-you",
+      "publishedAt": "2026-08-23T08:14:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a4b6b30b6530e447f9a76aaddb80c960295c1cd3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Orelon – AI Video Generator for Cinematic Creation",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://orelon.ai",
+      "publishedAt": "2026-08-23T08:08:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e7ed41d162b9fb2ec8af9622b76ca7c848f9c5ef",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Ksumiyo – AI music generation with producer-level controls",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ksumiyo.com",
+      "publishedAt": "2026-08-23T07:55:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cf3628262210dc7fa5e1cd9f504430fcabba252c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Zen of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.dtlarson.com/zen",
+      "publishedAt": "2026-08-23T07:53:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6f1e2643ffe989dd73a9138776c08b492e18e1b8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A Test for AI Consciousness",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gruhn.me/blog/2026-08-16",
+      "publishedAt": "2026-08-23T07:51:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "abc236fa3389df1a81c6afb47e0c917635e81fe8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "ISO 24495 [pdf]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://cdn.standards.iteh.ai/samples/78907/d194fac21d6a45f38bfcfec9657f7498/ISO-24495-1-2023.pdf",
+      "publishedAt": "2026-08-23T07:41:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f1df8f7719406b11130beb3ae731b287e5e657a0",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The Asymptote of Reality: The Hard Limit of Multimodal Models",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://medium.com/@lizka.k/the-asymptote-of-reality-the-hard-limit-of-multimodal-models-c68a1a09c2ca",
+      "publishedAt": "2026-08-23T07:23:12.000Z",
+      "category": "其他"
+    },
     {
       "id": "a67ac832f4fd09416413e46cd3397c45cbd68177",
       "sourceId": "hn-llm",
@@ -324,78 +420,6 @@
       "zhSummary": null,
       "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
       "publishedAt": "2026-08-23T01:31:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "47804206f8a65ce11445ce10ebdd79a4cf941328",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Agent2Creator – a video social network whose members are AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://agent2creator.vidmoat.com",
-      "publishedAt": "2026-08-23T01:00:10.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "13e7f8710578d4c93acec47da86d482277e823f3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Active Source of Truth for Your Coding Agents",
-      "zhTitle": null,
-      "summary": "Howdy! Happy Saturday everyone! As a solo founder, I have always tried to maximize my speed by letting coding agents build as much as possible in parallel. However, as an engineer, I don&#x27;t trust that AI will always make the right decisions and work with the right context. In the past, I always needed to click through my sessions to glance at the AI&#x27;s output, try to understand what it was",
-      "zhSummary": null,
-      "url": "https://meetless.ai",
-      "publishedAt": "2026-08-23T00:43:04.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "891074c82a973d65cd90770fc4bd78f6b559e3c6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.19202",
-      "publishedAt": "2026-08-23T00:40:48.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "398712a6d5d42ea72efbf26b1ac26862ab7c313b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/BenSiv/fossil-scm",
-      "publishedAt": "2026-08-23T00:36:50.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "8a52a891a7fe60ad953acbe15c863448bbb3d507",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Lower air pollution leads to increased warming",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/Electroversenet/status/2090891691649560717",
-      "publishedAt": "2026-08-23T00:22:07.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a420ee48dc6409815b0e0e3ec3781e0298969015",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Lens AI – generate your JSON-LD files and keep them up-to-date",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://knowledgelens.ai",
-      "publishedAt": "2026-08-23T00:09:42.000Z",
       "category": "其他"
     },
     {
@@ -807,30 +831,6 @@
       "category": "工具"
     },
     {
-      "id": "a47861a2eeef2d7257d4be0ad6b726998d8fc590",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Why your infrastructure is more important than the next LLM release",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.ito.ai/blog/ai-model-plateau-why-infrastructure-matters-more-next-release",
-      "publishedAt": "2026-08-21T16:43:41.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "33d21784e28bbde0afdb3bbc7b3b607b38f87184",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-      "zhTitle": null,
-      "summary": "Hi HN! I made a project that I found really fun and I&#x27;m proud of the idea and implementation. This first came up when speaking to a friend, we were talking around how to do steganography in natural text, and realized an LLM&#x27;s token choices are a natural channel. Steganeur accomplishes this by encoding a secret message into the token choices of a language model, producing cover text that",
-      "zhSummary": null,
-      "url": "https://github.com/marcsnid/steganeur",
-      "publishedAt": "2026-08-21T16:33:37.000Z",
-      "category": "其他"
-    },
-    {
       "id": "2b90eef6053740b64e7d3eb8e7c6cd5c08ce49e9",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -855,18 +855,6 @@
       "category": "产品"
     },
     {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
-    },
-    {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -877,6 +865,18 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
+    },
+    {
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "zhTitle": null,
+      "summary": "There's about to be a big fight to secure access to space.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "e16f2484c31fe5402b8ef2b3e4ec87d571e0b465",
