@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T14:45:07.076Z",
+  "generatedAt": "2026-08-24T16:42:04.226Z",
   "items": [
+    {
+      "id": "351f69dcf090598e6cfd6fe91e31035e26fd24a2",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "zhTitle": null,
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+      "publishedAt": "2026-08-24T15:24:18.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "141e6e188d62b50e0df0234f5edbd90bcc88a988",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "zhTitle": null,
+      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
+      "publishedAt": "2026-08-24T15:00:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "98b2d7b9008ecd7e8fa1944f4003fc3f83ec7812",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "zhTitle": null,
+      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion",
+      "publishedAt": "2026-08-24T15:00:41.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "bab768ba33831cbe2fbe08bf1fa4f9718b581fdd",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "zhTitle": null,
+      "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "publishedAt": "2026-08-24T15:00:19.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "b0c3b7c6480ea483addbd4b9b7f20b6c4b1b79f3",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "zhTitle": null,
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "publishedAt": "2026-08-24T15:00:00.000Z",
+      "category": "其他"
+    },
     {
       "id": "a0d4d26c02d5ff10bbe299f1844a992de8ab57e2",
       "sourceId": "mit-tr-ai",
@@ -1863,30 +1923,6 @@
       "category": "其他"
     },
     {
-      "id": "6559ffd0761d3cef99887ae0e5fa96d406e4e9aa",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "zhTitle": null,
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
-      "publishedAt": "2026-08-20T19:18:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f81b15d09a4b5f7c78e92f73fe89444d90e13d00",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "zhTitle": null,
-      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders",
-      "publishedAt": "2026-08-20T19:15:05.000Z",
-      "category": "政策"
-    },
-    {
       "id": "24bc711db44964d7f0eb5f5ba1957b396716833f",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -3435,30 +3471,6 @@
       "category": "其他"
     },
     {
-      "id": "33604144a555fc7a7db77939fdbaf80a393ee051",
-      "sourceId": "nvidia-ai",
-      "sourceName": "NVIDIA AI",
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
-      "zhTitle": null,
-      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of [&#8230;]",
-      "zhSummary": null,
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
-      "publishedAt": "2026-08-04T15:00:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "83875c3da0b1e436a6a1452ecb7dcb056f93f5f2",
-      "sourceId": "nvidia-ai",
-      "sourceName": "NVIDIA AI",
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "zhTitle": null,
-      "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines [&#8230;]",
-      "zhSummary": null,
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
-      "publishedAt": "2026-08-04T13:00:47.000Z",
-      "category": "其他"
-    },
-    {
       "id": "d3753d032c9898f4684c3f7e0912a0256d1bea12",
       "sourceId": "google-ai-blog",
       "sourceName": "Google AI Blog",
@@ -3589,18 +3601,6 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "publishedAt": "2026-07-31T00:00:00.000Z",
       "category": "融资"
-    },
-    {
-      "id": "f684c3a66a25993b3b1383e0e1572029a8c2c3f9",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "publishedAt": "2026-07-30T15:09:09.000Z",
-      "category": "其他"
     }
   ]
 }
