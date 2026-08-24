@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T12:54:34.992Z",
+  "generatedAt": "2026-08-24T14:45:07.076Z",
   "items": [
+    {
+      "id": "a0d4d26c02d5ff10bbe299f1844a992de8ab57e2",
+      "sourceId": "mit-tr-ai",
+      "sourceName": "MIT Tech Review",
+      "title": "How to encourage smarter AI use in the classroom",
+      "zhTitle": null,
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+      "zhSummary": null,
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies",
+      "publishedAt": "2026-08-24T14:20:19.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "7eabb76804645236ed9e60da74f3bd17e8340f0a",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "zhTitle": null,
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b",
+      "publishedAt": "2026-08-24T13:47:26.000Z",
+      "category": "融资"
+    },
     {
       "id": "b809feda75e8a682e11e16f57546bc9cda69f1d5",
       "sourceId": "simonwillison",
@@ -1875,18 +1899,6 @@
       "category": "其他"
     },
     {
-      "id": "f3338c918ca49bdae19da9e378d2f88557452928",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Grok keeps sending gibberish responses to users",
-      "zhTitle": null,
-      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
-      "publishedAt": "2026-08-20T17:32:16.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
@@ -2929,18 +2941,6 @@
       "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils",
       "publishedAt": "2026-08-12T19:51:30.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "109e5b269968bd9c5f4535a7817542438a8841cf",
-      "sourceId": "mit-tr-ai",
-      "sourceName": "MIT Tech Review",
-      "title": "Scaling AI agents with trustworthy data",
-      "zhTitle": null,
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
-      "zhSummary": null,
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data",
-      "publishedAt": "2026-08-12T16:51:57.000Z",
-      "category": "融资"
     },
     {
       "id": "e43158037a354e465e38b827db4fbb8dc3dd7c48",
