@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T16:42:04.226Z",
+  "generatedAt": "2026-08-24T18:43:27.592Z",
   "items": [
+    {
+      "id": "5c896f150adea24375743594bcf936f5eb61c0b1",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "zhTitle": null,
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "publishedAt": "2026-08-24T18:03:55.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "c7b3a805d903b8dcd8146190ac9e4398a916c75c",
+      "sourceId": "ars-ai",
+      "sourceName": "Ars Technica AI",
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "zhTitle": null,
+      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+      "zhSummary": null,
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china",
+      "publishedAt": "2026-08-24T16:41:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "48b0088ea68cb7535d359573804cdd495b7ed600",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.16603",
+      "publishedAt": "2026-08-24T16:30:21.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "42f46d423de7607a7ae14345eee0afedd1d5a3eb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "publishedAt": "2026-08-24T15:52:33.000Z",
+      "category": "其他"
+    },
     {
       "id": "351f69dcf090598e6cfd6fe91e31035e26fd24a2",
       "sourceId": "techcrunch-ai",
@@ -13,6 +61,18 @@
       "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
       "publishedAt": "2026-08-24T15:24:18.000Z",
       "category": "融资"
+    },
+    {
+      "id": "8e01f065f751d32d181fc06fbd19a8f74237a268",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "zhTitle": null,
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926",
+      "zhSummary": null,
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "publishedAt": "2026-08-24T15:08:17.000Z",
+      "category": "产品"
     },
     {
       "id": "141e6e188d62b50e0df0234f5edbd90bcc88a988",
@@ -99,6 +159,18 @@
       "category": "产品"
     },
     {
+      "id": "c2e4f54f7f8daedca1f8e4e18a9a1a1a164963f2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "We never use AI. For anything",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://corkmac.app/our-ai-stance",
+      "publishedAt": "2026-08-24T09:32:32.000Z",
+      "category": "其他"
+    },
+    {
       "id": "8210278e9edb18ab91a5bead643e0744c319343a",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -121,6 +193,18 @@
       "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning",
       "publishedAt": "2026-08-24T09:00:00.000Z",
       "category": "产品"
+    },
+    {
+      "id": "969a834ab81544b6aff75203e966e5219fa9d598",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "zhTitle": null,
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;paulg&#x2F;status&#x2F;2091544343589060625",
+      "zhSummary": null,
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "publishedAt": "2026-08-23T20:38:09.000Z",
+      "category": "其他"
     },
     {
       "id": "d6c0f7eda20e5ccabef02302d7bfc9be829f6989",
@@ -169,6 +253,30 @@
       "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
       "publishedAt": "2026-08-23T19:14:08.000Z",
       "category": "工具"
+    },
+    {
+      "id": "75a73f0d5f5385a681a4b6fd4b44f0009b4f6578",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "publishedAt": "2026-08-23T18:16:37.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "451496f8489c5cad64bee56b9be87cb775185f45",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "publishedAt": "2026-08-23T17:59:52.000Z",
+      "category": "其他"
     },
     {
       "id": "3fff31f0ded01f70bdb76151bfcd702017ccbff7",
@@ -591,42 +699,6 @@
       "category": "其他"
     },
     {
-      "id": "b662a5612676d398d05bbf93a0ab967a2dc2fcf8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "'AI refuser' quit her dream job, and hopes others follow",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-      "publishedAt": "2026-08-23T10:54:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "47028cd678a1d634a3242172fd02d16cf1fa1764",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-      "publishedAt": "2026-08-23T10:40:42.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "d4004493fe53e8a6f81314dcac4850b045ccf197",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI datasets (2.6k entries) – automated collection, updated daily",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/gemmozero",
-      "publishedAt": "2026-08-23T10:30:52.000Z",
-      "category": "产品"
-    },
-    {
       "id": "36af0b98b5b568a7ca5fa3a210ae6aa17dcd31cb",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -795,42 +867,6 @@
       "category": "其他"
     },
     {
-      "id": "db5c1439f231fe920510c330710e9693c2064b94",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Mortal Limits, Humans Minds",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://american-innocence.com/p/mortal-limits-humans-minds",
-      "publishedAt": "2026-08-22T20:51:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a326ef70b8e7f1f2f8b44d8c480604aff5f1ace3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: A tool that intentionally makes you forget your Screen Time passcode",
-      "zhTitle": null,
-      "summary": "iOS Screen Time is a fantastic app blocker because it&#x27;s built into the OS, unlike third party apps that can simply be uninstalled. The only problem is that it uses a 4 digit passcode. If I set the passcode myself, I can always override my app limits by tapping ignore limit and entering the screetime passcode. So I built WaitToUnlock.com. It&#x27;s a simple website that generates a random Scre",
-      "zhSummary": null,
-      "url": "https://waittounlock.com",
-      "publishedAt": "2026-08-22T20:17:44.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "9a171ab3f606b84b249efeb62dc4e442c310a4da",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Fast and Hard Code",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code",
-      "publishedAt": "2026-08-22T19:56:38.000Z",
-      "category": "其他"
-    },
-    {
       "id": "683931e34e4d9cf385236e1080b746eb4b3f6df0",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -889,6 +925,18 @@
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
       "publishedAt": "2026-08-22T15:56:54.000Z",
       "category": "产品"
+    },
+    {
+      "id": "6150fcefadd32d8cb5d1fc9c2cfcda2fafdfb70d",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "zhTitle": null,
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive",
+      "publishedAt": "2026-08-22T01:31:04.000Z",
+      "category": "研究"
     },
     {
       "id": "bab546ab1a47bf588c5cd61ad2767f207f513595",
@@ -1611,18 +1659,6 @@
       "category": "研究"
     },
     {
-      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "zhTitle": null,
-      "summary": "There's about to be a big fight to secure access to space.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "融资"
-    },
-    {
       "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1633,6 +1669,18 @@
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "工具"
+    },
+    {
+      "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "zhTitle": null,
+      "summary": "There's about to be a big fight to secure access to space.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "融资"
     },
     {
       "id": "39a4fef74cd266763bbc5058129040c4af952286",
@@ -1887,18 +1935,6 @@
       "category": "其他"
     },
     {
-      "id": "62b5f81689b5df135234770c6d16a8850924b8d3",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "zhTitle": null,
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
-      "publishedAt": "2026-08-20T22:09:51.000Z",
-      "category": "工具"
-    },
-    {
       "id": "abea01bdfec26a5b0f6f8eeb29333565f031f8e2",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -1909,18 +1945,6 @@
       "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "publishedAt": "2026-08-20T21:50:22.000Z",
       "category": "产品"
-    },
-    {
-      "id": "3b3e20700607b2dc0903ed3af7d4ab9f19cb61a9",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "zhTitle": null,
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
-      "publishedAt": "2026-08-20T20:53:13.000Z",
-      "category": "其他"
     },
     {
       "id": "24bc711db44964d7f0eb5f5ba1957b396716833f",
@@ -3159,18 +3183,6 @@
       "category": "其他"
     },
     {
-      "id": "bc6209d116ec8b241b071a0b306fdb7286e497a0",
-      "sourceId": "ars-ai",
-      "sourceName": "Ars Technica AI",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "zhTitle": null,
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "zhSummary": null,
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge",
-      "publishedAt": "2026-08-10T20:45:52.000Z",
-      "category": "其他"
-    },
-    {
       "id": "7a678e9a26d7e264e59b07c8d89347737c8a5e1c",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -3589,18 +3601,6 @@
       "url": "https://openai.com/index/unive",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "category": "产品"
-    },
-    {
-      "id": "c5ad624a6ffb30ef26980a02c1054847c6adbe53",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Disrupting a Criminal Scam Operation",
-      "zhTitle": null,
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "category": "融资"
     }
   ]
 }
