@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T10:40:28.467Z",
+  "generatedAt": "2026-08-24T12:54:34.992Z",
   "items": [
+    {
+      "id": "b809feda75e8a682e11e16f57546bc9cda69f1d5",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Your executable is a SQLite database",
+      "zhTitle": null,
+      "summary": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable & Linkable Format. The various components of the ELF executable format are then arranged into a numb",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database",
+      "publishedAt": "2026-08-24T11:38:15.000Z",
+      "category": "产品"
+    },
     {
       "id": "8210278e9edb18ab91a5bead643e0744c319343a",
       "sourceId": "wired-ai",
@@ -1515,18 +1527,6 @@
       "category": "研究"
     },
     {
-      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "zhTitle": null,
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "b52ad076c2d3ba4867432b335c0aa2551546c58f",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1537,6 +1537,18 @@
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
       "publishedAt": "2026-08-21T14:00:00.000Z",
       "category": "融资"
+    },
+    {
+      "id": "2a41c2a1a568cd405fd893f1ccf9a5b5950962ee",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "zhTitle": null,
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "工具"
     },
     {
       "id": "39a4fef74cd266763bbc5058129040c4af952286",
@@ -2953,18 +2965,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart",
       "publishedAt": "2026-08-12T15:19:17.000Z",
       "category": "其他"
-    },
-    {
-      "id": "60d2827b327373b8b3221815ac78d880d5139cd0",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "Quoting Florian Herrengt",
-      "zhTitle": null,
-      "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out. You go talk to the person who worked on this feature. \"So where does the data come from?\" \"Hmm... actually I don't know. Let me ask Claude.\" You sit next to each other watching an endless wall of text appear",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt",
-      "publishedAt": "2026-08-12T15:08:47.000Z",
-      "category": "模型发布"
     },
     {
       "id": "be69a27699ef3d78a53b35541b2d21ddef787474",
