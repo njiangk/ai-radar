@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T22:23:58.244Z",
+  "generatedAt": "2026-08-24T01:25:38.882Z",
   "items": [
     {
       "id": "d6c0f7eda20e5ccabef02302d7bfc9be829f6989",
@@ -1059,18 +1059,6 @@
       "category": "其他"
     },
     {
-      "id": "d67e105d160462b416d33ea6b2061a14366ea5f0",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-      "zhTitle": null,
-      "summary": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completely. Current approaches rely on disjoint forget and retain sets composed of independent facts, and measure success using simple and direct factual recall. This framing fails to capture a key requirement",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20338v1",
-      "publishedAt": "2026-08-20T17:59:57.000Z",
-      "category": "研究"
-    },
-    {
       "id": "76bef101769705c93034dde885ebde7d3182e812",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1587,18 +1575,6 @@
       "category": "研究"
     },
     {
-      "id": "c4ab2136090384525a4e6e2e838370816e72a593",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models",
-      "zhTitle": null,
-      "summary": "Large language models (LLMs) have shown growing potential for automated theoretical computer science (TCS) research, yet existing benchmarks remain far from realistic research settings. We introduce \\ourbenchmark, an expert-validated benchmark for evaluating LLMs on frontier, end-to-end TCS research. \\ourbenchmark contains $175$ instances drawn from papers accepted to STOC, FOCS, SODA, and COLT in",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20153v1",
-      "publishedAt": "2026-08-20T15:13:41.000Z",
-      "category": "研究"
-    },
-    {
       "id": "2acb695a3c20aaefb9505de7c87cf18dd4ead65e",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1609,18 +1585,6 @@
       "url": "https://arxiv.org/abs/2608.20134v1",
       "publishedAt": "2026-08-20T15:00:21.000Z",
       "category": "研究"
-    },
-    {
-      "id": "108d7c9079ad8bdd5f6618e0944a4350b48a5113",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving",
-      "zhTitle": null,
-      "summary": "Autonomous vehicles require robust perception and decision-making capabilities to operate in diverse and unseen scenarios. While reinforcement learning and rule-based methods can provide effective control and safety mechanisms, their performance may degrade in situations requiring contextual reasoning. Large Language Models (LLMs) have demonstrated strong capabilities in understanding multimodal i",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20129v1",
-      "publishedAt": "2026-08-20T14:56:15.000Z",
-      "category": "其他"
     },
     {
       "id": "274dbc6324c933643bd3d12e0736b0af45878500",
@@ -1647,30 +1611,6 @@
       "category": "工具"
     },
     {
-      "id": "f05f106695bb35c83c0b2b09b8931d45b9c88d15",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "When Text and Numbers Disagree: Evidence Arbitration in Large Language Models",
-      "zhTitle": null,
-      "summary": "Large language models (LLMs) are increasingly used in settings where textual summaries, numerical observations, and external tool outputs may provide conflicting evidence. We study how LLMs arbitrate between such sources when they support opposing decisions. To do so, we introduce a controlled synthetic benchmark in which latent risk trajectories generate both numerical time series and natural lan",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20116v1",
-      "publishedAt": "2026-08-20T14:48:30.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "7e91540f7043ecc99178ab034b604bd08eb25dd6",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "OenoBench: A Wine-Domain Benchmark for Knowledge-Grounded Evaluation of Large Language Models",
-      "zhTitle": null,
-      "summary": "We introduce OenoBench, a wine-domain knowledge benchmark of 3,266 multiple-choice questions across six pillars (regions, grape varieties, viticulture, winemaking, producers, business) and four difficulty tiers. The corpus is built from 38,104 atomic, source-anchored facts extracted by 35 provenance-verified scrapers from government registries (INAO, TTB, OIV), peer-reviewed journals, and Wikipedi",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20106v1",
-      "publishedAt": "2026-08-20T14:37:22.000Z",
-      "category": "融资"
-    },
-    {
       "id": "06ae00d4c49332ce0a411120c38eccfa70accaea",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1684,8 +1624,8 @@
     },
     {
       "id": "55505e6cf471b8dc12f249a46d2d3a6e11d74983",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design",
       "zhTitle": null,
       "summary": "LLM-based Multi-Agent Systems (MAS) achieve strong performance on complex reasoning tasks by coordinating multiple agents, but at the cost of substantial token consumption. Recent work on automatic topology design, ARG-Designer, has reframed this problem as autoregressive graph generation. However, its training objective provides no explicit incentive for the model to generate sparse and efficient",
@@ -1693,18 +1633,6 @@
       "url": "https://arxiv.org/abs/2608.20099v1",
       "publishedAt": "2026-08-20T14:32:01.000Z",
       "category": "研究"
-    },
-    {
-      "id": "59e78016410c1ba784f9eb1c522107c7a31d2110",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "SABET-QA: Temporal Knowledge Graph Question Answering",
-      "zhTitle": null,
-      "summary": "Question Answering over Temporal Knowledge Graphs (TKGQA) requires reasoning over time-sensitive facts, yet existing embedding-based methods struggle with multi-step queries due to single-pass reasoning pipelines. We propose SABET-QA, a framework that iteratively refines reasoning states across multiple hops via a bidirectional entity-temporal scoring mechanism and a slot-aware contextualization m",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20083v1",
-      "publishedAt": "2026-08-20T14:16:35.000Z",
-      "category": "其他"
     },
     {
       "id": "8d8f0f88980a9ae89671e6f1c45e97d02ebadbf2",
@@ -1732,8 +1660,8 @@
     },
     {
       "id": "8b0167c1162be6f5797dcb62c542fd593e01d124",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
       "zhTitle": null,
       "summary": "Mixture-of-Experts (MoE) architectures significantly expand model capacity without a proportional increase in computational cost. However, optimizing their hyperparameters---particularly the learning rate---at extreme scales of both model size and token budget via sweeping remains computationally prohibitive. In this paper, we propose a compute-efficient, two-step hyperparameter transfer framework",
@@ -1741,18 +1669,6 @@
       "url": "https://arxiv.org/abs/2608.20061v1",
       "publishedAt": "2026-08-20T13:57:43.000Z",
       "category": "研究"
-    },
-    {
-      "id": "ec3c966d70774e89b9f31de9c6e592fcba096e13",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Auditing Cross-Lingual Fairness in Language Model Watermarking",
-      "zhTitle": null,
-      "summary": "Watermarking schemes for large language model output are evaluated almost exclusively on English text using each scheme's detection threshold and a narrow set of quality measurements. Multilingual deployment exposes evaluation-design choices that are inconsequential on English but determine conclusions cross-lingually. We propose an evaluation framework with four components: detection thresholds c",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.20047v1",
-      "publishedAt": "2026-08-20T13:48:12.000Z",
-      "category": "融资"
     },
     {
       "id": "2bfd09fe03ca10a3e6775b69671653adce1606c4",
@@ -1779,54 +1695,6 @@
       "category": "产品"
     },
     {
-      "id": "dcccd23720d20e0ffd5f54de871245b32fb5dbdb",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "HealMed: Multilingual Evaluation of Large Language Models in Medicine",
-      "zhTitle": null,
-      "summary": "We present HealMed, an expert-reviewed benchmark for multilingual evaluation of large language models in medicine. HealMed contains 1,000 examples in each of nine languages, drawn from nine datasets and covering three task formats: MCQA, NLI and open-ended QA. The benchmark was developed over two years by 23 physicians and medical experts based across nine countries and regions. Each translation w",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.19981v1",
-      "publishedAt": "2026-08-20T12:52:09.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "60f5d0d407c768c27e66754154a55395ba20c873",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Robust Incomplete Multimodal Sentiment Analysis via Iterative Proxy Correction",
-      "zhTitle": null,
-      "summary": "Multimodal sentiment analysis aims to infer affective states by integrating language, visual, and acoustic cues. However, real-world multimodal inputs are often incomplete or corrupted, which can weaken cross-modal complementarity and introduce misleading information into downstream fusion. Existing proxy-based methods for incomplete MSA commonly rely on one-shot proxy construction to compensate f",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.19971v1",
-      "publishedAt": "2026-08-20T12:45:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dd7ebf03d24f1a1dce8e20d6c1ebe01b9ef23f0f",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Natural Language Code Retrieval for 1C:Enterprise: An Open Benchmark and Efficient Bi-Encoder",
-      "zhTitle": null,
-      "summary": "Natural language code retrieval is a rapidly evolving task in computer science. However, the 1C:Enterprise ecosystem combines Russian syntax with highly domain-specific terminology, for which open datasets and specialized models have been virtually non-existent. We present a comprehensive pipeline for 1C code retrieval: an open benchmark of 3,413 real-world, PII-scrubbed query-code pairs, a reprod",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.19957v1",
-      "publishedAt": "2026-08-20T12:24:53.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "47ae6f38e43719dc047c2a4ea51fe0a9c3e8d582",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Dynamic Gated Cross-Modal Fusion with Sarcastic-aware Contrastive Regularization for Multimodal Sarcasm Detection",
-      "zhTitle": null,
-      "summary": "Multimodal sarcasm detection aims to identify sarcastic intent from multimodal content, where inconsistencies between literal meaning and contextual cues often signal irony. This task has attracted increasing research attention. However, accurate detection remains challenging due to instance-dependent modality contributions and misleading semantic consistency, where surface-level alignment masks u",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.19942v1",
-      "publishedAt": "2026-08-20T12:02:06.000Z",
-      "category": "研究"
-    },
-    {
       "id": "b5d48fb4832376fe639aefcae051685c75155999",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -1837,18 +1705,6 @@
       "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "publishedAt": "2026-08-20T12:00:00.000Z",
       "category": "工具"
-    },
-    {
-      "id": "dbf212ba872ef4d16a7ff112d39b794becd16186",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Learning how to Forget: Fine-tuning for Long-Context Sparse Attention",
-      "zhTitle": null,
-      "summary": "A lot of prior work addressed key-value (KV) cache selection and compression by sparse attention to enable long-context inference for transformer language models without excessive hardware budgets. We provide a new method for fine-tuning models with sparse attention. It works for any KV cache policy, runs on a moderate hardware budget (e.g., a single Nvidia A100 GPU with 40 GB RAM), and allows the",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.19920v1",
-      "publishedAt": "2026-08-20T11:37:04.000Z",
-      "category": "政策"
     },
     {
       "id": "a8437161c20bafec226a7f7856f39c3b9cd76837",
@@ -3601,6 +3457,150 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "50bf9e90585ee5cb7fd10af5baa38f80f25f5b4a",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "zhTitle": null,
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "337133ac9fb12af1db84d163c1580eff1c9e9876",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "zhTitle": null,
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "9101339b1ac2463964352cfa5c8f9120dd19aef3",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "publishedAt": "2026-07-27T09:32:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f143efbfe201f0407b0e218865c812c1de07681a",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How AI is expanding what people do at work",
+      "zhTitle": null,
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "publishedAt": "2026-07-27T03:30:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "8ff67d77127ccd24731c0636446168075996e8c8",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7569338ee0d35289de5fa0da2edc1227182b6ccd",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Launching Health in ChatGPT ",
+      "zhTitle": null,
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "37c9890bc32e7cee73233632c06a3e0ba488e007",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bd6ce42035f550014aca0a9800b9545ebfc3f46b",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "zhTitle": null,
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "130e23c4bd2f87cbb00eed71539e83ba22e3ccf1",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "zhTitle": null,
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "844ec17c612165f2a2cdc2910ffa0ae80294a9d5",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "zhTitle": null,
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "fc3528d001b5387ae21e7c472c8bfa84d5042ee8",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Advancing the next era of national science",
+      "zhTitle": null,
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "publishedAt": "2026-07-22T12:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c54f46e53d48e3042d6e57aa12e7bc3272d032eb",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing OpenAI Presence",
+      "zhTitle": null,
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "publishedAt": "2026-07-22T05:30:00.000Z",
+      "category": "工具"
     }
   ]
 }
