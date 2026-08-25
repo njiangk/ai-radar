@@ -1,79 +1,78 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-25T06:54:31.298Z",
+  "generatedAt": "2026-08-25T08:46:24.688Z",
   "items": [
     {
       "rank": 1,
-      "title": "Nvidia斥资60亿美元打造美版中国AI替代方案",
-      "reason": "AI芯片巨头大手笔布局，牵动中美AI竞争",
+      "title": "明星AI基金遭SEC调查",
+      "reason": "AI金融应用陷监管风波",
       "heat": 95,
-      "newsIds": [
-        "b4a33797a6f016266a404f9c58e5453e62540312"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "明星AI对冲基金遭美国证监会调查",
-      "reason": "明星AI基金爆雷被查，引发市场震动",
-      "heat": 92,
       "newsIds": [
         "a685506b5da58c69dd5645f675430c689d72b181"
       ]
     },
     {
-      "rank": 3,
-      "title": "AI数据中心碳排放引担忧",
-      "reason": "AI扩张加剧碳排放，环保压力上升",
+      "rank": 2,
+      "title": "AI数据中心排放引担忧",
+      "reason": "AI环境代价引热议",
       "heat": 90,
       "newsIds": [
         "90b4bff4158ce4d085798ba8d09ca09789a30f42"
       ]
     },
     {
-      "rank": 4,
-      "title": "AI算法发现室温超导候选材料",
-      "reason": "AI助力重大科学突破，有望改变能源格局",
+      "rank": 3,
+      "title": "AI信任危机",
+      "reason": "AI行为不可控引发担忧",
       "heat": 88,
       "newsIds": [
-        "3da6c6f6c09bd441d773818aeb697e052fd0c4c9"
+        "49c5885b974efeed6decfafa8c44a7595d80efc8",
+        "4a939f4f33969960be247627e909b4cd70a6c1e7"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "荷兰律师因AI虚构引用被罚",
+      "reason": "AI幻觉带来法律风险",
+      "heat": 85,
+      "newsIds": [
+        "efb6c54bd020fb60993e83d194ba8a96c6454d61"
       ]
     },
     {
       "rank": 5,
-      "title": "开发者反思AI编程利弊",
-      "reason": "AI编程普及但引发依赖与可维护性担忧",
-      "heat": 85,
+      "title": "DeepSeek V4 Flash发布",
+      "reason": "新模型性能价格引关注",
+      "heat": 82,
       "newsIds": [
-        "d39b474eec88a6e6ba66d0c2eed956bb059c6c88",
-        "a03cad86bf6da09616f89a078e16c6219d6d789e",
-        "dda396b6b821c81b04861f390470820c54ae0027"
+        "6598f812c3b0f6de07988d0b638ab878db7d833d"
       ]
     },
     {
       "rank": 6,
-      "title": "云端AI隐私保护新技术",
-      "reason": "平衡AI算力与数据隐私，企业应用关键",
-      "heat": 80,
+      "title": "AI辅助投诉激增",
+      "reason": "公共服务压力增大",
+      "heat": 78,
       "newsIds": [
-        "1bb6fc67d56beb81ed9ddc0e374dcbe66c44fe8d"
+        "f404abef07116d2a6cb73650c6fe0b37c8bd0209"
       ]
     },
     {
       "rank": 7,
-      "title": "汤森路透高stakes AI标准",
-      "reason": "权威机构制定AI高可靠性标准，影响行业规范",
+      "title": "反击AI垃圾内容",
+      "reason": "用户不满AI生成质量",
       "heat": 75,
       "newsIds": [
-        "d99b2ea7a879c046a6a9210dcb6a602bb7875db8"
+        "b3dc86baf5e8cd899081d7ff3b29faff3f41915f"
       ]
     },
     {
       "rank": 8,
-      "title": "Supermicro发布AI工作站",
-      "reason": "下一代AI工作站性能爆表，硬件发烧友关注",
-      "heat": 70,
+      "title": "云端AI数据隐私保护新突破",
+      "reason": "隐私保护技术革新",
+      "heat": 73,
       "newsIds": [
-        "64af918ce3e12e1a67db9236ee06ec1d81dd724b"
+        "1bb6fc67d56beb81ed9ddc0e374dcbe66c44fe8d"
       ]
     }
   ]
