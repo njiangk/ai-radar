@@ -1,7 +1,175 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-25T20:31:47.779Z",
+  "generatedAt": "2026-08-25T22:30:48.789Z",
   "items": [
+    {
+      "id": "c21d61ec22c39024a098f1c60f6836d2419393f7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "zhTitle": null,
+      "summary": "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn&#x27;t want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get",
+      "zhSummary": null,
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "publishedAt": "2026-08-25T22:08:50.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "f022879ef547daf3da53e7285adb554569bff7cc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1",
+      "publishedAt": "2026-08-25T22:06:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "85485c59cb3bc86e079f0be5b02ac27148931533",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Ripping Off the Hey.com Band-Aid",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
+      "publishedAt": "2026-08-25T21:39:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0b96325e1ee91c7624b46fbfe756fa496984a783",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Ecdeos – P2P Web/Native Distributed OS on Entity Core Protocol",
+      "zhTitle": null,
+      "summary": "Hello, I wanted to share an update of the current progress of the Entity System. https:&#x2F;&#x2F;ecdeos.org is one domain in a constellation of peers&#x2F;sites that is the main project of the Entity System, a Tauri Rust&#x2F;WASM browser engine and Rust backend built on the Entity Core Protocol. It&#x27;s primarily a research prototype of a P2P distributed cross-platform userspace operating sys",
+      "zhSummary": null,
+      "url": "https://ecdeos.org",
+      "publishedAt": "2026-08-25T21:20:05.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "7e06ac03f11bf781a22b6c3eacbfc9563868475d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Try to beat this AI writing detector",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate",
+      "publishedAt": "2026-08-25T21:02:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bd76685bf0396760d8f9bd0e53f5f9f65c2380df",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "An explorable cyberpunk city almost out of ASCII characters",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.pcgamer.com/hardware/lone-game-dev-builds-an-explorable-cyberpunk-city-almost-entirely-out-of-ascii-characters",
+      "publishedAt": "2026-08-25T21:01:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9b1c1b7156b67fe83f37f2f107301550b724a0ad",
+      "sourceId": "ars-ai",
+      "sourceName": "Ars Technica AI",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "zhTitle": null,
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+      "zhSummary": null,
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames",
+      "publishedAt": "2026-08-25T20:59:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "261ab5af2730e9bb431052d792511f4a007372d3",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Ducky Media for macOS, private cloud hosting for your audio library",
+      "zhTitle": null,
+      "summary": "It&#x27;s an early version, but usable. A few caveats: - macOS only for this version. Have to start somewhere! - It is a subscription service but the first week is free, so you can sign up and cancel if you just want to play around. I wrote a pretty broad survey of the architecture here: https:&#x2F;&#x2F;tympanon.llc&#x2F;blog&#x2F;2026-08-24-ducky-tech In case you want to get into the weeds abou",
+      "zhSummary": null,
+      "url": "https://apps.apple.com/us/app/ducky-media-client/id6761693259?mt=12",
+      "publishedAt": "2026-08-25T20:50:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2e06e44a7089e2324a618ee1d162f5ad8ba927a5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
+      "publishedAt": "2026-08-25T20:47:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "78ba2cddef1191b4946b9d569a19357ea1308b50",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
+      "publishedAt": "2026-08-25T20:47:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e2fa69105fb46c1bfe2bfc29bcb1195ca881fe6c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The State of AI Disclosure 2026: what 1,088 EU sites' chat widgets say",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://disclosureproof.com/research/state-of-ai-disclosure",
+      "publishedAt": "2026-08-25T20:46:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7b8e11ec97750a34be3c32c6d1db9d6e091e09b6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "MREA – Open-source governance framework for multi-role AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/JairValle/mrea-framework",
+      "publishedAt": "2026-08-25T20:40:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "998b7726008d52524b9935b9756ce6bb124ad8bb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI, IPv6, and the future Internet at IETF 126",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126",
+      "publishedAt": "2026-08-25T20:33:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "17233cd8091451c72374e9ef3daa12a5485d5012",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The New York Times is publishing AI slop",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
+      "publishedAt": "2026-08-25T20:32:25.000Z",
+      "category": "其他"
+    },
     {
       "id": "0afa4e960ecc88c7cefd073d504a1b0932662c9b",
       "sourceId": "hn-llm",
@@ -243,78 +411,6 @@
       "category": "其他"
     },
     {
-      "id": "7fd603dde6ded44539a56477f31f0373717e80e6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Examining the AI Bear Thesis",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
-      "publishedAt": "2026-08-25T18:41:27.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "54e69c4926c09290210c611d1662bfcd0668b3d0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it",
-      "publishedAt": "2026-08-25T18:41:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "73fa9cf40561107d4ec9c71c1a7f556224092df0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aiandeducation.mit.edu",
-      "publishedAt": "2026-08-25T18:29:18.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "443b97159b41c1f3e86065a89d7c06d1f7dc5111",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Agents on Conductor: Agents Are Workflows",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/orkes/agents-on-conductor-architecture-for-production-ai-da5b55cc99b7",
-      "publishedAt": "2026-08-25T18:29:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7b8723f546094d15657e6650483bf98cf8a97747",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Grinding for Fun and Cryptanalysis",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.21986",
-      "publishedAt": "2026-08-25T18:28:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3f128c0da604c420b55c76e5fce85cc75371a035",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
-      "publishedAt": "2026-08-25T18:24:03.000Z",
-      "category": "其他"
-    },
-    {
       "id": "e3c007ffea88c676b30e391e8f9b03859331a849",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -327,18 +423,6 @@
       "category": "其他"
     },
     {
-      "id": "152925bd0804f2b5395f2f771fbeff7426c2463d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aiandeducation.mit.edu/report",
-      "publishedAt": "2026-08-25T18:14:03.000Z",
-      "category": "研究"
-    },
-    {
       "id": "9cb50589fab4c188c6782c7b223f4564f4a2767a",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -348,30 +432,6 @@
       "zhSummary": null,
       "url": "https://www.servethehome.com/xcena-mx1-cxl-computational-memory-device-at-hot-chips-2026",
       "publishedAt": "2026-08-25T18:10:17.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "abf8c195f2e9dfc32f7a85f74dfae4b7d7ba870d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Book Scanning: Just What Is a Rare Book?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book",
-      "publishedAt": "2026-08-25T18:07:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dd5279bd5fb6b003e5205bdf678c231c0fa7e420",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
-      "publishedAt": "2026-08-25T18:07:06.000Z",
       "category": "其他"
     },
     {
@@ -675,18 +735,6 @@
       "category": "产品"
     },
     {
-      "id": "ca2dacff7c1ec2da730d74247b4863be06e34576",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Fewer, smaller eggs are the double effect of France's scorching summer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lemonde.fr/en/economy/article/2026/08/25/the-hens-suffocated-fewer-smaller-eggs-are-the-double-effect-of-france-s-scorching-summer_6756816_19.html",
-      "publishedAt": "2026-08-25T14:06:00.000Z",
-      "category": "其他"
-    },
-    {
       "id": "0f75219d5e8f77b14e4e58865ad88a48a4041118",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -696,42 +744,6 @@
       "zhSummary": null,
       "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
       "publishedAt": "2026-08-25T14:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0d0ff74f1f04960430d649e343cc61b9cfe55b13",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Slash-tokens – know LLM cost before the call leaves your machine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/Wolfe-Jam/slash-tokens",
-      "publishedAt": "2026-08-25T13:57:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b084e02ab49d4057a24306f7728e74f9e4740ff6",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Exploring 1-Bit LLMs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://thejeshgn.com/2026/08/25/exploring-1-bit-llms",
-      "publishedAt": "2026-08-25T13:55:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3194cc8be08137cbe70223d8ef02fff3e65c552b",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Open-source AMDGCN kernels for optimizing LLM inference",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/NetraRuntime/netra-kernel",
-      "publishedAt": "2026-08-25T13:54:01.000Z",
       "category": "其他"
     },
     {
@@ -3145,18 +3157,6 @@
       "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
       "publishedAt": "2026-08-12T21:43:21.000Z",
       "category": "其他"
-    },
-    {
-      "id": "1b2cafc3ae426ef87a212444cce125c194bf0d79",
-      "sourceId": "ars-ai",
-      "sourceName": "Ars Technica AI",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "zhTitle": null,
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "zhSummary": null,
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now",
-      "publishedAt": "2026-08-12T21:00:30.000Z",
-      "category": "工具"
     },
     {
       "id": "e43158037a354e465e38b827db4fbb8dc3dd7c48",
