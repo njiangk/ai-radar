@@ -1,77 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T12:49:33.003Z",
+  "generatedAt": "2026-08-25T04:42:54.904Z",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI/Hugging Face 遭黑客攻击",
-      "reason": "顶级 AI 机构遭攻击，安全警钟",
+      "title": "俄AI无人机在乌克兰杀害平民",
+      "reason": "军事AI致命滥用引发国际谴责",
       "heat": 95,
       "newsIds": [
-        "3ffe9eb452f2a9bcf1e525320f58c1286278a11b"
+        "3c0003607c2f6991929b9aed3fafc4233c62fae0"
       ]
     },
     {
       "rank": 2,
-      "title": "Stripe 70 亿美元收购 OpenRouter",
-      "reason": "巨额收购，掌控 AI 路由层",
-      "heat": 92,
+      "title": "AI编程争议：开发者称上瘾但无用",
+      "reason": "80%开发者质疑AI编程实际价值",
+      "heat": 88,
       "newsIds": [
-        "e9ecdc2063e401a39cf64a0850c73fb728f8b725"
+        "dda396b6b821c81b04861f390470820c54ae0027",
+        "a03cad86bf6da09616f89a078e16c6219d6d789e",
+        "d39b474eec88a6e6ba66d0c2eed956bb059c6c88"
       ]
     },
     {
       "rank": 3,
-      "title": "英伟达 AI 融资 5000 亿美元风险",
-      "reason": "5000 亿融资隐患引担忧",
-      "heat": 90,
+      "title": "英伟达斥资60亿美元打造中国AI替代方案",
+      "reason": "芯片巨头加码地缘AI博弈",
+      "heat": 85,
       "newsIds": [
-        "4f0907f0333e40e0ca196e803cd85099b0aaaf51"
+        "b4a33797a6f016266a404f9c58e5453e62540312"
       ]
     },
     {
       "rank": 4,
-      "title": "AI 推高美债收益率",
-      "reason": "AI 资本开支搅动宏观市场",
-      "heat": 88,
+      "title": "AI算法发现室温超导候选材料",
+      "reason": "科学突破或重塑能源未来",
+      "heat": 80,
       "newsIds": [
-        "77e9bef5eb3e2916468b1eddbd1cb915d9f5e5de"
+        "3da6c6f6c09bd441d773818aeb697e052fd0c4c9"
       ]
     },
     {
       "rank": 5,
-      "title": "AI 冲击图书出版业",
-      "reason": "AI 引发出版业大洗牌",
-      "heat": 85,
+      "title": "AI对冲基金濒临崩溃遭SEC调查",
+      "reason": "AI金融神话破裂引发监管关注",
+      "heat": 75,
       "newsIds": [
-        "9a2ace51b40397a37b6c333ffbc8eaf8e6f30ac6"
+        "a685506b5da58c69dd5645f675430c689d72b181"
       ]
     },
     {
       "rank": 6,
-      "title": "AI 音乐进入排行榜",
-      "reason": "AI 创作打入主流榜单",
-      "heat": 83,
+      "title": "斯坦福研究：AI冲击入门级岗位",
+      "reason": "就业市场结构性影响显现",
+      "heat": 72,
       "newsIds": [
-        "cbb94a2c7dfe704c8953fd5031e79933d1f30e04"
+        "d3004e4f91f477730a49272e230fccfc6df43ecb"
       ]
     },
     {
       "rank": 7,
-      "title": "中国寻求塑造 AI 认知",
-      "reason": "地缘政治与 AI 治理博弈",
-      "heat": 80,
+      "title": "OpenAI卷入HuggingFace黑客事件遭调查",
+      "reason": "大模型安全漏洞引发法律风险",
+      "heat": 68,
       "newsIds": [
-        "b32388f256a62a9726382f2cffbe9015d15f7c7d"
+        "a1b6ffc984fe3df6ec9df8b9625d132d12f160ce"
       ]
     },
     {
       "rank": 8,
-      "title": "黄仁勋与开源权重 AI 之争",
-      "reason": "开源闭源路线之争白热化",
-      "heat": 78,
+      "title": "企业级AI操作系统平台崛起",
+      "reason": "开源与云巨头竞逐AI基础设施",
+      "heat": 62,
       "newsIds": [
-        "28e3d93e355f3c82c5080ddc7ec92136092622c0"
+        "431c73a5bb6ce0f9d5a582d82e425a4c90d11a95",
+        "802e9f783983e955cb05f128b4eec27f086572b6"
       ]
     }
   ]
