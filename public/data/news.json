@@ -1,7 +1,271 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-25T18:43:06.876Z",
+  "generatedAt": "2026-08-25T20:31:47.779Z",
   "items": [
+    {
+      "id": "0afa4e960ecc88c7cefd073d504a1b0932662c9b",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://zenodo.org/records/19882078",
+      "publishedAt": "2026-08-25T20:24:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ee450736f0098ec05ab23f276e9ab7b3f91db000",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+      "publishedAt": "2026-08-25T20:21:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c5d8794671e9142a6af276f9d5a68549636a1584",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I built a spatial graph alternative to the algorithmic feed",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aphant.dev",
+      "publishedAt": "2026-08-25T20:15:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2e1b96c8cba46651e5cc3e7a036da67d63199d0d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/cerredz/Vidbyte-Skills",
+      "publishedAt": "2026-08-25T20:14:34.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8daf33270fdfcbd98ec19c1d9318e3186b76f180",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Feral – one local brain with memory for your devices and apps",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/FERAL-AI/FERAL-AI",
+      "publishedAt": "2026-08-25T20:11:11.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "f525ae12213cd4a7d4afdb2cdb702d077ca0ded2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI is supercharging hacks of everyday utilities",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
+      "publishedAt": "2026-08-25T19:50:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1787ee8992dcc078b2ee5e9fb7ed427acc18fd5b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://minimax3.com",
+      "publishedAt": "2026-08-25T19:45:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1ef0a8e774692d69944e3d3a8ebb93b451874a32",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Perplexity Portable Computer",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+      "publishedAt": "2026-08-25T19:41:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9b97fed8167b879a06e6acef17f1820387f83be7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "ThinkRail (JetBrains incubator) – A Web-Based GUI for Pi Coding Agent",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://thinkrail.ai/blog/introducing-thinkrail",
+      "publishedAt": "2026-08-25T19:39:22.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1885b3b01997e36757f66bd7e8a67aba9a701864",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "publishedAt": "2026-08-25T19:37:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ba98181a11d6bb236642461fb617cac16ffa027e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Designing Loops for Production-Grade Work",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.liquid.ai/blog/agent-loops",
+      "publishedAt": "2026-08-25T19:34:19.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "f97772dec94aebf7f5f130216f0af58fefb9015c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.rankspot.ai",
+      "publishedAt": "2026-08-25T19:30:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3b52dbb7e86890921f0094c5bb6da90cc7d77160",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Now Introducing Gemini Enterprise for Legal",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+      "publishedAt": "2026-08-25T19:22:37.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "5071c027d7c52191d52d0c95c38bfbfcf37a63f7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI and Constitutions (From My Email)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
+      "publishedAt": "2026-08-25T19:18:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a16f7e42a580e08821d36b166db8af6a2b5acdf",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I Built a Reddit-Like Forum for Agents. They Designed a Self-Learning Language",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reddit.com/r/aiagents/comments/1vxjnpf/i_built_a_redditlike_forum_for_ai_agents_they",
+      "publishedAt": "2026-08-25T19:13:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ec0cf15db2f8fc6885fa59cc3a68f0bf3cef74fc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "JetBrains Releases Junie Local, Its Coding Agent On-Device to Macs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://techstrong.ai/articles/jetbrains-releases-junie-local-bringing-its-coding-agent-fully-on-device-to-macs",
+      "publishedAt": "2026-08-25T19:04:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "75979cc4573431101bec99228d8d6ce7181a7cf3",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "zhTitle": null,
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+      "publishedAt": "2026-08-25T19:03:47.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "c67530fe684eb769f5104f68d1a15a5c01f71ee4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Nvidia-sized hole in US GDP statistics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics",
+      "publishedAt": "2026-08-25T18:56:32.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "66f06c184f029e68fe40895368f73130748fafed",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: FetchMark – An Offline-first read-later app with AI summaries",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://fetchmarkapp.com",
+      "publishedAt": "2026-08-25T18:45:05.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "f981e64c4ceb8419bf08e6c9449241c91babd417",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/Univeracity/limitlesslibrary",
+      "publishedAt": "2026-08-25T18:43:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7fd603dde6ded44539a56477f31f0373717e80e6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Examining the AI Bear Thesis",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
+      "publishedAt": "2026-08-25T18:41:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "54e69c4926c09290210c611d1662bfcd0668b3d0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it",
+      "publishedAt": "2026-08-25T18:41:21.000Z",
+      "category": "其他"
+    },
     {
       "id": "73fa9cf40561107d4ec9c71c1a7f556224092df0",
       "sourceId": "hn-ai",
@@ -111,42 +375,6 @@
       "category": "其他"
     },
     {
-      "id": "0a7a3bf1f52a1648e2ea76a92c2714466473ed8d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Takeover at GopherCon 2026",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=Pny5TFP2r3U",
-      "publishedAt": "2026-08-25T18:06:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a5a67ffac06a11336e8f1c4516825c4519aaf6c5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI and education: A watershed moment for MIT",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit",
-      "publishedAt": "2026-08-25T17:59:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4cd271ae2a6b40b6fb51d59ccc1bacb978ed1d8d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Contracts Are Quietly Becoming the Best Product Documentation",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation",
-      "publishedAt": "2026-08-25T17:52:43.000Z",
-      "category": "产品"
-    },
-    {
       "id": "4b53c711439f45dfac9ebb936725a364e016e058",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -157,18 +385,6 @@
       "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
       "publishedAt": "2026-08-25T17:50:33.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "d4cf6590c65474bc919d7a91a8da6c8e6bf60e61",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Index: Building the Largest and Most Diverse Physical Dataset",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.figure.ai/news/introducing-index",
-      "publishedAt": "2026-08-25T17:49:27.000Z",
-      "category": "其他"
     },
     {
       "id": "a8ca632f8fb411c0630bb941089af35bdf89edd8",
@@ -207,99 +423,15 @@
       "category": "模型发布"
     },
     {
-      "id": "31a4dd8407e641e34104170b353fee6d1e89c7dc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Software Firms Deploy Bluster and Buybacks to Counter AI Fears",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster",
-      "publishedAt": "2026-08-25T17:14:16.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "df53a3c41837f42ce26438c2149cfd83f17aa7c8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Nvidia's Groq 3 LPX accelerator enters full production at 3,500 tokens/SEC",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents",
-      "publishedAt": "2026-08-25T17:13:02.000Z",
-      "category": "产品"
-    },
-    {
       "id": "7fc972ca8d00dd5e9a35d85a30b5c65d63f213f9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
       "publishedAt": "2026-08-25T17:12:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dc93978bc558bc4a0b4ace54dddf9ce3bc7c98c6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI Hater's Manifesto",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wheresyoured.at/the-ai-haters-manifesto",
-      "publishedAt": "2026-08-25T17:07:51.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "32bb3f21f1d829cae07a1fbcbdb7dd58989dcc0a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI-coding stack: a map for a landscape that won't sit still",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://mineti.dev/articles/the-ai-coding-stack",
-      "publishedAt": "2026-08-25T17:06:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "becd6a8fb2ecbee49bad96a53296f5454fe7c8cf",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Meta's custom transport protocol embraces packet chaos to boost AI throughput",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput",
-      "publishedAt": "2026-08-25T17:02:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "05abdb983da814f7090d1b7c0624a5342c126c2f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Download: smarter AI in schools, and a robot \"carnival\" in Shanghai",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai",
-      "publishedAt": "2026-08-25T17:02:23.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "fcf8aeaf2eca69c0254bbecaf6ca641520b5029e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI payment rails exist. The rules for dividing value do not (SSRN 7321561)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ssrn.com/abstract=7321561",
-      "publishedAt": "2026-08-25T16:59:42.000Z",
       "category": "其他"
     },
     {
@@ -315,18 +447,6 @@
       "category": "其他"
     },
     {
-      "id": "fec6a0d6a83dd80480949e935acc658cc12fc0cb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI Trade Is Becoming a Macro Trade",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.emergingtrajectories.com/lh/ai-trade-is-macro",
-      "publishedAt": "2026-08-25T16:55:57.000Z",
-      "category": "其他"
-    },
-    {
       "id": "225697877cab35624d1c935a166d93817b2464e7",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -339,57 +459,9 @@
       "category": "其他"
     },
     {
-      "id": "c06432ea4689f7ea46d402f92069e6fc1b7be7b1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Player vs. Computer – fight your computer in my web game",
-      "zhTitle": null,
-      "summary": "Hi, Hello and Welcome, Everyone! I&#x27;m Filip, a.k.a. Rubinosław from REParadoxy, and I wanna present to you my first own web video game, which was written in Python using Pygame and Pygbag. Player vs Computer! A funny game where you challenge your computer (not ai) in many ways, testing your durability, and you have to overcome it. - Get 5 points more than your computer in Rock Paper Scissors..",
-      "zhSummary": null,
-      "url": "https://github.com/Rubinoslaw/Player-vs-Computer",
-      "publishedAt": "2026-08-25T16:40:30.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "984b2e6f8dc1ce307674fdebfbe30b1e55017de2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Laptop fire causes scare on American Airlines Flight",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
-      "publishedAt": "2026-08-25T16:35:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d12c55bf5fac2b995330dceca8a9877eef47f7f8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Uncovering a universal offline sandbox escape",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.primeintellect.ai/blog/universal-offline-sandbox-escape",
-      "publishedAt": "2026-08-25T16:35:41.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e96bfa9ef6afdd1e953782453723a8a3af3a3553",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Portable Computer is Perplexity's new local AI agent – why it's a game changer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent",
-      "publishedAt": "2026-08-25T16:35:30.000Z",
-      "category": "其他"
-    },
-    {
       "id": "46f7e652dbcfa545c3682452f23327bbea6f1682",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "An AI travel guide where the ranking is a deterministic engine, not an LLM",
       "zhTitle": null,
       "summary": "",
@@ -397,30 +469,6 @@
       "url": "https://appricio.com",
       "publishedAt": "2026-08-25T16:30:22.000Z",
       "category": "其他"
-    },
-    {
-      "id": "ffbe46073ab3e76386250cd14d6be9917bd20a1a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A primer and taxonomy for agent sandboxes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://nolabs.ai/blog/sandbox-primer",
-      "publishedAt": "2026-08-25T16:21:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f0fee305055a7ea36a976c19b57eb585a9441736",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Building Production Agentic AI at IBM: Architecture, Decisions, and Lessons",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.tonyerwin.com/2026/08/building-production-agentic-ai-at-ibm.html",
-      "publishedAt": "2026-08-25T16:21:02.000Z",
-      "category": "产品"
     },
     {
       "id": "b6a60abf7c0f5314508f55ea3ac32c7e8c9c8438",
@@ -651,6 +699,18 @@
       "category": "其他"
     },
     {
+      "id": "0d0ff74f1f04960430d649e343cc61b9cfe55b13",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Slash-tokens – know LLM cost before the call leaves your machine",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/Wolfe-Jam/slash-tokens",
+      "publishedAt": "2026-08-25T13:57:12.000Z",
+      "category": "其他"
+    },
+    {
       "id": "b084e02ab49d4057a24306f7728e74f9e4740ff6",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -672,18 +732,6 @@
       "zhSummary": null,
       "url": "https://github.com/NetraRuntime/netra-kernel",
       "publishedAt": "2026-08-25T13:54:01.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "14b562c17cd56b48ec0bd50256aa63ba63995794",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Parsing IP addresses in C# at crazy speeds",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/lemire/status/2090154772250939471",
-      "publishedAt": "2026-08-25T13:34:03.000Z",
       "category": "其他"
     },
     {
@@ -709,30 +757,6 @@
       "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
       "publishedAt": "2026-08-25T13:00:00.000Z",
       "category": "其他"
-    },
-    {
-      "id": "b3b8c0d18bda8c74157fa9143fa6ee1d0110f7e4",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: ReadPlusOne – Spanish stories built around the words you're learning",
-      "zhTitle": null,
-      "summary": "Hey HN, Over the past 6 months, I&#x27;ve been working on a Spanish language learning app that generates stories for you with your target words. For the last 2, I&#x27;ve been reading with it most mornings and it&#x27;s really helped me grow my vocab. It generates short stories built around your target words you are learning, and uses vocabulary you already know for the majority of the story (arou",
-      "zhSummary": null,
-      "url": "https://readplusone.com",
-      "publishedAt": "2026-08-25T12:47:20.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "85bd09d15dd4570841909cd717eb3c04279a8a8e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "My experience with LLM-assisted tools in software development",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ounapuu.ee/posts/2026/06/08/llm",
-      "publishedAt": "2026-08-25T12:37:15.000Z",
-      "category": "工具"
     },
     {
       "id": "2e53f3d9af1ba2820da238d6163734d7d7fae781",
@@ -1981,18 +2005,6 @@
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
       "publishedAt": "2026-08-22T16:30:34.000Z",
       "category": "其他"
-    },
-    {
-      "id": "f814008d85fbd8c130a01b158c476bc20a70ac78",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-      "zhTitle": null,
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
-      "publishedAt": "2026-08-22T16:00:00.000Z",
-      "category": "研究"
     },
     {
       "id": "6cda44a27fa95dfd0f2b54b978f42839eaa65583",
@@ -3589,18 +3601,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
       "publishedAt": "2026-08-04T13:00:00.000Z",
       "category": "产品"
-    },
-    {
-      "id": "b274d6785ee9abb7902c6d66edf9f8661ee29cd4",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "zhTitle": null,
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "category": "研究"
     }
   ]
 }
