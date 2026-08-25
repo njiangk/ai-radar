@@ -1,80 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-25T04:42:54.904Z",
+  "generatedAt": "2026-08-25T06:54:31.298Z",
   "items": [
     {
       "rank": 1,
-      "title": "俄AI无人机在乌克兰杀害平民",
-      "reason": "军事AI致命滥用引发国际谴责",
+      "title": "Nvidia斥资60亿美元打造美版中国AI替代方案",
+      "reason": "AI芯片巨头大手笔布局，牵动中美AI竞争",
       "heat": 95,
-      "newsIds": [
-        "3c0003607c2f6991929b9aed3fafc4233c62fae0"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "AI编程争议：开发者称上瘾但无用",
-      "reason": "80%开发者质疑AI编程实际价值",
-      "heat": 88,
-      "newsIds": [
-        "dda396b6b821c81b04861f390470820c54ae0027",
-        "a03cad86bf6da09616f89a078e16c6219d6d789e",
-        "d39b474eec88a6e6ba66d0c2eed956bb059c6c88"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "英伟达斥资60亿美元打造中国AI替代方案",
-      "reason": "芯片巨头加码地缘AI博弈",
-      "heat": 85,
       "newsIds": [
         "b4a33797a6f016266a404f9c58e5453e62540312"
       ]
     },
     {
+      "rank": 2,
+      "title": "明星AI对冲基金遭美国证监会调查",
+      "reason": "明星AI基金爆雷被查，引发市场震动",
+      "heat": 92,
+      "newsIds": [
+        "a685506b5da58c69dd5645f675430c689d72b181"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AI数据中心碳排放引担忧",
+      "reason": "AI扩张加剧碳排放，环保压力上升",
+      "heat": 90,
+      "newsIds": [
+        "90b4bff4158ce4d085798ba8d09ca09789a30f42"
+      ]
+    },
+    {
       "rank": 4,
       "title": "AI算法发现室温超导候选材料",
-      "reason": "科学突破或重塑能源未来",
-      "heat": 80,
+      "reason": "AI助力重大科学突破，有望改变能源格局",
+      "heat": 88,
       "newsIds": [
         "3da6c6f6c09bd441d773818aeb697e052fd0c4c9"
       ]
     },
     {
       "rank": 5,
-      "title": "AI对冲基金濒临崩溃遭SEC调查",
-      "reason": "AI金融神话破裂引发监管关注",
-      "heat": 75,
+      "title": "开发者反思AI编程利弊",
+      "reason": "AI编程普及但引发依赖与可维护性担忧",
+      "heat": 85,
       "newsIds": [
-        "a685506b5da58c69dd5645f675430c689d72b181"
+        "d39b474eec88a6e6ba66d0c2eed956bb059c6c88",
+        "a03cad86bf6da09616f89a078e16c6219d6d789e",
+        "dda396b6b821c81b04861f390470820c54ae0027"
       ]
     },
     {
       "rank": 6,
-      "title": "斯坦福研究：AI冲击入门级岗位",
-      "reason": "就业市场结构性影响显现",
-      "heat": 72,
+      "title": "云端AI隐私保护新技术",
+      "reason": "平衡AI算力与数据隐私，企业应用关键",
+      "heat": 80,
       "newsIds": [
-        "d3004e4f91f477730a49272e230fccfc6df43ecb"
+        "1bb6fc67d56beb81ed9ddc0e374dcbe66c44fe8d"
       ]
     },
     {
       "rank": 7,
-      "title": "OpenAI卷入HuggingFace黑客事件遭调查",
-      "reason": "大模型安全漏洞引发法律风险",
-      "heat": 68,
+      "title": "汤森路透高stakes AI标准",
+      "reason": "权威机构制定AI高可靠性标准，影响行业规范",
+      "heat": 75,
       "newsIds": [
-        "a1b6ffc984fe3df6ec9df8b9625d132d12f160ce"
+        "d99b2ea7a879c046a6a9210dcb6a602bb7875db8"
       ]
     },
     {
       "rank": 8,
-      "title": "企业级AI操作系统平台崛起",
-      "reason": "开源与云巨头竞逐AI基础设施",
-      "heat": 62,
+      "title": "Supermicro发布AI工作站",
+      "reason": "下一代AI工作站性能爆表，硬件发烧友关注",
+      "heat": 70,
       "newsIds": [
-        "431c73a5bb6ce0f9d5a582d82e425a4c90d11a95",
-        "802e9f783983e955cb05f128b4eec27f086572b6"
+        "64af918ce3e12e1a67db9236ee06ec1d81dd724b"
       ]
     }
   ]
