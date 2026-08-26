@@ -1,7 +1,223 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-26T04:43:43.585Z",
+  "generatedAt": "2026-08-26T06:54:55.191Z",
   "items": [
+    {
+      "id": "15b2445224ed0107fe90986bdcdbb0072ae77882",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "IBM Z and LinuxONE Dual-ISA Processor",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026",
+      "publishedAt": "2026-08-26T06:47:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c4e0b26f807ae9d871495c8f9ee8234cf7ce2cbc",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2608.14614",
+      "publishedAt": "2026-08-26T06:36:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "760153e819d2c9d7fb566474af9656cb876b0570",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Scribble/write on your desktop, with any phone/tablet",
+      "zhTitle": null,
+      "summary": "Scribble&#x2F;write on your desktop, with any phone&#x2F;tablet - I&#x27;d like your feedback. Expressed is a way to make it easy to draw directly on your desktop using any phone or tablet - think along the lines of &quot;I want to draw (on my screen) to help aid my discussion&quot;. The desktop is projected onto the phone&#x2F;tablet, so you can actually see what you&#x27;re about to scribble ove",
+      "zhSummary": null,
+      "url": "https://expressed.effective-flow.com",
+      "publishedAt": "2026-08-26T06:23:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9cc73c0e089e5aca0435848b60a4d22a6969f426",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Flow AI Video Generator",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ai-flow.video",
+      "publishedAt": "2026-08-26T06:20:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0bb8e87b8c061d3d052b51f3d8f87d295de3b8e6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+      "publishedAt": "2026-08-26T06:07:07.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8a7d2494e38522ff7a3c7d83f41fc8325484a3e8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Launched free browser agent (the catch: ads)",
+      "zhTitle": null,
+      "summary": "No one’s got money for another AI subscription. So we made our browser agent totally FREE. What&#x27;s the catch? Just ads while Retriever AI fetches you leads, does your exams, applied to jobs, and sends connection requests. Think like a Claude Code or Clay level tool in your browser, but free for everyone! After 35K+ users and 7M+ workflows, we spent the last few months attacking the cost of eve",
+      "zhSummary": null,
+      "url": "https://rtrvr.ai",
+      "publishedAt": "2026-08-26T06:02:42.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "2fd0fca6944423d89f5d265029a8d5163dcb7d7f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Can AI Music Tools Replace Epidemic Sound? An Honest Look",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.musegen.ai/blog/ai-music-vs-epidemic-sound",
+      "publishedAt": "2026-08-26T06:01:42.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "d816dd5a7117adbfad4f1d828747d67f6eda179d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Chinese government fears talking to AI might replace human intimacy",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "publishedAt": "2026-08-26T05:57:28.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "93301ced26383354513843538fac1908956e9bf5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "GitHub denies Copilot Autofix wrote the bug Wiz's AI agent found",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ai-news.ghost.io/github-denies-copilot-autofix-wrote-the-bug-wizs-ai-agent-found",
+      "publishedAt": "2026-08-26T05:53:25.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "9193747b96660c84c9f9b3962d8bd747ac303ea2",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "LLMs prefer machine-written prose over Austen and Shakespeare ~90% of the time",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://shivanshuag.com/blog/the-machine-never-raises-its-voice",
+      "publishedAt": "2026-08-26T05:49:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7570c864eddc1f8a1e897af89eb414a81140a401",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Perplexity's Portable Computer tackling local AI services market",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
+      "publishedAt": "2026-08-26T05:14:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b0ef2df65840ebf1305a316c4cfddf65a74011c3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Front end skill pack for AI agents, with machine-enforced quality gates",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://krishna-modi12.github.io/frontend-design-pro",
+      "publishedAt": "2026-08-26T05:11:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1a62a8409ae93e32a37ded488930662b1e49c647",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+      "zhTitle": null,
+      "summary": "Hey all, The goal is to earn on token margins for LLM calls when you build an AI-powered webapp. I proxy OpenAI and Anthropic calls so that when you deploy a site to a subdomain, your users token usage will be tracked. I charge 2x the token cost to the end user, where the webapp creator gets 80% of the profit and I get 20%. The idea is to ramp your revenue from simple AI apps directly with your po",
+      "zhSummary": null,
+      "url": "https://codeplusequalsai.com/dashboard",
+      "publishedAt": "2026-08-26T05:09:37.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "4b542a6f15bb8f98c43dc8846bb09571b2d8b3e1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Portable Computer: Local-First AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.perplexity.ai/hub/products/portable-computer",
+      "publishedAt": "2026-08-26T05:09:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c4c035ef4f9f55048112c05ff961293b0fe963de",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Propose and Dual-Control for DNS Changes",
+      "zhTitle": null,
+      "summary": "Hey, Hacker News. I just want to pick your brain for a feature we&#x27;re working on. I don&#x27;t know whether you have seen this as a pain point, but when I work in a company, a lot of times I try to launch something and need to change a DNS record. It&#x27;s always a source of friction in the organization. I have to email someone or give a link to a co-worker. They have to figure out how to do",
+      "zhSummary": null,
+      "url": "https://www.loom.com/share/16dff02ee5604b7daf3ebc7c9c93d8a4",
+      "publishedAt": "2026-08-26T05:06:25.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "e4bb0fb157e338374eb509266f271035890fe9fe",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
+      "publishedAt": "2026-08-26T05:03:50.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "598e48d3f1f7ddfcb1cadae6718cbcdfe10271c4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "SaaS Isn't Dead. Sameness Is",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aicoding.leaflet.pub/3mtu6c5wsvc2n",
+      "publishedAt": "2026-08-26T05:01:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6ec99546a924404392f17cba8f465135c8c35574",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Connections That Turned a Precocious Teen into the Fallen Nostradamus of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+      "publishedAt": "2026-08-26T05:00:35.000Z",
+      "category": "其他"
+    },
     {
       "id": "4dfd28cc45fe4e28d60cc697b689a34db5692dd9",
       "sourceId": "hn-ai",
@@ -13,6 +229,18 @@
       "url": "https://kraftapp.ai",
       "publishedAt": "2026-08-26T03:59:56.000Z",
       "category": "产品"
+    },
+    {
+      "id": "c6f42763a28fef548902ffbeadb82b54ad2ed371",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: HandWrought – an AI editor inside your document, not a tab away",
+      "zhTitle": null,
+      "summary": "I write a lot, and I got tired of the ChatGPT-in-a-second-tab shuffle: paste a paragraph in, describe the change, copy the answer back, lose track of what actually changed. So I built an editor where the AI suggestions show up in place — you review and accept&#x2F;reject them like a diff, instead of reconciling a wall of chat text by hand. It&#x27;s a chat panel next to a real editor. Ask for a re",
+      "zhSummary": null,
+      "url": "https://handwrought.online",
+      "publishedAt": "2026-08-26T03:58:27.000Z",
+      "category": "模型发布"
     },
     {
       "id": "e87e1a27d8c9779fb9894480ae203a36351ea252",
@@ -66,13 +294,13 @@
       "id": "3d49b8be15d2d55e12aab298a68e4280eb7d0114",
       "sourceId": "hn-ai",
       "sourceName": "Hacker News AI",
-      "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+      "title": "Analyzing student votes across AI models for college essay help",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
       "publishedAt": "2026-08-26T03:23:50.000Z",
-      "category": "模型发布"
+      "category": "其他"
     },
     {
       "id": "d470622f93e724087b73ebeb83334a74077ffef5",
@@ -159,18 +387,6 @@
       "category": "研究"
     },
     {
-      "id": "17869285ac524463e8594cb8bf8c8c1c441da25d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-      "publishedAt": "2026-08-26T01:36:23.000Z",
-      "category": "研究"
-    },
-    {
       "id": "cd9e55a3215745200376011386e143847f151a87",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -183,135 +399,15 @@
       "category": "融资"
     },
     {
-      "id": "0ddc2bcfef50ee5380b0cababfb64e3767cc58bf",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Utilities Break California Lobbying Record Under Newsom While Former Aides Lead",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://consumerwatchdog.org/energy/utilities-break-california-lobbying-record-under-newsom-while-former-aides-lead-utility-backed-wildfire-coalition",
-      "publishedAt": "2026-08-26T00:35:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0bdf9032b87f3578bf1511e4cf89a754636f7aaf",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026",
-      "publishedAt": "2026-08-26T00:33:36.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7516f477d550c2bef4c78a3842b2b2a12b658f41",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing",
-      "publishedAt": "2026-08-26T00:11:25.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1b2c39a89cdc616ba4befc9a30c9178514fd3d22",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Hacker News keeps flagging my startup – A multi-Platform search engine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bluhe.ai/search?q=YC%20startups",
-      "publishedAt": "2026-08-26T00:11:24.000Z",
-      "category": "工具"
-    },
-    {
       "id": "3c7ff1efc47f93a0234ef271a8be625823867182",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
       "zhTitle": null,
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
       "publishedAt": "2026-08-26T00:06:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "13340762be44a88ec1eea3cc6dd26572d20ad7af",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: CaptureAgent – find, price, draft, grade, run and fund federal work",
-      "zhTitle": null,
-      "summary": "I’m a 2x defense founder and aerospace engineer. I initially built CaptureAgent for my own company, but now I want to share it with other founders. While running my defense startup, I lost days deciding which federal opportunities to pursue and weeks assembling teams, researching competitors, pricing work, checking compliance, negotiating with subcontractors, and writing proposals. I see startups",
-      "zhSummary": null,
-      "url": "https://captureagent.us",
-      "publishedAt": "2026-08-25T23:50:38.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "801089c7df072d15eb1a6267703c39042c3658ee",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Hot Chips 2026: Samsung makes LPDDR5X smart with logic unit in memory",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
-      "publishedAt": "2026-08-25T23:40:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f90b46d5ac89b625f6bfcf16740009d14c8690dc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI Health Agent That Will Know Me for Life",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
-      "publishedAt": "2026-08-25T23:37:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9d0604fdb19f54bff03c611d3a0f6553f5f0c193",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A modest but open theorem in theoretical biology proved by AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/curiouswavefn/status/2092380964668534967",
-      "publishedAt": "2026-08-25T23:28:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f8f2167e9c5e68878cee4f3c4e5862afe8150603",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.digitalocean.com/blog/ai-disruptors",
-      "publishedAt": "2026-08-25T23:22:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d1ee418aa18b2ebaab7a45ebee6f258a86db823f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://hermes-agent.nousresearch.com",
-      "publishedAt": "2026-08-25T23:14:41.000Z",
       "category": "其他"
     },
     {
@@ -339,57 +435,9 @@
       "category": "工具"
     },
     {
-      "id": "7106e628295bfaa5a6c63ad24c5a4ac29ff73439",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Home Lab for Beginners: The Deep Dive",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
-      "publishedAt": "2026-08-25T22:35:46.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c21d61ec22c39024a098f1c60f6836d2419393f7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "zhTitle": null,
-      "summary": "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn&#x27;t want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get",
-      "zhSummary": null,
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "publishedAt": "2026-08-25T22:08:50.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "f022879ef547daf3da53e7285adb554569bff7cc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1",
-      "publishedAt": "2026-08-25T22:06:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "85485c59cb3bc86e079f0be5b02ac27148931533",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Ripping Off the Hey.com Band-Aid",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
-      "publishedAt": "2026-08-25T21:39:24.000Z",
-      "category": "其他"
-    },
-    {
       "id": "0b96325e1ee91c7624b46fbfe756fa496984a783",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Ecdeos – P2P Web/Native Distributed OS on Entity Core Protocol",
       "zhTitle": null,
       "summary": "Hello, I wanted to share an update of the current progress of the Entity System. https:&#x2F;&#x2F;ecdeos.org is one domain in a constellation of peers&#x2F;sites that is the main project of the Entity System, a Tauri Rust&#x2F;WASM browser engine and Rust backend built on the Entity Core Protocol. It&#x27;s primarily a research prototype of a P2P distributed cross-platform userspace operating sys",
@@ -397,18 +445,6 @@
       "url": "https://ecdeos.org",
       "publishedAt": "2026-08-25T21:20:05.000Z",
       "category": "研究"
-    },
-    {
-      "id": "7e06ac03f11bf781a22b6c3eacbfc9563868475d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Try to beat this AI writing detector",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate",
-      "publishedAt": "2026-08-25T21:02:00.000Z",
-      "category": "其他"
     },
     {
       "id": "bd76685bf0396760d8f9bd0e53f5f9f65c2380df",
@@ -939,18 +975,6 @@
       "category": "其他"
     },
     {
-      "id": "81e94ef65877bb742c895a85d4e383f7ed80b5de",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: CanvasForMusic – I made a free Spotify Canvas maker that doesn't suck",
-      "zhTitle": null,
-      "summary": "Hello I know most of you are devs, but if you also make music, this is for you. I&#x27;ve been on a hunt lately of finding tools for artists centred around promoting and posting music and rebuilding them with more intention. If it helps me promote my own music easier, it will surely help others too. Recently, I was having a look around at the top search ranking Spotify Canvas Maker tools for artis",
-      "zhSummary": null,
-      "url": "https://canvasformusic.com",
-      "publishedAt": "2026-08-25T16:07:49.000Z",
-      "category": "工具"
-    },
-    {
       "id": "aa383c2fe4c39f0b7a27d9a6c68a5a86cb8fa52e",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1045,18 +1069,6 @@
       "url": "https://arxiv.org/abs/2608.24756v1",
       "publishedAt": "2026-08-25T15:55:49.000Z",
       "category": "产品"
-    },
-    {
-      "id": "dec2a3ebb72c076f4d7efb3a3ed48bb0ee8012ab",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Developer Hiring and the Market for Lemons",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://danluu.com/hiring-lemons",
-      "publishedAt": "2026-08-25T15:55:12.000Z",
-      "category": "工具"
     },
     {
       "id": "2f06530c65afeb85c2fe545e12ca64cf36d7b256",
@@ -1227,18 +1239,6 @@
       "category": "研究"
     },
     {
-      "id": "8c5d73a04663d55d567b8d230456243b1859c0f6",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Mindspark",
-      "zhTitle": null,
-      "summary": "This could be the only mind map you would be looking for. MindSpark is an open-source mind-mapping app you actually own with no accounts, no paywalls, no feature gates, and no usage limits. Selfhost it in one command, run it free in the browser with every map saved to your own private GitHub repo, or add one small Cloudflare Worker to unlock real-time sharing and collaboration",
-      "zhSummary": null,
-      "url": "https://prasadpatil25.github.io/MindSpark",
-      "publishedAt": "2026-08-25T15:29:03.000Z",
-      "category": "产品"
-    },
-    {
       "id": "0afc733bd4f4df1bf44c4aec0b1ba207b9c5630f",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1347,18 +1347,6 @@
       "category": "其他"
     },
     {
-      "id": "f38d9d534a8a476b301937ad16767af2b015ffc6",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: A hash-chained ledger for AI reasoning you can verify yourself",
-      "zhTitle": null,
-      "summary": "SDI protocol defines a reasoning computer for AI. The computer runs an LLM one turn at a time, guiding it through a reasoning grammar; the grammar, which is both natural language and algebraic, allows it to be checked at a compile gate. The gate validates safety, a workfloor, and alignment with the grammar before it commits. What commits is a hash-chain ledger of the agent&#x27;s reasoning, formin",
-      "zhSummary": null,
-      "url": "https://www.sdi-protocol.org",
-      "publishedAt": "2026-08-25T15:09:35.000Z",
-      "category": "其他"
-    },
-    {
       "id": "92169cfc5405f5c3d0aa6bc358c5551a3c643551",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1405,18 +1393,6 @@
       "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
       "publishedAt": "2026-08-25T15:00:00.000Z",
       "category": "融资"
-    },
-    {
-      "id": "56681b936def1b62281efde303416b00900ebc3a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "De-stink: remove claudisms without LLMs, only copy paste",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lex00.github.io/sentences/destink.html",
-      "publishedAt": "2026-08-25T14:56:07.000Z",
-      "category": "其他"
     },
     {
       "id": "38c0e06d5e102afe7ac589fc54a8b5b153b69e97",
@@ -3601,6 +3577,30 @@
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "54e616a32e5ede38b908269b87c96f01d007be0c",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "zhTitle": null,
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/circles",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "6d58997b466ca59f729e755e523db112666f9bfc",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "zhTitle": null,
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "publishedAt": "2026-08-01T00:00:00.000Z",
+      "category": "其他"
     }
   ]
 }
