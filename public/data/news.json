@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-26T03:08:21.880Z",
+  "generatedAt": "2026-08-26T04:43:43.585Z",
   "items": [
+    {
+      "id": "4dfd28cc45fe4e28d60cc697b689a34db5692dd9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Kraftapp AI – Describe it. We build it. Customers find it",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://kraftapp.ai",
+      "publishedAt": "2026-08-26T03:59:56.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "e87e1a27d8c9779fb9894480ae203a36351ea252",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/opscart/docker-security-practical-guide",
+      "publishedAt": "2026-08-26T03:56:32.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fa9c15b579bcabe6fde596b02a9d4b4ebee8b2ce",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I'm an Amazon SVP who hadn't coded in 25 years",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers",
+      "publishedAt": "2026-08-26T03:52:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4a98b9a652520c6943cdf757ea13e385d2b0da90",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "zhTitle": null,
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+      "publishedAt": "2026-08-26T03:30:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "a686b6b7089f7a1ed9f46173aa102910ad387bd9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25",
+      "publishedAt": "2026-08-26T03:27:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3d49b8be15d2d55e12aab298a68e4280eb7d0114",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+      "publishedAt": "2026-08-26T03:23:50.000Z",
+      "category": "模型发布"
+    },
     {
       "id": "d470622f93e724087b73ebeb83334a74077ffef5",
       "sourceId": "hn-ai",
@@ -375,18 +447,6 @@
       "category": "其他"
     },
     {
-      "id": "2e06e44a7089e2324a618ee1d162f5ad8ba927a5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
-      "publishedAt": "2026-08-25T20:47:48.000Z",
-      "category": "其他"
-    },
-    {
       "id": "78ba2cddef1191b4946b9d569a19357ea1308b50",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -399,54 +459,6 @@
       "category": "其他"
     },
     {
-      "id": "e2fa69105fb46c1bfe2bfc29bcb1195ca881fe6c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The State of AI Disclosure 2026: what 1,088 EU sites' chat widgets say",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://disclosureproof.com/research/state-of-ai-disclosure",
-      "publishedAt": "2026-08-25T20:46:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7b8e11ec97750a34be3c32c6d1db9d6e091e09b6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "MREA – Open-source governance framework for multi-role AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/JairValle/mrea-framework",
-      "publishedAt": "2026-08-25T20:40:30.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "998b7726008d52524b9935b9756ce6bb124ad8bb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI, IPv6, and the future Internet at IETF 126",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126",
-      "publishedAt": "2026-08-25T20:33:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "17233cd8091451c72374e9ef3daa12a5485d5012",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The New York Times is publishing AI slop",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
-      "publishedAt": "2026-08-25T20:32:25.000Z",
-      "category": "其他"
-    },
-    {
       "id": "0afa4e960ecc88c7cefd073d504a1b0932662c9b",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -456,18 +468,6 @@
       "zhSummary": null,
       "url": "https://zenodo.org/records/19882078",
       "publishedAt": "2026-08-25T20:24:36.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ee450736f0098ec05ab23f276e9ab7b3f91db000",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
-      "publishedAt": "2026-08-25T20:21:15.000Z",
       "category": "其他"
     },
     {
@@ -1443,18 +1443,6 @@
       "category": "融资"
     },
     {
-      "id": "9bc830e0c475ce742804dcd7db709baa87879190",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "LMCache reported a 98% cache hit rate while returning zeros",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/dl4rce/lmcache-hybrid-gdn-restore-fix",
-      "publishedAt": "2026-08-25T14:24:41.000Z",
-      "category": "其他"
-    },
-    {
       "id": "d1df00f6f18c79cdd6fbadda8d508e227544f32f",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1969,18 +1957,6 @@
       "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
       "publishedAt": "2026-08-23T15:00:00.000Z",
       "category": "政策"
-    },
-    {
-      "id": "ca1bb3e81f45e80ca5f60a13587d5bd311530182",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "zhTitle": null,
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
-      "publishedAt": "2026-08-22T21:46:56.000Z",
-      "category": "其他"
     },
     {
       "id": "686686b80dcf4d54eb5c0f7e3858bca133a2840a",
@@ -3601,6 +3577,30 @@
       "url": "https://openai.com/index/apple-is-getting-this-wrong",
       "publishedAt": "2026-08-03T22:00:00.000Z",
       "category": "政策"
+    },
+    {
+      "id": "c95f020b0a6db62a1d951660704e72db15e2b60d",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "Inside our 353,000-person vibe coding course",
+      "zhTitle": null,
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "zhSummary": null,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "zhTitle": null,
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "category": "模型发布"
     }
   ]
 }
