@@ -1,42 +1,450 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T19:16:30.462Z",
+  "generatedAt": "2026-09-02T22:26:41.366Z",
   "items": [
     {
-      "id": "9475b2557a77ac033f799429748c860ce582e134",
+      "id": "f77da1d556737fa57f622c02784fad4d7c838314",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "zhTitle": null,
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+      "publishedAt": "2026-09-02T22:24:09.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "881cc85a594952c473b6af7ff7fd82bd8cc738f3",
       "sourceId": "hn-ai",
       "sourceName": "Hacker News AI",
-      "title": "Altman says countries have to use AI: 'I think it is non-negotiable'",
+      "title": "US Government worried that AI companies can't innovate without legal theft",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
-      "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-      "publishedAt": "2026-09-02T19:09:33.000Z",
+      "url": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft",
+      "publishedAt": "2026-09-02T22:22:45.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "8e87c82b3b377b0b7ebf97564689a60126dc8223",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Bridging Models' Internal States",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mostik.ai/read-more",
+      "publishedAt": "2026-09-02T22:18:36.000Z",
       "category": "其他"
     },
     {
-      "id": "3577677ef64f6fb82af222bffa20036b1ce1ae56",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I tried to predict which jobs AI replaces. The useful part is where it's wrong",
+      "id": "20e5700a043335af37106e0563a876dc450a68f2",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "US judge blocks Trump's newest order limiting birthright citizenship",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
-      "url": "https://careeratlas.dev/writing/ai-displacement-model",
-      "publishedAt": "2026-09-02T19:04:50.000Z",
+      "url": "https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28",
+      "publishedAt": "2026-09-02T22:12:45.000Z",
       "category": "其他"
     },
     {
-      "id": "4c892bb22f11813ac40a7ff27ffb171be79fb250",
+      "id": "b28b532a9c4831dd4fe0ba6f59a7b8a323979391",
       "sourceId": "hn-ai",
       "sourceName": "Hacker News AI",
-      "title": "Researchers Warn AI Could Be Changing Us in an Unexpected Way",
+      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
-      "url": "https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn",
-      "publishedAt": "2026-09-02T19:03:09.000Z",
-      "category": "研究"
+      "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
+      "publishedAt": "2026-09-02T22:05:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e1203e982825f4a23659f8c75f6f24d0359e41c3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Reasons Robotics Is Hard",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "publishedAt": "2026-09-02T22:02:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a555f4ff026ae12d485fed92c84a4c4c08f32192",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "publishedAt": "2026-09-02T21:45:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9b5e60f3483b2623c7659b75286d2c8d1bc82931",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AIgnostic",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lewiscampbell.tech/blog/260723",
+      "publishedAt": "2026-09-02T21:42:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6c02ead7dd0da7a32067afab5c5271977c631f4d",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "After Work, We'll Have Each Other",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other",
+      "publishedAt": "2026-09-02T21:30:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "51f2dd4dd27097567a6e61240a71e53ac4e6f502",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+      "publishedAt": "2026-09-02T21:25:28.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cf5342ffea1f0042ec1723aa975a848db493b505",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Will AI save or ruin democracy?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
+      "publishedAt": "2026-09-02T21:23:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b3b5486042fcf3a2659ca9a6bc0163a4b9a69937",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do",
+      "publishedAt": "2026-09-02T21:16:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ad84021f8b215a2c34e77603ed294754c0c42c63",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
+      "publishedAt": "2026-09-02T21:10:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "de5df8f180f0ba8b833dbf1fdcc0b5019f4fae0d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: The Drudge Report, but for AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://theainewsreport.com",
+      "publishedAt": "2026-09-02T21:06:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fc3c0621c4ce0d7328eb2d8797ec281daab632af",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Programming Languages and Type Safety in the Era of LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.thecodedmessage.com/posts/pls-in-llm-land",
+      "publishedAt": "2026-09-02T21:03:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "449866841276f330371e060c70baecb0389999dc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Meta's Muse Spark 1.3 beats Google's frontier model on artificialanalysis",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://artificialanalysis.ai/models/muse-spark-1-3",
+      "publishedAt": "2026-09-02T20:59:16.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "c8c0e9709ac0b95d4d26b308ab40b566f63079f9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI is changing religion and religions are trying to change AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+      "publishedAt": "2026-09-02T20:58:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d8f710ced3b045a057e1418ebc17c62ac7e7f87a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "publishedAt": "2026-09-02T20:57:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "224aaf16447d75ac6293d6701170db3ab3923c54",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://dehurdle.com/register",
+      "publishedAt": "2026-09-02T20:56:11.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "018e2add850cc0d8c8d4f6e376f2ce5e504a2c19",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/0xhsn/proxy-llms",
+      "publishedAt": "2026-09-02T20:47:12.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "8a294acf7ec9c475d6339a32fd3ed1b2b02cf076",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Pushing the Limits of Serving DeepSeek-V4-Pro",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "publishedAt": "2026-09-02T20:41:23.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "abfab3a9b17f0d6ac586d162ece73040afdad0fd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AlparAI – Autonomous Swarm OS with Quantum Verification",
+      "zhTitle": null,
+      "summary": "Alpar AI is building the judicial and constitutional accountability infrastructure for artificial intelligence. We audit frontier LLMs against real-world incidents, hallucinations, and safety violations using an actuarial Bayesian TrustScore framework.",
+      "zhSummary": null,
+      "url": "https://www.alparai.com/en",
+      "publishedAt": "2026-09-02T20:35:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ad5746f7e9ae4185926a97de0a794c74ac876307",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AI coach that adapts workouts and meals to your injuries and",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://rizin.app",
+      "publishedAt": "2026-09-02T20:33:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "947a91f8352b6530e7215df6b58ddb945b012274",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Disclosure Pilot AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/p-dirac/disclosure-pilot-ai",
+      "publishedAt": "2026-09-02T20:25:11.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "999023855e0dc033949820020a450ce19684fd54",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Lean AI Formalization Leaderboard",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lean-lang.org/eval/legacy",
+      "publishedAt": "2026-09-02T20:24:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "13c4ef2164623689d1482ebe148627e71ea089e7",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "zhTitle": null,
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "publishedAt": "2026-09-02T20:19:14.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "c5d8794671e9142a6af276f9d5a68549636a1584",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Aphant.dev",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aphant.dev",
+      "publishedAt": "2026-09-02T20:13:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "535ee29f1ad18ff7da76a0482cfd234a88c8d9a7",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "zhTitle": null,
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "publishedAt": "2026-09-02T20:11:40.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "201abc1c6ff5fae32ca1cbf208fd5be8645feadc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "\"AI Agents Are Now Emailing Me with Their Security Concerns\"",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+      "publishedAt": "2026-09-02T20:06:07.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "de5a6f6dfa54c83d28c3d999a9c77189e138797b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Mamdani imposes one-year ban on AI for most NYC students",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02",
+      "publishedAt": "2026-09-02T20:05:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "aafa6ab3ba0c9a6ecf34561a60dc7410f99af28e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Z: Local-first search layer for humans and agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/zvec-ai/zvec-grep",
+      "publishedAt": "2026-09-02T19:56:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "13da40bd6af33a8dcad7c4621c6e4797ff790805",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Uber drivers launch European class action over AI algorithm",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+      "publishedAt": "2026-09-02T19:54:26.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "db92b87dfb03b81c1973582ae502a43db4818760",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Agents and the Refactoring That Never Happens",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens",
+      "publishedAt": "2026-09-02T19:51:39.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "26885468bad9148f0f86dc6360b541739eddc6a7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Post-AI Internet Doesn't Look Great",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great",
+      "publishedAt": "2026-09-02T19:41:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b7b4695452338012f3e6ae1547c59fecead123d3",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Sam Altman: Water use for 1 almond same as 38,000 ChatGPT queries [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=VeizK1M7V7E",
+      "publishedAt": "2026-09-02T19:40:48.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "c67530fe684eb769f5104f68d1a15a5c01f71ee4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Nvidia-sized hole in US GDP statistics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics",
+      "publishedAt": "2026-09-02T19:40:44.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "082f84a32879e92937638225714a50f3af1b3d54",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Limiting Overshoot – Navigating exceedance of 1.5°C and pathways towards return",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.unep.org/resources/limiting-overshoot-navigating-exceedance",
+      "publishedAt": "2026-09-02T19:36:47.000Z",
+      "category": "其他"
     },
     {
       "id": "96b2639c15dcb243c6809046c37c199c544e2e50",
@@ -51,30 +459,6 @@
       "category": "其他"
     },
     {
-      "id": "3e15f2652951ccbc0225bd1c3f719304863685a8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How AI Is Ruining the Electric Grid",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=3__HO-akNC8",
-      "publishedAt": "2026-09-02T18:53:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "69bed1a43cbcc5616e519a1f8672ec15309e0c24",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Teachers, students file new lawsuits against OpenAI over Tumbler Ridge shooting",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-shooting-open-ai-lawsuits-9.7328382",
-      "publishedAt": "2026-09-02T18:48:29.000Z",
-      "category": "政策"
-    },
-    {
       "id": "95d18cad8e3271aa6b865002aaeedd32443b8f04",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -84,18 +468,6 @@
       "zhSummary": null,
       "url": "https://writethatblog.substack.com/p/rubber-ducking-your-blog-post-with-llms",
       "publishedAt": "2026-09-02T18:45:10.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "368d537788ceb063b9a12776a869af48da8aa793",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
-      "publishedAt": "2026-09-02T18:42:01.000Z",
       "category": "其他"
     },
     {
@@ -109,30 +481,6 @@
       "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
       "publishedAt": "2026-09-02T18:41:02.000Z",
       "category": "政策"
-    },
-    {
-      "id": "bc25bbc16c2652f20fa4f5e98209b4753fc96bac",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "We are causing sycophancy and evasion",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.unite.ai/ai-safety-psychology-trauma-framework-model-behavior",
-      "publishedAt": "2026-09-02T18:35:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "32e5bf8a1e521c75fcbb5336f73348ff1c266279",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest",
-      "publishedAt": "2026-09-02T18:30:49.000Z",
-      "category": "其他"
     },
     {
       "id": "7f8123f13d57c54d7d9e82fddca8109ff50796c4",
@@ -183,18 +531,6 @@
       "category": "其他"
     },
     {
-      "id": "8945ec433f7021db14939f305d67e75d2eef9e4a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The companies powering AI are outperforming those building it",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.home.saxo/content/articles/commodities/the-companies-powering-ai-are-outperforming-those-building-it-02092026",
-      "publishedAt": "2026-09-02T18:14:54.000Z",
-      "category": "其他"
-    },
-    {
       "id": "ca2980465003bc78cffcb248ba4b801fbee3ac14",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -205,90 +541,6 @@
       "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
       "publishedAt": "2026-09-02T18:13:54.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "5786bce994bbe901ee813028a3646518005a07db",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "No AI until high school:NYC schools announce major classroom technology overhaul",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716",
-      "publishedAt": "2026-09-02T18:13:54.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b10097f15174ab6752654b54b8ad3e97bafc1635",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OWASP Top for Agentic Applications – The Benchmark for Agentic Security",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://genai.owasp.org/2025/12/09/owasp-top-10-for-agentic-applications-the-benchmark-for-agentic-security-in-the-age-of-autonomous-ai",
-      "publishedAt": "2026-09-02T18:13:41.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "a99ed2aaefc84f83501a46ebb4119a463e680577",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Meta bricked the cameras on its AI glasses",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.businessinsider.com/meta-glasses-camera-disabled-tampering-recording-light-update-2026-9",
-      "publishedAt": "2026-09-02T18:13:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "72d044372bbfbf59521e2c3a6db9ac3df049363b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "This Fence Has No Farmer (Chesterton's Fence and AI-Generated Code)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://adamgreenough.net/blog/this-fence-has-no-farmer",
-      "publishedAt": "2026-09-02T18:11:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "beb8ae31a1f39a75be7bca2db57b0c0b5fa34748",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI is stopping startups from completing puberty",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty",
-      "publishedAt": "2026-09-02T18:06:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "affb749f0bed20582e116e30578a1df4ab53a34d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Zuzai, a new word, indicates the absence of AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://zuzai.org",
-      "publishedAt": "2026-09-02T18:05:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dac35fdf143f55238ece57255dedadee3672ddd8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Do No Harm in the Age of the Black Box: A Hippocratic Oath for AI Practitioners",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wilmott.com/do-no-harm-in-the-age-of-the-black-box-a-hippocratic-oath-for-ai-practitioners",
-      "publishedAt": "2026-09-02T18:05:01.000Z",
-      "category": "其他"
     },
     {
       "id": "e2f0b87562323d77ff1a5eeaab5cab3a8b7c8f07",
@@ -303,18 +555,6 @@
       "category": "模型发布"
     },
     {
-      "id": "03c8996989d5ee234cca5e3cefee186c302e3b30",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How a new kind of video business cashed in on America's divided politics",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.semafor.com/article/09/02/2026/paid-actors-ai-writing-how-a-new-kind-of-video-business-cashed-in-on-americas-divided-politics",
-      "publishedAt": "2026-09-02T17:59:16.000Z",
-      "category": "其他"
-    },
-    {
       "id": "a723b72506e364a4aa515bfb5db6208a35dee008",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -327,33 +567,21 @@
       "category": "政策"
     },
     {
-      "id": "ed167b246fea53df059f38cf1e5be0f42b8c85c0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI companies are at risk of making Silicon Valley's mistakes all over again",
+      "id": "2140bd018ec6fc93eaa3f09bcd91df77624c3805",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
       "zhTitle": null,
-      "summary": "",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
       "zhSummary": null,
-      "url": "https://werd.io/ai-companies-are-at-risk-of-making-silicon-valleys-harmful-mistakes-all-over-again",
-      "publishedAt": "2026-09-02T17:58:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "78d75e8ce9e457fe58f57a0f69aca14accc33459",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
-      "zhTitle": null,
-      "summary": "I wanted to try out Omarchy before doing a full install, but I only have an M series MacBook so I would have to find a laptop and there&#x27;s no official M support yet. So I decided to create something that allows people to test and run Omarchy on their devices so they can understand how it feels. So I built an app that allows you to run Omarchy Quattro as a native, hardware-accelerated app on yo",
-      "zhSummary": null,
-      "url": "https://github.com/themartiano/try-omarchy",
-      "publishedAt": "2026-09-02T17:54:32.000Z",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "publishedAt": "2026-09-02T17:52:56.000Z",
       "category": "产品"
     },
     {
       "id": "5ec94709035d53e538be8f14383b898d575ecac7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: AI-Native Boilerplate – 170+ rules that stop LLMs from drifting.",
       "zhTitle": null,
       "summary": "",
@@ -375,42 +603,6 @@
       "category": "模型发布"
     },
     {
-      "id": "d4273776d41fa47d2e3ab62bbc99700acb64737c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "LifeOS – Moving You from Current to Ideal State",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ourlifeos.ai",
-      "publishedAt": "2026-09-02T17:46:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "dcd12de65e1626a5ba80c53e4133d64edbb28e17",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Hadavar – an AI-powered keyboard driven email client",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://hadavarmail.com",
-      "publishedAt": "2026-09-02T17:45:22.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a7fc1b4a8f7f26fcb32e86eec3b10a52c4890415",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02",
-      "publishedAt": "2026-09-02T17:34:12.000Z",
-      "category": "产品"
-    },
-    {
       "id": "fad5e3c61398fae6952da1dc218f9a861138f68f",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -420,18 +612,6 @@
       "zhSummary": null,
       "url": "https://www.innerkore.com/blog/bash-glue-terminal-real-superpower-behind-coding-llms",
       "publishedAt": "2026-09-02T17:33:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "911c40f4ce143bc032154b2cd45b1d3ee8e433e2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: I built Stardew Valley but you pay for everything",
-      "zhTitle": null,
-      "summary": "You can buy land, build stuff, market your projects. I plan on integrating your AI agents onto it. Any ideas on where this project could go?",
-      "zhSummary": null,
-      "url": "https://pixelhof.com",
-      "publishedAt": "2026-09-02T17:28:15.000Z",
       "category": "其他"
     },
     {
@@ -447,18 +627,6 @@
       "category": "工具"
     },
     {
-      "id": "dc7c27fb1c936de427e3ee702dc1a0f991443352",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I made a clone of myself to provide quick facts about the company where I work",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.synthesia.io/post/synthesia-ai-press-officer",
-      "publishedAt": "2026-09-02T17:13:33.000Z",
-      "category": "其他"
-    },
-    {
       "id": "de7046fb528398a6202b0bd741546a8e2fbef7d6",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -468,18 +636,6 @@
       "zhSummary": null,
       "url": "https://almeidapaulopt.github.io/tsdproxy",
       "publishedAt": "2026-09-02T17:11:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2b139af1e1b3faf3f2ee1ea04f479f2aca7f4039",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Databricks used AI to save $1mi/year in AI spend",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.databricks.com/blog/how-we-eliminated-1-million-year-wasted-ai-agent-spend-one-hour",
-      "publishedAt": "2026-09-02T17:10:56.000Z",
       "category": "其他"
     },
     {
@@ -555,6 +711,18 @@
       "category": "其他"
     },
     {
+      "id": "1db8587bd622d47327cadba720e68d2c288411f5",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "zhTitle": null,
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "publishedAt": "2026-09-02T16:40:50.000Z",
+      "category": "研究"
+    },
+    {
       "id": "918cc33350deec3514b2ef4fc592304fc4383715",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -572,7 +740,7 @@
       "sourceName": "Simon Willison",
       "title": "llm-gemini 0.34",
       "zhTitle": null,
-      "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137 Tags: llm, gemini",
+      "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan. #137 Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today. Here are the pelicans for high, medium, and low. This is high: For",
       "zhSummary": null,
       "url": "https://simonwillison.net/2026/Sep/2/llm-gemini",
       "publishedAt": "2026-09-02T16:39:38.000Z",
@@ -589,6 +757,18 @@
       "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487",
       "publishedAt": "2026-09-02T16:30:06.000Z",
       "category": "其他"
+    },
+    {
+      "id": "b94dc7898a32cf30b4599f936b7838baaec2aa3c",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "zhTitle": null,
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "publishedAt": "2026-09-02T16:12:25.000Z",
+      "category": "政策"
     },
     {
       "id": "f95dfcb0a242f759735a387dfe3291c7a5605288",
@@ -627,30 +807,6 @@
       "category": "其他"
     },
     {
-      "id": "e0b8794b9c1d5baff6958f20e4c5735acbb77992",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Blognami – a Markdown based blogging platform for node",
-      "zhTitle": null,
-      "summary": "I have been working on this in the cracks of my (very limited) free time for about 4 years. It runs on node, and you can install and run it locally with SQLite. There is also a SaaS version if you don&#x27;t want to install anything. Let me know what you think!",
-      "zhSummary": null,
-      "url": "https://blognami.com/docs",
-      "publishedAt": "2026-09-02T15:55:20.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "e55e5e4a921f6f6e964d0ab257168d8a39e7ca23",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
-      "zhTitle": null,
-      "summary": "We run a SaaS that handles petabytes of data. Our SRE team experimented with using claude, openclaw, langchain, etc. within our incident response workflows. We struggled with overflowing context, lethal trifecta vectors, hallucinations, and burned a lot of frontier tokens mostly on easy work. Approval fatigue was a challenge, and we drew a hard line at relaxing permissions in production. Long stor",
-      "zhSummary": null,
-      "url": "https://github.com/mezmo/aura",
-      "publishedAt": "2026-09-02T15:55:14.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "89d03c54d8e209453149c3357e9d0daf79185aa1",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -663,16 +819,16 @@
       "category": "产品"
     },
     {
-      "id": "4dbdd4b6c456446498b94a298f2e17c835541505",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Open Task Light: I made a lamp you can make yourself [video]",
+      "id": "6cd28bbd776b6550e0731299b64f88e81dd93bbf",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
       "zhTitle": null,
-      "summary": "",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]",
       "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=ipVFRH6TQfM",
-      "publishedAt": "2026-09-02T15:43:23.000Z",
-      "category": "其他"
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "publishedAt": "2026-09-02T15:47:03.000Z",
+      "category": "模型发布"
     },
     {
       "id": "7f0cad5ff04b79f9eccffbdd096cb1e20ab4d8d2",
@@ -685,54 +841,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
       "publishedAt": "2026-09-02T15:40:00.000Z",
       "category": "政策"
-    },
-    {
-      "id": "80e99f9b15bc52408126d37ec573b3f51e8b9f8e",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Ultra Fast LLM's Are Interesting (Mercury 2.5 Preview Release)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://openrouter.ai/inception/mercury-2.5-preview",
-      "publishedAt": "2026-09-02T15:31:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "12f6f9c6c8878ec1759905c08b56391e020cc2a3",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "GLM-5.3-Flash at 1000 tok/s on RTX PRO 6000",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.localmaxxing.com/en/models/zai-org/GLM-5.3-Flash?run=cmtk0maew03mrp701oyaivvka",
-      "publishedAt": "2026-09-02T15:11:42.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9f84db5da6f0114ee18ac70cbe84c6f0f1195be5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Mistral Vibe Code: GLM 5.2 is now available",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/mistralvibe/status/2094705817450606725",
-      "publishedAt": "2026-09-02T15:10:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d271edf7b4e84225977a21286d018f81206f6ae1",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
-      "publishedAt": "2026-09-02T15:07:08.000Z",
-      "category": "研究"
     },
     {
       "id": "4f5cb1e3be0511550f16cb909a8e94a6ad757719",
@@ -757,18 +865,6 @@
       "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
       "publishedAt": "2026-09-02T14:56:34.000Z",
       "category": "产品"
-    },
-    {
-      "id": "70c81524e7725c07834e5448ca177b5b933a5338",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Fine-tuning your LLM might be making it dumber",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/aryanyaksh-art/did-it-even-learn",
-      "publishedAt": "2026-09-02T14:49:39.000Z",
-      "category": "研究"
     },
     {
       "id": "455599cea252fe3ef54c2ade69efb8c85daf85e5",
@@ -819,18 +915,6 @@
       "category": "融资"
     },
     {
-      "id": "e77ccb8ba0f6cd16d1d9f824e150aa91a0223159",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/mlc-ai/web-llm",
-      "publishedAt": "2026-09-02T14:02:35.000Z",
-      "category": "其他"
-    },
-    {
       "id": "38df72fd5f870b4a6f7649461dc841bd833421da",
       "sourceId": "mit-tr-ai",
       "sourceName": "MIT Tech Review",
@@ -843,18 +927,6 @@
       "category": "工具"
     },
     {
-      "id": "d97fe784def5620651d87c9441f1e65e6551020a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "What Is Your LLM Judge Measuring?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.searchplex.net/blog/llm-judge-search-relevance",
-      "publishedAt": "2026-09-02T13:51:19.000Z",
-      "category": "其他"
-    },
-    {
       "id": "22915ca8a27338bffdf8780d1f76e125a675532a",
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
@@ -864,18 +936,6 @@
       "zhSummary": null,
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "publishedAt": "2026-09-02T13:49:14.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2ade561191cd4590b9bce6040d1895a4f4ecd131",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Cash or Comfort? How LLMs Value Your Inconvenience",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://cacm.acm.org/research/cash-or-comfort-how-llms-value-your-inconvenience",
-      "publishedAt": "2026-09-02T13:46:29.000Z",
       "category": "其他"
     },
     {
@@ -1069,30 +1129,6 @@
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
       "publishedAt": "2026-09-01T19:03:01.000Z",
       "category": "研究"
-    },
-    {
-      "id": "07d9f1d4fa7815c6b8b91dcaf2019efab3811e48",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "zhTitle": null,
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "publishedAt": "2026-09-01T19:02:54.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "07f23843f168194eeae9a3a8da04c66e358f2f12",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "zhTitle": null,
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "publishedAt": "2026-09-01T18:19:26.000Z",
-      "category": "政策"
     },
     {
       "id": "5c2753a2624a1b50b58ca4cae38702368739d435",
@@ -1635,18 +1671,6 @@
       "category": "研究"
     },
     {
-      "id": "6d0e3cbcab901d99568e3b5e46af171cc0fe5508",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "zhTitle": null,
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "publishedAt": "2026-09-01T16:00:52.000Z",
-      "category": "产品"
-    },
-    {
       "id": "76ec1db6d313f9a4fcb92f2fce716c36d9d03f80",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1669,18 +1693,6 @@
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
       "publishedAt": "2026-09-01T16:00:00.000Z",
       "category": "工具"
-    },
-    {
-      "id": "a1bcccbde514481e765d4d768e1cc21a7af5cc88",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "zhTitle": null,
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "category": "模型发布"
     },
     {
       "id": "4e5d934e7240fd15d4ff076fde70a84eb6a93166",
@@ -1911,18 +1923,6 @@
       "category": "研究"
     },
     {
-      "id": "741d2e1ace69a6667b86615a0f55bd3b6e97b8f7",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
-      "zhTitle": null,
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
-      "publishedAt": "2026-09-01T15:10:58.000Z",
-      "category": "产品"
-    },
-    {
       "id": "10bcda943db86cbc3afc9c0e83ee3db44f688106",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -1959,18 +1959,6 @@
       "category": "其他"
     },
     {
-      "id": "f90150b766c309ecad1d97006d4058eb297649df",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "zhTitle": null,
-      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
-      "category": "产品"
-    },
-    {
       "id": "50e05f9b472e33e2adbbd0db85106a39a236152d",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -1993,18 +1981,6 @@
       "url": "https://openai.com/index/gilbert-tobin",
       "publishedAt": "2026-09-01T01:00:00.000Z",
       "category": "政策"
-    },
-    {
-      "id": "6a3db8bac480b841261936410bd730c42c1602f4",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
-      "zhTitle": null,
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-      "publishedAt": "2026-09-01T00:13:00.000Z",
-      "category": "产品"
     },
     {
       "id": "85562dc16345cc8b5d0432f25d0402929602cb9f",
@@ -3601,6 +3577,30 @@
       "url": "https://openai.com/index/building-an-ai-native-finance-function",
       "publishedAt": "2026-08-10T17:00:00.000Z",
       "category": "其他"
+    },
+    {
+      "id": "e5b664a37aa39848f2818dc3bf1d6e3bf5ae4443",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "publishedAt": "2026-08-10T16:25:36.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "6f027f788573855eaca20896b0c6ebdd88edb0bd",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "Evolve your marketing with new AI tools",
+      "zhTitle": null,
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "zhSummary": null,
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "category": "工具"
     }
   ]
 }
