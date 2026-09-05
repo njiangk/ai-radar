@@ -1,7 +1,271 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T20:03:59.682Z",
+  "generatedAt": "2026-09-05T23:37:13.080Z",
   "items": [
+    {
+      "id": "bcf7b6dcb82806f70ca20875c070169321888bc5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Extropic Z1T",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://extropic.ai/writing/z1t",
+      "publishedAt": "2026-09-05T23:34:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b8133850cc1999481e7010078d52773a6883fd92",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Introducing GPT-6 Astra for developers",
+      "zhTitle": null,
+      "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s: Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals, cityscapes, even Dyson spheres. As",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers",
+      "publishedAt": "2026-09-05T23:27:48.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "c7fab9177588f82d79b3d07f3de2daf9354714c9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Truckers – AI data centers as business booms",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+      "publishedAt": "2026-09-05T23:22:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a50bf18466f18d6d834c0a6d65a13f48b73ca308",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2603.14133",
+      "publishedAt": "2026-09-05T23:19:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "be6ad5bb416f85035d6e3b39d749e049b6d6c29c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI and the collapse of the intelligence-based hierarchy of merit",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mattbruenig.com/2026/08/31/more-thoughts-on-ai",
+      "publishedAt": "2026-09-05T23:14:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ecc7e8f2a3b98828347b4329d644e79b660a50cd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Workforce behind AI spans 160M workers, many in the Global South",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.thecooldown.com/green-tech/global-south-data-workers-ai-labor-organization",
+      "publishedAt": "2026-09-05T23:02:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1d3d4d76fcdcf8069778e79dd84a32be9b5936cd",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "zhTitle": null,
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0bbf7a11fe26d75541a7304a768a891a15ab218c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Halv used 51% fewer tokens per correct answer on SWE-rebench",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://halv.ai/blog/halv-swe-rebench-20-pairs",
+      "publishedAt": "2026-09-05T22:33:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "604c057813c2fdafdd37616064806ad7292266ce",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Is AI ruining my brain?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+      "publishedAt": "2026-09-05T22:25:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a6a4e2942dd0773e3d63e2ba6feadb0641c80e14",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Good AI Slop",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.bilus.dev/posts/good-ai-slop",
+      "publishedAt": "2026-09-05T22:18:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "711e210dac1df400ad943b07c24c1c0403ae6ed4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2604.03136",
+      "publishedAt": "2026-09-05T22:18:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f31be0c625cb8e92bf2410b33b7a2b9a615d9fda",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "publishedAt": "2026-09-05T22:15:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e223dc4d45281617def8d3671e0f3cde2dc2c6da",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Nvidia Lambda Circular Deal [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/shorts/II2BEkrJ2Zc",
+      "publishedAt": "2026-09-05T22:14:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "db7383ecee01a3cdabf923bafc6ff0aab60ac721",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+      "publishedAt": "2026-09-05T22:03:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a7f0e57f6981eaf6753cff8b85da239541d2aa45",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "An LLM runtime that boots from USB",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://nightrun.io",
+      "publishedAt": "2026-09-05T21:59:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7b7e5871aea321868fdc0bd0c3989525213078f7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
+      "publishedAt": "2026-09-05T21:43:22.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8722e637d03084fef8d53e2af73f9697dc4966eb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google AI turns on its maker in a brutally candid interview",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://newatlas.com/ai-humanoids/exclusive-google-ai",
+      "publishedAt": "2026-09-05T21:38:22.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1908848b1e0a6a27413f0ac495ba6211e9b42251",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The AI-Native SDLC Playbook",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "publishedAt": "2026-09-05T21:26:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "01b334a233a9e81cce79b5228b4fdf6b97c158d5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How AI is breaking the British state",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+      "publishedAt": "2026-09-05T21:05:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "002322f91dba8bb39115a35e64ec5b893a32e8e1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: I replaced my portfolio with an AI that knows me",
+      "zhTitle": null,
+      "summary": "I wanted to do something &quot;new&quot;. I&#x27;m not 100% sure if this is really new since I don&#x27;t really check out other people their portfolio&#x27;s. It&#x27;s been on my &quot;to do&quot; for a long time to redo my portfolio page. Now with AI coming and stuff, I thought I might as well do it like this. The original content of my previous portfolio (projects, achievements, blog posts) ar",
+      "zhSummary": null,
+      "url": "https://xlogic.sh",
+      "publishedAt": "2026-09-05T21:05:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2b99e73c19a7a911d0279ad25da6516bf51a5b35",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+      "zhTitle": null,
+      "summary": "I&#x27;ve spent the past several months building something I call PHNTM-One. And I am really curious what HN thinks of the idea and the product I&#x27;ve built. The basic concept is an AI appliance that lives on your desk, is your personal assistant and is totally local running on your own hardware with the option for a boosted mode to reach claude for more demanding tasks. The idea is to have you",
+      "zhSummary": null,
+      "url": "https://www.phntmcore.com",
+      "publishedAt": "2026-09-05T21:03:22.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "d0440bbc1fe5288a5753291e953e281856f3b921",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "PR review when everyone has LLMs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://octet-stream.net/b/scb/2026-09-05-pr-review-when-everyone-has-llms.html",
+      "publishedAt": "2026-09-05T20:49:41.000Z",
+      "category": "其他"
+    },
     {
       "id": "b6a75cdb30da14a9acb661f1a8fc2804121e5cea",
       "sourceId": "hn-llm",
@@ -159,18 +423,6 @@
       "category": "其他"
     },
     {
-      "id": "36904d549de3962296081578efbb48a7ec28a1cd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Job postings show early signs of AI automation impact",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.dallasfed.org/research/economics/2026/0901",
-      "publishedAt": "2026-09-05T18:07:51.000Z",
-      "category": "其他"
-    },
-    {
       "id": "1cb48b3f41519359a35494381fdef58c00e39297",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -180,42 +432,6 @@
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
       "publishedAt": "2026-09-05T18:05:27.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e33cd3c1e29279beaf25d66316770c927358b483",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Flathub bans AI-coded apps – with some exceptions",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
-      "publishedAt": "2026-09-05T17:58:41.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "30a2d366fa9ea88005950754b2b88703429fe979",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A meme-shaped test of your post-AI SWE skills",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://codeset.ai/fried/swe",
-      "publishedAt": "2026-09-05T17:56:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6583ab37b9408531a457da53a56ad25cf8bc865d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: debugging designs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.debugging.design",
-      "publishedAt": "2026-09-05T17:48:39.000Z",
       "category": "其他"
     },
     {
@@ -231,30 +447,6 @@
       "category": "研究"
     },
     {
-      "id": "2f154f6e698392866bd3289525371040ea005a8a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How Much of the Internet Is Written with AI?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
-      "publishedAt": "2026-09-05T17:30:22.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3e3c282e30a9f58aa58b8515ee02f0fdf216089d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Music courses are dead (tanks AI) [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=PCqkJ0HuHTM",
-      "publishedAt": "2026-09-05T17:28:23.000Z",
-      "category": "其他"
-    },
-    {
       "id": "bc31f64f2c96cbba53840e66cbd0222864d46f32",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -265,18 +457,6 @@
       "url": "https://xbrlmetrics.com",
       "publishedAt": "2026-09-05T16:50:09.000Z",
       "category": "融资"
-    },
-    {
-      "id": "559b5f9082d90734681e8f021c610dbc211d3f70",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=drQGeK8wfNY",
-      "publishedAt": "2026-09-05T16:48:21.000Z",
-      "category": "其他"
     },
     {
       "id": "48bf78e14a071f51ef6c5301404294f6f1504e48",
@@ -303,54 +483,6 @@
       "category": "其他"
     },
     {
-      "id": "79800753e0413cac86547f4203417582a9f7c772",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Inside a growing movement warning AI could turn on humanity",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety",
-      "publishedAt": "2026-09-05T16:34:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e4374c2078d9a81d48bcd5c3ffbbd06a739b95fa",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "LWR Is the New Aura: A Pentester's Guide to Salesforce's WebRuntime API",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reco.ai/blog/lwr-salesforce-webruntime-api-pentesting",
-      "publishedAt": "2026-09-05T16:15:16.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "1248012057fdff1899bffeafeb7c996c1a18fbb3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Pushing the quality-cost frontier with MAI-Image-2.6",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6",
-      "publishedAt": "2026-09-05T16:14:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a192f9fc333506030e152bfefa385edd24f3f1ae",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Praesidias – pre-execution authorization for AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/sowainat/praesidias-pabe01",
-      "publishedAt": "2026-09-05T16:07:29.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6927ab66a236fe8251ae5cee226f1dc01c344674",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -363,30 +495,6 @@
       "category": "其他"
     },
     {
-      "id": "2d0bb6a02b5d5bdb0d90f12c847c143658840f11",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Kai-Fu Lee: China Will Win the AI Race for Reach",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview",
-      "publishedAt": "2026-09-05T15:59:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9a8dd09305a5342d9734f811d2a0610b99b72db7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway",
-      "publishedAt": "2026-09-05T15:56:03.000Z",
-      "category": "产品"
-    },
-    {
       "id": "22aacec03e469cb8ff0d2414798a2527bd6373bc",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -397,42 +505,6 @@
       "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
       "publishedAt": "2026-09-05T15:51:09.000Z",
       "category": "产品"
-    },
-    {
-      "id": "4d4991372aeb91178dc23344b2c2358f8565fea3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Swiftask just raised €1.55M to scale its AI agent deployment",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://agence-api.ouest-france.fr/numerique/swiftask-securise-1-55-m-euros-pour-deployer-ses-agents-ia-a-grande-echelle-ae6db912-a7a0-11f1-8a27-1e0c4eb5e395",
-      "publishedAt": "2026-09-05T15:41:18.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "99868b5177d355ab3e41dfa2bd810ba3eff9e46c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Youtubers being paid to spread AI FUD",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
-      "publishedAt": "2026-09-05T15:30:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d864a4cdd468ea2eb2429a7ccd4b995cad3c3e5f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Atom: American Open Models (2025)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://atomproject.ai",
-      "publishedAt": "2026-09-05T15:10:09.000Z",
-      "category": "其他"
     },
     {
       "id": "200126e677d0b6f40367c6e36c02347336de6722",
@@ -600,54 +672,6 @@
       "zhSummary": null,
       "url": "https://github.com/juntz-g1thub/UltraCpp",
       "publishedAt": "2026-09-05T07:09:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "85751785a6a1fdaf956a0d1e1605c427a707c6c6",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "An OS with two syscalls that runs COBOL on bare metal, no LLVM or GCC",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/AndreeSalazar/BMO-X",
-      "publishedAt": "2026-09-05T05:53:33.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "700f3e40aa876710593553a273efd68205eeb119",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Mac Cleaner for devs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://app.paymug.co/buy/lime-cleaner-mac",
-      "publishedAt": "2026-09-05T05:30:43.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "607c76e2f67f9f3fe3b2ea472cf0e9c2ed132592",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Google will limit how much memory Android apps can use from February 2027",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://thenextweb.com/news/google-android-app-memory-limits-play-store",
-      "publishedAt": "2026-09-05T04:50:13.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "803398299dcb07647f93f268ab7b61c650bd77fc",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Aegis – Inline security sidecar and eBPF sandbox for LLM agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aegiscruc.io",
-      "publishedAt": "2026-09-05T04:13:09.000Z",
       "category": "其他"
     },
     {
@@ -1971,18 +1995,6 @@
       "category": "融资"
     },
     {
-      "id": "4f602ed541c753cca7534030f398a7d9bcaa2af0",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "zhTitle": null,
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-      "publishedAt": "2026-09-03T12:42:45.000Z",
-      "category": "工具"
-    },
-    {
       "id": "7a45b185cff5308545e040bd4a321330824b79c8",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -3157,18 +3169,6 @@
       "url": "https://simonwillison.net/2026/Aug/22/llm",
       "publishedAt": "2026-08-22T17:01:16.000Z",
       "category": "其他"
-    },
-    {
-      "id": "6cda44a27fa95dfd0f2b54b978f42839eaa65583",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "More than just code review",
-      "zhTitle": null,
-      "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
-      "publishedAt": "2026-08-22T15:56:54.000Z",
-      "category": "产品"
     },
     {
       "id": "bcd3314d2ba2a36f1beca03b51a7f7455077a48e",
