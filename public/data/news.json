@@ -1,7 +1,259 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T22:12:38.048Z",
+  "generatedAt": "2026-09-05T03:31:32.929Z",
   "items": [
+    {
+      "id": "128eaae6321db307e079f231ad22fc9074063d44",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+      "zhTitle": null,
+      "summary": "Hi everyone! I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents&#x27; status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc. support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor. Hardware design, firmware and plugins are all opensource. urls are here: https:&#x2F;&#x2F;github.com&#x2F;lovaxi&#x2F;Rubato_Device",
+      "zhSummary": null,
+      "url": "https://github.com/lovaxi/Rubato_Device",
+      "publishedAt": "2026-09-05T03:16:57.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "5e4c61e7b138b95fe4dc768dbef452dbc5da47ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Lenexus – dependency graph with deterministic risk engine and AI layer",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lenexux.com/welcome",
+      "publishedAt": "2026-09-05T02:11:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "868907a609e36edf360cf2bcb35630f14896ffa9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "ProgramBench",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.vals.ai/benchmarks/programbench",
+      "publishedAt": "2026-09-05T02:06:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8434f448f1c3fbd24eb0761a5fc94635f83c4b69",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "publishedAt": "2026-09-05T01:45:53.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "793fdf4c4f5656eb63af73848c36429bc347f6fd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Tracking Public Predictions with AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mob.so/prescience",
+      "publishedAt": "2026-09-05T01:42:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f22a10c9c36b713f2c3e1a0863ff41d93b3a7893",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Personal AI Router for Local Inference",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router",
+      "publishedAt": "2026-09-05T01:35:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d76a09821375f67fbb07e5a11a8b3488654905ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI-assisted writing is common because writing is hard",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard",
+      "publishedAt": "2026-09-05T01:24:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "64868ada1cab46cc4d7ddc352dcd504595b983fe",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "publishedAt": "2026-09-05T01:15:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c6fb7584b30066918ce80edae40334a42bb3a3f5",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Mega Backdoor Roth ($72k/year contribution limit)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bogleheads.org/wiki/Mega-backdoor_Roth",
+      "publishedAt": "2026-09-05T00:46:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "45b1ee5f7a038c38d3b7eb41d6225e4a247fbe1d",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Microsoft announces monthly hour usage limits for Xbox game pass",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes",
+      "publishedAt": "2026-09-05T00:09:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2d1aff01ef67ae47e3547afdc41a3338db812374",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "publishedAt": "2026-09-05T00:04:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b3b9e98febac2b86707b07c47f6b36e0bb04fb58",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "zhTitle": null,
+      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful. See the grid for full quality images. Here's the",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+      "publishedAt": "2026-09-04T23:59:05.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "a5c68f89770b6cac631b4403b185519f5903c485",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "GPT-6 Astra on Vercel AI Gateway",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+      "publishedAt": "2026-09-04T23:51:38.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "26217271d334b142d4b4daeff8302a9c160a6f18",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "zhTitle": null,
+      "summary": "Why can&#x27;t we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp&#x2F;ui&#x2F;http - unlimited routines&#x2F;crons So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new r",
+      "zhSummary": null,
+      "url": "https://moadim.io",
+      "publishedAt": "2026-09-04T23:50:29.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "d7b2d01e2750bd0a685b7a3fb2331a026d963aa4",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "zhTitle": null,
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+      "publishedAt": "2026-09-04T23:36:14.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "980fb35534cbd9f7566f0d4a109bc7a15a3ab446",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
+      "publishedAt": "2026-09-04T23:16:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fe3e9affeeaab43ce95185a9dcecbda45f08e8f3",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "zhTitle": null,
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "publishedAt": "2026-09-04T23:15:11.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "f4f8f17e85de428dbb73c0a996edf3534469bbdf",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Gimlet's Series B",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gimletlabs.ai/blog/announcing-series-b",
+      "publishedAt": "2026-09-04T23:09:18.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "beafeb69d3b00099afd740bd5de4ac11739e5d96",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
+      "zhTitle": null,
+      "summary": "Hi HN, I’m the creator of TimerVana. It&#x27;s not just &quot;another timer app&quot;. The engineering analogy is a lightweight task scheduler for things people do in the real world. A normal timer models one countdown. TimerVana models a small dependency graph in JSON: some steps run sequentially, others run in parallel, and everything can converge on a target finish time. You can also combine mu",
+      "zhSummary": null,
+      "url": "https://timervana.net/browse",
+      "publishedAt": "2026-09-04T22:47:59.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "b7783d569ea3f57438661194c2b993f2ceb1cc8b",
+      "sourceId": "ars-ai",
+      "sourceName": "Ars Technica AI",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "zhTitle": null,
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "zhSummary": null,
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "publishedAt": "2026-09-04T22:17:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "decf80a769a69c068599c59da0d77f80383e9744",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Los Angeles District Bans Most A.I. For Students",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+      "publishedAt": "2026-09-04T22:15:28.000Z",
+      "category": "其他"
+    },
     {
       "id": "0084dfa377c92570b6419d816e9e1650955c2947",
       "sourceId": "hn-ai",
@@ -183,93 +435,9 @@
       "category": "研究"
     },
     {
-      "id": "30f2448b8f3b385010f59aa8347eb747205119d1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Thinking in Code",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aishwaryagoel.com/thinking-in-code",
-      "publishedAt": "2026-09-04T20:51:40.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ba808ef92c767232d43933e3a033f28a98207a67",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek",
-      "publishedAt": "2026-09-04T20:39:30.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6f3f01f7afd11877449918cab0326789031b8255",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/kingroryg/macha",
-      "publishedAt": "2026-09-04T20:29:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "11e9943ede1dc60155e3859c9b49c067b4de1940",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
-      "zhTitle": null,
-      "summary": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it all, then layered on a snarky chatbot with a PG-13 Dave Chappelle personality. The number of communication channels are just insane: - email - Google Docs - Canvas - PDFs - School Messenger - the official school website - 5 different other websites that they do",
-      "zhSummary": null,
-      "url": "https://tesoro.help",
-      "publishedAt": "2026-09-04T20:29:35.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "ad819aa619279b7e2e39901e21026ff1825eaed7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Who holds the steering wheel of AI?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ana15.substack.com/p/who-holds-the-steering-wheel-of-ai",
-      "publishedAt": "2026-09-04T20:21:36.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "47f11a181774fa8662551f33035f1cc51155644e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Can AI design circuit boards yet?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "publishedAt": "2026-09-04T19:48:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "73fe690c8dc7e949dc1780033d7f964984f593b2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
-      "publishedAt": "2026-09-04T19:40:25.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "9728650e998f33517fb13a6a663f5e7e7e4ae15e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "GotChat – Apache 2.0 LLM chat with installable full-stacked plugins",
       "zhTitle": null,
       "summary": "",
@@ -277,30 +445,6 @@
       "url": "https://github.com/gotchat-ai/foundry",
       "publishedAt": "2026-09-04T19:40:22.000Z",
       "category": "工具"
-    },
-    {
-      "id": "9584dd621c342a917c6c08bc9f9c4ce7df84bbfe",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-      "zhTitle": null,
-      "summary": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don&#x27;t use the good stuff like Claude Cowork or its competitors, they tell me a few things: 1. Well, I don&#x27;t wanna pay a bunch of money for it, and the $20 plans run out real fast. 2. I&#x27;",
-      "zhSummary": null,
-      "url": "https://sageling.ai",
-      "publishedAt": "2026-09-04T19:30:31.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "3543fa3711835b8bdd5dcf3180fc074dc4183fe3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://airuncode.com",
-      "publishedAt": "2026-09-04T19:29:27.000Z",
-      "category": "其他"
     },
     {
       "id": "6c02ead7dd0da7a32067afab5c5271977c631f4d",
@@ -315,57 +459,9 @@
       "category": "其他"
     },
     {
-      "id": "3135023d6beeb3c7c87fb87d89cd879d51a662d8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/asalsali/covenant-framework-community",
-      "publishedAt": "2026-09-04T19:19:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e3b50adf028b85b2a763cea953d57044d4738e7f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
-      "publishedAt": "2026-09-04T19:13:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "36904d549de3962296081578efbb48a7ec28a1cd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Job postings show early signs of AI automation impact",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.dallasfed.org/research/economics/2026/0901",
-      "publishedAt": "2026-09-04T19:12:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a88fc07ad975eae9f3b43fe62faec99944ed58a9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Filmmakers tout AI's use in Hollywood",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice",
-      "publishedAt": "2026-09-04T19:08:52.000Z",
-      "category": "其他"
-    },
-    {
       "id": "85dc2d8a0a988e42f6d938384ffa712936411306",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
       "zhTitle": null,
       "summary": "",
@@ -385,18 +481,6 @@
       "url": "https://github.com/tsirysndr/squeezed",
       "publishedAt": "2026-09-04T19:06:08.000Z",
       "category": "其他"
-    },
-    {
-      "id": "4583738cba81193cd305590d685d74675e47c30a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Raising Capital? Start Here",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://leadagentx.ai",
-      "publishedAt": "2026-09-04T19:01:49.000Z",
-      "category": "工具"
     },
     {
       "id": "5ca91467628e6b301b759d1205e6729b3d158948",
@@ -546,7 +630,7 @@
       "id": "3208b0500294b3121e2c7e876756dff283501e6c",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
-      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
@@ -747,42 +831,6 @@
       "category": "工具"
     },
     {
-      "id": "328783634bc9c4035b082c7f6434911383dfc9bf",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Petrichor – Native offline music player for macOS",
-      "zhTitle": null,
-      "summary": "Over a year ago I shared about Petrichor on HN[1] while it was still in alpha, it started out as a hobby for me and has now grown into a mature product while staying free and open source[2]. I&#x27;ve just released v1.7 that added a whole bunch of features that I originally envisioned for this app. It remains free and open source, doesn&#x27;t do any usage tracking or analytics, and still strives",
-      "zhSummary": null,
-      "url": "https://petrichor.page",
-      "publishedAt": "2026-09-04T14:32:03.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "a45da02a2b91d30b35f993042715984e524bd719",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "A no_std memory engine that stops an LLM agent citing its own output",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/vitaliyfedotovpro-art/astrum-hsam-embedded",
-      "publishedAt": "2026-09-04T14:13:51.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1d18b32bdbd27b2e930ff9c2e22055e10facd109",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Votito helps you decide what to build next with confidence",
-      "zhTitle": null,
-      "summary": "Hey HN, We&#x27;re finally launching Votito, after about a year of development, as it&#x27;s now (almost) polished enough for other people to use. I&#x27;d love your feedback! AI tools make software faster to write, so the constraint is no longer building things. It is knowing which things deserve to be built. Votito aims to be a &quot;product decision platform&quot; to help figure that out. Havin",
-      "zhSummary": null,
-      "url": "https://www.votito.com",
-      "publishedAt": "2026-09-04T14:04:23.000Z",
-      "category": "工具"
-    },
-    {
       "id": "12e0ba41d6ebf922b19237cee39cb1532ce52de8",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -804,30 +852,6 @@
       "zhSummary": null,
       "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
       "publishedAt": "2026-09-04T13:34:12.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "a30ab76d716b1172d33d317cf20a2b7c356b37bc",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: SiteTweak – a browser extension to modify any website",
-      "zhTitle": null,
-      "summary": "I&#x27;ve made an extension that works in the sidebar and lets you modify any website with AI. I tried to make it feel like using Cursor or Codex. You can talk to it in a chat panel to refine the modification, ask a question, or request automation. If you&#x27;d like, you can plug in your own key from OpenRouter or any other OpenAI-compatible service. What I and early users actually use it for: -",
-      "zhSummary": null,
-      "url": "https://chromewebstore.google.com/detail/sitetweak-edit-any-site-w/jnhmhgddbeljneddgcpglgchbdheakbk",
-      "publishedAt": "2026-09-04T13:32:39.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e63ecfe4f458db9527790692c9b2050730f4918a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "ChatGPT now limits prompts per week, even on their most-expensive plans",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://help.openai.com/en/articles/20001354-gpt-56-and-gpt-6-pro-in-chatgpt",
-      "publishedAt": "2026-09-04T13:14:46.000Z",
       "category": "产品"
     },
     {
@@ -1995,6 +2019,18 @@
       "category": "工具"
     },
     {
+      "id": "0f3b76bc480d3619c3aaf50d3bb915575c29f5aa",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "zhTitle": null,
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/gpt-6-astra",
+      "publishedAt": "2026-09-03T11:00:00.000Z",
+      "category": "模型发布"
+    },
+    {
       "id": "f4712d1e7c1b0bc357153b3a2224cf158acc2838",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -2089,30 +2125,6 @@
       "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
       "publishedAt": "2026-09-02T22:44:56.000Z",
       "category": "融资"
-    },
-    {
-      "id": "f77da1d556737fa57f622c02784fad4d7c838314",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "zhTitle": null,
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-      "publishedAt": "2026-09-02T22:24:09.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "13c4ef2164623689d1482ebe148627e71ea089e7",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "zhTitle": null,
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "publishedAt": "2026-09-02T20:19:14.000Z",
-      "category": "模型发布"
     },
     {
       "id": "ca2980465003bc78cffcb248ba4b801fbee3ac14",
@@ -2787,18 +2799,6 @@
       "category": "模型发布"
     },
     {
-      "id": "2ca67f346617e2d623a5caedcbea7cc3f63b4420",
-      "sourceId": "ars-ai",
-      "sourceName": "Ars Technica AI",
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "zhTitle": null,
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "zhSummary": null,
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent",
-      "publishedAt": "2026-08-26T21:25:27.000Z",
-      "category": "其他"
-    },
-    {
       "id": "d265b61d5b7bc71999d04bba2b3caf164a67b715",
       "sourceId": "nvidia-ai",
       "sourceName": "NVIDIA AI",
@@ -2823,18 +2823,6 @@
       "category": "其他"
     },
     {
-      "id": "d6bb1031e66bcecd18dddab51a5171444a098cf8",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "zhTitle": null,
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "category": "研究"
-    },
-    {
       "id": "cdfc10030b4b066d2f99e1e9c5386d1915931db1",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -2845,6 +2833,18 @@
       "url": "https://openai.com/index/learning-never-stops",
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "category": "产品"
+    },
+    {
+      "id": "d6bb1031e66bcecd18dddab51a5171444a098cf8",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "zhTitle": null,
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "category": "研究"
     },
     {
       "id": "97815a78683b437d1a3a0537b661559c180269b6",
@@ -3219,18 +3219,6 @@
       "category": "其他"
     },
     {
-      "id": "663269e9c4eca4633a817674b7e0a9a345456d10",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "llm-openrouter 0.7",
-      "zhTitle": null,
-      "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32. Models now use OpenRouter's implementation of the Responses API. Three new server-side tools: Shell, WebFetch, and WebSearch. Enable these with options like -T WebSearch. Tags: llm, openrouter",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter",
-      "publishedAt": "2026-08-21T16:58:19.000Z",
-      "category": "工具"
-    },
-    {
       "id": "bcd3314d2ba2a36f1beca03b51a7f7455077a48e",
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
@@ -3601,6 +3589,18 @@
       "url": "https://openai.com/index/previewing-ultrafast",
       "publishedAt": "2026-08-13T10:00:00.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "9e022b7caa78cba45b7169b8166de7df4a2b0d6e",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "zhTitle": null,
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "category": "产品"
     }
   ]
 }
