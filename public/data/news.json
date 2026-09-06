@@ -1,7 +1,199 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T23:37:13.080Z",
+  "generatedAt": "2026-09-06T03:33:08.587Z",
   "items": [
+    {
+      "id": "462f9fbf73ad58c1d6a8248fd08448cff10158e1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "VMware Intros Private AI Cloud",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nextplatform.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+      "publishedAt": "2026-09-06T03:22:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "99868b5177d355ab3e41dfa2bd810ba3eff9e46c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I was offered money to scare you of AI [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
+      "publishedAt": "2026-09-06T03:21:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1288a34b7875ab53776537a706f3fc40c28b658a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2609.04058",
+      "publishedAt": "2026-09-06T03:07:07.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "30357b9e33b69c8acfac55f8468ef935a1b46a57",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Stock Research Assistant · Streamlit",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://ai-stock-research-kiaan.streamlit.app",
+      "publishedAt": "2026-09-06T03:07:06.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "1ed3c066744898f6f7a771b355f459e3cfd11cd4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/bshea-1/Routed",
+      "publishedAt": "2026-09-06T03:04:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "42af8b16240a5f0f2f7a975acb09e6e87f70c86d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Nvidia Personal AI Router (Pair)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/NVIDIA/Personal-AI-Router",
+      "publishedAt": "2026-09-06T02:54:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "df5144075dcb4e56514dde5cda5ab4a94702c17a",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Accelerating LLM Inference with Lossless Speculative Decoding Algorithms (2025)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2502.05202",
+      "publishedAt": "2026-09-06T02:51:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5f45cd17ba87353f343396ffa90c915335b26101",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Title: A local signed notebook for AI agents, with CLI and MCP interfaces",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/davidnichols-ops/aafp-commons",
+      "publishedAt": "2026-09-06T02:49:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "afd72d9436c57445d820f9b72b715cea0ccf4a60",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "EvoMind: A local-first cognitive AI architecture with runtime safety gates",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://zenodo.org/records/20580153",
+      "publishedAt": "2026-09-06T02:36:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bbc054e1f15aa3303e9c5c5c9f75d44b6b50178f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI, Tools and Transformation",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "publishedAt": "2026-09-06T02:12:46.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "78d7620052fc136ee96c6a9bea3f495087694acd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Vistep – 62 animated science explanations",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://vistep.ai",
+      "publishedAt": "2026-09-06T02:00:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ae43b22b9baafd4c1f9991c6321b037feeb5f75f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "One new Swiss company in thirty-six now claims AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://prospex.ch/blog/ai-companies-in-switzerland-what-the-commercial-register-shows",
+      "publishedAt": "2026-09-06T01:24:31.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4ae433b292867ee6e7ac43c91a2847769c2917d9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I hate Wispr Flow so much",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html",
+      "publishedAt": "2026-09-06T01:00:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "94064b78dc5992de1ac3eca51ba71762d24550cb",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Limitations of Perceptual Image Metrics",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://halide.cx/blog/metric-limits",
+      "publishedAt": "2026-09-06T00:42:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1d5f397528d15323e03cd695df60c6564a358e81",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "DHH: Programming, AI, Vibe Coding and Linux (Lex Fridman Podcast)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lexfridman.com/dhh-2-transcript",
+      "publishedAt": "2026-09-06T00:01:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "abf331d45436d872dbf57ae56fab7e2fb599b18c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Midjourney API with webhooks, polling",
+      "zhTitle": null,
+      "summary": "Generate AI Images Programmatically Submit prompts, receive image URLs, and integrate Midjourney into any app or workflow. Supports Python, Node.js, and any HTTP client.",
+      "zhSummary": null,
+      "url": "https://www.midjourney-api.com",
+      "publishedAt": "2026-09-05T23:52:56.000Z",
+      "category": "工具"
+    },
     {
       "id": "bcf7b6dcb82806f70ca20875c070169321888bc5",
       "sourceId": "hn-ai",
@@ -147,18 +339,6 @@
       "category": "其他"
     },
     {
-      "id": "e223dc4d45281617def8d3671e0f3cde2dc2c6da",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Nvidia Lambda Circular Deal [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/shorts/II2BEkrJ2Zc",
-      "publishedAt": "2026-09-05T22:14:21.000Z",
-      "category": "其他"
-    },
-    {
       "id": "db7383ecee01a3cdabf923bafc6ff0aab60ac721",
       "sourceId": "hn-ai",
       "sourceName": "Hacker News AI",
@@ -244,8 +424,8 @@
     },
     {
       "id": "2b99e73c19a7a911d0279ad25da6516bf51a5b35",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
       "zhTitle": null,
       "summary": "I&#x27;ve spent the past several months building something I call PHNTM-One. And I am really curious what HN thinks of the idea and the product I&#x27;ve built. The basic concept is an AI appliance that lives on your desk, is your personal assistant and is totally local running on your own hardware with the option for a boosted mode to reach claude for more demanding tasks. The idea is to have you",
@@ -279,18 +459,6 @@
       "category": "其他"
     },
     {
-      "id": "3ff9f73f247f76928850895ed1164653cb4f6d2f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "There's No Such Thing as an AI 'Lab'",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528",
-      "publishedAt": "2026-09-05T19:47:42.000Z",
-      "category": "其他"
-    },
-    {
       "id": "05d8db6c17072c895eb003bdd1cfc7f22a79dfed",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -303,78 +471,6 @@
       "category": "模型发布"
     },
     {
-      "id": "58c7bbe3daf49efbb582e106295b488e7f262d6e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: ChatPanel Now Available on Firefox",
-      "zhTitle": null,
-      "summary": "Privacy first AI Agent that integrates with any model provider, any CLI Agent like Codex, Claude and webllm - now available on Firefox, also available on chrome and edge. The best part about this one is all your notes, chats and meetings (yes, it can capture the transcription from your zoom, teams, google meet and webex meetings as you attend from browser) and helps you to search across using chat",
-      "zhSummary": null,
-      "url": "https://chatpanel.net",
-      "publishedAt": "2026-09-05T19:30:01.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "447ddfbb5f6d7d8ccf2df9c0c875f8e592438263",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Anyone using llama.cpp willing to test LlamaRack?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/brantje/LlamaRack",
-      "publishedAt": "2026-09-05T19:24:17.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f88438d959b14242b5d609921f01d4f128038212",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "GPT-6 Astra might be too powerful to understand or control",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
-      "publishedAt": "2026-09-05T19:03:46.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "8b76ea01c5b2c79902d3fec84759e8f85ec4f4ec",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Are warnings of uncontrollable AI coming true?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-      "publishedAt": "2026-09-05T18:55:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "32334992edd88a034bf941ed3de3c46f944f080b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.kingfy.app",
-      "publishedAt": "2026-09-05T18:53:17.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "8182327ec6e3d0ff14babd92c439223957ed600f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "An Accidental Blackboard",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "publishedAt": "2026-09-05T18:50:25.000Z",
-      "category": "其他"
-    },
-    {
       "id": "1825e1a5c2cd943550a6b36579af9aaeb7f3d270",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -384,42 +480,6 @@
       "zhSummary": null,
       "url": "https://p.migdal.pl/genetic-distance-map",
       "publishedAt": "2026-09-05T18:40:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "2949e9b83e636869e5f0b20733dd79a2d7e70c99",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Norway could become the first country to ban AI smart glasses",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://neow.in/cmUxYnB3",
-      "publishedAt": "2026-09-05T18:35:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0d6cabd28907cedd0f899388b8d1dfde693d9b8d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A sourced timeline of 249 documented AI milestones",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://achievements.ai",
-      "publishedAt": "2026-09-05T18:33:59.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ee3a60742576eb650b221a3449b4d1312d9766c5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Openrobots",
-      "zhTitle": null,
-      "summary": "OpenRobots – free, open-source robots.txt generator for AI crawlers",
-      "zhSummary": null,
-      "url": "https://openrobots.vercel.app",
-      "publishedAt": "2026-09-05T18:30:08.000Z",
       "category": "其他"
     },
     {
@@ -471,18 +531,6 @@
       "category": "其他"
     },
     {
-      "id": "28ce0a841ef67470782a1f1b678eea8f9314f7ef",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Slackware 16.0 Alpha 1",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.linuxquestions.org/questions/slackware-14/latest-changelog-for-slackware-current-4175698890/page192.html#post6647861",
-      "publishedAt": "2026-09-05T16:44:00.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6927ab66a236fe8251ae5cee226f1dc01c344674",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -505,30 +553,6 @@
       "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
       "publishedAt": "2026-09-05T15:51:09.000Z",
       "category": "产品"
-    },
-    {
-      "id": "200126e677d0b6f40367c6e36c02347336de6722",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Lamzouri's new proof of Claude's Theorem on Riemann zeta zeroes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.02882",
-      "publishedAt": "2026-09-05T14:57:59.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "37c368c4abc86dda1e863415b8ec69049c08ce28",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Almost Anyone Can Make Money Selling Electricity with AI and Batteries",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid",
-      "publishedAt": "2026-09-05T14:27:10.000Z",
-      "category": "其他"
     },
     {
       "id": "28ae6f8b8fad5e43a23eaae48b9b7866980f2297",
@@ -579,18 +603,6 @@
       "category": "其他"
     },
     {
-      "id": "400f97f4a0c0ef9a2dc0adeaa51cd40bbbbae2f0",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://uecker.codeberg.page/2026-09-05.html",
-      "publishedAt": "2026-09-05T12:09:29.000Z",
-      "category": "其他"
-    },
-    {
       "id": "ac5a64ceef287fadcb62786cab60dbb8e1376a45",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -612,18 +624,6 @@
       "zhSummary": null,
       "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website",
       "publishedAt": "2026-09-05T10:30:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "59713a813a0934aae889d5952de17cbd65c2c8c2",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Proof abundance and the new unit of mathematical work",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.prooftree.ai/notes/proof-abundance",
-      "publishedAt": "2026-09-05T10:26:43.000Z",
       "category": "其他"
     },
     {
@@ -651,18 +651,6 @@
       "category": "其他"
     },
     {
-      "id": "6c02ead7dd0da7a32067afab5c5271977c631f4d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "After Work, We'll Have Each Other",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other",
-      "publishedAt": "2026-09-05T08:14:25.000Z",
-      "category": "其他"
-    },
-    {
       "id": "f770fadb6637c93fb632ac26efbd7e7dc4ec1a06",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -672,6 +660,66 @@
       "zhSummary": null,
       "url": "https://github.com/juntz-g1thub/UltraCpp",
       "publishedAt": "2026-09-05T07:09:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "700f3e40aa876710593553a273efd68205eeb119",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Mac Cleaner for devs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://app.paymug.co/buy/lime-cleaner-mac",
+      "publishedAt": "2026-09-05T05:30:43.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "607c76e2f67f9f3fe3b2ea472cf0e9c2ed132592",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Google will limit how much memory Android apps can use from February 2027",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://thenextweb.com/news/google-android-app-memory-limits-play-store",
+      "publishedAt": "2026-09-05T04:50:13.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "803398299dcb07647f93f268ab7b61c650bd77fc",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Aegis – Inline security sidecar and eBPF sandbox for LLM agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://aegiscruc.io",
+      "publishedAt": "2026-09-05T04:13:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c6fb7584b30066918ce80edae40334a42bb3a3f5",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Mega Backdoor Roth ($72k/year contribution limit)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bogleheads.org/wiki/Mega-backdoor_Roth",
+      "publishedAt": "2026-09-05T00:46:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "45b1ee5f7a038c38d3b7eb41d6225e4a247fbe1d",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Microsoft announces monthly hour usage limits for Xbox game pass",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes",
+      "publishedAt": "2026-09-05T00:09:59.000Z",
       "category": "其他"
     },
     {
@@ -685,6 +733,18 @@
       "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
       "publishedAt": "2026-09-04T23:59:05.000Z",
       "category": "模型发布"
+    },
+    {
+      "id": "26217271d334b142d4b4daeff8302a9c160a6f18",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "zhTitle": null,
+      "summary": "Why can&#x27;t we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp&#x2F;ui&#x2F;http - unlimited routines&#x2F;crons So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new r",
+      "zhSummary": null,
+      "url": "https://moadim.io",
+      "publishedAt": "2026-09-04T23:50:29.000Z",
+      "category": "研究"
     },
     {
       "id": "d7b2d01e2750bd0a685b7a3fb2331a026d963aa4",
@@ -1168,8 +1228,8 @@
     },
     {
       "id": "ca41ad6246e0df05b6602bc97e9b81af50ce161e",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
       "zhTitle": null,
       "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative critics. These practices rely on the text of a reasoning step carrying information about its function",
@@ -1237,18 +1297,6 @@
       "url": "https://arxiv.org/abs/2609.04177v1",
       "publishedAt": "2026-09-03T17:55:43.000Z",
       "category": "政策"
-    },
-    {
-      "id": "3ae7949a8227665741f35f89b57819813111df81",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Last Translation Benchmark",
-      "zhTitle": null,
-      "summary": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04173v1",
-      "publishedAt": "2026-09-03T17:54:45.000Z",
-      "category": "融资"
     },
     {
       "id": "5208647c122ffc481c2eaa6f22fb113b37b75a29",
@@ -1563,42 +1611,6 @@
       "category": "产品"
     },
     {
-      "id": "84680ae13d4f9dd41e95f2bf2222816f1a7ec0c7",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "zhTitle": null,
-      "summary": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implementation. We study over-editing, the tendency of a model to rewrite code beyond what is required to fix a bug. We construct an evaluation framework from 400 BigCodeBench problems by injecting controlled",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04061v1",
-      "publishedAt": "2026-09-03T16:36:05.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "98dc1bee52a7b40483dd1e7dbbb7a409aff2f6f0",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
-      "zhTitle": null,
-      "summary": "Neural machine translation (NMT) systems typically produce a single output per input, obscuring the alternative decision trajectories implicitly available within multilingual decoding. This opacity becomes particularly problematic in low-resource dialect settings, where multiple linguistically valid realizations may differ in lexical authenticity, register, and structural stability. We propose ref",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04048v1",
-      "publishedAt": "2026-09-03T16:22:18.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "aca061dda38a9590ea587708f79f5f3d81787e8f",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations",
-      "zhTitle": null,
-      "summary": "Background: Researchers increasingly use repeated identical prompts to audit stochastic variation in large language model (LLM) brand recommendations, yet no standardized protocol exists for setting iteration counts, selecting stability metrics, or establishing reliability thresholds. Objective: We formalize the Dice Roll Method as a reusable protocol for repeated-query auditing of LLM brand recom",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04047v1",
-      "publishedAt": "2026-09-03T16:22:06.000Z",
-      "category": "研究"
-    },
-    {
       "id": "b38298ad6f701f6b99ab65760db17dadc84a9815",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1609,18 +1621,6 @@
       "url": "https://arxiv.org/abs/2609.04046v1",
       "publishedAt": "2026-09-03T16:22:02.000Z",
       "category": "研究"
-    },
-    {
-      "id": "bff7a5335e62343d283a27b21d932e6fd04ef845",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Editable Visual Design",
-      "zhTitle": null,
-      "summary": "While diffusion base models such as GPT-Image-2 and Nano-Banana exhibit remarkable visual expressiveness, their end-to-end generation inherently yields flattened bitmaps with error-prone text, precluding layer-wise post-editing. Conversely, code-based visual generation via Coding Agents provides precise layout control and decoupled layers, yet remains constrained by a lack of global aesthetic intu",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04034v1",
-      "publishedAt": "2026-09-03T16:10:12.000Z",
-      "category": "模型发布"
     },
     {
       "id": "c9405d8895ceb7c592c0f578f4c9d799078d1505",
@@ -1647,18 +1647,6 @@
       "category": "研究"
     },
     {
-      "id": "8a413465c2761df26c5904a0293f140c8fe94d6b",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Instruction Duplication as an Inference-Time Control Primitive",
-      "zhTitle": null,
-      "summary": "Procedural instruction following is a basic requirement for controllable language-model systems, especially when generated trajectories are inspected or repaired downstream. We introduce instruction duplication, a minimal black-box inference-time control that repeats only the procedural instruction, without retraining or decoding changes. Across seven instruction-tuned models, 300 medical multiple",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04024v1",
-      "publishedAt": "2026-09-03T16:05:21.000Z",
-      "category": "研究"
-    },
-    {
       "id": "1d99173b7b229c083c3a431695debd9934f99d60",
       "sourceId": "nvidia-ai",
       "sourceName": "NVIDIA AI",
@@ -1669,18 +1657,6 @@
       "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
       "publishedAt": "2026-09-03T16:00:59.000Z",
       "category": "工具"
-    },
-    {
-      "id": "230be958f4e9ba9ddf755612846e914670ff3539",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Representational alignment yields generalizable safety in language models",
-      "zhTitle": null,
-      "summary": "Aligning large language models (LLMs) is essential for their safe deployment. Current alignment methods mainly optimize observable responses, yet models remain vulnerable when the same harmful intent is recast in unfamiliar or adversarial forms that humans can easily recognize. Prototype theory offers an account of this adaptability. Human concepts are represented around central cases, and new ins",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.04022v1",
-      "publishedAt": "2026-09-03T16:00:16.000Z",
-      "category": "其他"
     },
     {
       "id": "063f32486d7ef1770693dd6d9b16e71d7be63539",
@@ -1755,30 +1731,6 @@
       "category": "融资"
     },
     {
-      "id": "bc29a808118445ef95869bef915fc291f084417e",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis",
-      "zhTitle": null,
-      "summary": "We present Alignment-Free Text-Audiobox (Text-AB), a unified framework for high-quality voice dubbing and full-duplex dialogue synthesis. Building on a Diffusion Transformer trained with a flow-matching objective, Text-AB departs from the Audiobox system along three dimensions. First, it operates in a latent diffusion framework using DAC-VAE features that encode 48 kHz waveforms into a 25 Hz laten",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03992v1",
-      "publishedAt": "2026-09-03T15:30:22.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "f16fb1d79df668e7cba1e11c60eb45b6224ccfbe",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "IchthyoNoma: Nomenclature and Context Sensitivity of Zero-Shot Biological Vision--Language Models for Bangladeshi Freshwater Fish Recognition",
-      "zhTitle": null,
-      "summary": "Zero-shot vision-language models (VLMs) are increasingly used as training-free species recognizers, but reported accuracy can reflect more than visual species knowledge. We audit CLIP, BioCLIP, BioCLIP2, and a multilingual Jina CLIP v2 control on seven freshwater-fish categories from two Bangladeshi sources (10,321 images). BioCLIP2 reaches 72.36% on BFF-15 with English common names and 68.91% on",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03985v1",
-      "publishedAt": "2026-09-03T15:20:34.000Z",
-      "category": "研究"
-    },
-    {
       "id": "4baa0dbdc60387f1a3e544031c523c72c8078393",
       "sourceId": "arxiv-cs-lg",
       "sourceName": "arXiv cs.LG",
@@ -1815,18 +1767,6 @@
       "category": "研究"
     },
     {
-      "id": "4cbe8063e8fbfd926aca221aa8456d7b8018acb9",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Investigating the Ability of Large Language Models to Analyze Recipes for Diabetes",
-      "zhTitle": null,
-      "summary": "Several studies have evaluated the ability of Large Language Models (LLMs) for meal planning, yielding positive outcomes. These models can process natural language inputs and leverage learned knowledge from their pretraining to generate meal plans. In this work, we investigate the ability of LLMs to analyze the suitability of given recipes for diabetes. The primary challenge for LLMs is to retriev",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03967v1",
-      "publishedAt": "2026-09-03T15:03:36.000Z",
-      "category": "研究"
-    },
-    {
       "id": "aa3887886905f00345defaecc487fe6a0002f649",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1837,90 +1777,6 @@
       "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
       "publishedAt": "2026-09-03T15:00:00.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "9024dda3f14c2f4bd5718595237f7c34ed890fbc",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "FiMI Banking: A Sovereign Model for Indian Retail Banking",
-      "zhTitle": null,
-      "summary": "Banks need conversational systems that can answer product questions, assist customers with account-related requests, and operate safely within strict operational and regulatory constraints. General-purpose language models do not reliably meet these requirements. They fall short when a task requires grounded information, correct tool use, or cautious handling of bank-specific sensitive situations.",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03960v1",
-      "publishedAt": "2026-09-03T14:56:59.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "9728f1246eee267926d4d582509164ce1d5698ea",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs",
-      "zhTitle": null,
-      "summary": "Reinforcement learning (RL) has substantially advanced code generation with large language models (LLMs) through executable feedback. The feedback for coding problems mainly comes from specific test cases, where high-quality test cases are often scarce since they should be both sound and discriminative. We thus turn to study the auto-generation of test cases using the learned model. We find this i",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03955v1",
-      "publishedAt": "2026-09-03T14:55:08.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "94c1f3c7ad111d2561c65007b7ef6a8c66c83d9d",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Beyond Majority Vote: Multi-Perspective Adjudication for Medical Hallucination Detection",
-      "zhTitle": null,
-      "summary": "Understanding the frequency of factual errors in chatbot-generated text and evaluating systems that detect these errors is critical for determining chatbot safety. Yet factual-error detection is often treated as a single-pass, single-annotator labeling problem. In long-form chatbot responses, factual errors can be subtle and embedded within mostly correct text. We develop a multi-perspective annot",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03953v1",
-      "publishedAt": "2026-09-03T14:54:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "057491a02451447df2a5c83528cef4f8a1eca1e4",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "VestigeKV: The NoPE-MLA KV Cache Carries Its Own Eviction Signal in a Vestigial Branch",
-      "zhTitle": null,
-      "summary": "The problem. A long-lived KV cache must be compressed before the queries that will read it exist; selection by observed attention (H2O, SnapKV) collapses there (0.00-0.33 needle retrieval on a NoPE MLA model), because a token's importance has not yet been observed. The method. On Kimi Linear, VestigeKV evicts by a query-independent signal the cache already carries: the 64-dimensional decoupled bra",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03949v1",
-      "publishedAt": "2026-09-03T14:53:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3bf8773638b7d70365c9b838e842d3b06f64ecc1",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "More Criticism Does Not Make a Better Review: EquiReview-R",
-      "zhTitle": null,
-      "summary": "AI reviewers can now produce many specific criticisms, but more criticism is not necessarily a better review. A review may miss a consequential weakness or retain an allegation that available evidence does not support. These failures require opposite corrections, yet generation-oriented systems and aggregate measures obscure the distinction. We therefore recast AI-assisted review as evidence-guide",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03943v1",
-      "publishedAt": "2026-09-03T14:49:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "46b29d0d31655a694b7c21fa1a580fa1a4046e05",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
-      "zhTitle": null,
-      "summary": "RL-based post-training for reasoning models is increasingly bottlenecked by repeated fresh rollout generation, particularly in agentic settings where environment interaction dominates wall-clock cost. Replay can reduce this burden by reusing past trajectories, but existing methods typically embed it within larger training pipelines involving exploration, experience restructuring, or mixed-policy o",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03941v1",
-      "publishedAt": "2026-09-03T14:45:47.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "112bf902a149481ea6a1bbec69aa5ef9c666d1a6",
-      "sourceId": "arxiv-cs-cl",
-      "sourceName": "arXiv cs.CL",
-      "title": "Fixed Suffix Dependency Ratio: Quantifying the Dual-Track Mechanism of Gender Assignment in Latvian Loanwords",
-      "zhTitle": null,
-      "summary": "Existing research has repeatedly observed the tendency for English loanwords to cluster in the masculine gender across different recipient languages, yet the origin of this pattern remains difficult to determine, as fixed morphological rules and default assignments are frequently analysed together. This study proposes the Fixed Suffix Dependency Ratio (FSDR) to quantify the degree of reliance on f",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.03930v1",
-      "publishedAt": "2026-09-03T14:41:34.000Z",
-      "category": "研究"
     },
     {
       "id": "64bb67d3e4b5250e942e17fc4e345970595991aa",
@@ -3601,6 +3457,150 @@
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "publishedAt": "2026-08-12T06:00:00.000Z",
       "category": "研究"
+    },
+    {
+      "id": "367f1b12b1dbc402db3a48454b6230d10a8fb4b7",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "zhTitle": null,
+      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
+      "publishedAt": "2026-08-12T00:38:21.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "cad35e6294feba2f66b3de50e2b5067385b0737a",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "zhTitle": null,
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/ringcentral",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "9514940f045b6decb4ea4221d63af5d2fb2d6a38",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "zhTitle": null,
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "zhSummary": null,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "ba987098891b8fcef1662bc234bf697f47ec3803",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+      "zhTitle": null,
+      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
+      "publishedAt": "2026-08-11T15:00:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5eb3c49c6262106f66b52e0565dea5bf20f4e717",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "publishedAt": "2026-08-11T13:37:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "de2ca3d7578dd51cbe196bf098f482b58becc321",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Testing ads in ChatGPT",
+      "zhTitle": null,
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "b274e00978a8c0306df3d120c050bf97ed5f1983",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Daybreak models are now available on AWS",
+      "zhTitle": null,
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7a678e9a26d7e264e59b07c8d89347737c8a5e1c",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "What building an AI-native finance function taught me",
+      "zhTitle": null,
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "publishedAt": "2026-08-10T17:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e5b664a37aa39848f2818dc3bf1d6e3bf5ae4443",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "publishedAt": "2026-08-10T16:25:36.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "6f027f788573855eaca20896b0c6ebdd88edb0bd",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "Evolve your marketing with new AI tools",
+      "zhTitle": null,
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "zhSummary": null,
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "61282b7420ed067525c1f91d92b2480700145654",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "zhTitle": null,
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "zhTitle": null,
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/model-ml",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "category": "模型发布"
     }
   ]
 }
