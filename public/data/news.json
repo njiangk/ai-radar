@@ -1,7 +1,295 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T20:08:24.597Z",
+  "generatedAt": "2026-09-06T23:35:57.957Z",
   "items": [
+    {
+      "id": "e6a249ae905f40305ddf6d1cfd2546c389cf148f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "An MCP for Telling the Time?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://smithery.ai/servers/wolfendentheo/Stamp",
+      "publishedAt": "2026-09-06T23:34:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cd3eade169dcfff43f8d3e4d1aa2a38c1426f6e8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I'm a father who studies the impact of AI: this is what parents need to know",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
+      "publishedAt": "2026-09-06T23:23:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7cd9cbd432cc2b9b7ac4f6b0bc810fdfc028c5d0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+      "publishedAt": "2026-09-06T23:18:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "dfee4cc7f2f7e838046ea7a28620c52cfde7aedc",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: CellularFlow – Continual-learning LLM using associative memory",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/celcilin/cellularflow",
+      "publishedAt": "2026-09-06T23:16:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "659fb4790804dd9caa8d223a9ac10c6c99934cb5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "PortableMind – Offline AI on a USB",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://portablemind.io",
+      "publishedAt": "2026-09-06T23:12:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5aafcd35468888180dadbec353a4fcf2973fd354",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/siropkin/chrome-bridge",
+      "publishedAt": "2026-09-06T23:07:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "def10dfb6e84abd37d51e36bac710a5cab81b570",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "GOP issues stark warning to AI companies",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "publishedAt": "2026-09-06T22:59:40.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "bb1be035a46f8e4ab333673502cf46b2753cfdcc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "publishedAt": "2026-09-06T22:26:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "966d74aa27a2aeb2479599d73eacc0ce1b5367bc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://floorjellyboot.infinityfree.io/?u=/2026/09/05/emma-the-gps-ai-receptionist-doesnt-understand-yorkshire-or-security",
+      "publishedAt": "2026-09-06T22:25:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "64868ada1cab46cc4d7ddc352dcd504595b983fe",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "publishedAt": "2026-09-06T22:09:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "666797120e53d39b107a238ed9fc6672fbe791cd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "All About IQ. Does AI Have an IQ?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://desnitch.substack.com/p/what-is-your-iq-ready-to-take-this",
+      "publishedAt": "2026-09-06T22:07:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8c0898127f7632bafe993debdf354950288db7a4",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The AI Boom Is Coming for Your Gadgets",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.economist.com/graphic-detail/2026/09/03/the-ai-boom-is-coming-for-your-gadgets",
+      "publishedAt": "2026-09-06T22:07:08.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "85d57520f57e0dd9734221338d9f0c4efe0bf38f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: MaskShift – a maximalist coding agent with zero NPM dependencies",
+      "zhTitle": null,
+      "summary": "MaskShift is a local-first coding agent harness. Features: - Works with models that have no tool-calling API. Tool schemas are rendered into the system prompt and the model calls them by writing a block in its reply, parsed back into a normal tool call. - No npm runtime dependencies. Daemon are Node 22 built-ins only. Install is a file copy and a symlink. - Multi-provider: Ollama, OpenAI, Anthropi",
+      "zhSummary": null,
+      "url": "https://github.com/nafeeur/MaskShift",
+      "publishedAt": "2026-09-06T21:39:11.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "f0daf88196e0df126c728a204511725b0148a990",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: AlternateRealities.lol – Create any kind of poing and click story",
+      "zhTitle": null,
+      "summary": "Hello Hacker News! In light of some projects like Diiverge that recently came up I have decided to make my own version, endless point and click adventures that can start from your own content. I also plan to add a BYOK way of generating them with your own fal.ai key in the near future too.",
+      "zhSummary": null,
+      "url": "https://alternaterealities.lol",
+      "publishedAt": "2026-09-06T21:26:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "17e86db3edb799b15c9b59965a42cd737a7e9c5e",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "GPU kernel bug by derived structure from measured hardware shape, not profiling",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/arraylady-jpg/moa-shape-derivation",
+      "publishedAt": "2026-09-06T21:22:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f39397f7b72cfdd2d9415be1c8613f2788939f01",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Toward a Symbiotic Society with Generative AI: For Living Together into Future",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://link.springer.com/chapter/10.1007/978-981-95-1327-7_35",
+      "publishedAt": "2026-09-06T21:21:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ca8b92742fb13e7b9dd7ca39b6da394a59cb30e4",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Bobbin: Pentest with a local LLM, so target data never leaves your machine",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/daniele110199/bobbin",
+      "publishedAt": "2026-09-06T21:11:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8e87c82b3b377b0b7ebf97564689a60126dc8223",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Mostik.ai – latent communication between AI models",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mostik.ai/read-more",
+      "publishedAt": "2026-09-06T21:00:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "537117d8a6c86c91608558e148702db415195498",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
+      "publishedAt": "2026-09-06T21:00:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c552c9e7d810d778b2c146410fa9955824be91a5",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "zhTitle": null,
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b4b7a37f4f99bc071d2d399301dade2e468de6cd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A public noticeboard for AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://agents.scrygl.dev",
+      "publishedAt": "2026-09-06T20:45:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b66b7f28001298262ac74b3e8a2068f71ce2febd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Code Share Tracker: Percent of Code Written by AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://provenbrief.com/story/the-ai-code-share-tracker-every-verified-public-number-on-ai-written-code-from-n",
+      "publishedAt": "2026-09-06T20:28:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "eb62dad32ef6c35f85bfb88b01097392cb64e6c2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://provenbrief.com/story/google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
+      "publishedAt": "2026-09-06T20:26:45.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "1eb3ff8f680012641dfcbe8b7b07f5ce3c6d68e6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Artifactor: Visual HTML editor for AI-generated artifacts",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://colliber.com/artifactor",
+      "publishedAt": "2026-09-06T20:19:48.000Z",
+      "category": "其他"
+    },
     {
       "id": "7430432c2b9f66235906c02633814dd641661691",
       "sourceId": "hn-ai",
@@ -123,18 +411,6 @@
       "category": "其他"
     },
     {
-      "id": "1edb201fa12e6d26da1d61023dadf33723947b13",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Public beta: a decision-governance runtime for AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://amundsenlance.github.io/pvpp-runtime-api",
-      "publishedAt": "2026-09-06T18:59:15.000Z",
-      "category": "其他"
-    },
-    {
       "id": "fe6cd4cfcdf2385c63667a319ab7cdc93fa5db5a",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -159,138 +435,6 @@
       "category": "其他"
     },
     {
-      "id": "3a030ab045ddb5aeb3fa21c4da7b46ec330a48b3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: TikTok for TV and Twitch/Kick Simulcast",
-      "zhTitle": null,
-      "summary": "I&#x27;ve been working on skriin ai TV for over a year now. Last night, for the very first time, our TV prototype worked and I saw a path forward. Wanted to share it here! What is skriin ai TV? It is a box that connects to any TV and lets you: watch and swipe videos (like TikTok for TV) + play games with other users online (only chess for now) + go live with one button from your couch (and stream",
-      "zhSummary": null,
-      "url": "https://skriin.com",
-      "publishedAt": "2026-09-06T18:40:52.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "996c9f08768dc24e6376855d197e63814bafc7d0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Kenyans Did College Students' Homework for Years. Then A.I. Arrived",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-      "publishedAt": "2026-09-06T18:36:31.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "04ac10e697d96eebcf7362301d39ebb43574577c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "GPT-6 Astra is now available in Perplexity Computer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/perplexity_ai/status/2096006336786133366",
-      "publishedAt": "2026-09-06T18:31:18.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "6b41ff46b6ec47844df349f0de1ef81007ad1de3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "ByteX: A Unified AI Search Engine at ByteDance",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2608.30607",
-      "publishedAt": "2026-09-06T18:19:06.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1036fa82657b14b63462f9827bfae97d4aa44b3b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
-      "publishedAt": "2026-09-06T18:14:36.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f79b83019094d3e673cc9885ea3db4a42a6095e8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Science of the Gaps",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lukesmith.xyz/articles/science-of-the-gaps",
-      "publishedAt": "2026-09-06T18:03:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "58e57f3e83d8ca2053619547c2cbbcd405405e2b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Coffee with capsicum? How data is changing the food on your plate",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://indianexpress.com/article/long-reads/how-ai-data-computational-gastronomy-redefining-flavour-pairings-10863553",
-      "publishedAt": "2026-09-06T17:59:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cfe156058a1f58e60aec4966a8751bad16c61e0f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Choosing a Framework Desktop for Local AI: 32GB, 64GB, and 128GB",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://frame.work/pl/en/blog/choosing-a-framwork-desktop-for-local-ai",
-      "publishedAt": "2026-09-06T17:57:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c082ca8feac603814936a9cab83db3c8b16a430e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "MotionSites AI – Official Premium AI Website Prompts",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://motionsites.ai",
-      "publishedAt": "2026-09-06T17:15:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3a1d48a2cee564869354073e615ee012c2ee7e7c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Ontoplano, FOSS Life Management desktop and mobile app with MCP server",
-      "zhTitle": null,
-      "summary": "Hi, I am Estevão, the developer of Ontoplano, a holistic life management webapp, supporting *tasks planning, todos, goals, habits, notebooks, people, inventory tracking, recipes, and more.* I built this app because my life was spread over multiple different apps and pieces of paper. Ontoplano started as a weekly planner that I made (because I dislike sharing my life information with Google and als",
-      "zhSummary": null,
-      "url": "https://github.com/ontoplano/ontoplano",
-      "publishedAt": "2026-09-06T17:07:03.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "4d58a0fd507acb1591e7add757a27412de5d0b80",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/washingtonpost/status/2096304873557877132",
-      "publishedAt": "2026-09-06T16:54:19.000Z",
-      "category": "其他"
-    },
-    {
       "id": "102c9d67ffb9589fd0890250fea2c5185fbc9bd1",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -300,54 +444,6 @@
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
       "publishedAt": "2026-09-06T16:45:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1fb2d85e395d30ae17cda698ac4ccdc878ada9ad",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Is Making Us Less Human",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535",
-      "publishedAt": "2026-09-06T16:29:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4a40c2a6fe003c6c458ae61e731ebfc111f081bd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609",
-      "publishedAt": "2026-09-06T16:17:36.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bbcc4d3503bd5a5198735ac107d75b25de3ff10f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI Account Reseller Ecosystem",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://vectoral.com/blog/ai-account-reseller-ecosystem",
-      "publishedAt": "2026-09-06T16:15:19.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0c2a0b5dc5ee5f965728384f192311b5f73c27c3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Leverage Code Review for Sustainable AI Coding Development",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
-      "publishedAt": "2026-09-06T16:07:19.000Z",
       "category": "其他"
     },
     {
@@ -363,21 +459,9 @@
       "category": "其他"
     },
     {
-      "id": "aaa3d517fa28484b83f5ea4603fa236a6c9c1547",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/manuelschipper/mdmanager",
-      "publishedAt": "2026-09-06T16:03:28.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "384d5c5076c0a22fe0488d45f6192544aba87c62",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Whatthemovie.com, a movie-still guessing game",
       "zhTitle": null,
       "summary": "Hey HN! Long time reader here. I recently spent over five months to modernize an old website I have been working on since 2008: https:&#x2F;&#x2F;whatthemovie.com. This is a simple game where people uploads screenshots from movies, and other players have to guess the title of the movie from where the image was taken. This is really images from movie scenes, not promotional stuff or whatever. We ha",
@@ -385,18 +469,6 @@
       "url": "https://whatthemovie.com",
       "publishedAt": "2026-09-06T15:50:58.000Z",
       "category": "其他"
-    },
-    {
-      "id": "1afb60b51da2aa261a0c1b1b948d7d863ee1cbed",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Qwen-Scope: Decoding Intelligence, Unleashing Potential",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://qwen.ai/blog?id=qwen-scope",
-      "publishedAt": "2026-09-06T15:45:23.000Z",
-      "category": "模型发布"
     },
     {
       "id": "ec304c0a9b2731e44c612626eec528553a356909",
@@ -408,18 +480,6 @@
       "zhSummary": null,
       "url": "https://twitter.com/lemire/status/2096615245900923325",
       "publishedAt": "2026-09-06T15:39:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bcf7b6dcb82806f70ca20875c070169321888bc5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Z1T: Sparse Transformer‑Like Models for Probabilistic Hardware",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://extropic.ai/writing/z1t",
-      "publishedAt": "2026-09-06T15:38:08.000Z",
       "category": "其他"
     },
     {
@@ -555,18 +615,6 @@
       "category": "产品"
     },
     {
-      "id": "4d84204258d1cd8c577c908eebb96850fd76e9c5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "YouSpeed – Live speed-limit assistance",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://peertube.openstreetmap.fr/w/44a9cKesgtzu1Jo3FLS5gD",
-      "publishedAt": "2026-09-06T10:05:19.000Z",
-      "category": "其他"
-    },
-    {
       "id": "7b711ab32a06f7b028a95427893a1424f483e284",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -577,18 +625,6 @@
       "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts",
       "publishedAt": "2026-09-06T10:00:00.000Z",
       "category": "其他"
-    },
-    {
-      "id": "89572d3d4e7e5efe81df253c8f37bc17d4f9cdd7",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Compute Credit Index Research LLC",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ccir.io/documents/governance",
-      "publishedAt": "2026-09-06T09:16:30.000Z",
-      "category": "研究"
     },
     {
       "id": "fe2b1af47af179d64c133f861b8a28a050413259",
@@ -615,18 +651,6 @@
       "category": "其他"
     },
     {
-      "id": "1ca0d8537b324d868e4de0a1403d91e0fc1b5053",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "GLM-5.2 RL weight transfer in 4 seconds using NIXL and ModelExpress",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.primeintellect.ai/blog/nixl-modelexpress-weight-transfer",
-      "publishedAt": "2026-09-06T08:44:54.000Z",
-      "category": "其他"
-    },
-    {
       "id": "b0e2d5854a26abcc240bee2f19850d5ef0950dc1",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -639,18 +663,6 @@
       "category": "其他"
     },
     {
-      "id": "529ba06fddfd43b6f456baebfe6315581e9b2a1c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "How to evaluate LLMs before production",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
-      "publishedAt": "2026-09-06T08:07:41.000Z",
-      "category": "产品"
-    },
-    {
       "id": "19672c4832d4c9bc0fd35c9ad6b6596c81afa104",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -661,18 +673,6 @@
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "publishedAt": "2026-09-06T08:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "35c0f7cbbf8297b9a1aafac4c694bfdae81f83f2",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Python sets and dictionaries can have quadratic-time performance",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance",
-      "publishedAt": "2026-09-06T07:43:49.000Z",
-      "category": "其他"
     },
     {
       "id": "b8133850cc1999481e7010078d52773a6883fd92",
@@ -1705,18 +1705,6 @@
       "url": "https://arxiv.org/abs/2609.04034v1",
       "publishedAt": "2026-09-03T16:10:12.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "c9405d8895ceb7c592c0f578f4c9d799078d1505",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "zhTitle": null,
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-      "publishedAt": "2026-09-03T16:09:01.000Z",
-      "category": "产品"
     },
     {
       "id": "94f3a386436d83fee7872d5eba2fd47d144ef15f",
@@ -3601,6 +3589,18 @@
       "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026",
       "publishedAt": "2026-08-12T14:00:00.000Z",
       "category": "产品"
+    },
+    {
+      "id": "fb21820d806b1b78d97fc2960a75ac211fb61114",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "zhTitle": null,
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "category": "研究"
     }
   ]
 }
