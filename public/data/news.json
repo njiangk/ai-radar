@@ -1,7 +1,451 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T19:08:28.830Z",
+  "generatedAt": "2026-09-09T22:20:59.788Z",
   "items": [
+    {
+      "id": "bfbd84b9aaf320a34f95810b6eb23fcbab68a461",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Private Cloud Compute: A new frontier for AI privacy in the cloud (2024)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://security.apple.com/blog/private-cloud-compute",
+      "publishedAt": "2026-09-09T22:19:21.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "122d607714a37bb267723ff51b56991cb8a90bc0",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "'Biografía de Jorge Luis Borges' Venice Review",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.micropsiacine.com/2026/09/biografia-de-jorge-luis-borges-venice-review-mariano-llinas-turns-a-biography-into-an-epic-detective-story",
+      "publishedAt": "2026-09-09T22:18:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8cd34c85668576d8c60140c750970ab43f3eeee2",
+      "sourceId": "wired-ai",
+      "sourceName": "WIRED AI",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "zhTitle": null,
+      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "zhSummary": null,
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity",
+      "publishedAt": "2026-09-09T22:11:55.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "f838c88db921b77e9932211a0e3df52a5ec01d73",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Schools Get 5M Complaints yet Almost No Teachers Trained to Handle Them",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://replyresearch.com/schools-get-5m-complaints-yet-almost-no-teachers-trained-to-handle-them",
+      "publishedAt": "2026-09-09T22:01:11.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e075a4ffb0ec1d19cb3b7c2c4d4d2ae0031714e5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Apple raises prices of last years iPhones",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+      "publishedAt": "2026-09-09T21:57:36.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "b4c873345035dc0d2db2ddfe48ca7631ff97a733",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "I promise this Ollama replacement will give you the fastest t/s you've ever had",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/omgitsbase/llmash",
+      "publishedAt": "2026-09-09T21:52:17.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "b91d50ad46273af19d4f95703de9e086d3260be9",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "zhTitle": null,
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules",
+      "publishedAt": "2026-09-09T21:43:34.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6e51b045209f85e53fc00629c255cedee2f77512",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "zhTitle": null,
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "publishedAt": "2026-09-09T21:42:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "996b2068c6d3890f9443fcca5bf705168b40e608",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Exposing a global AI slop empire ruining the internet for profit [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
+      "publishedAt": "2026-09-09T21:37:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b9ffc5daf21f3d7da7610a126c110850321c8553",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I am obsessed with two ads",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://bryananthonio.com/blog/shift-from-ml-to-ai-engineering",
+      "publishedAt": "2026-09-09T21:33:53.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "82ac4c9b4ad02d6d254a25ee3defbc3924eb73b3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: BiNeuron – AI code assistant that runs 100% locally",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/just-not-google/BiNeuron",
+      "publishedAt": "2026-09-09T21:30:06.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "ff423a2239d942d6789fd49377300df4dcd4721c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Worked on Safety at OpenAI. This Is What It Should Do Now",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html",
+      "publishedAt": "2026-09-09T21:21:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "24370557052275bf0cbd359420ebddc20e8814f9",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "zhTitle": null,
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "publishedAt": "2026-09-09T21:16:34.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "03d561ed49992a77e061d7a751872608e8d940bc",
+      "sourceId": "wired-ai",
+      "sourceName": "WIRED AI",
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "zhTitle": null,
+      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+      "zhSummary": null,
+      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads",
+      "publishedAt": "2026-09-09T21:15:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f7b52a1d2051a5d5f8d396921f64e5bd6e42c3f2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Guidelines for AI-Assisted Contributions to the OAuth WG",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mailarchive.ietf.org/arch/msg/oauth/DrmZHH1qXlcfPRcZF66lJIXvFxg",
+      "publishedAt": "2026-09-09T21:10:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "89e2228a5701888e5754130d747f57ec83add5db",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+      "publishedAt": "2026-09-09T21:09:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ea87923feb8cfc4b4bb5b18e54dffa6e7e0f48e6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How Much Redistribution Will AI Require?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html",
+      "publishedAt": "2026-09-09T21:09:38.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a9334a139074c691ed51a577a67cf01e9c373d1",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A quick overview of atomics in C",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c",
+      "publishedAt": "2026-09-09T21:03:09.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ba808ef92c767232d43933e3a033f28a98207a67",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Chinese businesses give away AI tokens with coffee, credit cards, and dumplings",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek",
+      "publishedAt": "2026-09-09T21:02:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9fc04467d1cca0710e94af9f3fd47ea2f0c75ac9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Limits and opportunities of AI reviewers: Reviewing the reviews of Nature papers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2605.20668",
+      "publishedAt": "2026-09-09T21:01:05.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "d6f0852fba8f6badadb7864331079e59a0f553ce",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "zhTitle": null,
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "publishedAt": "2026-09-09T20:44:43.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "dca2a8da65becf1e33ca6255d0eb8faf17301716",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Now it's China's experts who are gig workers training AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://restofworld.org/2026/china-expert-ai-trainers",
+      "publishedAt": "2026-09-09T20:36:08.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "be60902fd8fdb233a725cbd1554e48aa2c922675",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
+      "zhTitle": null,
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+      "publishedAt": "2026-09-09T20:24:48.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "7d2d1183330318c67520856c430b8cd6d254036f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Zuckerberg's New AI Gets Muse Insta, 2.7M-Follower Band Relegated to MuseBand",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.ibtimes.co.uk/meta-muse-ai-branding-clash-rock-band-1818743",
+      "publishedAt": "2026-09-09T20:16:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1eabec2aa32a1e7041ffe9e281bf2acfdbcdebb7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI reveals new class of cellular 'off switch' linked to cancer pathways",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://news.cornell.edu/stories/2026/09/ai-reveals-new-class-cellular-switch-linked-cancer-pathways",
+      "publishedAt": "2026-09-09T20:13:16.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e48a3b8f3fbd5a412184da1f25012eea16c548fb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27",
+      "publishedAt": "2026-09-09T20:10:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "29c559a641f2ada016a9e61148efe8770b99c5cb",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/ParkerThayer/status/2097759699626328575",
+      "publishedAt": "2026-09-09T20:08:48.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "af7f7254a10c58d4e50caa0e92035c9727560c9d",
+      "sourceId": "ars-ai",
+      "sourceName": "Ars Technica AI",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "zhTitle": null,
+      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "zhSummary": null,
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models",
+      "publishedAt": "2026-09-09T20:06:28.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "fd4e317361419592d9e952120d12f4c2d24bb855",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "zhTitle": null,
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch",
+      "publishedAt": "2026-09-09T20:03:43.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "eb97f7c4353f8b98ad267d3c4b9df12ba38f36f7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Cross-platform computer use MCP server built in Rust",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/zavora-ai/computer-use-mcp",
+      "publishedAt": "2026-09-09T19:51:51.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "2dfbcc2386fffb623a804f0d7484435ad8a0a3a2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Hyper–bench: Evaluating agents that build agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents",
+      "publishedAt": "2026-09-09T19:51:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "27651df49928d66d97e711232344e3205c397a7a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Stilla is joining Meta to reshape business AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://stilla.ai/blog/stilla-is-joining-meta",
+      "publishedAt": "2026-09-09T19:38:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9a707e270e8f3135cbd7c12cbc68a0e341785f1c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "China slams US claims of 'industrial-scale' AI theft",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft",
+      "publishedAt": "2026-09-09T19:32:07.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "9289099b73c5a720af33d99c8221c47bdd9ce1d4",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "zhTitle": null,
+      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "publishedAt": "2026-09-09T19:30:12.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "dffcf1f41238addf100e79df957a70a3248e38ed",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI's rogue AI agents used more sites",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926",
+      "publishedAt": "2026-09-09T19:29:38.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f8a3492de094a72a971050b97f1fb5f847671d39",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The hinge for Apple&#8217;s new foldable phone was built with AI",
+      "zhTitle": null,
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
+      "publishedAt": "2026-09-09T19:21:48.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "d2fca9a5004f800be02c6c54837d427eee092b6b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "He's Got My Vote: An Atypically Productive Exchange on the UBI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.betonit.ai/p/hes-got-my-vote-an-atypically-productive",
+      "publishedAt": "2026-09-09T19:19:37.000Z",
+      "category": "产品"
+    },
     {
       "id": "7f1c46f6a5af4047630532fd16c47892ae2b542d",
       "sourceId": "hn-ai",
@@ -99,63 +543,15 @@
       "category": "其他"
     },
     {
-      "id": "b18ce59eeb6223be5a0456ab05c073bb6b2d4695",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A new deep learning model maps global methane emissions from space",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space",
-      "publishedAt": "2026-09-09T18:28:10.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6ca37a6fae3dbb8dbcaf651863546d0e77601c22",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "A $37 GLM 5.3 red team: the Alloy-modeled auth layer held, but two bugs outside",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://goodmem.ai/blog/red-teaming-goodmem-with-glm",
       "publishedAt": "2026-09-09T18:26:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "33958612058fdbdcdeefe346d2b38179dc039ad3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI might unmask your anonymous accounts",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wsj.com/tech/ai/ai-anonymous-accounts-6dfd6d2e",
-      "publishedAt": "2026-09-09T18:20:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "eba5e2d6af7ef14fd2c4160b2d5841df6c8f53ea",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "America is still beating China in the AI race",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
-      "publishedAt": "2026-09-09T18:19:43.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "fb927c73622e200ee470f0b80280845e917ecf71",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AirPods 5",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.apple.com/airpods-5",
-      "publishedAt": "2026-09-09T18:19:32.000Z",
       "category": "其他"
     },
     {
@@ -172,8 +568,8 @@
     },
     {
       "id": "467ada2ab468ae67d98a8e04fcdc47f6c2692b30",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "AI Programming: A Layered Model",
       "zhTitle": null,
       "summary": "",
@@ -181,18 +577,6 @@
       "url": "https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model",
       "publishedAt": "2026-09-09T18:12:22.000Z",
       "category": "其他"
-    },
-    {
-      "id": "31c7c435e56c54d94329aedf78b381aac70d664e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: ColliePWA a mobile interface for AI agents in herdr/tmux/zellij",
-      "zhTitle": null,
-      "summary": "Sharing the PWA[1] I built over the last couple of weeks to access my terminal sessions&#x2F;agents when not in front of my computer. This started off as a weekend experiment right when herdr[2] (terminal multiplexer) released the functionality to write custom plugins and it&#x27;s been quite helpful to me ever since. The general idea is that this runs a web app on the host machine which is then e",
-      "zhSummary": null,
-      "url": "https://colliepwa.dev",
-      "publishedAt": "2026-09-09T18:11:46.000Z",
-      "category": "工具"
     },
     {
       "id": "369127da9acb80c5647c1a3ce24412b52bcc58c9",
@@ -219,123 +603,15 @@
       "category": "产品"
     },
     {
-      "id": "bd5277aaf6f54cc3914bb034687596941ac703d5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Project Tailwind: call for ambitious AI safety initiatives",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://coefficientgiving.org/tailwind",
-      "publishedAt": "2026-09-09T18:07:48.000Z",
-      "category": "其他"
-    },
-    {
       "id": "dd9ec4cea2fbc2e703a2f3b8689cb51df3592701",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Google engineer put on leave after saying AI chatbot has become sentient",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine",
       "publishedAt": "2026-09-09T18:06:40.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "18e2f951b4e5b4528da7591de3336ead6f9c4c62",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "ARPA-H to invest $62M to develop FDA-authorized AI for heart failure",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure",
-      "publishedAt": "2026-09-09T18:06:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "73bd5145bbc1155503e78d22d95545d1132f259d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Anatomy of Harness Engineering for AI Coding Agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents",
-      "publishedAt": "2026-09-09T18:05:10.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "752ea936aa9d6693e96ae79af6ae2c12c8c82629",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: AutoShade – AI assisted RAW photo developer (MIT)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://autoshade.dev",
-      "publishedAt": "2026-09-09T17:58:59.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "23dc7c531ac96d86253adf2a528303e0817a97f3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "zhTitle": null,
-      "summary": "Hi HN, I am Dimitris. This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application. It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or",
-      "zhSummary": null,
-      "url": "https://github.com/OtoDock/oto-dock",
-      "publishedAt": "2026-09-09T17:57:55.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "f216effebdb4a489b1132d0f7432ed4ce30b76f1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Independence Day",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://adlrocha.substack.com/p/adlrocha-ai-independence-day",
-      "publishedAt": "2026-09-09T17:46:17.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "adf1e0a04e761ec1ca5c4f6491a2c7da396a7503",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Apple Introduces AirPods 5",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
-      "publishedAt": "2026-09-09T17:39:24.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "4583738cba81193cd305590d685d74675e47c30a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Find investors for your startup for free",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://leadagentx.ai",
-      "publishedAt": "2026-09-09T17:37:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "af0993b2a0398b2ace9115b8805f6773e1e34c7e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: AI Burn Clock – the cost of agents reading whole files",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://aiburnclock.org",
-      "publishedAt": "2026-09-09T17:36:37.000Z",
       "category": "其他"
     },
     {
@@ -351,18 +627,6 @@
       "category": "产品"
     },
     {
-      "id": "b9df4a2c03c98888202b685569357b351ecc0c34",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Codex GPT-5.6-sol Performance Tracker",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://marginlab.ai/trackers/codex",
-      "publishedAt": "2026-09-09T17:30:42.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "3b04e5ea8b313237951296b1ece45bfe99b535dc",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -375,54 +639,6 @@
       "category": "其他"
     },
     {
-      "id": "1ee2a0a5aeac4f7050bb5080194cc54e77f8f8d2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I Typed 'Block the Merger.' AI Revised It to 'Drop Your Opposition.'",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.contrariannews.org/p/i-typed-block-the-merger-ai-revised",
-      "publishedAt": "2026-09-09T17:22:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "789ad64cb354fd086781c4c4cd3cd491804f1f55",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: A guestbook for humans and AI agents, built on 144 pixels",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://a90.com/blog/a-guestbook-for-humans-and-ai-agents",
-      "publishedAt": "2026-09-09T17:19:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1865a206adc19b13441ef5dccb38c1b3483673c2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "My Mental Model of AI Broke on September 8",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8",
-      "publishedAt": "2026-09-09T17:18:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e98fbec68260aa1045b50bcf07e4cccc80238ea8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153",
-      "publishedAt": "2026-09-09T17:13:52.000Z",
-      "category": "其他"
-    },
-    {
       "id": "63ea6811b42bf2637dbe5e9799ad8791252c5de4",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -432,18 +648,6 @@
       "zhSummary": null,
       "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
       "publishedAt": "2026-09-09T17:07:48.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "eec6fa0600749f238f4ec07a1931de2df8b64acc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Building Blocks Hidden in A.I.: How Tokens Work",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/interactive/2026/09/09/technology/ai-token-cost.html",
-      "publishedAt": "2026-09-09T17:02:05.000Z",
       "category": "其他"
     },
     {
@@ -471,18 +675,6 @@
       "category": "研究"
     },
     {
-      "id": "f26a14537c503991c128e82bca1e089b9cb77cd7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI data centers won't create as many UK jobs as the tech sector projects",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cnbc.com/2026/09/09/ai-data-centers-jobs-tech-buildout.html",
-      "publishedAt": "2026-09-09T16:55:44.000Z",
-      "category": "其他"
-    },
-    {
       "id": "aa4c092bf5568215a85314f8bea7abad55222d64",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -492,30 +684,6 @@
       "zhSummary": null,
       "url": "https://github.com/acadia-engineering/elm-simple-server",
       "publishedAt": "2026-09-09T16:53:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "5facbda997a29b54d22f21bef7645fe08c868986",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I rank the open-source AI agents that launched in the last 30 days",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theagenticleaderboard.com",
-      "publishedAt": "2026-09-09T16:46:25.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "9285e72c4f8dab6b7028ed116c5aa4601381b10b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How cleaning up the air is speeding up global warming",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bbc.com/news/articles/c20917w25n4o",
-      "publishedAt": "2026-09-09T16:45:04.000Z",
       "category": "其他"
     },
     {
@@ -795,54 +963,6 @@
       "category": "其他"
     },
     {
-      "id": "1a48ad6157f9d6c27e85ed81deb0b8c99912c7f1",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Email where an address is a keypair, with an SMTP bridge",
-      "zhTitle": null,
-      "summary": "I nearly got phished earlier this year. 24+ years in software engineering, I know exactly how phishing and spam work and what to look out for, and it still almost worked on me. That&#x27;s what made me question the entire email landscape rather than just my own attention. It seems every attempt to fix it so far requires either a complex process, joining a closed system, or accepting that mail can",
-      "zhSummary": null,
-      "url": "https://dmcn.dev",
-      "publishedAt": "2026-09-09T14:14:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "382cadaa036445aed8f7be79cdaf17d349c59202",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Briff – Site Summarizer",
-      "zhTitle": null,
-      "summary": "I read HN everyday and some posts are way too long for my short attention span, so I&#x27;ve been wondering about summarizing long articles using AI and as I use Brave it comes with an AI sidebar tool that has a Summarize option, which is cool but... it doesn&#x27;t work in Venezuela So I built this little tool and thought I&#x27;d share with you all. It&#x27;s just a summarizer, enter a URL and A",
-      "zhSummary": null,
-      "url": "https://briff.site",
-      "publishedAt": "2026-09-09T14:04:32.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "dae2c700c7900ce5865d9115ec54efd67ab79100",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "My LLM eval cried wolf. Here's what I measured",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://digline.dev/blog/my-llm-eval-cried-wolf",
-      "publishedAt": "2026-09-09T13:53:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3097d570eb7ca2d823c6e653c3182fcf1983d85c",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The expensive model was cheaper: six other things I got wrong on an LLM judge",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://rekall.study/blog/expensive-model-was-cheaper",
-      "publishedAt": "2026-09-09T13:43:27.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6857fbe8e017ac8c49c5e9eb49a366d95b226162",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -872,11 +992,11 @@
       "sourceName": "TechCrunch AI",
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "zhTitle": null,
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks",
       "publishedAt": "2026-09-09T13:00:00.000Z",
-      "category": "融资"
+      "category": "其他"
     },
     {
       "id": "501c0abacbed9d1d5c90c888ba1e50b89a3c0730",
@@ -896,11 +1016,11 @@
       "sourceName": "TechCrunch AI",
       "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
       "zhTitle": null,
-      "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to [&#8230;]",
+      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets",
       "publishedAt": "2026-09-09T12:30:00.000Z",
-      "category": "产品"
+      "category": "其他"
     },
     {
       "id": "90533ede4770e60b798a2856fa199878dead98d8",
@@ -936,6 +1056,18 @@
       "zhSummary": null,
       "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus",
       "publishedAt": "2026-09-09T11:00:10.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "587a70348a735f611926883e54d73568c0d50c6f",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "zhTitle": null,
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
       "category": "模型发布"
     },
     {
@@ -1023,18 +1155,6 @@
       "category": "模型发布"
     },
     {
-      "id": "59b443a4520a588de874f69e25c959ed9672b692",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "zhTitle": null,
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
-      "publishedAt": "2026-09-08T21:04:06.000Z",
-      "category": "融资"
-    },
-    {
       "id": "0ac264fddc31950e75f8bbf95b805cbc44105028",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -1069,30 +1189,6 @@
       "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
       "publishedAt": "2026-09-08T20:12:51.000Z",
       "category": "政策"
-    },
-    {
-      "id": "726d56896e0f623bd8bdfd23b17c9d7a7dde9fe1",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "zhTitle": null,
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "publishedAt": "2026-09-08T19:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "cfde25b01186f6665ce236c4323746c3d4220a1c",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "zhTitle": null,
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
-      "publishedAt": "2026-09-08T19:00:00.000Z",
-      "category": "其他"
     },
     {
       "id": "8e182e0e8e3e43689c091d20ec8889f0ab62bbe3",
@@ -1395,18 +1491,6 @@
       "category": "研究"
     },
     {
-      "id": "917b521aa1cbc677cd898b3bc884734552ba8c74",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "zhTitle": null,
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "publishedAt": "2026-09-08T17:32:15.000Z",
-      "category": "其他"
-    },
-    {
       "id": "9a014b6edbc7ea6ddefd5c7d2f034a0f6db03cb6",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -1452,18 +1536,6 @@
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2609.09075v1",
       "publishedAt": "2026-09-08T17:30:12.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "c1967aee05f1adea30edfa958551a354571e136f",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "zhTitle": null,
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "publishedAt": "2026-09-08T17:27:31.000Z",
       "category": "政策"
     },
     {
@@ -1707,18 +1779,6 @@
       "category": "产品"
     },
     {
-      "id": "982632e3196b1430a6d36be166e1b6b9849c3e96",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "zhTitle": null,
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
-      "publishedAt": "2026-09-08T16:20:31.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c8d4f47fe2e8d94861e3f0c984f10822356cdd3e",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1851,18 +1911,6 @@
       "category": "其他"
     },
     {
-      "id": "235e7b126230998b9368f79ab6f01c26fe8548d3",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "zhTitle": null,
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "publishedAt": "2026-09-08T14:00:00.000Z",
-      "category": "研究"
-    },
-    {
       "id": "aaada63e998e325497b3b41a194f46cc956a11a1",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -1873,18 +1921,6 @@
       "url": "https://openai.com/index/the-work-now-within-reach",
       "publishedAt": "2026-09-08T13:00:00.000Z",
       "category": "其他"
-    },
-    {
-      "id": "f167f45505ba920de0e493b02926dce4028cf90c",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "zhTitle": null,
-      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "publishedAt": "2026-09-08T13:00:00.000Z",
-      "category": "工具"
     },
     {
       "id": "305f03a4aa6aa16d7e1ec597ef4e03503e16523b",
@@ -2257,30 +2293,6 @@
       "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
       "publishedAt": "2026-09-04T16:22:18.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "9c2cdc5a637b515d5688707cbae8638d151a785e",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED AI",
-      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-      "zhTitle": null,
-      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
-      "zhSummary": null,
-      "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
-      "publishedAt": "2026-09-04T15:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1ce2a1f7b0adc73e442112cb4600a688352ee185",
-      "sourceId": "wired-ai",
-      "sourceName": "WIRED AI",
-      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-      "zhTitle": null,
-      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-      "zhSummary": null,
-      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop",
-      "publishedAt": "2026-09-04T10:00:00.000Z",
-      "category": "产品"
     },
     {
       "id": "83010eb24ffae47c0dd2b1a164461ba21b536ff7",
@@ -2905,18 +2917,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
       "publishedAt": "2026-08-28T18:07:55.000Z",
       "category": "政策"
-    },
-    {
-      "id": "f17dc0d6839f687cedb4d6f68ac87e4a8a8f909c",
-      "sourceId": "ars-ai",
-      "sourceName": "Ars Technica AI",
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "zhTitle": null,
-      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-      "zhSummary": null,
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
-      "publishedAt": "2026-08-28T15:42:24.000Z",
-      "category": "其他"
     },
     {
       "id": "092c8de02e8b135ec330a69dfe0e592abd521d97",
