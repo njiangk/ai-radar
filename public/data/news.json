@@ -1,7 +1,379 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-14T21:37:32.528Z",
+  "generatedAt": "2026-09-15T00:23:00.977Z",
   "items": [
+    {
+      "id": "f4578c6a2814706a49383ba5ec89f0d87736651a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Agent Wallet Offboarding Checklist",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html",
+      "publishedAt": "2026-09-15T00:20:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "03d94545afdfeb7c252e218456fafd9e72700402",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.msn.com/en-us/news/other/bernie-sanders-proposes-20-year-prison-sentences-for-superintelligence-ai-developers/ar-AA2cbJ4g",
+      "publishedAt": "2026-09-15T00:20:36.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "9cd6b0a6b10b4ac4dcb76fe44dcb4a62a2518865",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Chess Cheater Detector",
+      "zhTitle": null,
+      "summary": "I&#x27;ve been playing with this idea to build an estimation of chess cheating likelihood from an exported chess game (PGN format). The main thing I&#x27;ve developed so far is a way of estimating the complexity of each position. The intuition is that matching an engine&#x27;s top moves in difficult positions is much more informative than doing so when there&#x27;s an obvious best move. The detect",
+      "zhSummary": null,
+      "url": "https://chesscheaterdetector.com",
+      "publishedAt": "2026-09-15T00:14:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6f85273a28a10e4cd8990767ea90393f2cd889f2",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Mouse on frontier harness with glm-5.3-flash",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mouse.dev/blog/mouse-on-glm-5-3-flash",
+      "publishedAt": "2026-09-15T00:06:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5947c89119093acaaa30c765584afccd9c7c83a8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Sloppy Joe's – The era of AI signage",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://luke.zip/posts/sloppy-joes",
+      "publishedAt": "2026-09-14T23:56:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "b6925fa3bc59f099e36343a26362d86e7a735e28",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "publishedAt": "2026-09-14T23:53:04.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "565eb20e5a54d810c5d210a48c39ae124dc56b29",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Personal Statement on AI Risk",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+      "publishedAt": "2026-09-14T23:52:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4d9a47898c08230018de61a3315de9345e95e37f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Dan Selsam's Personal Statement on AI Risk",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/DKokotajlo/status/2099600298855829616",
+      "publishedAt": "2026-09-14T23:52:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6a94ae2f22a1f158ade6053f4ab4c16a126a8f2f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Open-source Python framework for AI agents, workflows, and automations",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/BindBrain/BindAI",
+      "publishedAt": "2026-09-14T23:51:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d992c62c34065e145742b828675f1374a9391c0b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Can Be Used for Cognitive Warfare",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://thecarrierwave.substack.com/p/how-ai-can-be-used-for-cognitive",
+      "publishedAt": "2026-09-14T23:41:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ebe9b79b9e5e17bfcfa3dc412d5bc0a7c1cf1dc5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "We Are All Going to Die (Just Not Necessarily Because of AI)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://emot.substack.com/p/we-really-are-all-going-to-die-just",
+      "publishedAt": "2026-09-14T23:40:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c2c4895ec23bf61b365ef7f2b1ae728dd9600759",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Hands-On Learning in the Age of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://grahamdumpleton.me/posts/2026/09/hands-on-learning-in-the-age-of-ai",
+      "publishedAt": "2026-09-14T23:38:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "48e2fd0c162c6b7c14addd79e2a6bb69f74c8fc0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Birth of Development Alpha",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://power2026.ai/development",
+      "publishedAt": "2026-09-14T23:20:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1e9e8b1e72e80dc1e6324fab098f45a0805508d3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: An open-source control plane for your company's AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/vstorm-co/agenticos",
+      "publishedAt": "2026-09-14T23:16:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e4b50f354b69134d82305ce185b9b103c539af40",
+      "sourceId": "verge-ai",
+      "sourceName": "The Verge AI",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "zhTitle": null,
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+      "zhSummary": null,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "acce708afa65e20908540c29b6a5d7d4823eaebc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://techstrong.ai/articles/aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents",
+      "publishedAt": "2026-09-14T22:55:36.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "fe7aa6db5e1eaa7c5692319581fe1ce539881351",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Doomsday Panic Is Completely Out of Control",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://karlbode.com/ai-doomsday-panic-is-completely-out-of-control",
+      "publishedAt": "2026-09-14T22:54:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "808585ba88a33cd79083121d93d1c1b6ce5b8570",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A statement from 1,386 employees of frontier AI companies",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.pacingthefrontier.com/#about",
+      "publishedAt": "2026-09-14T22:41:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7e623eda9e153a3e0a43e03a74713485d328baaa",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Short-video-generator-AI and 11 more trending open-source AI repos week 38, 2026",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://thezakulo.com/weekly/2026-w38",
+      "publishedAt": "2026-09-14T22:41:25.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "20283ad89f8445db11dcee84e3d2d02000929e1d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A movement against data centers gains steam in Oakland",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://oaklandside.org/2026/09/11/data-centers-ai-oakland-protest-opposition",
+      "publishedAt": "2026-09-14T22:40:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "dee0053a4062a7fc8b89ad9ebc22756a3f24a334",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Stop wasting hours writing video scripts",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://scriptflow-ai-composer.vercel.app",
+      "publishedAt": "2026-09-14T22:31:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "857d952191652e305b9fc2f32e7c070c8560b527",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI safety / ethics are fake fields and merely exist to create more power brokers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/ctjlewis/status/1565787130386857986",
+      "publishedAt": "2026-09-14T22:28:27.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f4c3821d52fadeb3450725751058a8f08307726b",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Is GLM-5.3-Flash Mythos-Level at Cyber?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://generality.org/blog/posts/glm-flash-exploitbench",
+      "publishedAt": "2026-09-14T22:24:24.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "38512754ba3abc02d1406843f2d9d29bcac39e85",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI and Existential Dread",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://seanbarry.dev/posts/ai-and-existential-dread",
+      "publishedAt": "2026-09-14T22:19:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "454813ef9a3105645458ed1030e4b6fcd8e6d84a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+      "zhTitle": null,
+      "summary": "Hi HN, I&#x27;ve been using Claude Code, Codex and Cursor quite a bit lately, and I found myself checking their usage limits all the time. Most of the tools I found for this live on the desktop or in the menu bar. What I really wanted was to pull out my phone and see how much I had left, especially when I&#x27;m away from my computer. I ended up building Nowdex for this. The main thing is the iPho",
+      "zhSummary": null,
+      "url": "https://nowdex.app",
+      "publishedAt": "2026-09-14T22:10:15.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "63730a4f4377ad1a05d9cb6e41e340ba873b2569",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Amodei's proposal would effectively outlaw competitive open weight models",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to",
+      "publishedAt": "2026-09-14T22:07:18.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "ab844bbf5d2df8e436e43fb983a0bb7f825ee8ec",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Learn CRISPR in 3D in any language",
+      "zhTitle": null,
+      "summary": "Well, just 12 languages for now. Let me know if you want me to localize it for your language! Hi I&#x27;m the creator of 10k Science, an immersive science learning platform where you can zoom into things down to the molecular level, guided via a socratic-style AI on the web, iOS, or VR. iOS: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;10k-science&#x2F;id6793177913 Meta Quest: https:&#x2",
+      "zhSummary": null,
+      "url": "https://viewer.10k.science",
+      "publishedAt": "2026-09-14T21:59:18.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "d8e909a1dab71aefb45d47032c868221a72c33d0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A zero-dependency Python loop detector for AI agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/data-gras/savi-loop-guard",
+      "publishedAt": "2026-09-14T21:54:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e957c507988f322a6a17fdcb820c6987477d546c",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "zhTitle": null,
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "f55afdd978871f4f48c0e87d414c858dd78a65f4",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A Letter from a Machine Learning Engineer",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://nemin.hu/llm-letter/index.html",
+      "publishedAt": "2026-09-14T21:47:17.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "92140f4668fcdb380c0c769e18017b7f81d6c627",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+      "publishedAt": "2026-09-14T21:45:12.000Z",
+      "category": "其他"
+    },
     {
       "id": "42e1856aed0973e93397310e85a58a05bf035829",
       "sourceId": "hn-ai",
@@ -39,18 +411,6 @@
       "category": "研究"
     },
     {
-      "id": "9ccd87a0311d7ce952dc7fe747c844f954f31be5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "DeepSeek Is Down",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
-      "publishedAt": "2026-09-14T21:15:56.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "c7653c6f17f779372135e56ac7b59b84cf8cbc0d",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -63,57 +423,9 @@
       "category": "模型发布"
     },
     {
-      "id": "54c5f38e251ff501caecf45830184fb89f426072",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Fathom (YC W21) is being acquired by Superhuman",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.fathom.ai/superhuman",
-      "publishedAt": "2026-09-14T21:12:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "323bcefbc4349c4f7337863d115e7758d83df8fc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Personal Statement on AI Risk",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://docs.google.com/document/u/0/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub?pli=1",
-      "publishedAt": "2026-09-14T21:12:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6ee604af80f3db1149e120016d4bee37ecd98cd5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "California lawmakers urge criminal penalties emergency legislation to rein in AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.latimes.com/california/story/2026-09-13/rogue-ai-concerns-prompt-ca-lawmakers-to-demand-penalties-guardrails",
-      "publishedAt": "2026-09-14T21:11:32.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "954ebcbf29491297f8a56197fe346f74c320c979",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "SWE-Bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.swebench.com/multimodal.html",
-      "publishedAt": "2026-09-14T21:09:16.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6c40e9a9efdd10113a947ddaae5527724dc95fd7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
       "zhTitle": null,
       "summary": "",
@@ -135,42 +447,6 @@
       "category": "工具"
     },
     {
-      "id": "a28ddba3e2b5dc47ccc17caa5916fc7b22769040",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Add custom AI model providers to Siri in macOS 27",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://twitter.com/marcelpociot/status/2099604010634207678",
-      "publishedAt": "2026-09-14T21:04:32.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "952d1a26048fbe384175e214bb1c111e3952e8ef",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "We grew AI usage 52x, then cut our costs 90%",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.prosus.com/news-insights/2026/we-grew-ai-usage-52x-then-cut-our-costs-90-percent-heres-how",
-      "publishedAt": "2026-09-14T21:00:51.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ab5e8bd415a66f1f464bdd6628125e4b32d4e610",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The current debate about AI replacing Mathematicians (take 2)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wisdom.weizmann.ac.il/~oded/on-proofs-t2.html",
-      "publishedAt": "2026-09-14T21:00:22.000Z",
-      "category": "其他"
-    },
-    {
       "id": "1834198bbe42766eebe91535a0f0ceb4178012ea",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -180,18 +456,6 @@
       "zhSummary": null,
       "url": "https://tinyleague.nunodonato.com",
       "publishedAt": "2026-09-14T20:48:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "21a0c2ef020edc53548b48f04b2d726cbdaf04f1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Anthropic's AI architect argued that discrimination could combat stigmas",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.europesays.com/people/38239",
-      "publishedAt": "2026-09-14T20:48:52.000Z",
       "category": "其他"
     },
     {
@@ -205,42 +469,6 @@
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
       "publishedAt": "2026-09-14T20:44:14.000Z",
       "category": "产品"
-    },
-    {
-      "id": "5f4db1df2c80049dae17d4d44e8c80925a80b497",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Is the AI Apocalypse for Real? What the intelligence community thinks",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.kenklippenstein.com/p/is-the-ai-apocalypse-for-real",
-      "publishedAt": "2026-09-14T20:35:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "328170c6c1df9c7b23babe73750ab6248c2c9638",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
-      "publishedAt": "2026-09-14T20:35:11.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6fa2608c899c1e02df904c0d1091aadbb2e0e56c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14",
-      "publishedAt": "2026-09-14T20:28:55.000Z",
-      "category": "其他"
     },
     {
       "id": "6fda9df2a11dbe4546ea1d54e897518f5ab8ff4f",
@@ -267,42 +495,6 @@
       "category": "产品"
     },
     {
-      "id": "78c3d4c305930f4491f2ac12bc395dee8f4b6d13",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Meta bet that AI would shrink its management ranks and is now rebuilding them",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://fortune.com/2026/09/12/meta-year-of-efficiency-managers-ai-investment",
-      "publishedAt": "2026-09-14T20:01:57.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "82404ffdc91b1cd35b2bd61912015bc8996f0df1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "publishedAt": "2026-09-14T19:56:20.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "b353e33420ce06343b53b949b2dbc8599b59a5f4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Free tool to check how ChatGPT and Perplexity rank your brand",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://ukaiseoconsultant.co.uk/ai-driven-seo-audits",
-      "publishedAt": "2026-09-14T19:56:09.000Z",
-      "category": "工具"
-    },
-    {
       "id": "1936640f94426f69a18bfdc36a6d4ef386ed8d8f",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -315,39 +507,15 @@
       "category": "其他"
     },
     {
-      "id": "c76cbb9068a866389b271f1a7e6c3bcd211126dc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Build2me – Prove2Me for software agent swarms build code",
-      "zhTitle": null,
-      "summary": "Hi everyone, this is my first original post on Hacker News. I’d like to share my thoughts on the next generation of AI agents. I believe these agents will operate autonomously over long periods. While current chat interfaces are designed for conversation, the interfaces for next-gen agents should focus on delegation; they will be capable of gathering environmental data, interpreting requirements,",
-      "zhSummary": null,
-      "url": "https://github.com/shitianfang/build2me",
-      "publishedAt": "2026-09-14T19:49:56.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6fcee8484befedaccddef5d5aa9bb7b8bcf09438",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: Slowave – local adaptive memory for coding agents",
       "zhTitle": null,
       "summary": "I started building Slowave because I kept running into the same problem with coding agents: every new session has the codebase and some documentation but not the context behind it, decisions that brought you there and especially the thinking process behind the code. Most memory system solutions focus primarily on the storage and retrieval aspects (vector search&#x2F;RAG&#x2F;graphs&#x2F; Markdown",
       "zhSummary": null,
       "url": "https://github.com/slowave-ai/slowave",
       "publishedAt": "2026-09-14T19:49:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "53364cb5955c0fa10e1a397ae76a804bde3dd8e1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Agentic AI cringe wars [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
-      "publishedAt": "2026-09-14T19:49:03.000Z",
       "category": "其他"
     },
     {
@@ -363,30 +531,6 @@
       "category": "工具"
     },
     {
-      "id": "0ef7422ff84d85f0626d5150efd94c97def7e85b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "U.S. Health Officials Move Quickly to Deploy Medical A.I. Despite Concerns",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
-      "publishedAt": "2026-09-14T19:45:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "bd4cf8298a575c569722350d3531092f1e209817",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Math, AI, and the Navier-Stokes Equations",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.computationalcomplexity.org/2026/09/math-ai-and-navier-stokes-equations.html",
-      "publishedAt": "2026-09-14T19:39:14.000Z",
-      "category": "其他"
-    },
-    {
       "id": "8dae0ac969358dc04a3568a1b881cb382ffe5c53",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -399,30 +543,6 @@
       "category": "其他"
     },
     {
-      "id": "5591b2f46dc9429afe4013c9b020f06d3c73ecef",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Can open-source AI models autonomously hack?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://omcc.ghostsecurity.ai",
-      "publishedAt": "2026-09-14T19:37:21.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4ee6f0e28d0541ed51c165d8c191575088daefbb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Apple's Always-Listening Watch Features Test Eavesdropping Laws",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
-      "publishedAt": "2026-09-14T19:31:32.000Z",
-      "category": "政策"
-    },
-    {
       "id": "7df04c7f4eb42c42bad2fb1729f6f930062fbdfe",
       "sourceId": "ars-ai",
       "sourceName": "Ars Technica AI",
@@ -433,30 +553,6 @@
       "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements",
       "publishedAt": "2026-09-14T19:28:42.000Z",
       "category": "产品"
-    },
-    {
-      "id": "1378bd22f21d713d127fdbe31869d6937387d5bb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Niall Ferguson: AIpocalypse Now",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.thefp.com/p/niall-ferguson-aipocalypse-now-china-trump-pandemic-financial-collapse",
-      "publishedAt": "2026-09-14T19:25:29.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cb6082f744599b5991c28a6a73cba68d1443bb1b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Selling vinyls/CDs/cassettes fast with AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://record-lover.com",
-      "publishedAt": "2026-09-14T19:24:42.000Z",
-      "category": "其他"
     },
     {
       "id": "74b73d1a2e13e17bf6d3901c8e0276c5d10a60c0",
@@ -500,11 +596,11 @@
       "sourceName": "Hacker News LLM",
       "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
       "zhTitle": null,
-      "summary": "",
+      "summary": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2605.31022 https:&#x2F;&#x2F;github.com&#x2F;SakanaAI&#x2F;pc-alm",
       "zhSummary": null,
       "url": "https://pub.sakana.ai/pc-alm",
       "publishedAt": "2026-09-14T18:03:12.000Z",
-      "category": "其他"
+      "category": "研究"
     },
     {
       "id": "b847922400c782cf21df13933b3f867b1aeb8ac1",
@@ -843,18 +939,6 @@
       "category": "产品"
     },
     {
-      "id": "078c69822839e7cd2e0204072b448401d19289ef",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
-      "publishedAt": "2026-09-14T13:59:09.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "c512ba40efa42803c01c83a409c54c4c132b33ab",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -865,66 +949,6 @@
       "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps",
       "publishedAt": "2026-09-14T13:55:00.000Z",
       "category": "产品"
-    },
-    {
-      "id": "1b93726c2ead5f83eabe2519c6462a69084014aa",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Do the AI Studio test NOW to prove Google doesn't delete chats",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemmy.world/post/51905600",
-      "publishedAt": "2026-09-14T13:41:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0f81e5211098de742071359fc28a88a551ea8826",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Pelican-bicycle alternatives",
-      "zhTitle": null,
-      "summary": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1]. Nine months have passed and much stronger models have been released, so I tried the experiment again today. The linked si",
-      "zhSummary": null,
-      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-      "publishedAt": "2026-09-14T13:20:22.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "9a4e4932949ed70d353a0d0f958134ab28fe3a03",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Bad evals, my own: five exercises from two LLM judges",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://digline.dev/blog/bad-evals-my-own",
-      "publishedAt": "2026-09-14T13:02:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "8aa9c2ed41503e1372a28fff545ac0611e88fe39",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Mental Models for LLMs",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://felx.me/posts/mental-models-for-llms",
-      "publishedAt": "2026-09-14T13:02:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4f47289bff4fd07a6053c1977aef05b419dbca77",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Design Drought",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lmnt.me/blog/design-drought.html",
-      "publishedAt": "2026-09-14T13:01:22.000Z",
-      "category": "其他"
     },
     {
       "id": "4057d675f57a2bd75150b7bca387bcf1509b934e",
@@ -1275,18 +1299,6 @@
       "category": "其他"
     },
     {
-      "id": "eb3fa8e523801d7559910ad135f5f184ff5a4075",
-      "sourceId": "verge-ai",
-      "sourceName": "The Verge AI",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "zhTitle": null,
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
-      "zhSummary": null,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "publishedAt": "2026-09-11T20:44:02.000Z",
-      "category": "政策"
-    },
-    {
       "id": "970271eaf90211ebee3eb11e8afdcbdec1fa11ed",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -1359,18 +1371,6 @@
       "category": "政策"
     },
     {
-      "id": "d8bb09927abdf2736536bb44307b92baa8306fa5",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "zhTitle": null,
-      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, b",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time",
-      "publishedAt": "2026-09-11T18:41:49.000Z",
-      "category": "研究"
-    },
-    {
       "id": "badbc00e06556d0b13119ed4a548435f90438003",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1395,30 +1395,6 @@
       "category": "研究"
     },
     {
-      "id": "664b83afa3bd30f04b4d6afc226abc2c80e75cbf",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
-      "zhTitle": null,
-      "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems make dense attention-centric disaggregated serving decisions, we show that disaggregating inference around the unique arithmetic intensity and memory footprint of subquadratic attention",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13134v1",
-      "publishedAt": "2026-09-11T17:55:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f6dc2b6c7990abcbc0368a811083c59804c6f002",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
-      "zhTitle": null,
-      "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory (LSTM) network with an XGBoost gradient-boosted regressor for multi-horizon stock return prediction across a diversifie",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13125v1",
-      "publishedAt": "2026-09-11T17:51:47.000Z",
-      "category": "研究"
-    },
-    {
       "id": "f6ab17a7f37e7a865cc94b096b1ae54a5fbfc35c",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -1429,18 +1405,6 @@
       "url": "https://simonwillison.net/2026/Sep/11/boris-cherny",
       "publishedAt": "2026-09-11T17:47:11.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "440725ad37c0bd6fdc3f5240b37f863d3190d692",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
-      "zhTitle": null,
-      "summary": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm and style, and the dense information required for music composition, including structure, instrumentation, and expressive dynamics. Existing methods typically rely on these sparse cues",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13118v1",
-      "publishedAt": "2026-09-11T17:46:15.000Z",
-      "category": "其他"
     },
     {
       "id": "2e560f8b95999a2addacd93f58b9070d9cc56613",
@@ -1479,33 +1443,9 @@
       "category": "其他"
     },
     {
-      "id": "49b6697d17144e1ac51624b67187eacaa7633554",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
-      "zhTitle": null,
-      "summary": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because robot-terrain interaction (RTI) is hybrid and discontinuous, and effective flipper-track coordination is difficult to model analytically. We present ASTRIL-MPC, a language-guided neura",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13083v1",
-      "publishedAt": "2026-09-11T17:17:52.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6d1de35b8facd5aad93fda19df6e97f676a8925e",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
-      "zhTitle": null,
-      "summary": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More importantly, multi-step construction produces dependent intermediate artifacts that are often passed downstream without artifact-specific verification, allowing local defects to propagate",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13082v1",
-      "publishedAt": "2026-09-11T17:16:01.000Z",
-      "category": "研究"
-    },
-    {
       "id": "6e667035f8349eeec7c156567cc07e885a682764",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
       "zhTitle": null,
       "summary": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evaluate dyadic interactions and passive audio comprehension, they largely overlook a prevalent real-world scenario: multi-party conversations. Evaluating agents in these settings is fundam",
@@ -1516,8 +1456,8 @@
     },
     {
       "id": "88c02ceea2985945b3a33dd50e7809ccb9bc6f65",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
       "zhTitle": null,
       "summary": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. However, while several frameworks of fully autonomous end-to-end ML research have been proposed, successful implementations of them are often limited to problems with narrow search spac",
@@ -1528,8 +1468,8 @@
     },
     {
       "id": "668fc79784fdf2d2b6d594010a235fbf0df80af0",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
       "zhTitle": null,
       "summary": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activation space often suffices for steering. However, many concepts are not binary: Animals and Countries contain many subcategories, each with multiple instances. For these concepts, the search space over",
@@ -1537,30 +1477,6 @@
       "url": "https://arxiv.org/abs/2609.13072v1",
       "publishedAt": "2026-09-11T17:08:57.000Z",
       "category": "研究"
-    },
-    {
-      "id": "31b71b7d1966c9bfd821a3408b3bc0dcb62703b7",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering",
-      "zhTitle": null,
-      "summary": "Enterprise Digital Twins (EDTs) promise data-driven decision support at organizational scale, but realizing them requires navigating siloed departments, tacit knowledge, and high-stakes decisions with long-horizon consequences. Existing approaches involve domain experts during model development but focus less on early organizational buy-in in EDTs. We present a vision for trustworthy EDT engineeri",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13071v1",
-      "publishedAt": "2026-09-11T17:06:48.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "20adc727524772bd20c32c1f190653e212eb766c",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication",
-      "zhTitle": null,
-      "summary": "Clinical timelines support treatment-window analysis and leakage-free modeling, but discharge summaries often obscure chronology and structured EHR tables describe only part of the patient course. We present a UID-preserving framework that links each narrative event occurrence to its source span and retains that identity through text-only estimation, structured-evidence retrieval, timestamped sour",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13062v1",
-      "publishedAt": "2026-09-11T17:01:10.000Z",
-      "category": "其他"
     },
     {
       "id": "0fe7441982f2debe581c9e560b8c2287403543bf",
@@ -1600,8 +1516,8 @@
     },
     {
       "id": "171564aa7d0da7faadb3316979400cd1efff7fb6",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
       "zhTitle": null,
       "summary": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into action generation and selection through a shared trajectory model. Dynin-Robotics implements this formulation on Dynin-Omni, an omnimodal masked-diffusion backbone, representing language, visual observ",
@@ -1636,8 +1552,8 @@
     },
     {
       "id": "9189e122a7cab6c393f65eb048308f29b66be463",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Diffusion Models and Concept Formation",
       "zhTitle": null,
       "summary": "Humans organize knowledge into a taxonomy of concepts with nested levels of abstraction and a \\emph{basic level} at which people recognize and name objects with the least cognitive effort. Cobweb is a classic cognitive account of this ability, an incremental learner that builds a probabilistic concept hierarchy by maximizing category utility. We argue that diffusion models, although designed for i",
@@ -1671,21 +1587,9 @@
       "category": "融资"
     },
     {
-      "id": "d26a7cb33f97531f4355001729ba533061c5c46b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Unified CT and MRI Pancreas Segmentation for Label-Efficient Cross-Modality Subregion Transfer",
-      "zhTitle": null,
-      "summary": "Robust medical image segmentation across imaging modalities is challenging because of large differences in appearance and intensity distributions. Models trained on a single modality often show substantial performance drops when applied to unseen domains. In this work, we develop a unified 3D pancreas segmentation framework that applies domain-adversarial learning to 4,604 heterogeneous CT and MRI",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13043v1",
-      "publishedAt": "2026-09-11T16:40:25.000Z",
-      "category": "产品"
-    },
-    {
       "id": "5a0e252b8f5701dd194c73035c6f1e02f3a954a1",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "DynSHAP: Towards Explainable Dynamic Survival Analysis",
       "zhTitle": null,
       "summary": "Deep learning models for dynamic survival analysis (DSA) achieve strong predictive performance by incorporating longitudinal patient data, but their black box nature limits clinical trust and adoption. Existing explainability methods cannot handle longitudinal, irregular inputs and functional survival outputs simultaneously, which limits their usability in DSA. We propose DynSHAP, a SHAP framework",
@@ -1720,8 +1624,8 @@
     },
     {
       "id": "ca3aa093877a79832c6de02ff8df4eb0fc7a2386",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Groupoid-Based Internal State Representations for Reinforcement Learning with Local Symmetries",
       "zhTitle": null,
       "summary": "Symmetries play a central role in reducing the complexity of reinforcement learning problems, yet most existing approaches rely on fixed group actions or predefined state abstractions. Classical reinforcement learning algorithms typically assume a globally structured Markov decision process with uniformly applicable actions and transitions, an assumption that limits their ability to exploit modula",
@@ -1732,50 +1636,14 @@
     },
     {
       "id": "bb45c0f61bd52e15f02dc3639e12965f602aa152",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-lg",
+      "sourceName": "arXiv cs.LG",
       "title": "Attention Quantization for Tabular Foundation Models",
       "zhTitle": null,
       "summary": "With the recent rise and adoption of tabular foundation models, optimizing their inference performance becomes an emerging field for efficiency research. While the models are architecturally similar to transformer-based large language models (LLMs), the size and serving patterns differ significantly. We show that the focus should be on the attention calculation and less on weight or KV cache quant",
       "zhSummary": null,
       "url": "https://arxiv.org/abs/2609.13031v1",
       "publishedAt": "2026-09-11T16:31:29.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "b9eb5d1a32ef3e4b3d10f70292434a32a487c377",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Label-Guided Knowledge Distillation for 3D-CNNs in Action Recognition",
-      "zhTitle": null,
-      "summary": "As a key model compression technique, knowledge distillation aims to transfer knowledge from a high-capacity teacher model to a lightweight student model for enhancing the latter's performance. In this work, we reviewed the feature knowledge distillation for 3D-CNNs and observed that most feature distillation methods in video analysis are simple adaptations of those used in image analysis, often n",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13024v1",
-      "publishedAt": "2026-09-11T16:21:21.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "cc986e694e3d0edd0a560febac575cffd07f975b",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "TileNet: Tile-Based CNN-SVM Architecture for Autonomous Unmanned Aerial Systems Inspection of Flat Roofs",
-      "zhTitle": null,
-      "summary": "Flat roofs are among the most influential components of the building envelope, governing both structural performance and thermal efficiency, and thereby contributing directly to household energy consumption, carbon emissions, and long-term environmental sustainability. Timely detection of roof defects is essential for reducing heating and cooling losses, preventing moisture-driven degradation such",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13013v1",
-      "publishedAt": "2026-09-11T16:11:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f705a15dbba7e9bf2c4dea962726b4c01953c612",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Comfort by Construction: Adaptive, Comfort-Bounded Action Spaces for Learned Driving Policies",
-      "zhTitle": null,
-      "summary": "Data-driven driving simulators command accelerations and steering rates from a fixed grid without constraining the realized accelerations and jerks. As a result, reinforcement-learning policies inflate safety metrics through abrupt, last-second maneuvers that lie far outside the range of human driving and would be unacceptable to occupants of a real vehicle, so the metrics measure simulator permis",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13011v1",
-      "publishedAt": "2026-09-11T16:08:56.000Z",
       "category": "研究"
     },
     {
@@ -1791,18 +1659,6 @@
       "category": "其他"
     },
     {
-      "id": "c6695a3de99438bcba48360b050cd6d3ae24afb5",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks",
-      "zhTitle": null,
-      "summary": "Low reported scores on leading physics benchmarks, including those featured in the Artificial Analysis Intelligence Index (2026), suggest that frontier language models still struggle with advanced physics, a demanding test of their scientific reasoning and quantitative problem-solving abilities. Yet this impression does not always align with domain experts' experiences using these models in their",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.13009v1",
-      "publishedAt": "2026-09-11T16:06:50.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "30bdba9275f0627aed90a350aa2fc83dbc67d9c3",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -1816,8 +1672,8 @@
     },
     {
       "id": "cb4541861312d2a69acf5f4ffd495ca49216f206",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
+      "sourceId": "arxiv-cs-cl",
+      "sourceName": "arXiv cs.CL",
       "title": "Tasks over Application Manuals: Revealing Gaps in Long-Horizon Procedural Reasoning for Language Models",
       "zhTitle": null,
       "summary": "Large language models (LLMs) have achieved strong performance on a wide range of natural language tasks, and recent benchmarks suggest that they are increasingly adept at multi-hop reasoning. However, these benchmarks are typically short-horizon, requiring only a small number of retrieval or inference steps, and provide limited evidence of reliability on real-world tasks that involve following man",
@@ -1863,30 +1719,6 @@
       "category": "研究"
     },
     {
-      "id": "e8962a75971384d83ec3d05737ada0d6c317452d",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "SeqMoE: Toward Full-Load Performance via Predictive and Graph-Compatible MoE Offloading",
-      "zhTitle": null,
-      "summary": "Mixture-of-Experts (MoE) creates a structural advantage for offloading: only a small fraction of activated experts need to reside in device memory, and if they can be loaded in time for computation, offloading can in principle approach full-load performance, where all model weights reside in device memory. Yet translating MoE's structural advantage into practical offloading gains remains challengi",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.12978v1",
-      "publishedAt": "2026-09-11T15:43:52.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "787ea5072ef60257fdda37f7f2dc05eec203090d",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "Generative Retrieval for Unsupervised Text-Based Person Search",
-      "zhTitle": null,
-      "summary": "Text-based person search (TBPS) aims to retrieve images of a target person from a large image gallery based on a given natural language description. Most existing methods rely on supervised learning with manually annotated image-text pairs. In this paper, we explore unsupervised TBPS, with only unlabeled images. We propose GTR+, a two-stage generation-then-retrieval framework. In the generation st",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.12965v1",
-      "publishedAt": "2026-09-11T15:25:00.000Z",
-      "category": "研究"
-    },
-    {
       "id": "cdcca93d64d6b7c7dec2c9a45da7c0d53664a7f2",
       "sourceId": "arxiv-cs-cl",
       "sourceName": "arXiv cs.CL",
@@ -1897,18 +1729,6 @@
       "url": "https://arxiv.org/abs/2609.12960v1",
       "publishedAt": "2026-09-11T15:19:48.000Z",
       "category": "其他"
-    },
-    {
-      "id": "7ecf61af5c3ce9e9bd17495e6122897d7291d998",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics",
-      "zhTitle": null,
-      "summary": "Large language models (LLMs) are increasingly deployed as tutors, but it is unclear whether they support all students equally well. We introduce \\textbf{EduFair-Bench}, a benchmark for auditing the pedagogical fairness of LLM tutors---whether tutoring quality varies systematically with student demographics. EduFair-Bench pairs a multi-domain question bank (mathematics, physics, chemistry) with a c",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.12949v1",
-      "publishedAt": "2026-09-11T15:10:07.000Z",
-      "category": "研究"
     },
     {
       "id": "aecd5b5036856cf7e7f6eb05dcf5b3f6a0e2a259",
@@ -1933,18 +1753,6 @@
       "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us",
       "publishedAt": "2026-09-11T15:00:00.000Z",
       "category": "其他"
-    },
-    {
-      "id": "98dbb0f5daf988ca6d81bc086b268bbe46215463",
-      "sourceId": "arxiv-cs-ai",
-      "sourceName": "arXiv cs.AI",
-      "title": "ARC: Autonomous Robotics Compliance A Three-Layer Governance Architecture for Deployed Autonomous Systems",
-      "zhTitle": null,
-      "summary": "Proposed governance framework for autonomous robotic systems, introducing a three-layer compliance architecture (ARC) instantiated through model safety validation, cognitive certification benchmarks, and operational authorization standards.",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.12932v1",
-      "publishedAt": "2026-09-11T14:55:50.000Z",
-      "category": "政策"
     },
     {
       "id": "ccfa2d6fe768a1ba9a8f5d4bceb275a09cdbcd2c",
@@ -3601,6 +3409,198 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "category": "其他"
+    },
+    {
+      "id": "cfc376addf8c822433f0700057e399bca195ee0e",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "zhTitle": null,
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "2983dbf79834f512b927486891174421d8bc5bb1",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "141e6e188d62b50e0df0234f5edbd90bcc88a988",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "zhTitle": null,
+      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory",
+      "publishedAt": "2026-08-24T15:00:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "98b2d7b9008ecd7e8fa1944f4003fc3f83ec7812",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "zhTitle": null,
+      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion",
+      "publishedAt": "2026-08-24T15:00:41.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "bab768ba33831cbe2fbe08bf1fa4f9718b581fdd",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "zhTitle": null,
+      "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "publishedAt": "2026-08-24T15:00:19.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "df015003760c1205d1ecb2a52df5318737a517cb",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "zhTitle": null,
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "bcd3314d2ba2a36f1beca03b51a7f7455077a48e",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/pwc-search",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "68e9fb1705e10808889d0fbe1c1f512e694cac7a",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "c7cdb6722fd86cc4c29f0cfc17f2b4c391c04f1e",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "publishedAt": "2026-08-20T16:52:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1a826087c3b0715d35d3d12e751a54a7d8d4429d",
+      "sourceId": "nvidia-ai",
+      "sourceName": "NVIDIA AI",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "zhTitle": null,
+      "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover [&#8230;]",
+      "zhSummary": null,
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox",
+      "publishedAt": "2026-08-20T13:00:24.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "afca402187c86ebe253c59313a26ce4bef235816",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing Intelligence Age",
+      "zhTitle": null,
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/introducing-intelligence-age",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cb030de2dd9418a323244c2095c99bb8a7fc97ca",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "zhTitle": null,
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/stampli",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "ef913e9fdabc01a874a34c945cc71d8f36dedf16",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Offering Zero Data Retention for frontier models",
+      "zhTitle": null,
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "314cb75fe2f0df50f43fb4b784b15493bc293a6a",
+      "sourceId": "google-ai-blog",
+      "sourceName": "Google AI Blog",
+      "title": "5 new ways to level up your learning with Search",
+      "zhTitle": null,
+      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "zhSummary": null,
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "9ac0643f24279d0897e7405abdd55cab96f6b9c7",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "zhTitle": null,
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/replit",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "e4563871866d3a635b91bc2e29178f947db9e1c3",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "ChatGPT Ads expands across Europe",
+      "zhTitle": null,
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "publishedAt": "2026-08-18T22:00:00.000Z",
+      "category": "产品"
     }
   ]
 }
