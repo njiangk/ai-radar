@@ -1,7 +1,223 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-19T03:43:28.244Z",
+  "generatedAt": "2026-09-19T08:39:43.110Z",
   "items": [
+    {
+      "id": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "publishedAt": "2026-09-19T08:08:24.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "eb227ec502d8f4af8e35bfe5755cef639028e5bc",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How universities are affected by AI moving knowledge outside their walls",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.brookings.edu/articles/how-universities-are-affected-by-ai-moving-knowledge-outside-their-walls",
+      "publishedAt": "2026-09-19T08:08:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "cc1f8e1ce8f403784558fb813af1c78992d3bfd0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Chinese AI Radicalizes",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
+      "publishedAt": "2026-09-19T07:53:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a1faacde87bdf1ab5d1d6e44a9de982c2716acc2",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
+      "publishedAt": "2026-09-19T07:49:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "082897d6797b58b4dfa4249f15c565c7084c714b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "EFF Statement on California Governor's Executive Order on AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
+      "publishedAt": "2026-09-19T07:15:45.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "e9da55daf2399d88a04cd790aecc9e4a0b861f93",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+      "publishedAt": "2026-09-19T07:13:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "50e0bab3fa55d7157977dc517b738edd76c90074",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI systems out-persuade expert humans",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2606.16475",
+      "publishedAt": "2026-09-19T07:12:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7d6853fa67e7bf7e80c81fa7b220af0a556a79d3",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "UK air traffic control outage caused by software defect, says operator",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reuters.com/world/uk/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-2026-09-18",
+      "publishedAt": "2026-09-19T06:53:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "371dbe4be68c29ced4ab274c9278a0b69bbe1c26",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "publishedAt": "2026-09-19T06:09:23.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "7252072abe3181db46dfcc0c3bfc0f5d01007c60",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Splash: A Local Engine Built Around the Model",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://inco.ai/blog/splash",
+      "publishedAt": "2026-09-19T06:07:03.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "245d063e08eba24c3e01699478b6806f4355a345",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Inside the AI \"Kill Chain\" That Destroyed an Iranian School",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "publishedAt": "2026-09-19T05:55:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7e0f7498052088fde9c28d9a13688ebddc30a575",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "publishedAt": "2026-09-19T05:42:31.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f04768ffcc037752d7261cab10a975bda6aea97b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Evidence for AI Consciousness, Today (2025)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://newsletter.ai-frontiers.org/p/the-evidence-for-ai-consciousness",
+      "publishedAt": "2026-09-19T05:13:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "87c74f1ab470656aac8d7fd0b748a8382e74909b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "publishedAt": "2026-09-19T04:44:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0fcc68694a97c69f5cd83ba703971e1a46f90e86",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
+      "zhTitle": null,
+      "summary": "I&#x27;m a CS undergrad who has developed an interest in hardware keys ever since I used them for a school project a few years ago. I made a little chat app that only allows users to chat if they registered a key, nothing else. The backstory of how I came to work on Seal (this project): was that I was generating ideas with Claude to come up with an idea that only hardware keys could make into soft",
+      "zhSummary": null,
+      "url": "https://github.com/jasonepage/Seal",
+      "publishedAt": "2026-09-19T04:28:22.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "57533bcb7bc1e121dd76af8ea19eb45f4f3c22ff",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A Black-Box Audit of Provider-Side Token Inflation in LLM Services",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2609.20370",
+      "publishedAt": "2026-09-19T04:27:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "27ad73f7bdd5061c79840f90e37cfe7e973a4815",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google AI Studio 'Delete' is a scam: Your prompts are not deleted, just hidden",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
+      "publishedAt": "2026-09-19T04:11:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4316c6b3f1ae2036229dd09098a93b3679bf40fe",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Left Brain, Right Brain: Facts and Fantasies",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366",
+      "publishedAt": "2026-09-19T03:45:04.000Z",
+      "category": "其他"
+    },
     {
       "id": "259036ea2e71bbcdb91b78bfc7719e0ab188ea46",
       "sourceId": "hn-ai",
@@ -123,63 +339,15 @@
       "category": "产品"
     },
     {
-      "id": "5e012b7866a4a5f35e488bbc5c2733942ecbf975",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
-      "zhTitle": null,
-      "summary": "I built an open source python dependency scanner that will scan and flag packages with known exploit CVEs(CISA&#x27;s Known Exploited list and FIRST EPSS) and unmaintained packages that have not had a release or commit in 2 years. Theres also claude hook that will make your AI agent not install these type of packages included in this repo. The full mechanism is in the readme of the project, this w",
-      "zhSummary": null,
-      "url": "https://github.com/binuka200/package-doctor",
-      "publishedAt": "2026-09-19T00:27:26.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "294dab8079c2933ca3f43b5b2ccb8b7ff0abe6d6",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "The Great Unbundling of the LLM",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://seldon-ai.com/blog/generation-is-the-wrong-primitive",
       "publishedAt": "2026-09-19T00:23:38.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a0b1f2bbcc04528858d47a8a252bdd220cb7e477",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-      "publishedAt": "2026-09-19T00:23:26.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "08a12ebed7b11785a2420446582ea0744fc6191f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Welcome to Shaderland",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://shaderland.net/devlog/1-init",
-      "publishedAt": "2026-09-19T00:16:36.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d46dae4030be4056671cf99e24535c2b6bd8ed8d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Radar: An Expert-Level Generalist AI for Abdominal CT Diagnosis",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/alibaba-damo-academy/damo-radar",
-      "publishedAt": "2026-09-19T00:16:12.000Z",
       "category": "其他"
     },
     {
@@ -195,30 +363,6 @@
       "category": "其他"
     },
     {
-      "id": "1ad1d494b6f0a50a36aa7074480b7b8c8886aef8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nature.com/articles/d41586-026-02922-6",
-      "publishedAt": "2026-09-19T00:07:08.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "eb3c635d1d7a0da04e7cea3c0b3636369172e228",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
-      "publishedAt": "2026-09-19T00:01:59.000Z",
-      "category": "其他"
-    },
-    {
       "id": "93b15eb0cb1a98a8bc66797f287afd319bf55928",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -231,63 +375,15 @@
       "category": "模型发布"
     },
     {
-      "id": "278814ed4179cba9dfc9877ec643df843b360ad9",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "publishedAt": "2026-09-18T23:54:42.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "50092e317a3e589330b6b760e5761bcd81775fc8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Do your vitamins work?",
-      "zhTitle": null,
-      "summary": "I made a tool you can use to evaluate whether the supplements you buy are really effective? Most of this was made before the age of AI but I struggled with the technical aspect of how to implement it. So, before when people I knew asked me about supplements i&#x27;d have to answer them 1 by 1. Now I tell them to use the checker. You can request a specific supplement or brand to be researched in ou",
-      "zhSummary": null,
-      "url": "https://www.supplementdex.com/supplement-checker",
-      "publishedAt": "2026-09-18T23:47:16.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "acf6487df1f60cf3d84ae376ce2f58f6d8ce0638",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Wcagent let use your ChatGPT subscription for coding",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://wcagent.ai",
-      "publishedAt": "2026-09-18T23:46:17.000Z",
-      "category": "产品"
-    },
-    {
       "id": "3f4f891409d409ff9d7d27e084a2f50d01d2982f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "TypeSafe AI's Jev Is Not an LLM – and That May Be the Point",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point",
       "publishedAt": "2026-09-18T23:40:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cfea98bd1a863926ef9d8c41b981e5a265d46893",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-based learning is a joke",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://qlain.online/blog/ai-based-learning.html",
-      "publishedAt": "2026-09-18T23:39:26.000Z",
       "category": "其他"
     },
     {
@@ -303,18 +399,6 @@
       "category": "研究"
     },
     {
-      "id": "a3c63d198323aec33f7616178a614229c431deb1",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Other Way AI Impairs Our Thinking",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689",
-      "publishedAt": "2026-09-18T23:30:54.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6b49f5c4d6deac1912d6874dfb5b47e77744c72b",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -325,42 +409,6 @@
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "publishedAt": "2026-09-18T23:25:01.000Z",
       "category": "融资"
-    },
-    {
-      "id": "7655fbef5f10d6342ebabe8822f6d3d300573dbe",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "US gov website used AI search tool from China that FBI said copied Anthropic",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17",
-      "publishedAt": "2026-09-18T23:22:05.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "e0932d171a8a6d1fde77844a58430096ad33c590",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Compsci grads facing recession-like job prospects thanks to AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
-      "publishedAt": "2026-09-18T23:15:02.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0aeafb3e1ee44dc3062981e1452dab0d3caf77f8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://agentgit.co",
-      "publishedAt": "2026-09-18T23:14:58.000Z",
-      "category": "其他"
     },
     {
       "id": "d6d9aec5a8799aa5c25fdc75da5b3c10cdd8d4f3",
@@ -385,30 +433,6 @@
       "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
       "publishedAt": "2026-09-18T23:12:32.000Z",
       "category": "研究"
-    },
-    {
-      "id": "2dbd6d9d34b52b82b3b6684fffa2be1fbb71ea0b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: CRT – a local code review tool for agentic development",
-      "zhTitle": null,
-      "summary": "I built crt to help reduce the burden of reviewing AI generated code. As fun as it is to vibecode software to production, sometimes you still need to understand and be responsible for the code that agents write. &quot;It&#x27;s the agents fault&quot; doesn&#x27;t work as an excuse for many types of software. Agents are great (and prolific) at writing code, but not so great at engineering software",
-      "zhSummary": null,
-      "url": "https://github.com/imron/crt",
-      "publishedAt": "2026-09-18T23:09:25.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "7e48a0c302f2896cc7e20507301e71018f8ebc42",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "How Google is drafting AI chatbot laws around the country",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "publishedAt": "2026-09-18T23:07:54.000Z",
-      "category": "政策"
     },
     {
       "id": "b1b7d90b796f3e0c5ae54ff296687dd2210998a3",
@@ -445,30 +469,6 @@
       "url": "https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18",
       "publishedAt": "2026-09-18T22:59:55.000Z",
       "category": "其他"
-    },
-    {
-      "id": "94ca66e8d318a774709bdf4a899d40e0cb28acb5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-      "publishedAt": "2026-09-18T22:58:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "3ef547c30a4d53dc8a82e8874aca50f18969a02b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://academy.dair.ai/papers/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness-2609.20519",
-      "publishedAt": "2026-09-18T22:40:41.000Z",
-      "category": "研究"
     },
     {
       "id": "efba90d509ca1a85849b4d1cd68bbeec53452bb7",
@@ -699,18 +699,6 @@
       "category": "工具"
     },
     {
-      "id": "0fcc68694a97c69f5cd83ba703971e1a46f90e86",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: \"Seal\" letters and passwords that open for your family after you die",
-      "zhTitle": null,
-      "summary": "Hi, I&#x27;m a CS undergrad who has had an interest in hardware keys ever since I used them for a school project a few years ago. Today I submitted my latest app, Seal,for review in the app store. Seal is an iOS app for iPhone and iPad that lets you write an Envelope (an encrypted bundle of passwords, photos, voice memos, etc...) for all of your loved ones when you&#x27;re gone. You can register h",
-      "zhSummary": null,
-      "url": "https://github.com/jasonepage/Seal",
-      "publishedAt": "2026-09-18T18:48:02.000Z",
-      "category": "产品"
-    },
-    {
       "id": "802486953da21839a5cb8b2e17a8da58311a2d39",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -867,18 +855,6 @@
       "category": "产品"
     },
     {
-      "id": "5b2dfaa44bc342c9f34492ef94362ce851855c20",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Share an LLM endpoint over HTTPS while TLS still terminates on your machine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://swobu.com/blog/https-routes",
-      "publishedAt": "2026-09-18T16:48:59.000Z",
-      "category": "其他"
-    },
-    {
       "id": "eacd5d59e9e3d83b88858f46e347f765810c1679",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -901,30 +877,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
       "publishedAt": "2026-09-18T16:35:19.000Z",
       "category": "产品"
-    },
-    {
-      "id": "30af1892732641cd2cee1bdc902adabc7622b275",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Alea iacta non est: rerolling the LLM dice",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://rolisz.ro/2026/alea-iacta-non-est-rerolling-the-llm-dice",
-      "publishedAt": "2026-09-18T16:02:15.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "926a882fff465a928a2f334bb4a92d9c4c78cee9",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The Lamentable Later Life of Lemmings",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings",
-      "publishedAt": "2026-09-18T15:52:40.000Z",
-      "category": "其他"
     },
     {
       "id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
@@ -1081,6 +1033,18 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
       "publishedAt": "2026-09-18T13:00:00.000Z",
       "category": "工具"
+    },
+    {
+      "id": "559b0cf1119746d24724b9d0e19761800b6e48fa",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "zhTitle": null,
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "category": "其他"
     },
     {
       "id": "84145fbe5ff7fb6d4cf4beaa7f2858a7c37d23a4",
@@ -3003,18 +2967,6 @@
       "category": "政策"
     },
     {
-      "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Introducing the Agents API",
-      "zhTitle": null,
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "category": "工具"
-    },
-    {
       "id": "4e410dad70fb92989558aa8ff122fdd9cabd1589",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -3023,6 +2975,18 @@
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "zhSummary": null,
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "2b26a8066576cc984b3694eea8e3d3f95cde781c",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Introducing the Agents API",
+      "zhTitle": null,
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "category": "工具"
     },
@@ -3339,18 +3303,6 @@
       "category": "产品"
     },
     {
-      "id": "7a45b185cff5308545e040bd4a321330824b79c8",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "zhTitle": null,
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "be4a3c5426264d710c57171337575b69c5e0e6ab",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
@@ -3359,6 +3311,18 @@
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "zhSummary": null,
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "7a45b185cff5308545e040bd4a321330824b79c8",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "zhTitle": null,
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "publishedAt": "2026-09-03T12:00:00.000Z",
       "category": "模型发布"
     },
@@ -3601,6 +3565,42 @@
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "publishedAt": "2026-08-31T04:00:00.000Z",
       "category": "产品"
+    },
+    {
+      "id": "092c8de02e8b135ec330a69dfe0e592abd521d97",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "zhTitle": null,
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "0b00c80d502cc3ab98e0f64ac864e5a386422b64",
+      "sourceId": "openai-news",
+      "sourceName": "OpenAI",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "zhTitle": null,
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "zhSummary": null,
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "publishedAt": "2026-08-28T02:00:00.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "b0b2c2da12a5bc4520ab6807aa5bac3ea5efd4c6",
+      "sourceId": "huggingface-blog",
+      "sourceName": "Hugging Face",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "category": "其他"
     }
   ]
 }
