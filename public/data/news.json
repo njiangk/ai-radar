@@ -1,7 +1,271 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-19T23:57:43.892Z",
+  "generatedAt": "2026-09-20T04:40:39.656Z",
   "items": [
+    {
+      "id": "f7f885a50b4ab1d06c130a05240bd2110ccadd79",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "JEV: Ranking 6K+ peer-company candidates in ~40 seconds",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/Alex_aic5/status/2101523309158343137",
+      "publishedAt": "2026-09-20T04:18:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "398712a6d5d42ea72efbf26b1ac26862ab7c313b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/BenSiv/fossil-scm",
+      "publishedAt": "2026-09-20T04:17:59.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "c6e0509d05033783cd92e69a8cc769346566f398",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Architectural Guardrails for AI native development",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/cxgrd/cli",
+      "publishedAt": "2026-09-20T04:17:49.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e7bd3f030981ce9ff6507fad5308742e740405be",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Integrating Volt Active Data with AI Agents and Chatbots",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://docs.voltdb.com/UsingVoltDB/ChapAI.php",
+      "publishedAt": "2026-09-20T04:07:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "def40215de88ddae5879bb9e5c8e737806637f2b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "OpenAI researcher on AI communicating across air-gaps via thermal side-channels [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
+      "publishedAt": "2026-09-20T04:06:24.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "2a8fcccd6be1279f1ccefb50916fa206f791c0b4",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: The Smallest LLM in JavaScript",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gist.github.com/skorotkiewicz/dedc3b5a857be7d0f2b378334721713c",
+      "publishedAt": "2026-09-20T04:05:05.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "814c1abd28dfd7bcb98235edfb2c460ff6e2dede",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Another terminal/shell AI assistant (shell native)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/TheR1D/aty",
+      "publishedAt": "2026-09-20T03:55:19.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "b228cbbdf62e37bca7a246bf503504d701801bc5",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Nscale S-1 demonstrates unprofitability of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai",
+      "publishedAt": "2026-09-20T03:49:33.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "eeeb1af7fa89780c595cccd5c091baaf800420ee",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "China doesn't need to beat US AI [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=sXA77wLF678",
+      "publishedAt": "2026-09-20T03:13:41.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "30b8c4568ea961c1494ae00e53fb66fd144f49e7",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The Ethics Issue of AI-Assisted Creation",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://im.not.ci/ai-creator-ethic",
+      "publishedAt": "2026-09-20T02:57:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2e9236355d53f48a0850b8fccf5b1ca9fd4adda8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Using system-one models inside high-throughput data pipelines",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.southbridge.ai/blog/jev-entity-resolution",
+      "publishedAt": "2026-09-20T02:13:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "166ff7d03fffd28a05bd9e12c208871bce072380",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=0YIczZDCgsM",
+      "publishedAt": "2026-09-20T02:04:19.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d7b56599ffe11f8f203a9b51874b50dd3b693dd0",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Why are AI leaders calling for a slow down? [audio]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down",
+      "publishedAt": "2026-09-20T01:52:18.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "eaa9cd182339c357a9e4641553cf4fb56c54df8b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A2E AI – an all-in-one AI video generator for text, images and avatars",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://textideo.com/model/a2e-ai",
+      "publishedAt": "2026-09-20T01:50:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3c349ce0820c6b6fc9b8bf8c4b414ff608b34629",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Open-source free meme generator, friendly for AI agents and humans",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/terryds/memegenscript",
+      "publishedAt": "2026-09-20T01:35:45.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8caeaedbea598c462bbf452ccc8eb6ed57ad816c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Pure Code: What remains with developers after AI writes the code?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://pure-code-essay.vercel.app",
+      "publishedAt": "2026-09-20T01:33:30.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "26b420ac3cfe356f5d05a9d07ae6091355ebb244",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How the Berkeley Overmind won the 2010 StarCraft AI competition (2011)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition",
+      "publishedAt": "2026-09-20T01:11:12.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "59eae15698dfaf0814b0e4edf3f5d7e7ccd02c1a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+      "publishedAt": "2026-09-20T01:07:08.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3a38adca4f2d681d3101b77129e38f5294128f8f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.tribuneindia.com/news/business/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs",
+      "publishedAt": "2026-09-20T00:53:02.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "30547eb810fcffd2613b9ee38ac539b570bca711",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Ten days that changed the course of AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.reuters.com/business/media-telecom/ten-days-that-changed-course-ai-2026-09-19",
+      "publishedAt": "2026-09-20T00:46:54.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2b91345b566fb36ea5fbff2fdd4b89eb6eebbf4f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
+      "publishedAt": "2026-09-20T00:33:35.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "baa8f21629882f6dbc3f8a734ff0ec37424d0006",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Text-me: a personal agent that learns your pace",
+      "zhTitle": null,
+      "summary": "Hey, I built text-me because every productivity app I tried gave me one more place to be and maintain. Meanwhile my life actually happens over email, messages, calendar, college, Kindle, reading, and Substack. And I always have to be somewhere else. So now I send everything to one place, like texting a friend. It separates life from work, and every week it analyzes and gives you a place to start i",
+      "zhSummary": null,
+      "url": "https://aiworthusing.com/agent-index/text-me",
+      "publishedAt": "2026-09-19T23:58:50.000Z",
+      "category": "产品"
+    },
     {
       "id": "f1a64d5314a2ba529df448e91ee0c56914aff614",
       "sourceId": "hn-ai",
@@ -99,18 +363,6 @@
       "category": "其他"
     },
     {
-      "id": "76f609dfd29551c140d2a5b3cf6c9168c3d1543f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Research that compiles: typed claims, conflict detection and next actions",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://grainulator.app/playground",
-      "publishedAt": "2026-09-19T22:40:49.000Z",
-      "category": "研究"
-    },
-    {
       "id": "24d4ce02dde6f8c4f6e4db09eec95e5f5a168849",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -123,87 +375,15 @@
       "category": "其他"
     },
     {
-      "id": "c576187ed957d28db1077e242b4be554b48f0b04",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
-      "publishedAt": "2026-09-19T22:36:13.000Z",
-      "category": "其他"
-    },
-    {
       "id": "cdaf1812970807c2ba19e8c73aade41ef99f9c13",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "An old systems problem with a new AI twist: data movement",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://twitter.com/nk_developer1/status/2101028456083677524",
       "publishedAt": "2026-09-19T22:35:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e8812332dfeede57e77b74f6062e90120ee24ccd",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: I am vibe coding a drone",
-      "zhTitle": null,
-      "summary": "Code is the future of hardware engineering: https:&#x2F;&#x2F;charlesazam.com&#x2F;blog&#x2F;engineering-as-code-manifesto&#x2F;",
-      "zhSummary": null,
-      "url": "https://ai-eng-design-production.up.railway.app/login",
-      "publishedAt": "2026-09-19T22:31:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0549bb2252e14dba18d2871a2b1436b754a3b7eb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-      "publishedAt": "2026-09-19T22:22:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ae09cd931958347658b9d101e7dbe5bf797ea156",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Regulate and Standardize AI? Nope",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI",
-      "publishedAt": "2026-09-19T22:12:50.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0cb867aa99db63333fc938a5444dfd78e512a2a4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "America Has the AI Lead. Beijing Wants It Slowed and D.C.Is Building a Chokehold",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://floppingaces.net/most-wanted/america-built-the-worlds-ai-lead-now-beijing-wants-it-slowed-and-washington-is-building-the-chokepoint",
-      "publishedAt": "2026-09-19T21:59:13.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b6037a73652bbe53a14a0abc974e3f35519e47fc",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A Call for Open Science in AI Safety",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://make-safety-open.github.io",
-      "publishedAt": "2026-09-19T21:56:00.000Z",
       "category": "其他"
     },
     {
@@ -219,30 +399,6 @@
       "category": "其他"
     },
     {
-      "id": "267919c3b5225badce8313d02a19c76e6e701e1c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OliverDB: 9.67× Snowflake, 8× less compute",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://oliverdb.ai/benchmarks.html",
-      "publishedAt": "2026-09-19T21:21:05.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "463a0b9aa5fb1a5e956d2796c7f849410356c127",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-      "publishedAt": "2026-09-19T21:14:17.000Z",
-      "category": "其他"
-    },
-    {
       "id": "cd6e1ef64fd9c7db67c2532d7e3b7bc18333688a",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -253,18 +409,6 @@
       "url": "https://github.com/xanpavle/rocmfix",
       "publishedAt": "2026-09-19T20:57:23.000Z",
       "category": "研究"
-    },
-    {
-      "id": "8428b93ef158ba569c77a1c867db2dd963ef505d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
-      "publishedAt": "2026-09-19T20:50:00.000Z",
-      "category": "其他"
     },
     {
       "id": "607ffaad2d1c704d87910b94c9e6c695d3bc84c9",
@@ -291,69 +435,9 @@
       "category": "其他"
     },
     {
-      "id": "27baac45afead6164d93ce0ca6d454e8152c6f60",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Jev, Fly Me to the Moon",
-      "zhTitle": null,
-      "summary": "I built Odyssey, a browser based journey from Earth to lunar orbit. It uses Jev from TypeSafe AI to choose between navigation actions. You can watch each decision and the probabilities assigned to the available options as the flight progresses. The simulation provides the trajectory and maneuver timing. Jev chooses bounded attitude and correction actions within it. It’s a simplified cinematic simu",
-      "zhSummary": null,
-      "url": "https://fly.rahmanyoonus.com",
-      "publishedAt": "2026-09-19T20:38:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7215ffd53f1e0e931ea9ca4c14dddd746ce80561",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Play DSS and DS2 dictation files online without uploading your audio",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://speechtext.ai/online-dss-player",
-      "publishedAt": "2026-09-19T20:34:34.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a22ddf27c154970c013c0668d5ba9d2812e493c2",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "They Built a Secular Apocalypse Belief System. Now They Want Religious Authority",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.aipanic.news/p/first-they-built-a-secular-apocalypse",
-      "publishedAt": "2026-09-19T20:25:25.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9afb7f3507bb3b903314fb01967671b22a1bc309",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://justbot.co",
-      "publishedAt": "2026-09-19T20:20:19.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "6c54c03d7a03724c369b2b8890a61c178aa671c4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The Weak Foundations of AI Doomsday",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.aipanic.news/p/the-weak-foundations-of-ai-doomsday",
-      "publishedAt": "2026-09-19T20:18:37.000Z",
-      "category": "其他"
-    },
-    {
       "id": "175844e07c9d6c06ce8d2a67b9e23a7ce4f2a1a3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
       "zhTitle": null,
       "summary": "Hi everyone, I&#x27;m working on OpenWand, an &quot;LLM chat interface&quot; that is optimized for AI co-work. Its function is to truly integrate AI into your workflow, so no more switching windows, no more copying context, less prompt typing. You can focus on working, not prompting. You can think of it as a free Chatgpt (the interface&#x2F;frontend) alternative for your everyday work. I would be",
@@ -363,33 +447,9 @@
       "category": "产品"
     },
     {
-      "id": "eedcaac133ec45ffc4e602e6a50c9d550afffa07",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI Actress interviewed by Piers Morgan [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
-      "publishedAt": "2026-09-19T20:10:19.000Z",
-      "category": "政策"
-    },
-    {
-      "id": "692a40d2fc78ac11be470b101c79d0414c693a9c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
-      "publishedAt": "2026-09-19T20:08:18.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6e56d47a5511983acf721da0d72baed4650a198c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "OpenAI and Anthropic oversold AI security breaches",
       "zhTitle": null,
       "summary": "",
@@ -411,18 +471,6 @@
       "category": "其他"
     },
     {
-      "id": "ca1f7d9d7c83a17c924e550884ee53d2a27f6285",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "KdK Part 5: The Aitkenator",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://nealstephenson.substack.com/p/kdk-part-5-the-aitkenator",
-      "publishedAt": "2026-09-19T19:55:40.000Z",
-      "category": "其他"
-    },
-    {
       "id": "67bfed950ab763e71234414761fe7f335268abc5",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -435,18 +483,6 @@
       "category": "工具"
     },
     {
-      "id": "45ef041df063675bc228ca4f9e3f26092bccbc9e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Curated list of hosting (VPS, GPU, infra, AI)",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/dalisoft/awesome-hosting",
-      "publishedAt": "2026-09-19T19:45:35.000Z",
-      "category": "其他"
-    },
-    {
       "id": "86a453a6fc5631a94ef4e9456c6761ed0e3cf6c2",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -456,18 +492,6 @@
       "zhSummary": null,
       "url": "https://killswitch-lang.org",
       "publishedAt": "2026-09-19T19:40:28.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b24dbb194c1914a3ea836fe621435d45f7b0d24d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "The lucrative business of reactionary AI-generated posts on Facebook",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
-      "publishedAt": "2026-09-19T18:53:58.000Z",
       "category": "其他"
     },
     {
@@ -540,18 +564,6 @@
       "zhSummary": null,
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "publishedAt": "2026-09-19T16:35:24.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1be64886a99832866e1a8a813c42b09fb92fac9d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Lemmings: Russian Persona Provisioning and Management for Active Measures",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://dti.domaintools.com/research/lemmings-russian-persona-provisioning",
-      "publishedAt": "2026-09-19T15:59:58.000Z",
       "category": "其他"
     },
     {
@@ -699,30 +711,6 @@
       "category": "研究"
     },
     {
-      "id": "ac9946f2f083626790fb14d6e006cc12b760e570",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
-      "publishedAt": "2026-09-19T12:19:20.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "1b8ab5d0ce6ae0b73b7d24610b7a9e230abc1ec8",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Splash Engine – The Fastest Local Qwen3.8 on Apple Silicon",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lmstudio.ai/blog/splash-engine",
-      "publishedAt": "2026-09-19T11:54:19.000Z",
-      "category": "模型发布"
-    },
-    {
       "id": "0d08ba9144bdf4dc4509d37a8a05b2985136a569",
       "sourceId": "wired-ai",
       "sourceName": "WIRED AI",
@@ -807,6 +795,30 @@
       "category": "其他"
     },
     {
+      "id": "0fcc68694a97c69f5cd83ba703971e1a46f90e86",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
+      "zhTitle": null,
+      "summary": "I&#x27;m a CS undergrad who has developed an interest in hardware keys ever since I used them for a school project a few years ago. I made a little chat app that only allows users to chat if they registered a key, nothing else. The backstory of how I came to work on Seal (this project): was that I was generating ideas with Claude to come up with an idea that only hardware keys could make into soft",
+      "zhSummary": null,
+      "url": "https://github.com/jasonepage/Seal",
+      "publishedAt": "2026-09-19T04:28:22.000Z",
+      "category": "模型发布"
+    },
+    {
+      "id": "57533bcb7bc1e121dd76af8ea19eb45f4f3c22ff",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A Black-Box Audit of Provider-Side Token Inflation in LLM Services",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://arxiv.org/abs/2609.20370",
+      "publishedAt": "2026-09-19T04:27:39.000Z",
+      "category": "其他"
+    },
+    {
       "id": "7d23deb23af91746bb7f76ee212e96e04c00317e",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -817,6 +829,18 @@
       "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
       "publishedAt": "2026-09-19T01:00:00.000Z",
       "category": "产品"
+    },
+    {
+      "id": "294dab8079c2933ca3f43b5b2ccb8b7ff0abe6d6",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "The Great Unbundling of the LLM",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://seldon-ai.com/blog/generation-is-the-wrong-primitive",
+      "publishedAt": "2026-09-19T00:23:38.000Z",
+      "category": "其他"
     },
     {
       "id": "1e8dff1956a4d3d1fd87d7e2348a7cf561b21942",
@@ -3577,30 +3601,6 @@
       "url": "https://openai.com/index/polimill",
       "publishedAt": "2026-08-31T07:00:00.000Z",
       "category": "其他"
-    },
-    {
-      "id": "44f61163770f758b1f0f7a7a6d001be1ca835622",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "A milestone in expanding access to AI",
-      "zhTitle": null,
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "publishedAt": "2026-08-31T04:00:00.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "092c8de02e8b135ec330a69dfe0e592abd521d97",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "zhTitle": null,
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "publishedAt": "2026-08-28T06:00:00.000Z",
-      "category": "融资"
     }
   ]
 }
