@@ -1,7 +1,379 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-21T21:48:43.518Z",
+  "generatedAt": "2026-09-22T00:39:09.697Z",
   "items": [
+    {
+      "id": "4cc5c8ad65b364d9f5344d0d265e66ff8c7401de",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+      "publishedAt": "2026-09-22T00:37:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7d48a22a6d1afa0d87cf8e96b1d255a311a91196",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "You're predictable. That's a good thing: Can personal LLMs learn your judgment?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://handsdiff.substack.com/p/youre-predictable-thats-a-good-thing",
+      "publishedAt": "2026-09-22T00:26:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7e48a0c302f2896cc7e20507301e71018f8ebc42",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How Google is drafting AI chatbot laws around the country",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+      "publishedAt": "2026-09-22T00:26:02.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "4b26e627991dfd118bc6de082f1e07dd210ee555",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "What We Should Do During a Pause on AI Development",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.saikat.us/p/what-we-should-do-during-a-pause",
+      "publishedAt": "2026-09-22T00:14:52.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2036b04ff988e9f37cb1a5db6571fea107745706",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
+      "zhTitle": null,
+      "summary": "Can Jev optimise the size of compiled binaries better than clang -Oz? Turns out it can (sometimes)! Introducing jevopt: making intelligent compiler optimisation decisions with Jev. I used Jev to make intelligent inlining decisions at each LLVM IR call-site. Here’s why and how I did it. Everywhere I looked, I saw cool Jev demos, so I thought I&#x27;d apply it to my area: systems programming and com",
+      "zhSummary": null,
+      "url": "https://github.com/Ramneet-Singh/jevopt",
+      "publishedAt": "2026-09-22T00:11:59.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "97e2bd5d888abf656a4c7edd8c4137517af5c86f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Schelling Points and the Secret Society of Agents",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://jdsemrau.substack.com/p/ai-agents-schelling-point-dsewiki",
+      "publishedAt": "2026-09-22T00:04:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "91178a262a0f88acc635c5a51c7393f95cd61e9b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI provides the logic; the compiler makes it real – with zero hallucinations",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/SPLWare/SQLazy",
+      "publishedAt": "2026-09-21T23:51:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "df69de99cbd8ba8f13ddaf72ce1a64c7fbf95fb7",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "zhTitle": null,
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+      "publishedAt": "2026-09-21T23:44:28.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "4266d6b753152b37ac4a2bf4b63814af6728a800",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Two Strangers, One Machine: A security model for a CDN on residential hardware",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.evolvingedge.ai/post/how-little-do-you-have-to-trust-us-white-paper-launch",
+      "publishedAt": "2026-09-21T23:42:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "171606dae02c2efb2da1bf595ed3fda783d666a8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Xiaomi MiMo Desktop",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://mimo-ai.xiaomimimo.com/desktop",
+      "publishedAt": "2026-09-21T23:40:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7af609c06e19fb6d97684ffab6eb542592cd2620",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "So, is AI going to kill us? 11 experts, 11 answers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sfstandard.com/2026/09/21/experts-ai-doom",
+      "publishedAt": "2026-09-21T23:28:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2e019df9a7d32a516aadd10997d6f5083d5ec862",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.youtube.com/watch?v=hClbN_imH5Y",
+      "publishedAt": "2026-09-21T23:16:03.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "93d3898752a393d56de11b1972be2285f8288b03",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Building Seven in Public",
+      "zhTitle": null,
+      "summary": "https:&#x2F;&#x2F;github.com&#x2F;02zerocool&#x2F;truth-benchmark",
+      "zhSummary": null,
+      "url": "https://claude.ai/share/61ae35d6-82f2-425a-84b6-907a3ec1b5c4",
+      "publishedAt": "2026-09-21T23:13:15.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "82b7c1ad7628107c5442f8a3aa61528a75ba7795",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "zhTitle": null,
+      "summary": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions,",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Sep/21/jev",
+      "publishedAt": "2026-09-21T23:09:20.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "b556a8083217e482157e14bead89accdaa3c452d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Risk Cheatsheet",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://umais.me/writing/ai-risk-cheatsheet",
+      "publishedAt": "2026-09-21T23:04:39.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5d6dae0dda9c1bc33439b62961ae5956178707de",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.latent.space/p/jev",
+      "publishedAt": "2026-09-21T23:01:51.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f6dab66cd3b282cd4cd03ae0d52497d990613e00",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "I Am in need of Testers",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://agaro.ai",
+      "publishedAt": "2026-09-21T22:56:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "172f750ed7f81e93cc3e1d2dfab4486ef873b080",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "LLMs Are Too Big. My Log Router Doesn't Need to Sing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.distributedthoughts.org/my-log-router-doesnt-need-to-sing",
+      "publishedAt": "2026-09-21T22:54:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "814c21f27a3d879ad418fda75f918f3abe44128d",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Where do AI norms come from?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://charity.wtf/p/where-do-ai-norms-come-from",
+      "publishedAt": "2026-09-21T22:42:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "7c8477b313ed798ef06567364d465e80dc33ddb6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Do not fear AI. Fear AI companies",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+      "publishedAt": "2026-09-21T22:40:31.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "06c93272fbd7219ecf26ed02ba9478ab1fec2d59",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "An LLM Beat NetHack",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension",
+      "publishedAt": "2026-09-21T22:40:00.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "3961794f3391c58b1e019fa5b240b4ffa3b09197",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "A Call for Control of Frontier AI Models",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models",
+      "publishedAt": "2026-09-21T22:29:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d7788f2ac09e8cba34059781fc5c2ed5ba359672",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
+      "publishedAt": "2026-09-21T22:27:02.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f486924cd48aa574c9e11e1c6f43b3cfc6afcde5",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "title": "Cloudflare Python Workers are now generally available",
+      "zhTitle": null,
+      "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\". A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based wor",
+      "zhSummary": null,
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
+      "publishedAt": "2026-09-21T22:25:44.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "88d0ffdb57adbc8f3b7531092a104aad61912995",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Laya decision engine on AWS Lambda, backed by Lambda SnapStart",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/HQarroum/laymbda",
+      "publishedAt": "2026-09-21T22:24:57.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "5dc1319989937b1659f9baf24669832789dba201",
+      "sourceId": "ars-ai",
+      "sourceName": "Ars Technica AI",
+      "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+      "zhTitle": null,
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "zhSummary": null,
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "publishedAt": "2026-09-21T22:24:38.000Z",
+      "category": "产品"
+    },
+    {
+      "id": "18606ed72436d137979ec32ec382528fa3ba040e",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the",
+      "publishedAt": "2026-09-21T22:22:42.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "a5f7707c930c96582f047f0c245895f11b37d840",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: SoTA Feed – Every open-weights release from the labs that matter",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://sota.borgcloud.ai",
+      "publishedAt": "2026-09-21T22:19:31.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "4d2664397e6ba3d79f23b33933e356fa4043bb4a",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Fast inference for deep seek flash v4.1 469 tok/s for coding",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.coralbricks.ai",
+      "publishedAt": "2026-09-21T22:12:48.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0c085f843a3b5a09a29f64ab669f84d851429749",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Let AI agents search across workspace with the Universal Search MCP Server",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://developers.google.com/workspace/guides/universal-search-mcp",
+      "publishedAt": "2026-09-21T22:02:10.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "21c1988f8733dd548142c4d7e04cd32ca3e18c36",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Auditing in the age of (good enough) AI",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+      "publishedAt": "2026-09-21T21:53:01.000Z",
+      "category": "其他"
+    },
     {
       "id": "9a9c4db57eb51ea22bd3e852433e55a09a0b9b37",
       "sourceId": "hn-ai",
@@ -63,21 +435,9 @@
       "category": "其他"
     },
     {
-      "id": "d1bae5713f01ce57c9865b0aaa9b6c38840c4bdb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "IA Agent Arthur – Developed an OfflineAIagent",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://x.com/AI_AGENT_ARTHUR",
-      "publishedAt": "2026-09-21T21:00:52.000Z",
-      "category": "其他"
-    },
-    {
       "id": "91116b3f5a9be0bd85c6c67ea383d4c2aa649d55",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
       "zhTitle": null,
       "summary": "",
@@ -96,18 +456,6 @@
       "zhSummary": null,
       "url": "https://github.com/womenflyplanes/moa-attention-verified-mullin",
       "publishedAt": "2026-09-21T20:57:35.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b6c18ef0c9cfb3fc1e89be7fb48bc5627c9b3043",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
-      "publishedAt": "2026-09-21T20:57:27.000Z",
       "category": "其他"
     },
     {
@@ -135,64 +483,16 @@
       "category": "其他"
     },
     {
-      "id": "374d53070c833dd82861c65c79059329d428dde8",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Jonathan Swift vs. AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
-      "publishedAt": "2026-09-21T20:38:03.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a613fc6383bb09efac1f56b87caf61bbbfef103a",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Unsealed files describe OpenAI \"research mission\" to supplant human authors",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
-      "publishedAt": "2026-09-21T20:35:49.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "2d929acafd78c1b8ca5d06808b1520be24dea78d",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "New bill to protect American citizens access to AI – Please read and share",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://righttorun.us",
-      "publishedAt": "2026-09-21T20:30:38.000Z",
-      "category": "其他"
-    },
-    {
       "id": "c4d22e79dcded9e544fb80b4ec0fd429876815f1",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
       "title": "California tightens rules on AI data center energy and water use",
       "zhTitle": null,
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&#8230;]",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
       "zhSummary": null,
       "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
       "publishedAt": "2026-09-21T20:29:45.000Z",
       "category": "政策"
-    },
-    {
-      "id": "e305e80cf03782e10f6b314c042b0f890eb1b6fe",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "US DOT unveils new air traffic control system aimed at reducing flight delays",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-delivers-state-art-air-traffic-control",
-      "publishedAt": "2026-09-21T20:29:35.000Z",
-      "category": "其他"
     },
     {
       "id": "4df6121a6b7eb91dc0c422c08611eb64a3d56876",
@@ -219,111 +519,15 @@
       "category": "研究"
     },
     {
-      "id": "0f9b3f9815cc817535eecdad62db65047185d897",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "What if we regulated AI like cars?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://rkp.science/regulating_ai_like_cars.html",
-      "publishedAt": "2026-09-21T20:11:37.000Z",
-      "category": "其他"
-    },
-    {
       "id": "a97d1460d3683feaca95226e8eee0246d2f8423e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "94% on AIME with 1B Params",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://paradigma.inc/blog/limite-1b-violetto",
       "publishedAt": "2026-09-21T20:07:48.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "753f62cb4f36ce49ad8e75355136bf3330fb0dca",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "\"80% of AI projects fail\" traces to a footnote one line long",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://jamiewatters.work/journey/80-percent-ai-projects-fail",
-      "publishedAt": "2026-09-21T20:02:47.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "55b11c30fd86b15019e4c318cc3c16a08ba03843",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "A thing we may be able to learn from AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai",
-      "publishedAt": "2026-09-21T20:00:10.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "4ad52fc24000cd6d9be49b925b59635894e78237",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "In the heart of tech country, voters turn on AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870",
-      "publishedAt": "2026-09-21T19:49:16.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7df74dd49457d06fcef30222c226accb4fe34fd7",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Emote – A reaction API for AI agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://useemote.com",
-      "publishedAt": "2026-09-21T19:46:54.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "183d1c1ceb49e9b8090e9be3496fbba49c0a1fd5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Self-hosted AI agent that builds internal apps on your own data",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=FNgjuvw2BmU",
-      "publishedAt": "2026-09-21T19:32:33.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "f81a0b798c53630e64545fed1545a08cc7bce271",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Meta's New Muse AI App Tops Charts, Draws Strong Early Reviews",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
-      "publishedAt": "2026-09-21T19:31:05.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "beed61ecbd101fa944a8643cdc61669121918872",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Patches Posted with Aim to Mainline Linux Kernel Support for the Amazon Kindle 4",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.phoronix.com/news/Amazon-Kindle-4-Linux-Patches",
-      "publishedAt": "2026-09-21T19:26:15.000Z",
       "category": "其他"
     },
     {
@@ -339,18 +543,6 @@
       "category": "其他"
     },
     {
-      "id": "015dbc4f82687be41156198f793060e4c20a9886",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "publishedAt": "2026-09-21T19:23:33.000Z",
-      "category": "其他"
-    },
-    {
       "id": "365635f4f8cea8745d56d5a26cb30219b51df432",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -363,18 +555,6 @@
       "category": "产品"
     },
     {
-      "id": "77bc309a41b6e99625c17f8134f4b276ff3398ca",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-      "publishedAt": "2026-09-21T19:14:30.000Z",
-      "category": "其他"
-    },
-    {
       "id": "5538d99d2cabaea9ae43b0d3c66d55419ecfdcce",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -384,42 +564,6 @@
       "zhSummary": null,
       "url": "https://vernllm.dev",
       "publishedAt": "2026-09-21T19:13:37.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c5bed41c0ef03b907a54458cb02da8096478142c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Factlabel: catches AI agents lying about the data they're reporting on",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/generallymatthew/factlabel",
-      "publishedAt": "2026-09-21T19:07:55.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c4a06eb729924303ba1bc942a8996b5661f5882b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Bugs that broke driving: Machine Learning edition",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://blog.comma.ai/ml-bugs",
-      "publishedAt": "2026-09-21T19:07:27.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "cf4969b77f02f25c05a35202ba41d12c63ff6b19",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "We Are Simulating Humanity",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.null0.ai",
-      "publishedAt": "2026-09-21T19:06:00.000Z",
       "category": "其他"
     },
     {
@@ -687,30 +831,6 @@
       "category": "产品"
     },
     {
-      "id": "f6b1b4411917728f8c7adb1c821a76618243329d",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Using TypeSafe AI in Bug Bounty",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
-      "publishedAt": "2026-09-21T15:34:32.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "823b7f3f026d7ad07f33cb06eb526cd2a8eeb347",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
-      "publishedAt": "2026-09-21T15:00:39.000Z",
-      "category": "研究"
-    },
-    {
       "id": "09c1a4e0bc43cd99602f6c1de6f4421ed7972648",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -735,18 +855,6 @@
       "category": "工具"
     },
     {
-      "id": "9a9334a139074c691ed51a577a67cf01e9c373d1",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "A quick overview of atomics in C",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c",
-      "publishedAt": "2026-09-21T14:40:03.000Z",
-      "category": "其他"
-    },
-    {
       "id": "298e70367333fccbd353b412cb1ef376669f2e0d",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -757,18 +865,6 @@
       "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
       "publishedAt": "2026-09-21T14:39:22.000Z",
       "category": "模型发布"
-    },
-    {
-      "id": "3bcea124372cad3cf6bd619e0d3293306759397a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Assay – Open-source mechanical checker for web pages, no tests, no LLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/awss1i/assay",
-      "publishedAt": "2026-09-21T14:37:45.000Z",
-      "category": "其他"
     },
     {
       "id": "899713e1c3192956aa3e7ae18707821848ffb24a",
@@ -795,18 +891,6 @@
       "category": "其他"
     },
     {
-      "id": "39c6e1bc06cd37fea4e09c90dafe60963dcee17a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Animated visual explanation of how LLM tokenization works",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://seeitflow.com/ai/ai-foundations/tokens-explained",
-      "publishedAt": "2026-09-21T14:05:22.000Z",
-      "category": "其他"
-    },
-    {
       "id": "d201b38a61749025b99b893bb5b011151912527b",
       "sourceId": "verge-ai",
       "sourceName": "The Verge AI",
@@ -829,18 +913,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
       "publishedAt": "2026-09-21T13:44:34.000Z",
       "category": "其他"
-    },
-    {
-      "id": "cbc711bb2145e0fbb96573ee61643e749fefdd55",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "UsageBar – Claude Code and Codex rate limits in the macOS menu bar",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/idark7/UsageBar",
-      "publishedAt": "2026-09-21T13:41:11.000Z",
-      "category": "模型发布"
     },
     {
       "id": "335387d8455b398318c4f33f48661bc02245b5cd",
@@ -1308,18 +1380,6 @@
       "zhSummary": null,
       "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
       "publishedAt": "2026-09-19T15:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "e57b5ab9f3b7649030baa77ac4cad1b59ed90d7d",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Prices go up in 7 days — get your Disrupt ticket now",
-      "zhTitle": null,
-      "summary": "Current ticket pricing ends September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
-      "publishedAt": "2026-09-19T14:00:00.000Z",
       "category": "其他"
     },
     {
@@ -3075,18 +3135,6 @@
       "category": "工具"
     },
     {
-      "id": "f9ae5067e024ba65e1157ccac5ad26a0e26e272f",
-      "sourceId": "ars-ai",
-      "sourceName": "Ars Technica AI",
-      "title": "I spent $4,000 on a robot dog from China",
-      "zhTitle": null,
-      "summary": "Unitree might be the world’s most important robotics company.",
-      "zhSummary": null,
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china",
-      "publishedAt": "2026-09-12T11:00:53.000Z",
-      "category": "其他"
-    },
-    {
       "id": "6481e999f333c4a3d45d96068c98d12d9846968e",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -3109,30 +3157,6 @@
       "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter",
       "publishedAt": "2026-09-11T22:49:18.000Z",
       "category": "工具"
-    },
-    {
-      "id": "f6ab17a7f37e7a865cc94b096b1ae54a5fbfc35c",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "Quoting Boris Cherny",
-      "zhTitle": null,
-      "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a m",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny",
-      "publishedAt": "2026-09-11T17:47:11.000Z",
-      "category": "模型发布"
-    },
-    {
-      "id": "acad04a359be10717f40558faa7b8754c4248a3c",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "title": "Feeling sad about AI",
-      "zhTitle": null,
-      "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis and come out the other side. The initial reaction, when some coding agent does a piece of work that would have taken you a week in an hour and does it well, is to be very disheartene",
-      "zhSummary": null,
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-      "publishedAt": "2026-09-11T17:28:37.000Z",
-      "category": "其他"
     },
     {
       "id": "c3aa33826442d0f0cc3fa5d142dd086e756ace1e",
@@ -3575,30 +3599,6 @@
       "summary": "",
       "zhSummary": null,
       "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "86b47b47cb7422fd9b93f65f85241fa63ab8d849",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/funes",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "b844bdeeb825fb68f0688986bae7ade427f914a7",
-      "sourceId": "huggingface-blog",
-      "sourceName": "Hugging Face",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "category": "研究"
     }
