@@ -1,7 +1,403 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T04:00:17.686Z",
+  "generatedAt": "2026-09-25T09:33:15.374Z",
   "items": [
+    {
+      "id": "d16bb4e1c89225cd0c3314a90aa57cfeac89b66e",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: LabLoop – isolated infrastructure for LLM-driven scientific experiments",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/cloudcell/labloop",
+      "publishedAt": "2026-09-25T09:26:43.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "2b30b303f05a28e7cc9f9813030ea5ed35d3fa09",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI as a Tool in Taste Research: decoding the taste of bitterness",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research",
+      "publishedAt": "2026-09-25T09:25:11.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "43b06fa2a9308224c82c98edbd00e4d5c397cdcd",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Proxima Forma – Designs that my AI agents understand",
+      "zhTitle": null,
+      "summary": "Hey HN! I built Proxima Forma because sharing screenshots with my agents was not really doing the job. I am a UX Designer with a developer background so I needed a better tool. Wanted the agents to have full design history, design decisions, product notes, etc. in a format they could actually understand. Also wanted one place to manage all my design projects, with dynamic views that let me query p",
+      "zhSummary": null,
+      "url": "https://proximaforma.com",
+      "publishedAt": "2026-09-25T09:22:55.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "10c96e2060301acd8f1384c9fcf5c907b8d50753",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/apowerb/apowerb",
+      "publishedAt": "2026-09-25T09:12:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "94c4baf4300fb13c6b81050985a902fd00371c22",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "The last day of the dinosaurs, as an interactive painting",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.echohive.ai/experiments/dinosaurs",
+      "publishedAt": "2026-09-25T08:58:13.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e4dfeb088d41a744b39471bbcd49745eb84ed1a6",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://typetab.app/blog/local-llms-on-your-mac",
+      "publishedAt": "2026-09-25T08:53:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6a4aa87b11aa552c56f927b3e4631e53fcfa44fb",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "A master class in decorators, patching and tracing",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://grahamdumpleton.me/posts/2026/09/a-master-class-in-decorators-patching-and-tracing",
+      "publishedAt": "2026-09-25T08:46:47.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0fa7bdf3bbdcd457f1ff692a2bd7d20dfee6f59d",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Who Is Open Source About?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+      "publishedAt": "2026-09-25T08:46:01.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "12c2f188eca07bb3df3053eb9ba7dff0c9ac2ae8",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "BigQuery FinOps Framework",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.alvin.ai/blog/bigquery-cost-optimization-the-complete-finops-framework",
+      "publishedAt": "2026-09-25T08:30:59.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "8620d148beb83334e3c3bbb1d04227880058d1b9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI for Creativity",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://twitter.com/jeffreykWNDR/status/2102774995315245469",
+      "publishedAt": "2026-09-25T08:18:58.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "145f473ab7c5eb39beda45b83950be22d863a967",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Legal AI Harvey's margins went from +50% to -50% in 6 months on frontier costs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html",
+      "publishedAt": "2026-09-25T08:08:30.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "727f577fc5b51bbc6979a627d0db3ad1f133aa18",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Real-Time AI Simplification (A2, B1, B2) of BBC World News Live",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://voicefrom.ai/restate",
+      "publishedAt": "2026-09-25T08:06:55.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "62ae2712ceea138ccf69e45a8502f0cd283b62dd",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Dating a takeoff photo to the second using runway markings as a ruler",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.spuria.app/writeups/angle-of-ascent-billund-klm-takeoff",
+      "publishedAt": "2026-09-25T07:55:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f80a696782d9a0cf0e390588cd200fde5bdff0b1",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Can an AI agent bypass a post-quantum signed authorization policy?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX",
+      "publishedAt": "2026-09-25T07:55:01.000Z",
+      "category": "政策"
+    },
+    {
+      "id": "163d77b022e597e54c505059881c2e1bee37dc13",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Tasket++ Simulate your Windows actions automatically-free and OS",
+      "zhTitle": null,
+      "summary": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto‑send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end‑of‑day shutdown sequence. Everything runs locally, with no telemetry, no cloud",
+      "zhSummary": null,
+      "url": "https://apps.microsoft.com/detail/xp9cjlhwvxs49p?hl=en-US&gl=US",
+      "publishedAt": "2026-09-25T07:46:00.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "9e006e738da2679c676352c72bee077b8075f915",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "What is LLM-as-a-Judge, and How It Works?",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://infere.com/blog/what-is-llm-as-a-judge",
+      "publishedAt": "2026-09-25T07:19:46.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "6a37a8b8003e299faf8195a1b9b2ec1df726281b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://explyt.ai/docs/explyt-test/whats-new-explyt",
+      "publishedAt": "2026-09-25T07:07:26.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "f479be6ca86dfd3556a1dc7f350f340c75a269ed",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Reteach – AI tutor that feels human",
+      "zhTitle": null,
+      "summary": "Tutoring is very expensive. reteach makes it cheap.",
+      "zhSummary": null,
+      "url": "https://www.reteach.study",
+      "publishedAt": "2026-09-25T06:26:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "ef380612f9698fdf81b75c9e12df247e3dfabfb6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Google plans first test ofAl chips in space under Project Suncatcher",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher",
+      "publishedAt": "2026-09-25T06:21:29.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "d3942345713d8283f637ad986fce10a85cc97a25",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: Jevper – an LLM API client constrained to the Jev wire format",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/zhulinchng/jevper",
+      "publishedAt": "2026-09-25T06:10:44.000Z",
+      "category": "工具"
+    },
+    {
+      "id": "9a52e236c73fc07991efb575e22924df23ff0c7c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
+      "publishedAt": "2026-09-25T06:03:56.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "e6e9a133fcc2a4066a0c9393e83da8efbdb5a06a",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "I stopped letting LLMs do arithmetic",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://medium.com/@jwbobbink/best-search-console-mcp-in-2026-gsc-wizard-7a63f91191ca",
+      "publishedAt": "2026-09-25T05:53:01.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4e2cdff813bb3dbaefc9dcb40c7e8d48c0775a0b",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI Agents are breaking into Online Retailers for $25 a target",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
+      "publishedAt": "2026-09-25T05:45:14.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1c341c8657b607a401c7162679e2bd9d7fa54d19",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes",
+      "zhTitle": null,
+      "summary": "I built Knowledge Signal, an open-source prototype that turns study notes into structured, confidence-aware knowledge profiles using TypeSafe AI&#x27;s Jev model.",
+      "zhSummary": null,
+      "url": "https://github.com/sumant1122/knowledge-signal",
+      "publishedAt": "2026-09-25T05:43:16.000Z",
+      "category": "研究"
+    },
+    {
+      "id": "3cc3560874e86f23cf008efaf74754a32411c302",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "TileRT Takes the Top Spot on AgentX with AMD Instinct MI355X GPUs",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.tilert.ai/blog/tilert-amd-agentx.html",
+      "publishedAt": "2026-09-25T05:30:20.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "1741a675134f0d1cd4af5b238e3c438de82b7ffc",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
+      "title": "Show HN: SelMem – selective reconstructive memory for LLMs",
+      "zhTitle": null,
+      "summary": "A project which explores whether LLM agents can develop persistent behavioural divergence through a reconstructive memory system that forgets, distorts, and consolidates experiences over time.",
+      "zhSummary": null,
+      "url": "https://github.com/jbsalles/Selmem",
+      "publishedAt": "2026-09-25T05:28:08.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "135e0576bc3e9c4f6bae5e45fc56ffd2922c3df9",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Tracking Singularity – A Curated Log of Important Events in AI Since Mid 2026",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://trackingsingularity.com",
+      "publishedAt": "2026-09-25T05:09:30.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "01eeda264ae9420746a44382ec12a9edcc0ffc92",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Stanford used AI to replace Hispanic student with Black woman in photo",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.msn.com/en-ca/money/general/stanford-used-ai-to-replace-hispanic-student-with-black-woman-in-photo/ar-AA2cVAhf",
+      "publishedAt": "2026-09-25T05:01:15.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "c27e736f539dbb195467cb98857825b8a69d77b9",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "zhTitle": null,
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "zhSummary": null,
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "category": "融资"
+    },
+    {
+      "id": "43374d7669eb34fd91be12be978e5c43e896160f",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Krakatoa, an interactive 2.5D painting of the 1883 eruption",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://www.echohive.ai/experiments/krakatoa",
+      "publishedAt": "2026-09-25T04:51:44.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "0429ab7586cc71de7b56d396a56f74f7d8f333b6",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "Jev Based Code Review",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://github.com/egma-ai/jev-code-reviewer",
+      "publishedAt": "2026-09-25T04:49:23.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4a9b6527a414c4c00c89c15a0b9cc6e1c4cdf512",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "AI/ML Engineer",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdrsnW2CpvYDBRZnS91cL4nXgnvi1mwQSYqF6IhvGPImaLKYw/viewform",
+      "publishedAt": "2026-09-25T04:10:06.000Z",
+      "category": "其他"
+    },
+    {
+      "id": "4d868a9b85777dc26f04c969d36689a5510d498c",
+      "sourceId": "hn-ai",
+      "sourceName": "Hacker News AI",
+      "title": "We Built Safety into Muse",
+      "zhTitle": null,
+      "summary": "",
+      "zhSummary": null,
+      "url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+      "publishedAt": "2026-09-25T04:08:17.000Z",
+      "category": "其他"
+    },
     {
       "id": "cb472ae98af3000267dc0225d2f9a2dabd086edd",
       "sourceId": "hn-ai",
@@ -52,74 +448,14 @@
     },
     {
       "id": "96d5d8edd5a643f6c31a9463b0b05475f9029a1b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
+      "sourceId": "hn-llm",
+      "sourceName": "Hacker News LLM",
       "title": "Search and Recommender Engines AI",
       "zhTitle": null,
       "summary": "",
       "zhSummary": null,
       "url": "https://github.com/alopatenko/LLMSearchRecommender",
       "publishedAt": "2026-09-25T03:27:08.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "ebc11c23f244c872b05da759b8c09d7bde5c2abe",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Using AI to Contribute to Open Source",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.visidata.org/blog/2026/ai",
-      "publishedAt": "2026-09-25T03:24:59.000Z",
-      "category": "研究"
-    },
-    {
-      "id": "b4fc46fd41fa1f22134e114a0ab75e71334777ec",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Human Help to Survive AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://humanityark.cdtglobal.org",
-      "publishedAt": "2026-09-25T03:15:58.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "fcad2054f66123274c69794feb2bec64f7d9c2c4",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Appointing AIs to manage bitter political divisions",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://spakhm.com/projects/assembly.html",
-      "publishedAt": "2026-09-25T03:05:12.000Z",
-      "category": "产品"
-    },
-    {
-      "id": "5bb4a0a358946d32cc058eb0665f58f0a320fbc3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Evolving programming languages in the AI era",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "publishedAt": "2026-09-25T02:34:39.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "c03ff76a06d5927baa0ee713637b3e1d51de7efb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Am I too boring to need an AI Agent",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.garbageday.email/p/am-i-too-boring-to-need-an-ai-agent",
-      "publishedAt": "2026-09-25T02:23:21.000Z",
       "category": "其他"
     },
     {
@@ -132,18 +468,6 @@
       "zhSummary": null,
       "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
       "publishedAt": "2026-09-25T02:15:54.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f588c00430608429719f0e71c546ed1367e6bd6f",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
-      "publishedAt": "2026-09-25T02:04:44.000Z",
       "category": "其他"
     },
     {
@@ -171,30 +495,6 @@
       "category": "其他"
     },
     {
-      "id": "334adff1b450b9bad1f0f3c8a053b63ad138cd2e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "ESA and Mistral strengthen cooperation on AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
-      "publishedAt": "2026-09-25T02:03:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6f003ce9ba204197ebc3f34a4601047b9c9ca09e",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Study shows AI is as good as human tutoring for GRE learning gains",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://arxiv.org/abs/2609.28470",
-      "publishedAt": "2026-09-25T02:01:16.000Z",
-      "category": "研究"
-    },
-    {
       "id": "2375bded3e9f3e0ca067e4707ccaad314c746cfc",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -216,30 +516,6 @@
       "zhSummary": null,
       "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01016-0",
       "publishedAt": "2026-09-25T01:25:23.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "867fe7d5f9b7e5424ff1e69e96b5c8f42dac469c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
-      "publishedAt": "2026-09-25T01:21:30.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "0f94e4cc13e27494409a802ced553ef2b4eb5839",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Send GitLab an email, push to main",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.aikido.dev/blog/gitlab-email-push-to-main",
-      "publishedAt": "2026-09-25T01:12:25.000Z",
       "category": "其他"
     },
     {
@@ -267,78 +543,6 @@
       "category": "其他"
     },
     {
-      "id": "6647d7cbb2a9f0ae31222391caf1da6cccc22cc5",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "OpenAI attacked Australia's health system and doubled down. Time to act",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/open-ai-attacked-australias-health-system-and-then-doubled-down-on-its-negligence-the-time-for-wait-and-see-is-over",
-      "publishedAt": "2026-09-25T00:27:13.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "9814d86f7faa12ea8d3dfe28dd0b0c2928e4446c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Peter Thiel: The AI Crisis, Europe's Decline and the Battle for America [video]",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.youtube.com/watch?v=B7yl7fEHeKM",
-      "publishedAt": "2026-09-25T00:01:12.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "a7236b8708a333846ec155b38a30f0606d040fd3",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Positron Valued at $5B in New Funding as Demand for AI Chips Surges",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
-      "publishedAt": "2026-09-24T23:58:55.000Z",
-      "category": "融资"
-    },
-    {
-      "id": "9c8be4947ec00ddbda82dbeb4bbec31dbbe4cf10",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Show HN: Vons – Jev-inspired local decisions for AI agents, in the browser",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/inlevel9-com/Vons",
-      "publishedAt": "2026-09-24T23:48:09.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "7d3782216333c0b88e85f40c28b186753313e583",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "AI is deciding whether or not people receive medical care",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
-      "publishedAt": "2026-09-24T23:38:45.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "6c28072d9f2a727345ba2f705cc1c74b0f2455f0",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Rails and AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://rubyonrails.org/ai",
-      "publishedAt": "2026-09-24T23:38:18.000Z",
-      "category": "其他"
-    },
-    {
       "id": "e1c6ed6b6e43eebe1ca1a6251bf121f83582df8c",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -351,18 +555,6 @@
       "category": "其他"
     },
     {
-      "id": "fbc5e40f5476c80ef31fe3454514804754cd18bb",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Stats: 72% of respondents said they felt curious, happy or excited about AI",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html",
-      "publishedAt": "2026-09-24T23:28:25.000Z",
-      "category": "产品"
-    },
-    {
       "id": "aadbfe7acc7ea188accbb14f97b59ce35ee2105a",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -372,42 +564,6 @@
       "zhSummary": null,
       "url": "https://2tinteractive.com/blog/lfm2-5-vl-dspark-transforms",
       "publishedAt": "2026-09-24T23:21:00.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "076e489644247f79190ad2134d89d97b904a5b36",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Award-Winning French Author Accused of Using AI to Write Debut Novel",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167",
-      "publishedAt": "2026-09-24T23:02:53.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "585b392e284d21d97737c27fb4eec8e7db0af6ae",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Cal Newport: Here's What to Ask A.I. Leaders",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.nytimes.com/2026/09/24/opinion/congress-ai-sam-altman.html",
-      "publishedAt": "2026-09-24T23:00:56.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f709625c37d3fefaaefb7afcc3e281b8e1890c8b",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Building an Ultra-High Throughput AI-SQL Engine",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://fsdatalab.github.io/blog/introducing-quail",
-      "publishedAt": "2026-09-24T22:56:37.000Z",
       "category": "其他"
     },
     {
@@ -423,18 +579,6 @@
       "category": "其他"
     },
     {
-      "id": "0a51a0bd84cd03327f72a50aa29431240a68381c",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "publishedAt": "2026-09-24T22:52:06.000Z",
-      "category": "其他"
-    },
-    {
       "id": "40cba8ccb706f95c8c76271c8bdf9a06a5423584",
       "sourceId": "hn-llm",
       "sourceName": "Hacker News LLM",
@@ -444,30 +588,6 @@
       "zhSummary": null,
       "url": "https://tailstory-app.com/en/blog/model-observes-table-decides",
       "publishedAt": "2026-09-24T22:48:41.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "d885aec7e76d1262459cf486a564cd619a889eae",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Laya \"System 1\" Code Intelligence for AI Agents",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://github.com/leonardoventurini/scs",
-      "publishedAt": "2026-09-24T22:31:04.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "f3b13141955954b4d561234fa44295a6425838cf",
-      "sourceId": "hn-ai",
-      "sourceName": "Hacker News AI",
-      "title": "Which AI model is best for coding? A hands-on comparison",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://flaviocopes.com/ai-coding-models",
-      "publishedAt": "2026-09-24T22:12:50.000Z",
       "category": "其他"
     },
     {
@@ -603,30 +723,6 @@
       "category": "其他"
     },
     {
-      "id": "b28faeb337e665fe244195eb027967e5518114fe",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "publishedAt": "2026-09-24T19:14:27.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "fff4eb27e793586448606195dc26068949072081",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-      "publishedAt": "2026-09-24T19:09:23.000Z",
-      "category": "产品"
-    },
-    {
       "id": "1c18de282b50389e766913218a200fbfc1d1242d",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -637,30 +733,6 @@
       "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
       "publishedAt": "2026-09-24T19:00:42.000Z",
       "category": "其他"
-    },
-    {
-      "id": "e787ff725080758a569327bbc504fd6fb094d73a",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Watermarking in vLLM",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
-      "publishedAt": "2026-09-24T18:43:48.000Z",
-      "category": "其他"
-    },
-    {
-      "id": "eb12bbc8c7ae18ceedbc7ee8f5938a85cb1f2761",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Radix – Visual UI for agentic programming",
-      "zhTitle": null,
-      "summary": "Hey HN, I&#x27;m Jordan from Radix. Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you&#x27;re working on and get an interactive widget that persists locally on disk. I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end",
-      "zhSummary": null,
-      "url": "https://radix-os.com",
-      "publishedAt": "2026-09-24T18:35:20.000Z",
-      "category": "工具"
     },
     {
       "id": "204ef99e7e6434c62d4aeeb4e2ab6d1b828927a9",
@@ -819,18 +891,6 @@
       "category": "工具"
     },
     {
-      "id": "06687b8bdc6a004e9ab26de1b2c9733fc4dc8f22",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "If you don't have the factories, you lose the expertise",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://lemire.me/blog/2026/09/24/if-you-dont-have-the-factories-you-lose-the-expertise",
-      "publishedAt": "2026-09-24T17:52:00.000Z",
-      "category": "其他"
-    },
-    {
       "id": "15c6c30de4557d3a43ae5befc68409a23a5f8769",
       "sourceId": "arxiv-cs-ai",
       "sourceName": "arXiv cs.AI",
@@ -853,18 +913,6 @@
       "url": "https://arxiv.org/abs/2609.30226v1",
       "publishedAt": "2026-09-24T17:50:25.000Z",
       "category": "研究"
-    },
-    {
-      "id": "4febc85fffa6df137619a024005b4e57a87de2a2",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: MEF LLM Studio",
-      "zhTitle": null,
-      "summary": "",
-      "zhSummary": null,
-      "url": "https://www.mef-llm-studio.com/de",
-      "publishedAt": "2026-09-24T17:50:00.000Z",
-      "category": "其他"
     },
     {
       "id": "0ef6f30e81c8b6ce13bc0b59dbc91a0be07a2b5e",
@@ -1081,18 +1129,6 @@
       "url": "https://arxiv.org/abs/2609.30173v1",
       "publishedAt": "2026-09-24T17:25:06.000Z",
       "category": "研究"
-    },
-    {
-      "id": "185ddb0abcfc6b08da60c0e454dca6b9220f67e5",
-      "sourceId": "hn-llm",
-      "sourceName": "Hacker News LLM",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "zhTitle": null,
-      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F; ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard. We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep",
-      "zhSummary": null,
-      "url": "https://github.com/devdotfast/whiteboard",
-      "publishedAt": "2026-09-24T17:21:36.000Z",
-      "category": "产品"
     },
     {
       "id": "3bce4fb7ba2824459ad13f4862bfeb9fa36ce227",
@@ -1875,18 +1911,6 @@
       "category": "其他"
     },
     {
-      "id": "f744b3bc273e180bedca6f3434a1aecd9e5269a8",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "zhTitle": null,
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "zhSummary": null,
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
-      "publishedAt": "2026-09-23T19:31:28.000Z",
-      "category": "其他"
-    },
-    {
       "id": "a70f8ac64edfa547f2b1b0f634ede27f1f21d7d5",
       "sourceId": "huggingface-blog",
       "sourceName": "Hugging Face",
@@ -2646,7 +2670,7 @@
       "id": "d1749ba76a98e7a548545e88aab7e9020497049a",
       "sourceId": "openai-news",
       "sourceName": "OpenAI",
-      "title": "How V7 gives AI agents institutional memory",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "zhTitle": null,
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "zhSummary": null,
@@ -3577,30 +3601,6 @@
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "category": "研究"
-    },
-    {
-      "id": "9816f5beea82e2635d1f94302b285d6d02230b96",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "zhTitle": null,
-      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/1password",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "category": "工具"
-    },
-    {
-      "id": "e02ae19def6b6f7c4df88746637a074f37e339ba",
-      "sourceId": "openai-news",
-      "sourceName": "OpenAI",
-      "title": "Supporting independent journalism in Ukraine",
-      "zhTitle": null,
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "zhSummary": null,
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "category": "产品"
     }
   ]
 }
